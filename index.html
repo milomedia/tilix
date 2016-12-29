@@ -1,5 +1,9 @@
 ---
 ---
+{% capture intro-text %}{% include headline.md %}{% endcapture %}
+{% capture mission %}{% include mission.md %}{% endcapture %}
+{% capture mission-left %}{% include mission-left.md %}{% endcapture %}
+{% capture mission-right %}{% include mission-right.md %}{% endcapture %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -71,7 +75,6 @@
     <header>
         <div class="container">
             <div class="intro-text">
-		{% capture intro-text %}{% include headline.md %}{% endcapture %}
 		{{ intro-text | markdownify }}
             </div>
         </div>
@@ -121,35 +124,14 @@
         <div class="container">
 
            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">MISSION</h2>
-                    <h3 class="section-subheading text-muted">Reinventing Fire and Making Fossil Fuel Obsolete</h3>
-               </div>
+                <div class="col-lg-12 text-center">{{ mission-left | markdownify }}</div>
             </div>
                <div class="row">
-                    <div class="col-md-4">
-                    <p>TILIX. is rising to the challenge of making cheap, clean and cheerful energy. In other words, we are finding answers to the Energy Trilemma:</p>
-                    <ul>
-                        <li>Can we have energy that is secure and does not cost the earth?</li>
-                        <li>Are we creating and using energy in the most efficient way?</li>
-                        <li>Can "the system" be trusted to do the right thing, now and in the future?</li>
-                    </ul>
-                   <p>
-                       We know that the stone age ended before we ran out of stones. TILIX. is optimistic that our energy crisis will be solved before fossil fuels run out.</p>
+                   <div class="col-md-4">
+                   {{ mission-left | markdownify }}
                    </div>
-                   <div class="col-md-4"><img class="img-responsive" style="margin: auto" src="img/energy-trilemma.png">
-                   </div>   
-                    <div class="col-md-4">
-                    <p>
-                        TILIX. is in the business of transforming energy supply and demand. We are developing the ideas, innovation and technology that will solve global energy problems and create opportunities to make life better for everyone.
-                    </p>
-                    <p> 
-                        In our day to day work, we stand on the shoulders of giants from fields as diverse as computing, engineering, physics, manufacturing, military science, economics and psychology.
-                    </p>
-                    <p>
-                        Please <a class="typeform-share link" href="https://tilix.typeform.com/to/rccrEC" data-mode="2" target="_blank">reach out to us</a> if you share our passion, sense of urgency and constancy of purpose.
-                    </p>
-                </div>
+                   <div class="col-md-4"><img class="img-responsive" style="margin: auto" src="img/energy-trilemma.png"></div>
+                   <div class="col-md-4">{{ mission-right | markdownify }}</div>
             </div>
         </div>
     </section>
