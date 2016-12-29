@@ -1,2 +1,2 @@
-* INNOVATION IN ENERGY SUPPLY & DEMAND
-** Making Energy Cheap, Clean and Cheerful
+# Innovation in Energy Supply & Demand
+## Making Energy Cheap, Clean and Cheerful
