@@ -5,7 +5,9 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 {% if page.draft %}
-<div class="message">DRAFT - This blog post is <b>under construction</b>.</div>
+<div style="margin-bottom: 1rem; padding: 1rem; color: #717171; background-color: #f9f9f9;">
+  DRAFT - This blog post is <b>under construction</b>.
+</div>
 {% endif %}
 <div class="post">
   {{ content }}
