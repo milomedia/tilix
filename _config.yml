@@ -1,4 +1,7 @@
 name: Tilix
+title: Tilix
+description: Carpe Diem
+footer: Tilix - Innovation in Energy Supply & Demand
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 
