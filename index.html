@@ -4,6 +4,9 @@
 {% capture mission %}{% include mission.md %}{% endcapture %}
 {% capture mission-left %}{% include mission-left.md %}{% endcapture %}
 {% capture mission-right %}{% include mission-right.md %}{% endcapture %}
+{% capture about %}{% include about.md %}{% endcapture %}
+{% capture about-left %}{% include about-left.md %}{% endcapture %}
+{% capture about-right %}{% include about-right.md %}{% endcapture %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -141,29 +144,9 @@
     <section id="about">
         <div class="container">
            <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h2 class="section-heading">ABOUT</h2>
-                        <h3 class="section-subheading text-muted">An Evolving Eco-system of People, Processes and Technology</h3>
-               </div>
-                   <div class="col-md-6">
-                        <p>
-                            TILIX. is based in the South West of England and are striving to make a global impact.
-                       </p>
-                       <p>
-                           We are confident that the Energy Trilemma will be solved. We'd much prefer if it is sooner rather than later. So for us, the real challenge is getting there quickly, economically and with minimal waste.
-                       </p>
-                    </div>
-                    <div class="col-md-6">
-                        <p>
-                            We are inspired by agile software engineering and Toyota Business Practices. We believe that philosphies like these have a key role to play in making energy cheap, clean and cheerful.
-                        </p>
-                       <p>
-                           TILIX. was founded by <a href="https://uk.linkedin.com/in/drneilwilliams" target="_blank">Dr Neil Williams</a> and <a href="https://uk.linkedin.com/in/dtytler"  target="_blank">Dr Duncan Tytler</a>.
-                        </p>
-                        <p>
-                            Neil majors in energy supply and digital transformation. Duncan is an authority in the energy services market and demand side management.
-                        </p>
-                    </div>
+                    <div class="col-lg-12 text-center">{{ mission | markdownify }}</div>
+                   <div class="col-md-6">{{ about-left | markdownify }}</div>
+                    <div class="col-md-6">{{ about-right | markdownify }}</div>
             </div>
         </div>
     </section>
