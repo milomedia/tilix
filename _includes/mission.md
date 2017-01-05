@@ -1,3 +1,3 @@
-## MISSION
+# MISSION
 
-### Reinventing Fire and Making Fossil Fuel Obsolete
+## Reinventing Fire and Making Fossil Fuel Obsolete
