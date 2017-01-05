@@ -7,6 +7,10 @@
 {% capture about %}{% include about.md %}{% endcapture %}
 {% capture about-left %}{% include about-left.md %}{% endcapture %}
 {% capture about-right %}{% include about-right.md %}{% endcapture %}
+{% capture whatwedo %}{% include whatwedo.md %}{% endcapture %}
+{% capture whatwedo-1 %}{% include whatwedo-1.md %}{% endcapture %}
+{% capture whatwedo-2 %}{% include whatwedo-2.md %}{% endcapture %}
+{% capture whatwedo-3 %}{% include whatwedo-3.md %}{% endcapture %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -62,10 +66,11 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden"><a href="#page-top"></a></li>
-                    <li><a class="page-scroll" href="#whatwedo">Services</a></li>
-                    <li><a class="page-scroll" href="#goals">Mission</a></li>
-                    <li><a class="page-scroll" href="blog.html">Blog</a></li>
+                    <li><a class="page-scroll" href="#whatwedo">Clients</a></li>
 		    <li><a class="page-scroll" href="#about">About</a></li>
+                    <li><a class="page-scroll" href="#goals">Mission</a></li>
+		    <li><a href="services.html">Services</a></li>
+                    <li><a href="blog.html">Blog</a></li>
                     <li><a class="page-scroll" href="#contact">Contact</a></li>
                 </ul>
             </div>
@@ -83,37 +88,29 @@
         </div>
     </header>
     
-        <!-- Services Section -->
+        <!-- Clients Section -->
     <section id="whatwedo">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">SERVICES</h2>
-                    <h3 class="section-subheading text-muted">Consulting, Technology and Transformation<br>for Organisations of All Shapes and Sizes</h3>
-                </div>
+                <div class="col-lg-12 text-center">{{ whatwedo | markdownify }}</div>
             </div>
             <div class="row text-center">
                 <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                       <img src="img/energyefficiency-icon.png" class="img-responsive tilix-icon" alt=""> 
-                    </span>
-                    <h4 class="service-heading">ENERGY SERVICES</h4>
-                    <p class="text-muted"> TILIX. applies systems thinking to improve energy efficiency in industry, transport and the built environment. We offer solutions around energy audits, procurement, storage, demand response, smart buildings, connected living and electric vehicle infrastructure.</p>
-                    <a href="#portfolioModal2" class="portfolio-link btn btn-sml" data-toggle="modal">Learn More</a>
+			<span class="fa-stack fa-4x">
+				<img src="img/energyefficiency-icon.png" class="img-responsive tilix-icon" alt="">
+			</span>
+			{{ whatwedo-1 | markdownify }}
                 </div>
                 <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <img src="img/new-entrants-icon.png" class="img-responsive tilix-icon" alt="">                     </span>
-                    <h4 class="service-heading">NEW ENTRANTS</h4>
-                    <p class="text-muted">New players in the energy market often have stringent technology and regulatory requirements to meet. TILIX. helps with tailored solutions that span planning, deployment, operations and business optimisation.</p>
-                    <a href="#portfolioModal3" class="portfolio-link btn btn-sml" data-toggle="modal">Learn More</a>
+			<span class="fa-stack fa-4x">
+				<img src="img/new-entrants-icon.png" class="img-responsive tilix-icon" alt="">
+			</span>
+			{{ whatwedo-2 | markdownify }}	
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <img src="img/fractionalcio-icon.png" class="img-responsive tilix-icon" alt=""></span>
-                    <h4 class="service-heading">FRACTIONAL CIO/CTO</h4>
-                    <p class="text-muted">TILIX. provides technical direction for organisations who are grappling energy problems and opportunities. As well as driving commercial transformation, TILIX. can help improve products, services, processes and corporate governance.</p>
-                    <a href="#portfolioModal1" class="portfolio-link btn btn-sml" data-toggle="modal">Learn More</a>
+                    {{ whatwedo-3 | markdownify }}
                 </div>
             </div>
         </div>
@@ -210,144 +207,6 @@
             </div>
         </div>
     </footer>
-  
-    <!-- Portfolio Modals -->
-    
-    <!-- Portfolio Modal 1 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Playbook Details Go Here -->
-                            <h2>FRACTIONAL CIO/CTO</h2>
-                            <p class="item-intro text-muted">Cost Effective Technical Direction</p>
-                            <span class="fa-stack fa-5x">
-                       <img src="img/fractionalcio-icon.png" class="img-responsive tilix-icon" alt=""> 
-                    </span>
-                            <div class="clearfix"><br></div>
-                            <div class="col-md-6">
-                            <p>
-                                TILIX. provides strategic advice, tactical interventions and operational support that helps get the most from IT investments and IT outsourcing.</p>
-                            <p>
-                                Our expertise in IT ranges from systems of record, through systems of engagement to systems of intelligence.</p>
-                            <p>
-                                <a class="typeform-share link" href="https://tilix.typeform.com/to/rccrEC" data-mode="2" target="_blank">Contact TILIX.</a> for a confidential and impartial conversation about your IT and how our Fractional CIO service can help.</p>
-                            </div>
-                            <div class="col-md-6">
-                            <p>
-                                The Fractional CTO service from TILIX. is designed to support organisations whose market performance includes energy products and services.</p>
-                            <p>
-                                We can bring industry leading expertise in electronics and software to help tackle your challenges in technology development, production, testing, certification, product launch and operations.</p>
-                                <p>
-                                    Don't hesitate to <a class="typeform-share link" href="https://tilix.typeform.com/to/rccrEC" data-mode="2" target="_blank">get in touch</a> to discover more about how TILIX. can help you in start up, accelerated growth or turnaround situations.</p>    
-                            </div>
-                              <a href="https://www.linkedin.com/company/tilix-fractional-cio" target="_blank" class=" btn btn-sml lkdin"> Join the Conversation @ <img src="img/linkedin-logo.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Portfolio Modal 2 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Playbook Details Go Here -->
-                            <h2>ENERGY SERVICES</h2>
-                            <p class="item-intro text-muted">Saving Gigabucks with Negawatts</p>
-                            <span class="fa-stack fa-5x">
-                       <img src="img/energyefficiency-icon.png" class="img-responsive tilix-icon" alt=""> 
-                    </span>
-                            <div class="clearfix"><br></div>
-                            <div class="col-md-6">
-                            <p>
-                                We believe that most utility customers don’t want kilowatt-hours of electricity or therms of gas.</p>
-                            <p>
-                                Rather they want energy services such as hot showers, cold beer, lit rooms, and spinning shafts, which can become cheaper and more effective if energy is used intelligently.
-                            </p>
-                            <p>
-                                <a class="typeform-share link" href="https://tilix.typeform.com/to/rccrEC" data-mode="2" target="_blank">Please reach out to TILIX.</a> if you would like to see energy behaviours changed for good in your organisation.
-                            </p>
-                            </div>
-                            <div class="col-md-6">
-                            <p>
-                                TILIX. provides energy management expertise to clients nationally and internationally to help reduce bills, optimise local generation and leverage energy storage.
-                            </p>
-                            <p>
-                                At Commercial and Industrial scale, TILIX. demand side management (DSM) can help create revenue streams from grid balancing incentives.
-                            </p>
-                            <p>
-                                For organisations of any size, TILIX. can imporve the bottom line with services including audits, brokerage, smart building design and electric vehicle fleet management.
-                            </p>
-                            </div>
-                            <a href="https://www.linkedin.com/company/tilix-energy-efficiency" target="_blank" class=" btn btn-sml lkdin">Join the Conversation @ <img src="img/linkedin-logo.png" alt=""> </a>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-<!-- Portfolio Modal 3 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Playbook Details Go Here -->
-                            <h2>NEW ENTRANTS</h2>
-                            <p class="item-intro text-muted">Challenging the Big 6</p>
-                            <span class="fa-stack fa-5x">
-                       <img src="img/new-entrants-icon.png" class="img-responsive tilix-icon" alt=""> 
-                    </span>
-                            <div class="clearfix"><br></div>
-                            <div class="col-md-6">
-                            <p>There is an increasing number of new entrants in the GB energy supply market. Some of the key drivers behind this are:</p>
-                            <ul style="text-align: left">
-                                <li>Growing dissatisfaction with the Big 6.</li>
-                                <li>Good success stories from challengers.</li>
-                                <li>Policy interventions to promote competition.</li>
-                                <li>Renewables reducing barriers to entry in generation.</li>
-                                <li>Smart tech enabling disruptive business models.</li>
-                            </ul>
-                            </div>
-                            <div class="col-md-6">
-                            <p>However, the energy supply business remains highly technical and subject to sophisticated regulation. Therefore, prudent new entrants seek expert advice at an early stage.</p>
-                            <p><a class="typeform-share link" href="https://tilix.typeform.com/to/rccrEC" data-mode="2" target="_blank">Contact us</a> if you'd like to find out more about our experiences working with challenger energy suppliers including <a href="https://www.ovoenergy.com" target="_blank">Ovo Energy</a>, <a href="http://www.goodenergy.co.uk" target="_blank">Good Energy</a> and <a href="https://www.our-power.co.uk" target="_blank">Our Power</a></p>
-                            </div>
-                            <a href="https://www.linkedin.com/company/tilix-new-entrants"  target="_blank" class=" btn btn-sml lkdin">Join the Conversation @ <img src="img/linkedin-logo.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
