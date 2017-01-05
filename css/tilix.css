@@ -230,14 +230,14 @@ header .intro-text{
 	padding-top:100px;
 	padding-bottom:50px
 }
-header .intro-text h2 .intro-lead-in{
+header .intro-text h2 {
 	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-style:italic;
 	font-size:22px;
 	line-height:22px;
 	margin-bottom:25px
 }
-header .intro-text h1 .intro-heading{
+header .intro-text h1 {
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
