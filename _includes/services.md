@@ -34,7 +34,7 @@ There is an increasing number of new entrants in the GB energy supply market. So
 
 However, the energy supply business remains highly technical and subject to sophisticated regulation. Therefore, prudent new entrants seek expert advice at an early stage.
 
-[Contact us][1] if you'd like to find out more about our experiences working with challenger energy suppliers including [Ovo Energy][3], [Good Energy][4] and [Our Power][5]
+[Contact us](/#contact) if you'd like to find out more about our experiences working with challenger energy suppliers including [Ovo Energy][1], [Good Energy][2] and [Our Power][3]
 
 ## FRACTIONAL CIO/CTO
 TILIX. provides technical direction for organisations who are grappling energy problems and opportunities. As well as driving commercial transformation, TILIX. can help improve products, services, processes and corporate governance.
@@ -44,10 +44,14 @@ TILIX. provides strategic advice, tactical interventions and operational support
 
 Our expertise in IT ranges from systems of record, through systems of engagement to systems of intelligence.
 
-[Contact TILIX.][1] for a confidential and impartial conversation about your IT and how our Fractional CIO service can help.
+[Contact TILIX.](/#contact) for a confidential and impartial conversation about your IT and how our Fractional CIO service can help.
 
 The Fractional CTO service from TILIX. is designed to support organisations whose market performance includes energy products and services.
 
 We can bring industry leading expertise in electronics and software to help tackle your challenges in technology development, production, testing, certification, product launch and operations.
 
-Don't hesitate to [get in touch][14] to discover more about how TILIX. can help you in start up, accelerated growth or turnaround situations.
+Don't hesitate to [get in touch](/#contact) to discover more about how TILIX. can help you in start up, accelerated growth or turnaround situations.
+
+[1]: www.ovoenergy.com
+[2]: www.goodenergy.co.uk
+[3]: www.ourpower.co.uk
