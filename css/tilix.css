@@ -226,18 +226,18 @@ header{
 	text-align:center;
 	color:#fff
 }
-header .intro-text{
+header h1 .intro-text{
 	padding-top:100px;
 	padding-bottom:50px
 }
-header .intro-text .intro-lead-in{
+header h1 h2 .intro-text .intro-lead-in{
 	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-style:italic;
 	font-size:22px;
 	line-height:22px;
 	margin-bottom:25px
 }
-header .intro-text .intro-heading{
+header h2 .intro-text .intro-heading{
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
@@ -267,11 +267,11 @@ header .intro-text .intro-heading{
 section{
 	padding:100px 0
 }
-section h2.section-heading{
+section h1{
 	font-size:40px;
 	margin-top:0;margin-bottom:15px}
 
-section h3.section-subheading{
+section h2{
 	font-size:22px;
 	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:none;
