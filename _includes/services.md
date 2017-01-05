@@ -13,7 +13,7 @@ We believe that most utility customers don’t want kilowatt-hours of electricit
 
 Rather they want energy services such as hot showers, cold beer, lit rooms, and spinning shafts, which can become cheaper and more effective if energy is used intelligently. 
 
-[Please reach out to TILIX.][1] if you would like to see energy behaviours changed for good in your organisation. 
+[Please reach out to TILIX.](/#contact) if you would like to see energy behaviours changed for good in your organisation. 
 
 TILIX. provides energy management expertise to clients nationally and internationally to help reduce bills, optimise local generation and leverage energy storage. 
 
