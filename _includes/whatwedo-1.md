@@ -4,3 +4,4 @@ __Start Outs__
 * Become Energy
 * Uniti
 * OneSelect
+* Tailored Motor
