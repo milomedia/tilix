@@ -4,7 +4,6 @@ title: "HELL YES! I can still write code"
 date: 2017-1-12
 draft: false
 ---
-# HELL YES! I can still write code
 Today a friend asked me for help with some SQL. Its not my strongest language so I enjoy getting opportunities to increase my knowledge and experience.
 
 ACME Energy Co has a number of customers that are disconnecting and reconnecting their prepayment services on a revolving basis.
@@ -49,14 +48,16 @@ id | day | movement
 
 
 ## The Requirement
-ACME Energy Co wants for each customer:
+**Can you write an SQL query to convert the input data (above) into the format in the table below?**
+
+The rationale is that ACME Energy Co wants for each customer:
 
 - the average time spent between each disconnection and reconnection
 - the total number of disconnections
 - the number of disconnections and reconnections on the same day
 - max number of days spent for each customer to reconnect
 
-To achieve this, ACME Energy Co would like the data to be presented as shown in the table below.
+Having the derived data in the table below is a big step towards achieving the result.
 
 id | KPI
 |:--|:--|:--|
@@ -75,8 +76,6 @@ id | KPI
 4 | 18
 5 | 299
 5 | 95
-
-**Can you write an SQL query to convert the data into the desired format?**
 
 # The Code
 Loading the input data into SQLite was the starting point. Then some good old fashioned _interactive programming_ in DB Browser for SQLite. 
