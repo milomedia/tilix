@@ -2,7 +2,7 @@
 layout: post
 title: "HELL YES! I can still write code"
 date: 2017-1-12
-draft: true
+draft: false
 ---
 # HELL YES! I can still write code
 Today a friend asked me for help with some SQL. Its not my strongest language so I enjoy getting opportunities to increase my knowledge and experience.
