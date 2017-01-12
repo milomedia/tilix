@@ -12,7 +12,6 @@ ACME Energy Co has a number of customers that are disconnecting and reconnecting
 ## The Data
 In the input data (see table below) shows line entries for connecting disconnecting and reconnecting on the same or different days (-1 movement is for disconnection and 1 movement is for reconnection).
 
-### The Input
 id | day | movement
 |:--|:--|:--|
 1 | 7834 | -1
@@ -82,13 +81,15 @@ id | KPI
 # The Code
 Loading the input data into SQLite was the starting point. Then some good old fashioned _interactive programming_ in DB Browser for SQLite. 
 
-	SELECT t1.id,  t1.day AS day1, MIN(t2.day) AS day2, t2.day  - t1.day as KPI
-	FROM input t1, input t2
-	WHERE t1.day <= t2.day
-	AND t1.id = t2.id
-	AND t1.movement = -1
-	AND t2.movement = 1
-	GROUP BY t1.id, t1.day
-	ORDER BY t1.id ASC
+{% highlight sql %}
+SELECT t1.id,  t1.day AS day1, MIN(t2.day) AS day2, t2.day  - t1.day as KPI
+FROM input t1, input t2
+WHERE t1.day <= t2.day
+AND t1.id = t2.id
+AND t1.movement = -1
+AND t2.movement = 1
+GROUP BY t1.id, t1.day
+ORDER BY t1.id ASC
+{% endhighlight %}
 
 FYI it was Stack Overflow which provided the initial inspiration for my solution: [Create a SQLite view where a row depends on the previous row](http://stackoverflow.com/questions/10003313/create-a-sqlite-view-where-a-row-depends-on-the-previous-row#10024388).
