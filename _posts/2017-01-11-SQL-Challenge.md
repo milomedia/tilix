@@ -81,12 +81,15 @@ id | KPI
 Loading the input data into SQLite was the starting point. Then some good old fashioned _interactive programming_ in DB Browser for SQLite. 
 
 {% highlight sql %}
-SELECT t1.id, t2.day - t1.day as KPI
+SELECT t1.id 
+	,t1.day AS day1
+	,MIN(t2.day) AS day2 
+	,t2.day - t1.day as KPI
 FROM input t1, input t2
 WHERE t1.day <= t2.day
-AND t1.id = t2.id
-AND t1.movement = -1
-AND t2.movement = 1
+	AND t1.id = t2.id
+	AND t1.movement = -1
+	AND t2.movement = 1
 GROUP BY t1.id, t1.day
 ORDER BY t1.id ASC
 {% endhighlight %}
