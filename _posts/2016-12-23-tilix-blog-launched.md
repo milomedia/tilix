@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Tilix Launches Blog"
+title: "Making a website that’s more than a glorified business card"
 date: 2016-12-23
 draft: true
 ---
-
-# Making a website that's more than a glorified business card
 During the Xmas holidays in 2016 I was inspired by "Inbound & Content Marketing Made Easy" by [Marcus Sheridan][1]. I found common sense in what the [The Sales Lion's][2] had to say and was pleased that it fitted with my many years experience of developing websites. 
 
 To be blunt, www.tilix.uk was just a glorified business card. Granted, this was deliberate decision and I knew that one day it it would have to be transformed. Putting Marcus's wisdom into practice the following plan emerged:
