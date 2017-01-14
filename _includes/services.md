@@ -1,27 +1,25 @@
 # SERVICES
-__IT solution expertise for suppliers, generators, energy networks, regulators, energy managers & clean-tech__
+Tilix delivers innovation and technology expertise across the whole energy value chain. Our clients include suppliers, generators, energy networks, regulators, energy managers & clean-tech firms. We can help in start up, accelerated growth or turnaround situations. We offer a mix of packaged services as well as fully bespoke consulting, projects and staff augmentation.
 
-* Energy Services
-* New Entrants
-* Fraction CIO/CTO
+Bespoke engagements include .....cutting edge ...unique requirements.....blah....blah
 
-## ENERGY SERVICES
-TILIX. applies systems thinking to improve energy efficiency in industry, transport and the built environment. We offer solutions around energy audits, procurement, storage, demand response, smart buildings, connected living and electric vehicle infrastructure.
+Our menu of packaged services includes:
 
-### Saving Gigabucks with Negawatts_
-We believe that most utility customers don’t want kilowatt-hours of electricity or therms of gas.
+ - Digital Transformation for small and medium organisations
+ - New Entrant Success Pack for the GB Energy Industry
+ - Part-time IT Director for 20-100 seat organisations
+ - Part-time CTO for clean-tech SMEs
+ - Business Angel for Start Outs
+ 
+ These services are outlined below.
 
-Rather they want energy services such as hot showers, cold beer, lit rooms, and spinning shafts, which can become cheaper and more effective if energy is used intelligently. 
+## Digital Transformation
 
-[Please reach out to TILIX.](/#contact) if you would like to see energy behaviours changed for good in your organisation. 
+## Consulting, Projects & Staff Augmentation
 
-TILIX. provides energy management expertise to clients nationally and internationally to help reduce bills, optimise local generation and leverage energy storage. 
+## Business Angel
 
-At Commercial and Industrial scale, TILIX. demand side management (DSM) can help create revenue streams from grid balancing incentives. 
-
-For organisations of any size, TILIX. can imporve the bottom line with services including audits, brokerage, smart building design and electric vehicle fleet management.
-
-## NEW ENTRANTS
+## New Entrants
 New players in the energy market often have stringent technology and regulatory requirements to meet. TILIX. helps with tailored solutions that span planning, deployment, operations and business optimisation.
 ### Challenging the Big 6
 There is an increasing number of new entrants in the GB energy supply market. Some of the key drivers behind this are:
@@ -36,7 +34,7 @@ However, the energy supply business remains highly technical and subject to soph
 
 [Contact us](/#contact) if you'd like to find out more about our experiences working with challenger energy suppliers including [Ovo Energy][1], [Good Energy][2] and [Our Power][3]
 
-## FRACTIONAL CIO/CTO
+## Fractional CIO
 TILIX. provides technical direction for organisations who are grappling energy problems and opportunities. As well as driving commercial transformation, TILIX. can help improve products, services, processes and corporate governance.
 
 ### Cost Effective Technical Direction
@@ -50,7 +48,7 @@ The Fractional CTO service from TILIX. is designed to support organisations whos
 
 We can bring industry leading expertise in electronics and software to help tackle your challenges in technology development, production, testing, certification, product launch and operations.
 
-Don't hesitate to [get in touch](/#contact) to discover more about how TILIX. can help you in start up, accelerated growth or turnaround situations.
+## Fractional CTO
 
 [1]: www.ovoenergy.com
 [2]: www.goodenergy.co.uk
