@@ -1,8 +1,11 @@
+---
+layout: post
+title: "Annual Retrospective & Planning 2017"
+date: 2017-01-15
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:    
-
-# Annual Retrospective & Planning 2017
+---
 I enjoyed [Becoming the Best Version of You][1] from the Tim Ferris Show. It was a special episode comprising a live conversation with not one, not two, but three guests: Josh Waitzkin, Ramit Sethi, and Adam Robinson.
 
 Pretending to be one of Tim's guests put a twist on my annual retrospective and planning. Here is at the imaginary Q&A I'd have with Tim to help kick off 2017. 
