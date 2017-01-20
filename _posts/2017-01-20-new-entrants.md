@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Entering the GB Energy Supply Market"
+title: "Entering the Energy Supply Market in Great Britain"
 date: 2017-01-20
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:    
 ---
-This post sketches out an _arc of execution_ model for new entrants into the GB Energy Supply Market. 
+This post sketches out an _arc of execution_ model for new entrants into the Energy Supply Market in Great Britain. 
 
 It is an enterprise architect’s viewpoint that puts the first few years of supplying electricity and gas into perspective. This should interest those who are business planning and/or implementing systems. It assumes familiarity with the energy market, so does not include definition of terms.
 
