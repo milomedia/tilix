@@ -768,6 +768,14 @@ section#contact  h3.section-subheading.text-muted {
 	vertical-align: bottom;
 }
 
+
+@media (max-width: 1000px) {
+  .navbar-default .nav li a {
+     font-size: 12px;
+	}
+}
+
+
 @media (max-width: 360px) {
   header .intro-text .intro-heading {
      font-size: 30px;
