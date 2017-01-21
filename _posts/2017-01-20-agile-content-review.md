@@ -10,87 +10,91 @@ Tilix works hard to stay on top of a large and ever increasing body of knowledge
 
 Transforming the whole energy system requires huge amounts of creative re-thinking. Engaging with a wide range of content from many different stakeholders is an important part of the mix.
 
-Our knowledge management approach works on two horizons:
+The Tilix approach to knowledge management works on two horizons:
 
 1. On an ongoing basis we have well established routines for staying inspired through our life-long learning study plans. This is very much in tune with this [Accidental Creative Podcast][7]
 2. For short bursts of focussed activity, we have developed an approach with techniques borrowed from agile software engineering.
 
-This post outlines the latter by describing how Tilix applies iterations, story points, burndown etc to review a body of content. This approach could apply to a single piece e.g. a blog or whitepaper. However, it better suited for larger batches of content.
+This post outlines the second horizon and describes how Tilix iterations, story points, burndown etc to support structured content reviews. This approach best suited for batches of content but can apply to a single piece e.g. a blog or whitepaper.
 
-## Mission
-The mission is to avoid drowning or burying our heads in the sand. Put another way, the goal is to systematically drink water from the proverbial fire hydrant [Mitch Kapoor]. 
+## Goal
+Content is a source of inspiration and information. Engaging appropriately with it helps us get things done and create value for our selves, our customers and society. Borrowing a metaphor from Mitch Kapoor, the objective is to:
 
-We do this to get inspiration and information from business, academia, research and government. Inspiration and information are vital ingredients for getting things done ....[David Allen]
+>quickly, efficiently and effectively drink water from the fire hydrant that is the body of knowledge from business, academia, research and government. 
 
 ## Guiding Principles
-Through publications and social networking, Tilix accesses a vast array of reports, analytics, modelling and likeminded people. To avoid drowning we have developed our people, processes and technologies to work together as outlined in this post.
+Through events and social networks we connect with likeminded people and are inspired by their ideas, opinions and points of view. The Internet gives us easy access to a vast array of reports, analytics and modelling. 
 
-Some of the advantages of this socio-technical approach are that we can maintain perspective and control. The key benefit is that the processes and technologies, rather than constraining us, provides freedom to learn and gain new insights.
+To avoid drowning we have evolved our people, processes and technologies as outlined in this post. This socio-technical approach gives us perspective and control. Rather than constraining us, the processes and technologies provides freedom to learn and gain new insights.
 
-Our interests span a broad range of topics that are playing key roles in the emerging future of energy. We has a keen eye for business ideas from entrepreneurs and start-ups. In doing so we leverage our broad appreciation of the global energy economy and our deep understanding of the technologies, networks and institutions which enable energy services to be delivered to families, small businesses, commercial premises and industry.
+Our principle interest is the emerging future of energy. First we take a broad view of the global energy economy. Then we take deeper looks at the technologies, networks and institutions which deliver energy services.
 
-Our default position is to look on the content from the viewpoint of a shrewd investor. Tilix’s shrewd investor viewpoint is built upon a body of knowledge within the technology and venture capitalist communities. In particular we are finding that the methods of Geoffrey Moore – the well-known Silicon Valley VC – can be readily applied to the transformation of the whole energy system.
+Building on ideas from the technology and venture capitalist communities, our viewpoint is somewhat like a shrewd investor. Our favourite guru is Geoffrey Moore, the well-known Silicon Valley venture capitalist.
 
 ![Geoffrey Moore][1]
 
-In addition to knowledge management and investing, Tilix embraces the following mantras:
+Having an open mind and open heart is critical. Therefore, Tilix embraces [Theory U][0] and has the following mantras at the core of its approach to reviewing content:
 
-1.	__Holding the space:__ listen to your higher self, listen to others and make sure that there is space where people can talk.
-2.	__Observing:__ keep your mind wide open and get rid of your voice of judgment.
-3.	__Sensing:__ Connecting our hearts and looking for interconnected wholes.
-4.	__Presencing:__ Acting from the emerging whole.
-5.	__Crystallizing:__ Accessing the power of intention 
-6.	__Prototyping:__ act lean and fail fast
-7.	__Performing:__ Understanding how to scale from prototypes to fully deployed and optimised solutions
+- __Hold the Space:__ Listen to your higher self and make room in your heart for other people's ideas and opinions.
+- __Observe:__ Keep your mind wide open. Do not listen to your voice of judgment.
+- __Sense:__ Look for interconnected wholes.
+- __Presence:__ Act from the emerging whole.
+- __Crystallize:__ Access the power of intention as the 
+- __Prototype:__ Take notes as you consume the content or have time to reflect on it.
+- __Perform:__ Synthesise new content from what you've learnt.
 
 ## Approach
-Our knowledge management processes and technology comprises techniques and toolchains from Lean Startup, social media and digital communications. Together these have helped Tilix to identify and engage with progressive thinking and doing within the global energy system.
+Tilix leverages techniques and toolchains from Lean Startup, social media and digital communications. Used together in a highly cohesive system, these help Tilix to identify and engage with progressive thinking and doing within the global energy system.
 
 ![Techniques & Toolchain][2]
 
-When faced with a large body of content to work through in a short period of time, we first reflect on
+++ **SAFe** || **Scrum** || **Open UP** || **GTD** || **Theory U**
 
-* **Why?**
-* **What?**
-* **Brainstorming**
-* **Mind Mapping & Kanban**
-* **Actions**
+When faced with a large body of content to work through in a short period of time, the first action is to quickly run through our standard approach to planning: 
 
-From there we can assess how close our knowledge management system fits around the requirement. Having identified the gaps, we can tune to the specific requirements of the _knowledge owner_. 
+1. **Ask Why?**: Laying out a goal for the content review is a common sense place to start.
+2. **Identify What?**: Starting with the end in mind, picture the best possible outcome of the work.
+3. **Think About How**: Brainstorm and collect ideas. This could be an internal process for small jobs, but most times *mind mappping* is a useful technique
+4. **Organise Everything**: Layout the different components of the project and think about sequencing and priorities.
+5. **Agree Next Actions**: Get concurrence on the specific tasks needed to get started.
+
+Most times, our goal here is to get the team to agree their next action. From there, we can assess how close our knowledge management system fits around the requirement. Having identified the gaps, we can tune to the specific requirements of the _knowledge owner_. 
+
+Typically, the review project will look similar to the Portfolio Kanban from Scaled Agile Framework:
+
+![](http://2.bp.blogspot.com/-lReLajr3tBc/URg7-Kj3ysI/AAAAAAAAABo/jTTaVb0kIoU/s1600/portfolio+kanban.png)
 
 Regular discussion between the _knowledge owner_ and the research team is encouraged. Slack is better than email, conversations are often better than writing and face to face meetings are important.
 
-In the mind map, content does not need a business case or estimates. Typically all that is needed is a title, short description and a URL. Since the investment of effort on items in this queue is minor, the queue is not WIP-limited. All ideas are captured for consideration. Content is promoted into the Kanban on a periodic basis.
+In getting started it is important to remember that content does not need a business case or estimates to enter the backlog. Typically all that is needed is a title, short description and a URL. Since the investment of effort on items in this queue is minor, the queue is not WIP-limited. All ideas are captured for consideration. Content is promoted into the Kanban on a periodic basis.
 
-Building on the principles from agile software development, the team sizes the work using planning poker and report progress using burn-down charts.
+The table below shows the story points for a small body of knowledge on the topic of homepage design.
 
-For example, the table below shows the story points for a small body of knowledge on the topic of homepage design.
-
-| Content |Size  |Complexity  |Value  |
+| Content |Size  |Weight|Value  |
 |:--|:--|:--|:--|
 | **Jacob Nielsen** |  |  |  |
-|[113 Design Guidelines for Homepage Usability][102] |  |  |  |
-|[Top 10 Guidelines for Homepage Usability][103]|  |  |  |
-|[B2B Usability][104]|  |  |  |
-|[Homepage Design Changes][105]|  |  |  |
+|[113 Design Guidelines for Homepage Usability][102] | 40 | 13 | 13 |
+|[Top 10 Guidelines for Homepage Usability][103]| 5 | 13 | 13 |
+|[B2B Usability][104]| 8 | 13 | 13 |
+|[Homepage Design Changes][105]| 5 | 13 | 20 |
 |  **Copyblogger**|  |  |  |
-|[Does Your Homepage Suck?][106]|  |  |  |
-|[How to Write a High-Converting ‘Start Here’ Page][107]|  |  |  |
-|[How to Roll Out the Red Carpet on Your Home Page][108]|  |  |  |
+|[Does Your Homepage Suck?][106]| 1 | 1 | 1 |
+|[How to Write a High-Converting ‘Start Here’ Page][107]| 8 | 5 | 13 |
+|[How to Roll Out the Red Carpet on Your Home Page][108]| 1 | 1 | 1 |
 |  **Hubspot**|  |  |  |
-|[12 Critical Elements Every Website Homepage Must Have][109]|  |  |  |
-|[16 of the Best Website Homepage Design Examples][110]|  |  |  |
-|[The Ultimate Workbook for Redesigning Your Website][111]|  |  |  |
+|[12 Critical Elements Every Website Homepage Must Have][109]| 8 | 3 | 13 |
+|[16 of the Best Website Homepage Design Examples][110]| 13 | 3 | 13 |
+|[The Ultimate Workbook for Redesigning Your Website][111]| 0.5 | 1 | 1 |
 |  **ConversionXL**|  |  |  |
-|[How to Design a Home Page That Converts][112]|  |  |  |
-|[How Much Copy to Write on Your Home Page?][113]|  |  |  |
-|[4 Cases Where Short Home Pages Outperformed Long Home Pages][114]|  |  |  |
+|[How to Design a Home Page That Converts][112]| 13 | 5 | 13 |
+|[How Much Copy to Write on Your Home Page?][113]| 13 | 5 | 13 |
+|[4 Cases Where Short Home Pages Outperformed Long Home Pages][114]| 5 | 3 | 13 |
 |  **Etc**|  |  |  |
-|[6 Elements of Outstanding Homepage Design - Social Media][115]|  |  |  |
-|[Home Page Design :: UXmatters][116]|  |  |  |
-|[10 Crucial Elements Every Online Service Homepage Should Have][117]|  |  |  |
+|[6 Elements of Outstanding Homepage Design - Social Media][115]| 8 | 3 | 13 |
+|[Home Page Design :: UXmatters][116]| 13 | 13 | 13 |
+|[10 Crucial Elements Every Online Service Homepage Should Have][117]| 5 | 3 | 8 |
 
-Team concurrence on story points is achieved using planning poker. Each piece of content is scored for size, complexity and perceived value.
+Team concurrence on story points is achieved using planning poker. Each piece of content is scored for size, weight (i.e. complexity) and perceived value.
 
 This is the capture state, where all options are welcome. Once content has been sized it enters "the funnel" (state 0) to be progressed through the following states.
 
@@ -99,9 +103,7 @@ This is the capture state, where all options are welcome. Once content has been 
 3. **Synthesis** - After analysis content is ready to be pulled by the _knowledge owner_ into her new content e.g. meta-analysis, slide deck, report, blog.
 4. **Done** – Content can transition from each of the earlier states to done if certain criteria are met. from the funnel to synthesis.
 
-To progress from one stage to the next, some standard work needs to be done. 
-
-Content that reaches the quick look queue warrants further investment of time. In this queue, an estimate of value is established. Time investment is controlled to the "water cooler" discussion level, with perhaps some very preliminary investigation. The content is described as per the tables below. Since the investment is increasing, this queue is WIP-limited to curtail the number of active items in process. Sources of business benefit are identified and items are prioritised. The example output from a quick look at a blog page:
+Content that reaches the quick look queue warrants further investment of time. In this queue, an estimate of value is established. Time investment is controlled to the "water cooler" discussion level, with perhaps some very preliminary investigation. Content can be described as per the templates below. Since the investment is increasing, this queue is WIP-limited to curtail the number of active items in process. Sources of business benefit are identified and items are prioritised.
 
 **Content Position Statement**
 
@@ -121,7 +123,34 @@ Content that reaches the quick look queue warrants further investment of time. I
 | **Skim:** | .... |
 | **Ignore:** | .... |
 
-Some content only warrants a quick look. When a detailed look is required.......
+The example output from a quick look at [B2B Usability][104]:
+
+**For**	a small business owner, marketing professional or UX pro,  
+**who is**  
+
+1. Evaluating their own home page 
+2. Evaluating competing home pages
+3. Planning a home page development
+4. Executing a home page development 
+
+**this**	averaged sized blog post  
+**is a**	systematic review of cross-sector trends in the rate of change in homepages  
+**that**	is written by a global authority in web usability  
+**unlike** some other authors, Nielsen is scientific and provides good references.
+
+**Success Criteria:**  
+
+- We can put the conclusions into perspective for Tilix and our clients
+- We understand the approach used by Jacob Nielsen.  
+
+**Focus on:** 
+
+- Imagining how we could repeat Nielsen's review process in a before and after review of a homepage redesign project  
+
+**Skim:**	The screen shot examples as these are quite dated  
+**Ignore:**	Nothing! It looks like an excellent article top to bottom.
+
+Some content only warrants a quick look. When a detailed look is required the format of the review note could look like:
 
 To track and communicate progress, we maintain charts like:
 
@@ -142,7 +171,7 @@ The team typically comprises a domain expert and research assistant(s) and their
 4.	__Synthesis:__ Summarising findings in a short form (e.g. a slide deck or report).
 5.	__Transition:__ Discuss with knowledge owner. Capture lessons learnt & agree future work
 
-## Inception
+## Inception Tasks
 The goal of the inception phase is to get the work off to a good start. This (necessarily) should not require a great deal of effort. However, it can take up quite a bit of calendar time as it can involve waiting for decisions. The key activities are:
 
 * Confirm scope and boundary conditions for the work. 
@@ -150,6 +179,7 @@ The goal of the inception phase is to get the work off to a good start. This (ne
 * Confirm how progress will be communicated.
 
 
+[0]: https://en.wikipedia.org/wiki/U-procedure_and_theory_U
 [1]: https://dl.dropboxusercontent.com/u/97321083/moore.png
 [2]: https://dl.dropboxusercontent.com/u/97321083/tools.png
 [3]: https://dl.dropboxusercontent.com/u/97321083/kanban.png
