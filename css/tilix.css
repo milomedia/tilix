@@ -9,7 +9,7 @@ body{
 .text-primary{
 	color:#FF8900
 }
-p{
+p {
 	font-size:14px;
 	line-height:1.75
 }
@@ -277,12 +277,16 @@ section h2{
 	text-transform:none;
 	font-style:italic;
 	font-weight:400;
-	margin-bottom:75px
+	margin-bottom:50px
 }
 @media (min-width:768px){
-	section{
+	section {
+		padding: 50px 0
+	}
+	section.tilix-icons {
 		padding:100px 0
 	}
+	
 }
 .service-heading{
 	margin:15px 0;
