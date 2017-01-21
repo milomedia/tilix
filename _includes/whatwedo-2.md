@@ -1,4 +1,4 @@
-__SMEs__ 
+### SMEs
 
 * Bristol Energy Coop
 * Amber Energy
