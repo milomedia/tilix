@@ -216,7 +216,7 @@ section#whatwedo .col-md-4 p {
 		-moz-transition:all .3s;
 		transition:all .3s
 	}
-	.navbar-default .navbar-nav>.active>a{
+	.navbar-default .navbar-nav>.active>a {
 		border-radius:3px
 	}
 
@@ -232,6 +232,8 @@ padding:10px 0
 	font-size:1.5em
 	}
 }
+
+
 header{
 	background-image:url(../img/header-bg.jpg);
 	background-repeat:none;
@@ -263,6 +265,9 @@ header .intro-text h1 {
 	line-height:60px;
 	margin-bottom:25px
 }
+
+
+
 @media (min-width:768px){
 	header .intro-text{
 		padding-top:300px;
