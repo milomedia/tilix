@@ -190,7 +190,7 @@ section#whatwedo .col-md-4 p {
 }
 
 @media (max-width:768px) { 
-	header .intro-text h1 {
+	body header .intro-text h1 {
     font-size: 26px;
     line-height: 40px;
 	}
