@@ -1,1 +1,3 @@
-# Innovation & technology<br/> for businesses<br/>across the <br/>whole energy value chain
+# Making Energy Cheap, Clean and Cheerful
+
+## Innovation & technology for businesses <br /> across the whole energy value chain
