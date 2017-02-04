@@ -210,6 +210,9 @@ section#whatwedo .col-md-4 p {
 		transition:padding .3s;
 		border:0
 	}
+	.blog .navbar-default{
+		background-color:#0b5789;
+	}
 	.navbar-default .navbar-brand{
 		font-size:2em;
 		-webkit-transition:all .3s;
