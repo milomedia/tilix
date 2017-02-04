@@ -62,28 +62,36 @@
         <!-- /.container-fluid -->
 </nav>
     
-    
-    
-    
-    
-    
-    
-    <div class="wrapper">
+
       <section>
+	       <div class="container">
       {{ content }}
+	      </div>
       </section>
-      <footer>
-        <p>
-            <ul class="list-inline social-buttons">
+	    
+	    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; TILIX. 2016</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
                         <li><a href="https://twitter.com/tilixuk" target="_blank"><i class="fa fa-twitter"></i></a>
                         </li>
                         <li><a href="https://www.linkedin.com/company/tilix" target="_blank"><i class="fa fa-linkedin"></i></a>
                         </li>
-        </ul>
-        </p>
-        <p><small>{{ site.footer | default: "FOOTER" }}</small></p>
-      </footer>
-    </div>
+                    </ul>
+                </div>
+                 <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a class="page-scroll" href="#page-top">Back to top</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+</footer>
+    
   
   
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
