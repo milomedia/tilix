@@ -139,9 +139,9 @@ border-color:transparent;
 }
 
 
-.navbar-default .navbar-brand{
+.navbar-default .navbar-brand {
 	color:#FF8900;
-	font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
+	padding: 0 15px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
