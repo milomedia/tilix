@@ -32,7 +32,7 @@ p.large {
 a,a:hover,a:focus,a:active,a.active{
 	outline:0
 }
-a{
+a {
 	color:#00a7e1
 }
 a:hover,a:focus,a:active,a.active{
@@ -44,6 +44,15 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight:700;
 	margin-bottom: 15px;
 }
+
+blockquote {
+	margin: 20px;
+	background: #eee;
+	border-left: none;
+	font-style: italic;
+}
+
+
 .img-centered{
 	margin:0 auto
 }
