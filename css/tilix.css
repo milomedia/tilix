@@ -163,15 +163,15 @@ border-color:transparent;
 .navbar-default .navbar-toggle:focus{
 	background-color:#FF8900
 }
-.navbar-default .nav li a{
+.navbar-default .navbar-nav li a{
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:400;
 	letter-spacing:1px;
 	color:#fff
 }
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus{
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a:focus{
 	color:#FF8900;outline:0
 }
 .navbar-default .navbar-nav>.active>a{
