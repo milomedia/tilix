@@ -38,10 +38,11 @@ a{
 a:hover,a:focus,a:active,a.active{
 	color:#FF8900
 }
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6 {
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
-	font-weight:700
+	font-weight:700;
+	margin-bottom: 15px;
 }
 .img-centered{
 	margin:0 auto
@@ -304,20 +305,36 @@ header .intro-text h1 {
 	}
 }
 
-section h1{
-	font-size:40px;
-	margin-top:0;margin-bottom:15px}
+section h1 {
+	font-size: 36px;
+}
 
 section h2 {
-	font-size:22px;
-	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-	text-transform:none;
-	margin-bottom: 20px
+	font-size:26px;
+}
+
+section h3 {
+	font-size: 22px;
+}
+
+section h4 {
+	font-size: 18px;
+}
+
+section h5 {
+	font-size: 14px;
+}
+
+.index section h1 {
+	font-size: 40px;
+	margin-top:0;
 }
 
 .index section h2 {
 	font-style:italic;
 	font-weight:400;
+	text-transform:none;
+	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 @media (min-width:768px){
