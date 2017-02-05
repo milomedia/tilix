@@ -786,6 +786,25 @@ section#contact  h3.section-subheading.text-muted {
 	vertical-align: bottom;
 }
 
+.post-teaser {
+	border-bottom: 1px solid #19507a;
+	min-height: 130px;
+}
+
+.post-teaser span {
+	border-bottom: 1px solid #19507a;
+	display: inline-block;
+    	padding: 2px 5px;
+    	background: #19507a;
+    	color: white;
+}
+
+.post-teaser span a {
+	font-size: 1.3em;
+	padding: 10px;
+	display: block;
+}
+
 
 @media (max-width: 1000px) {
   .navbar-default .nav li a {
