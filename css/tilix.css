@@ -805,8 +805,8 @@ section#contact  h3.section-subheading.text-muted {
 	margin: 10px 0;
 }
 
-.post-teaser span {
-	border-bottom: 1px solid #19507a;
+.post-teaser span,
+p.meta {
 	display: inline-block;
     	padding: 2px 5px;
     	background: #19507a;
