@@ -2,12 +2,12 @@
 layout: default-grant
 title: Tilix Blog 
 ---
-	<ul class="posts">
+	
 
 	  {% for post in site.posts %}
 		{% unless post.draft %}
-		<div class=".col-md-4"><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+		<div class="col-md-4"><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
 		{% endunless %}
 	  {% endfor %}
-	</ul>
+	
 
