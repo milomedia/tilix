@@ -789,6 +789,7 @@ section#contact  h3.section-subheading.text-muted {
 .post-teaser {
 	border-bottom: 1px solid #19507a;
 	min-height: 130px;
+	margin: 10px 0;
 }
 
 .post-teaser span {
@@ -799,7 +800,7 @@ section#contact  h3.section-subheading.text-muted {
     	color: white;
 }
 
-.post-teaser span a {
+.post-teaser  a {
 	font-size: 1.3em;
 	padding: 10px;
 	display: block;
