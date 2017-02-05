@@ -307,7 +307,7 @@ section h2{
 	section {
 		padding: 50px 0
 	}
-	section.blog {
+	.blog section {
 		margin-top: 100px;
 	}
 	section.tilix-icons {
