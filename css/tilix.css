@@ -9,12 +9,17 @@ body{
 .text-primary{
 	color:#FF8900
 }
+
+.intro {
+	margin-bottom: 30px;
+}
+
 p {
 	font-size:14px;
 	line-height:1.75
 }
 
-p.intro {
+.intro p {
  max-width: 800px;
  font-size: 20px;
 }
