@@ -1,12 +1,17 @@
 ---
 layout: default
-title: Tilix Blog 
+title: Tilix Blog
+permalink: /blog/ 
 ---
-	<ul class="posts">
+	
 
 	  {% for post in site.posts %}
 		{% unless post.draft %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		<div class="col-md-4">
+			<div class="post-teaser">
+			<span>{{ post.date | date_to_string }}</span>
+			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			</div>
+		</div>
 		{% endunless %}
 	  {% endfor %}
-	</ul>
