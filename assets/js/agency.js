@@ -31,9 +31,6 @@ $('.navbar-collapse ul li a').click(function() {
 $(function() {
   var loc = window.location.href; // returns the full URL
   if(/index.html/.test(loc)) {
-    $('body').addClass('index');
-  }
-    else  {
-    $('body').addClass('blog1');
+    $('body').addClass('index1');
   }
 });
