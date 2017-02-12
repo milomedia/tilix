@@ -3,26 +3,26 @@ layout: default
 ---
 
 <div class="row">
-
+<div class="post col-md-8">
 <h1>{{ page.title }}</h1>
 
- <div class="col-md-4">
    <p class="meta">{{ page.date | date_to_string }}</p>
-</div>
+
    
 {% if page.draft %}
 <div style="margin-bottom: 1rem; padding: 1rem; color: #717171; background-color: #f9f9f9;">
   DRAFT - This blog post is <b>under construction</b>.
 </div>
 {% endif %}
-
-<div class="post col-md-8">
+<div class="post">
   {{ content }}
-</div>
+            </div>
+
 {% if page.draft %}
 <div id="disqus_thread"></div>
 <script>
   
+     </div>
   </div>
 
 /**
