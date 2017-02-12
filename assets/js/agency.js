@@ -33,4 +33,7 @@ $(function() {
   if(/index.html/.test(loc)) {
     $('body').addClass('index');
   }
+    else  {
+    $('body').addClass('blog1');
+  }
 });
