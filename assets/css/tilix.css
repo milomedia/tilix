@@ -251,7 +251,8 @@ section#whatwedo .col-md-4 p {
 	}
 
 
-.navbar-default.navbar-shrink{
+.navbar-default.navbar-shrink,
+.index.blog .navbar-default.navbar-shrink	{
 /*background-color:#00a7e1; */
 background-color:#0b5789;
 padding:10px 0
