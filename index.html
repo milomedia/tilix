@@ -14,13 +14,14 @@ title: Tilix Blog
 {% capture whatwedo-2 %}{% include whatwedo-2.md %}{% endcapture %}
 {% capture whatwedo-3 %}{% include whatwedo-3.md %}{% endcapture %}
 
-<script type="text/javascript">
-document.getElementById('id').add('index');
-document.getElementById('id').remove('blog');
-</script>
+
 
     <!-- Header -->
     <header>
+	    <script type="text/javascript">
+document.getElementById('id').add('index');
+document.getElementById('id').remove('blog');
+</script>
         <div class="container">
             <div class="intro-text">
 		{{ intro-text | markdownify }}
