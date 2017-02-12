@@ -216,6 +216,11 @@ section#whatwedo .col-md-4 p {
 	text-align: left;
 }
 
+.blog .post.col-md-8 {
+	float: none;
+	margin: 0 auto;
+}
+
 @media (max-width:768px) { 
 	body header .intro-text h1 {
     font-size: 26px;
