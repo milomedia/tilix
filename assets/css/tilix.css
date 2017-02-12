@@ -365,7 +365,7 @@ section h5 {
 		width: 100%
 	}
 	
-	.index.blog section container.first {
+	.index.blog section .container.first {
 		padding: 0;
 		width: 100%
 	}
