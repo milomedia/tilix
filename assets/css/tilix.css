@@ -21,9 +21,10 @@ p {
 
 .intro p {
  max-width: 800px;
-font-size: 16px;
+font-size: 18px;
 margin: 0 auto;
 text-align: left;
+	color: #aaaaaa;
 }
 
 p.large {
@@ -39,9 +40,7 @@ a:hover,a:focus,a:active,a.active{
 	color:#FF8900
 }
 
-.index section {
-width: 100%;	
-}
+
 h1,h2,h3,h4,h5,h6 {
 	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
