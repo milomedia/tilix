@@ -228,7 +228,8 @@ section#whatwedo .col-md-4 p {
 
 
 @media (min-width:768px){
-	.navbar-default{
+	.navbar-default,
+	.index .navbar-default {
 		background-color:transparent;
 		padding:25px 0;
 		-webkit-transition:padding .3s;
@@ -356,6 +357,10 @@ section h5 {
 	.blog section {
 		margin-top: 70px;
 	}
+	.index section.first {
+		margin-top: 0;
+	}
+	
 	section.tilix-icons {
 		padding:100px 0
 	}
