@@ -362,6 +362,16 @@ section h5 {
 	.index.blog section.first {
 		margin-top: 0;
 		padding: 0;
+		width: 100%
+	}
+	
+	.index.blog section container.first {
+		padding: 0;
+		width: 100%
+	}
+	
+	.index.blog section {
+		margin-top: 0;
 	}
 	
 	section.tilix-icons {
