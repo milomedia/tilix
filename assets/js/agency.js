@@ -24,13 +24,3 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
-
-
-// Change body class of Homepage
-
-$(function() {
-  var loc = window.location.href; // returns the full URL
-  if(/index.html/.test(loc)) {
-    $('body').addClass('index');
-  }
-});
