@@ -1,12 +1,6 @@
-### Start Out
-TILIX. is perfectly placed to help entrepreneurs get their early stage innovation and technology in smart energy off the ground. TILIX. is proud to have supported several start outs including Uniti Sweden, Our Power, Become Energy and Tailored Motor.
+### Start Up
+TILIX. helps smart energy entrepreneurs get their early stage innovation and technology off the ground.
 
-Broadly speaking we offer start outs technical direction and/or seed capital. In practice, given that each situation is unique, we tailor solutions that focus on one or more of the following areas:
+TILIX. is proud to have supported several start ups including Uniti Sweden, Our Power, Become Energy and Tailored Motor.
 
-- Funding
-- Pretotypes and Prototypes
-- Minimal Viable Products
-- Team Building
-- Technology Road Maps
-- Product Road Maps
-- Marketing 
+First, we invest in deep conversations with our clients. Then we co-create solutions that are tailored to their specific requirements for technical direction and/or seed capital.

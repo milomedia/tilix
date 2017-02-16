@@ -1,7 +1,7 @@
 ### SME
 
-TILIX. provides a range of packaged services to small and medium size enterprises. Our SME clients have going concerns but are not fully grown. They look to TILIX. for help with:
+Our SME clients seek help with growth, optimisation or inventing the next wave.
 
-- Optimising existing operations with sustaining innovations.
-- Rearrange or rewrite (data, software, etc.) to improve efficiency.
-- Introducing new waves of disruption.
+These clients value the optimism TILIX. brings from the start up market and the confidence we bring from the corporate market.
+
+TILIX. provides a range of packaged services including consulting, interim management, projects and outsourcing.
