@@ -3,8 +3,8 @@ layout: post
 title: "Agile Content Review"
 date: 2017-01-20
 Author: Neil Williams  
-Primary SEO:  
-Secondary SEO:    
+description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." 
+keywords: "minim, veniam, exercitation, ullamco"
 ---
 Tilix works hard to stay on top of a large and ever increasing body of knowledge. This helps us get inspired and learn from business, academia, research and government. 
 
