@@ -216,12 +216,12 @@ section#whatwedo .col-md-4 p {
 	text-align: left;
 }
 
-.blog .post.col-md-8 {
+.blog .boxed.col-md-8 {
 	float: none;
 	margin: 0 auto;
 }
 
-.blog .post.col-md-8 img {
+.blog .boxed.col-md-8 img {
 	max-width: 100%;
 	height: auto;
 }

@@ -1,7 +1,5 @@
 #Tilix Health, Safety and Environment Policies
 
-Tilix employs less than 5 employees, so are not legally obliged to have written health, safety and environment policies, however we deem health and safety for our employees and contractors to be of highest priority and importance.
-
 Our statement of Health, Safety and Environment Policy is: 
 
 - To provide adequate control of the health and safety risks arising from our work activities;
