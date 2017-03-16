@@ -180,10 +180,10 @@ The goal of the inception phase is to get the work off to a good start. This (ne
 
 
 [0]: https://en.wikipedia.org/wiki/U-procedure_and_theory_U
-[1]: https://dl.dropboxusercontent.com/u/97321083/moore.png
-[2]: https://dl.dropboxusercontent.com/u/97321083/tools.png
-[3]: https://dl.dropboxusercontent.com/u/97321083/kanban.png
-[4]: https://dl.dropboxusercontent.com/u/97321083/burndown.png
+[1]: /img/moore.png
+[2]: /img/tools.png
+[3]: /img/kanban.png
+[4]: /img/burndown.png
 [5]: http://brodzinski.com/wp-content/uploads/cumulative-flow-diagram-6.png
 [6]: http://www.scaledagileframework.com/portfolio-kanban/
 [7]: http://www.accidentalcreative.com/podcasts/ac/podcast-stay-creatively-inspired-study-plan/
