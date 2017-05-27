@@ -1,13 +1,12 @@
 Tilix was founded by [Dr Neil Williams][1] and [Dr Duncan Tytler][2]. Neil majors in energy supply and digital transformation. Duncan is an authority in the energy services market and demand side management.
 
-[Christina Williams][3] takes care of marketing & [Deborah Kelly][4] is our administrative assistant.
+The [Tilix Blog][7] is published by [Karen Fardell][4] with contributions from a variety of energy industry experts.
 
-The [Tilix Blog][7] is directed by [David Saunders][5] and produced by [John Williams][6] with contributions from a variety of energy industry people.
+Marketing at Tilix is supported by [20:20 Communications][5] & [UX Digital][6].
 
 [1]: https://uk.linkedin.com/in/drneilwilliams
 [2]: https://uk.linkedin.com/in/dtytler
-[3]: https://uk.linkedin.com/in/christina-williams-60621358
-[4]: https://uk.linkedin.com/in/deborah-chapman-kelly-469b5837
-[5]: https://uk.linkedin.com/in/david-saunders-baa416
-[6]: http://www.johnwilliamsartist.com
+[4]: https://linkedin.com/in/karen-fardell-28674b29
+[5]: http://2020-communications.com
+[6]: http://www.ux-digital.co.uk
 [7]: /blog.html

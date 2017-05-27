@@ -6,7 +6,7 @@ Author: Neil Williams
 Primary SEO:  
 Secondary SEO:    
 ---
-This post decribes an _arc of execution_ model for new entrants into the Energy Supply Market in Great Britain. 
+This post describes an _arc of execution_ model for new entrants into the Energy Supply Market in Great Britain. 
 
 It is a high level view which outlines the how and the what of the first few years for a new electricity and gas supply company. This should interest those who are planning a new business and/or starting out on implementing systems. Familiarity with the energy market is assumed, so the post is light on definition of terms.
 
@@ -35,6 +35,7 @@ The domestic segment is more visible thanks to media attention and price compari
   * Good press and PR for successful challengers like Ovo & First Utility.
   * Interventions from Ofgem & DECC to promote competition.
   * Smart technology opening up disruptive business models.
+  * Improved access to generation through more distributed generation and more open wholesale markets.
 
 Although new entrants are posting impressive growth figures and the Big 6 appear to be easy targets, it is not all plain sailing. In November 2016 we had [the first failure of a domestic energy supplier in the GB market in more than nine years][1]. Furthermore, now that [Smart DCC is operationally live][201] the industry is almost ready to [cross the smart metering chasm][301].
 
@@ -148,7 +149,7 @@ Now that DCC is live, the industry has entered a period of discovery and are bus
 - Devise roll out plans and contract with MOPs.
 
 ## Useful Links
-There is a vast array of information available on the Internet. The following links give a flavour of some of the best advice available from government, trade bodies, professional services and technology vendors. This is by no means exhaustive. In particular, there are a variety of options from other vendors for the professional services and technology touched on here.
+There is a vast array of information available on the Internet. The following links give a flavour of some of the most easily accessible advice from government, trade bodies and market research organisations.
 
 Energy UK sets out the contribution the energy industry makes to the UK economy with [Energy in the UK][104] and [The energy market explained][105]
 
@@ -156,16 +157,14 @@ In [guidance for independent energy suppliers.][106] BEIS provides contact detai
 
 Cornwall Energy provides [training, events and forums][10] targeted at the UK energy and water sectors.
 
-Utiligroup are market veteran and have a packaged service for [New Entrant Suppliers][11]
-
-CGI offers everything a supplier needs to acquire, serve and retain customers with [ER360][12]. This solution provides a core product set of Billing & CIS from [Junifer Systems][13] and the AFMS market interaction suite from Utiligroup.
+Quindi Research provides [custom research and analyst services][15] for organisations throughout the utilities sectors.
 
    [1]: https://www.ofgem.gov.uk/publications-and-updates/ofgem-ensures-secure-energy-supplies-gb-energy-supply-customers
    [2]: https://cdn-images-1.medium.com/max/800/1*-UhimzvaFTjC1O13EGsnqw.png
    [3]: https://www.ofgem.gov.uk/licences-codes-and-standards/licences/licence-lite
    [4]: https://www.ofgem.gov.uk/publications-and-updates/treatment-white-label-providers-domestic-retail-market
    [5]: https://en.m.wikipedia.org/wiki/Enterprise_architecture
-   [6]: /img/big-six-energy.jpg
+   [6]: http://www.tilix.uk.s3.amazonaws.com/img/big-six-energy.jpg
    [7]: https://cdn-images-1.medium.com/max/800/1*eE0qPj-L1xh-L1nMSes7jw.png
    [8]: https://cdn-images-1.medium.com/max/800/1*G68ljQ7PBi30eMjV681GjA.png
    [9]: http://www.epmbook.com/buschangeprog.htm
@@ -174,6 +173,7 @@ CGI offers everything a supplier needs to acquire, serve and retain customers wi
    [12]: https://www.cgi-group.co.uk/solutions/ER360
    [13]: http://www.junifersystems.com/
    [14]: http://www.utiliteam.co.uk/market.php
+   [15]: http://quindiresearch.com
    
    [101]: https://www.ofgem.gov.uk/licences-codes-and-standards/licences/licence-conditions
    [102]: https://epr.ofgem.gov.uk//Content/Documents/Gas%20supply%20standard%20licence%20conditions%20consolidated%20-%20Current%20Version.pdf
@@ -181,6 +181,7 @@ CGI offers everything a supplier needs to acquire, serve and retain customers wi
    [104]: http://www.energy-uk.org.uk/energy-industry/energy-in-the-uk.html
    [105]: http://www.energy-uk.org.uk/energy-industry/the-energy-market.html
    [106]: https://www.gov.uk/guidance/independent-energy-suppliers
+   [107]: https://www.ofgem.gov.uk/system/files/docs/2016/02/final_open_letter_update.pdf
    
    [201]: https://www.smartdcc.co.uk/more/news/release-12-live-in-the-north-region/
    [301]: https://en.wikipedia.org/wiki/Crossing_the_Chasm
