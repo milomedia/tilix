@@ -153,7 +153,9 @@ There is a vast array of information available on the Internet. The following li
 
 Energy UK sets out the contribution the energy industry makes to the UK economy with [Energy in the UK][104] and [The energy market explained][105]
 
-In [guidance for independent energy suppliers.][106] BEIS provides contact details for relevant policy leads plus links to key documents and events that impact on independent suppliers. 
+In [guidance for independent energy suppliers.][106] BEIS provides contact details for relevant policy leads plus links to key documents and events that impact on independent suppliers.
+
+Elexon provide valuable guidance on [Market Entry][108].
 
 Cornwall Energy provides [training, events and forums][10] targeted at the UK energy and water sectors.
 
@@ -182,6 +184,7 @@ Quindi Research provides [custom research and analyst services][15] for organisa
    [105]: http://www.energy-uk.org.uk/energy-industry/the-energy-market.html
    [106]: https://www.gov.uk/guidance/independent-energy-suppliers
    [107]: https://www.ofgem.gov.uk/system/files/docs/2016/02/final_open_letter_update.pdf
+   [108]: https://www.elexon.co.uk/reference/market-entry-and-exit/market-entry/
    
    [201]: https://www.smartdcc.co.uk/more/news/release-12-live-in-the-north-region/
    [301]: https://en.wikipedia.org/wiki/Crossing_the_Chasm
