@@ -99,7 +99,7 @@ Information technology underpins this network and is a significant investment fo
 Retailers deploy electronic equipment at the point of use to help provide accurate consumption data and to execute *demand side management*. The most common approach is through smart meters and AMR. However, better results can be achieved if measurement and control is done against circuits or loads (e.g. heaters) instead of at a premise level.
 
 ## Analyst's Insights
-The electricity industry is generally a good bet for investment. However, large energy companies are starting to lose their classification as safe widow-and-orphan stocks in the face of the demanding and fast changing market environment.
+The electricity industry is generally a good bet for investment. However, many large energy companies are starting to lose their classification as safe bets in the face of the demanding and fast changing market environment. In the past most utilities paid high dividends and carried low risk as the industry was non-cyclical and would be less impacted by economic downturns than the rest of the market.
 
 ![Porter's Five Forces][2]
 
@@ -182,6 +182,12 @@ The wholesale trading market carries a lot of risk - both upside and downside. I
 - **Debt/Equity** is another vital sign. 50% is a decent mark for merchant generators, whereas vertically integrated generators can afford slightly higher debt/equity ratios.
 
 Speculative investors in technology and innovation see the electricity industry as a place of lucrative opportunities. Elon Musk is the poster boy of innovation in the market. He is helping to set the tone but is also leaving plenty of room for many others.
+
+## References
+- [Platts Global Energy](http://www.platts.com/) - A comprehensive source of online business new/analysis 
+- [Energy & Utilities Review](http://specials.ft.com/energy/) - Published by the Financial Times - online news and analysis/special reports 
+- [McKinsey Quarterly](http://www.mckinseyquarterly.com/) - This energy, resources and materials page contains useful articles covering industry issues 
+- [Investopedia’s Utility Industry Handbook](http://www.investopedia.com/features/industryhandbook/utilities.asp)
 
 [dukes]: https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes
 [ofgem]: https://www.ofgem.gov.uk/system/files/docs/2017/07/promoting-susta-july-2017.pdf
