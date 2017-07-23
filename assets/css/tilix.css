@@ -384,7 +384,7 @@ section h5 {
 		margin-top: 0;
 	}
 	
-	section.tilix-icons {
+	.tilix-icons {
 		padding:100px 0
 	}
 	
@@ -820,9 +820,9 @@ body{
     padding: 0 15px;
 }
 
-section.tilix-icons {
+.tilix-icons {
     background-attachment: scroll;
-   background-image: url("../img/icon-bg.jpg");
+    background-image: url("../img/icon-bg.jpg");
     background-position: center center;
     background-size: cover;
     color: #fff;
