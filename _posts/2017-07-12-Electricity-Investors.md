@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Investor Guide to the GB Electricity Industry"
+title: "Investing in the Electricity Industry"
 date: 2017-01-20
 Author: Neil Williams  
 Primary SEO:  
-Secondary SEO:    
+Secondary SEO:
+image: http://www.tilix.uk.s3.amazonaws.com/img/slides/ValueChain.svg    
 ---
 This post gives a broad brush account of the Electricity Market in Great Britain in the form of investor guidelines. It will be of interest to entreprenuers and investors who are looking to enter the market.
 
