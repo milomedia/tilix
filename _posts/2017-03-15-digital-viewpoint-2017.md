@@ -6,9 +6,10 @@ Author: Neil Williams
 Primary SEO:  
 Secondary SEO:    
 ---
-![The Digital World][digital world]
 
 This post comprises three sections which discuss how digital transformation is playing out in the energy market in 2017. I take a power (electricity) centric view but their is interest here for the oil and gas sectors too.
+
+![The Digital World][digital world]
 
 First I take a domain view by outlining the shape of smart and digital transformation across the whole energy value chain. Then, I consider the view from the IT industry and how the power sector fits into their world view. Finally, I overview of some of conclusions based on my recent experience in smart energy and I suggest that: 
 

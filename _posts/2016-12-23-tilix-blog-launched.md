@@ -2,6 +2,8 @@
 layout: post
 title: "Making a website that’s more than a glorified business card"
 date: 2016-12-23
+redirect_from:
+  - /test
 ---
 During the Xmas holidays in 2016 I was inspired by "Inbound & Content Marketing Made Easy" by [Marcus Sheridan][1]. I found common sense in what the [The Sales Lion's][2] had to say and was pleased that it fitted with my many years experience of developing websites. 
 
