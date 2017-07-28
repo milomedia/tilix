@@ -16,3 +16,4 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       image: /assets/img/tilix-icon1.png
+      author: Neil Williams

@@ -2,36 +2,42 @@
 layout: default
 title: Tilix Blog
 ---
-		<div class="container">
+
+        <div class="container">
             <div class="row intro">
                  <div class="col-lg-12 text-center"><h1>The Tilix Blog</h1></div>
              </div>
-	  {% for post in site.posts %}
-		{% unless post.draft %}
-		<div class="col-md-4">
-			<div class="post-teaser">
-                <!--span>{{ post.date | date_to_string }}</span-->
-                <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                <img src="{{ post.image }}" alt="{{ post.title }}" height="150px" width="150px">
-                {{ post.excerpt }}
-                <br>
-			</div>
-		</div>
-		{% endunless %}
-	  {% endfor %}
-  </div>
-  	</section>
+        {% assign rows = site.posts.size | divided_by: 4.0 | ceil %}
+        {% for i in (1..rows) %}
+        {% assign offset = forloop.index0 | times: 4 %}
+            <div class="l_g">
+            {% for post in site.posts limit:4 offset:offset %}
+                <div class="col-md-3">
+                    <div class="l_g_r">
+                        <div class="post-teaser">
+                            <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+                            <p>{{ post. author }} | {{ post.date | date_to_string }}</p>
+                            <p><a href="{{ post.url }}"><img src="{{ post.image }}" class="img-responsive" alt="{{ post.title }}"></a>
+                                {{ post.excerpt }}</p>
+                            </div>
+                        </div>
+                </div>
+            {% endfor %}
+                <div class="clearfix"></div>
+            </div>
+        {% endfor %}
+      </div>
+
     <!-- Call to Action Section -->
-    <section id="blog-cta" >
         <div class="container">
-           <div class="row intro">
+            <div class="row intro">
                 <div class="col-lg-12 text-center"><h2>Would you like to guest post?</h2></div>
             </div>
-               <div class="row">
-                   <div class="col-lg-12">
+            <div class="row">
+                <div class="col-lg-12">
 					   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> 
-					   <p><a href="guidelines">Editorial guidelines</a> duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-					   <p><a href="keywords">Keywords</a> excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				   </div>
+                       <p><a href="guidelines">Editorial guidelines</a> duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                       <p><a href="keywords">Keywords</a> excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                   </div>
             </div>
         </div>
