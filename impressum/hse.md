@@ -19,10 +19,6 @@ Health Safety Assessor: Neil Williams (Director)
 
 The main risks to health and safety amongst employees and contractors are work related stress and ergonomic adjustments to maintain healthy bodies and minds since the majority of time is spent around desks, chairs for meetings and in cars travelling to clients. 
 
-We have consulted best practice and expertise in these areas to make sure that Tilix employees and contractors take adequate breaks, encourage the use of fitness apps, personal trainers, fitness classes, mindfulness and breathing exercises, healthy eating and social interaction and communication in person or via SLACK (business communications channel). We have high specification ergonomically specialised chairs, desks, monitors, pads and car seats that are adjusted for each person and continually look out for introducing new technologies and practices. 
+We have consulted best practice and expertise in these areas. We encourage Tilix employees and contractors to take adequate breaks. We support the use of fitness apps, personal trainers, fitness classes, mindfulness and breathing exercises, healthy eating and social interaction and communication in person or via SLACK (business communications channel). We have high specification ergonomically specialised chairs, desks, monitors, pads and car seats that are adjusted for each person and continually look out for introducing new technologies and practices. 
 
-We have a very supportive conduct and workaround for personal or health related issues. Back and neck aids are used regularly to maintain health. A personal induction programme for each new employee and contractor.
-
-Tilix has employers liability insurance……
-
-Tilix has had no major work related history of health and safety issues in the last three years and invest a lot of time and effort in maintaining that record. 
+Tilix has had no major work related history of health and safety issues in the last three years. We invest significant time and effort in maintaining that record.
