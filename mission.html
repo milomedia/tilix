@@ -1,0 +1,28 @@
+---
+layout: default
+title: Tilix Mission
+permalink: /mission/
+fluidity: boxed
+---
+{% capture mission %}{% include mission.md %}{% endcapture %}
+{% capture mission-left %}{% include mission-left.md %}{% endcapture %}
+{% capture mission-right %}{% include mission-right.md %}{% endcapture %}
+    
+<div class="container">
+    <div class="row intro">
+        <div class="col-lg-12 text-center">
+            {{ mission | markdownify }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            {{ mission-left | markdownify }}
+        </div>
+        <div class="col-md-4">
+            <img class="img-responsive" style="margin: auto" src="http://www.tilix.uk.s3.amazonaws.com/img/energy-trilemma.png">
+        </div>
+        <div class="col-md-4">
+            {{ mission-right | markdownify }}
+        </div>
+    </div>
+</div>

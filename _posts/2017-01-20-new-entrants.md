@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Entering the Energy Supply Market in Great Britain"
+title: "Entering the Energy Supply Market"
 date: 2017-01-20
 Author: Neil Williams  
 Primary SEO:  
-Secondary SEO:    
+Secondary SEO:
+image: https://cdn-images-1.medium.com/max/800/1*G68ljQ7PBi30eMjV681GjA.png    
 ---
 This post describes an _arc of execution_ model for new entrants into the Energy Supply Market in Great Britain. 
 
