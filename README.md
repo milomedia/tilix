@@ -1,2 +1,0 @@
-# blog
-Tilix Blog

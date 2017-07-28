@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /index.html
-Disallow: /preview.html
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /img/
-Disallow: /js/
-Disallow: /trash/
-Disallow: /logs/
