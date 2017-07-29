@@ -15,5 +15,5 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: /assets/img/tilix-icon1.png
+      image: /assets/img/blog-thumb.png
       author: Neil Williams
