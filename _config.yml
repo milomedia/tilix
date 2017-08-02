@@ -3,5 +3,14 @@ description: Making Your Energy Cheap, Clean & Cheerful
 footer: Tilix - Innovation in Energy Supply & Demand
 markdown: kramdown
 permalink: /:year/:month/:day/:title
-
 theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+        layout: post
+        image: /assets/img/blog-thumb.png
+        lorem: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elit justo, posuere eu tempor a, facilisis vitae nisl. Sed lectus nibh, finibus laoreet feugiat at, tincidunt suscipit sem. Etiam non"
