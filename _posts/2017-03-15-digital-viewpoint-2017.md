@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "A Viewpoint on Digital Energy in 2017"
+title: "Smart & Digital Energy in 2017"
 date: 2017-03-15
-Author: Neil Williams  
+Author: Neil Williams
 Primary SEO:  
-Secondary SEO:    
+Secondary SEO:
+image: http://www.tilix.uk.s3.amazonaws.com/img/digital.png
 ---
 
 This post comprises three sections which discuss how digital transformation is playing out in the energy market in 2017. I take a power (electricity) centric view but their is interest here for the oil and gas sectors too.
