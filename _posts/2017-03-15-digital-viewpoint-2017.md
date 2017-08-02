@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Digital Energy in 2017"
+title: "A Viewpoint on Digital Energy in 2017"
 date: 2017-03-15
 Author: Neil Williams  
 Primary SEO:  
-Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/digital.png    
+Secondary SEO:    
 ---
+
 This post comprises three sections which discuss how digital transformation is playing out in the energy market in 2017. I take a power (electricity) centric view but their is interest here for the oil and gas sectors too.
 
-![The Digital World](http://www.tilix.uk.s3.amazonaws.com/img/digital.png)
+![The Digital World][digital world]
 
 First I take a domain view by outlining the shape of smart and digital transformation across the whole energy value chain. Then, I consider the view from the IT industry and how the power sector fits into their world view. Finally, I overview of some of conclusions based on my recent experience in smart energy and I suggest that: 
 
 * digital transformation is the new business as usual for the energy sector. 
 * the energy industry has to continue to make fundamental changes in behaviour to flourish in the digital world.
 
-## Smart/Digital Energy
+## Smart/Digital Energy in 2017
 ![Carbon to Silicon][carbon silicon]
 
 In [Oil is Obsolete][lovins2], Amory Lovins frames the current transformation in energy as being elemental.
@@ -164,6 +164,7 @@ Two key challenges are:
 * Engaging customers & making it easy for them to do business
 * Integrating all these systems
 
+[digital world]: http://www.tilix.uk.s3.amazonaws.com/img/digital.png
 [carbon silicon]: http://www.tilix.uk.s3.amazonaws.com/img/carbon-silicon.png
 [lovins1]: https://www.siemens.com/customer-magazine/en/home/energy/power-transmission-and-distribution/the-rise-of-the-energy-insurgents.html
 [lovins2]: http://www.forbes.com/sites/rodadams/2016/07/18/amory-lovins-invited-to-tell-navy-staff-about-electricity-and-oil-future/#5099c1893e1e
