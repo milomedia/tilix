@@ -695,7 +695,8 @@ section#contact .text-danger{
 	color:#e74c3c}
 footer{
 	padding:25px 0;
-	text-align:center
+	text-align:center;
+	margin-bottom: 50px; /* allows footer content to viewed with fix CTA buttons added */
 }
 footer span.copyright{
 	line-height:40px;
@@ -898,3 +899,41 @@ p.meta {
     line-height: 30px;
 }
 }
+
+
+/* Fixed CTA buttons */
+
+section#fixed-bottom {
+    background: #19507a;
+    bottom: 0;
+    margin: auto;
+    padding: 10px 0 0 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;	
+    border: 1px solid #fff;
+}
+
+section#fixed-bottom a.btn { 
+	margin-bottom: 10px;
+}
+
+section#fixed-bottom a.btn.green { 
+	background: #34d058;
+	border-color: #34d058;
+}
+
+section#fixed-bottom a.btn:hover { 
+	background: #00a7e1;
+	border: #00a7e1;
+}
+
+@media (max-width: 480px) {
+	section#fixed-bottom a.btn { 
+		font-size: 12px;
+		padding: 4px 12px;
+}
+}
+
+/* End of fixed CTA buttons */
+
