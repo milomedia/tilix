@@ -1,8 +1,18 @@
-body{
+body {
 	overflow-x:hidden;
 	font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 	color:#19507a;
 }
+
+body.blog {
+	margin-top: 100px;
+	}
+
+body.blog.index {
+	margin-top: 0x;
+	}
+
+
 .text-muted{
 	color:#777
 }
@@ -227,6 +237,10 @@ section#whatwedo .col-md-4 p {
 }
 
 @media (max-width:768px) { 
+	body.blog {
+	margin-top: 50px;
+	}
+	
 	body header .intro-text h1 {
     font-size: 26px;
     line-height: 40px;
