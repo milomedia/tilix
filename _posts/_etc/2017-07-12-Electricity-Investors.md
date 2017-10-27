@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Investing in the Electricity Industry"
 date: 2017-01-20
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/slides/ValueChain.svg    
+title: "Investing in the Electricity Industry"
 ---
 This post gives a broad brush account of the Electricity Market in Great Britain in the form of investor guidelines. It will be of interest to entreprenuers and investors who are looking to enter the market.
 
@@ -36,7 +36,7 @@ A handful of important actors sit outside the main value chain. The Regulators a
 ### Generation
 Electricity is generated at industrial scale in a number of ways:
 
-* Fossil fuels (mostly coal or gas) 
+* Fossil fuels (mostly coal or gas)
 * Nuclear fission
 * Hydroelectric and wind power
 * Solar PV
@@ -77,7 +77,7 @@ In extreme circumstances, when the network is saturated by solar and wind, there
 Source: [Baringa Report for DECC][baringa]
 
 ## The Challenges of Retailing Electricity
-In simplistic terms, retailers procure electricity on the wholesale market and sell it on to households and/or businesses. 
+In simplistic terms, retailers procure electricity on the wholesale market and sell it on to households and/or businesses.
 
 Retailers choose who they buy their electricity from in the competitive wholesale market, whilst customers are free to pick from scores of retail suppliers.
 
@@ -138,7 +138,7 @@ Corporate reputation and brand are key differentiators. The whole market categor
 
 Some new entrants are trying to differentiate through bundling non-energy services. There are also indicators that offerings such as energy as a service are just around the corner. However, regulation and other market forces can dampen creativity and present huge challenges to innovators.
 
-Despite their best efforts large incumbents are faced with the dilemma of protecting their current revenues or developing new business models to replace them. Whilst CEO of NRG, David Crane's ideas for transforming the incumbent utility were about as welcome as a fart in a space suit. 
+Despite their best efforts large incumbents are faced with the dilemma of protecting their current revenues or developing new business models to replace them. Whilst CEO of NRG, David Crane's ideas for transforming the incumbent utility were about as welcome as a fart in a space suit.
 
 ![David Crane][crane]
 
@@ -152,7 +152,7 @@ The UK plays an important role within the global electricity industry. There are
 Key areas of innovation to watch include:
 
 - **Active grid**: Sensors, real time data transfer and artificial intelligence promise to drive up efficiency and remove bottle necks within the transmission and distribution grids
-- **Distributed Generation**: We continue to see significant and sustained improvements in solar and wind. This spans technology, finance, build and operations. 
+- **Distributed Generation**: We continue to see significant and sustained improvements in solar and wind. This spans technology, finance, build and operations.
 - **Demand Side Management**: Smart control of loads will help reduce bills and ultimately lead to new value propositions like heating as a service.
 - **Energy Storage**: Will transform the whole value chain from industrial scale schemes on the grid, down to behind the meter batteries in homes and businesses.
 - **Electric Vehicles**: Electric cars, buses and trucks are possibly the most important innovation for improving air quality and reducing dependence on fossil fuels.
@@ -185,9 +185,9 @@ The wholesale trading market carries a lot of risk - both upside and downside. I
 Speculative investors in technology and innovation see the electricity industry as a place of lucrative opportunities. Elon Musk is the poster boy of innovation in the market. He is helping to set the tone but is also leaving plenty of room for many others.
 
 ## References
-- [Platts Global Energy](http://www.platts.com/) - A comprehensive source of online business new/analysis 
-- [Energy & Utilities Review](http://specials.ft.com/energy/) - Published by the Financial Times - online news and analysis/special reports 
-- [McKinsey Quarterly](http://www.mckinseyquarterly.com/) - This energy, resources and materials page contains useful articles covering industry issues 
+- [Platts Global Energy](http://www.platts.com/) - A comprehensive source of online business new/analysis
+- [Energy & Utilities Review](http://specials.ft.com/energy/) - Published by the Financial Times - online news and analysis/special reports
+- [McKinsey Quarterly](http://www.mckinseyquarterly.com/) - This energy, resources and materials page contains useful articles covering industry issues
 - [Investopedia’s Utility Industry Handbook](http://www.investopedia.com/features/industryhandbook/utilities.asp)
 
 [dukes]: https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes

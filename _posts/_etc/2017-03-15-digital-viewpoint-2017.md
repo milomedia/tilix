@@ -1,19 +1,19 @@
 ---
-title: "Smart & Digital Energy in 2017"
 date: 2017-03-15
 Author: Neil Williams
 Primary SEO:  
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/digital.png
+title: "Smart & Digital Energy in 2017"
 ---
 
 This post comprises three sections which discuss how digital transformation is playing out in the energy market in 2017. I take a power (electricity) centric view but their is interest here for the oil and gas sectors too.
 
 ![The Digital World][digital world]
 
-First I take a domain view by outlining the shape of smart and digital transformation across the whole energy value chain. Then, I consider the view from the IT industry and how the power sector fits into their world view. Finally, I overview of some of conclusions based on my recent experience in smart energy and I suggest that: 
+First I take a domain view by outlining the shape of smart and digital transformation across the whole energy value chain. Then, I consider the view from the IT industry and how the power sector fits into their world view. Finally, I overview of some of conclusions based on my recent experience in smart energy and I suggest that:
 
-* digital transformation is the new business as usual for the energy sector. 
+* digital transformation is the new business as usual for the energy sector.
 * the energy industry has to continue to make fundamental changes in behaviour to flourish in the digital world.
 
 ## Smart/Digital Energy in 2017
@@ -28,7 +28,7 @@ In [Oil is Obsolete][lovins2], Amory Lovins frames the current transformation in
 Lovins is alluding to a combination of (mostly digital) technologies which will enable and shape increasing flexibility, sustainability and stability in the energy market.
 
 My colleagues at Tilix and I work at the cutting edge of these technologies. Some of our areas of focus are outlined below, together with a short discussion of how digital transformation is playing out in each of these areas.
- 
+
 ### Distributed Generation
 Renewables account for around 25% of generation globally. More importantly, renewable electricity additions over the next five years will top 700 gigawatts (GW). In short, we are building lots of wind and solar and very little coal or nuclear. Source: [IEA Renewable Energy Medium-Term Market Report][iea]
 
@@ -50,7 +50,7 @@ Offshore wind is expected to be a significant growth area in the UK, with bigger
 In the past 10 years, solar has seen exponential growth. Given that solar PV is silicon based technology, it is no real surprise that it is seeing cost to performance improvements akin to those we see in semi-conductors. From 2010-15, the cost of new utility-scale solar PV declined by two-thirds. In the next five years costs will decline by an additional quarter. Despite the UK government's cuts to subsides, solar PV is expected to grow in the UK.
 
 ### Transmission & Distribution - Smart Grid
-The problem of controlling the grid to ensure stable power is no longer as simple as it used to be when we depended solely on large centrally controlled power plants. 
+The problem of controlling the grid to ensure stable power is no longer as simple as it used to be when we depended solely on large centrally controlled power plants.
 
 In the age of distributed generation, electrical engineers and computer scientists are figuring out how keep power flowing. Distributed Energy Resources (DER) are growing globally and network operators are faced with the challenge of integrating low carbon energy technologies and operating a more flexible system. We now need real-time, autonomous and deterministic control solutions based on technologies like Active Network Management (ANM) and micro-Phasor Measurement Units (uPMU).
 
@@ -59,21 +59,21 @@ The usual suspects like ABB, Siemens and Schneider are active in this field. How
 ### Energy Storage
 There are many signs that the energy storage industry is going to boom with striking similarity to the exponential takeoff of solar in recent years.
 
-Deployments of energy storage solutions including batteries, pumped storage, hydrogen and flywheels are set to become significant the next few years. 
+Deployments of energy storage solutions including batteries, pumped storage, hydrogen and flywheels are set to become significant the next few years.
 
 Grid scale will account for the lion's share of the market with industrial and commercial trailing second. Microgrids and domestic energy storage currently occupy a far smaller market share but hockey stick growth is expected in these segments to.
 
 ### Smart Metering & Connected Homes
-Smart meters record consumption of energy and pass that info back to the utility companies for billing and other functions. 
+Smart meters record consumption of energy and pass that info back to the utility companies for billing and other functions.
 
-From 2015-2020, the UK's the Smart Meter Implementation Programme (SMIP) will roll out more than 50 million smart gas and electricity meters. 
+From 2015-2020, the UK's the Smart Meter Implementation Programme (SMIP) will roll out more than 50 million smart gas and electricity meters.
 
-This major national infrastructure undertaking is possibly the largest IoT project globally. In the first instance, this is a sustaining innovation that will help utilities reduce the costs associated with meter reading, balancing and settlement. 
+This major national infrastructure undertaking is possibly the largest IoT project globally. In the first instance, this is a sustaining innovation that will help utilities reduce the costs associated with meter reading, balancing and settlement.
 
 However, smart meters are also seen as an enabler technology that will drive disruptive innovation in the energy market. Some of the possibilities being mooted are 24 hour switching, variable rate tariffs and community network operations.
 
 ### Retail - The Little 300
-The UK energy market has seen a steady growth in "independent suppliers". For example in 2006 the total number of active domestic suppliers was 10. In Sep 2016 the total was 48. This growth in the domestic market is mirrored in the commercial supply market. 
+The UK energy market has seen a steady growth in "independent suppliers". For example in 2006 the total number of active domestic suppliers was 10. In Sep 2016 the total was 48. This growth in the domestic market is mirrored in the commercial supply market.
 
 Although market conditions and government support has been important, an often overlooked ingredient has been digital technology. For example, since their inception, Ovo Energy have thought of themselves as a technology company:
 
@@ -105,13 +105,13 @@ IoT platforms could enable real-time management of residential household loads o
 Expect to see DSR pilots with variable £/kW rate depending on speed of response and guarantee of despatch. For example, delayed start of washing machine from push messaging pays less than automated control of loads
 
 ### Connected Communities & Microgrids
-It's safe to say that "Cyberville" relies on power. 
+It's safe to say that "Cyberville" relies on power.
 
 Smart communities are powered by electricity...
 
 Smart microgrids offer great promise to improve power reliability. They are most commonly found serving industrial and commercial facilities, university and research facilities, military bases, and remote off-grid systems.
 
-## The Power Sector & the 3rd Platform 
+## The Power Sector & the 3rd Platform
 The third platform is a term IDC that encapsulates the inter-dependencies between mobile computing, social media, cloud computing, and information / analytics (big data), and possibly the Internet of Things.
 
 Gartner calls this the "Nexus of Forces" and claims that these interdependent trends are "transforming the way people and businesses relate to technology".
@@ -123,7 +123,7 @@ this topic is close to my heart because in the 90's, I earned a PhD for research
 
 Low costs and light weight materials have made drones widely available in commercial and leisure settings.  It is no surprise that on the grid, utilities are using drones to inspect plant, carry out security operations, and assess storm damage.
 
-In end use environments, drones can help installation and maintenance of solar systems. They could reduce time spent on roofs thus bringing down costs and improving safety. 
+In end use environments, drones can help installation and maintenance of solar systems. They could reduce time spent on roofs thus bringing down costs and improving safety.
 
 ### Wearables & VR
 Wearables and virtual reality (VR) headsets carry much hype and promise. A key feature of wearables is simply that don’t have to hold the device. For many in the field being hands-free is a requirement for intelligent and safe work.
@@ -140,14 +140,14 @@ In the past couple of years, blockchain has hit the hype cycle with a bang as it
 ### 3D Printing
 
 ## Is digital transformation the new business as usual?
-The challenge for the energy incumbents is described perfectly by [Amory Lovins in Siemens' Magazine][lovins1]. 
+The challenge for the energy incumbents is described perfectly by [Amory Lovins in Siemens' Magazine][lovins1].
 
 > [they] have to figure out different ways to use their assets, capabilities and, most difficultly, cultures to compete in a very different market. This change in the market is coming at them at a speed they can scarcely imagine and much faster than their cultures will find it easy to cope with.
 
 Lovins is alluding to the stuff described earlier in this post. I firmly believe that this is becoming the new business as usual for the energy sector.
 
 ### Digital energy requires continuous innovation
-It will be a rough ride to the future. I know from other industries that being lean and agile is a key to success. I also know that it is easy to be AINO - Agile In Name Only. 
+It will be a rough ride to the future. I know from other industries that being lean and agile is a key to success. I also know that it is easy to be AINO - Agile In Name Only.
 
 Successful players in the digitally transformed energy sector will adopt the right approach for their market. For consumers approaches like Lean Startup will be important. The pillars of this method are ...
 

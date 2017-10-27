@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Customer Care in Gas & Electricity"
 date: 2017-01-16
-Author: Neil Williams  
+Author: Andrew Hancock  
 Primary SEO:  
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/slides/priorities.png   
+title: "Customer Care in Gas & Electricity"
 ---
 1. How Customer Care is Evolving
 2. What Matters to Customers
