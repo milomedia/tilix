@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Tilix Clients
+title: About Tilix
 permalink: /about/
 fluidity: boxed
 ---
 {% capture about %}{% include about.md %}{% endcapture %}
 {% capture about-left %}{% include about-left.md %}{% endcapture %}
 {% capture about-right %}{% include about-right.md %}{% endcapture %}
-    
+{% capture mission %}{% include mission.md %}{% endcapture %}
+{% capture mission-left %}{% include mission-left.md %}{% endcapture %}
+{% capture mission-right %}{% include mission-right.md %}{% endcapture %}
 
 <div class="container">
     <div class="row intro">
@@ -16,11 +18,33 @@ fluidity: boxed
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
             {{ about-left | markdownify }}
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
+            <img src="/assets/img/tilix-people.svg" class="img-responsive" alt="Profile photos of the Tilix team">
+        </div>
+        <div class="col-md-4">
             {{ about-right | markdownify }}
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row intro">
+        <div class="col-lg-12 text-center">
+            {{ mission | markdownify }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            {{ mission-left | markdownify }}
+        </div>
+        <div class="col-md-4">
+            <img class="img-responsive" style="margin: auto" src="http://www.tilix.uk.s3.amazonaws.com/img/energy-trilemma.png">
+        </div>
+        <div class="col-md-4">
+            {{ mission-right | markdownify }}
         </div>
     </div>
 </div>

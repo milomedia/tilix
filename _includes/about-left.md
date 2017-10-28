@@ -1,6 +1,6 @@
 Tilix was founded by [Dr Neil Williams][1] and [Dr Duncan Tytler][2]. Neil majors in energy supply and digital transformation. Duncan is an authority in the energy services market and demand side management.
 
-Marketing at Tilix is supported by [20:20 Communications][5] & [UX Digital][6].
+Our consultants have experience in energy supply, demand side management and clean-tech. Our solution expertise focuses around innovation and technology, in particular software, computers and electronics
 
 [1]: https://uk.linkedin.com/in/drneilwilliams
 [2]: https://uk.linkedin.com/in/dtytler

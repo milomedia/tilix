@@ -5,33 +5,33 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ page.title }}</title>
-    
+
      <!-- Latest compiled and minified Bootstrap CSS -->
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    
+
 	<!-- Custom CSS -->
-    <link href="/assets/css/tilix.css" rel="stylesheet" type="text/css">  
-	  
+    <link href="/assets/css/tilix.css" rel="stylesheet" type="text/css">
+
      <!-- Custom Fonts -->
     <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-    
-    
+
+
     <meta name="viewport" content="width=device-width">
-	
+
 	{% include social.html %}
-	
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  
-  
-  
-  
+
+
+
+
   <body id="page-top" class="blog {{ page.style }}">
-    
+
         <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -50,7 +50,6 @@
                     <li class="hidden"><a href="#page-top"></a></li>
                     <li {% if current[1] == 'clients' %}class='current'{% endif %}><a href='/clients'>Clients</a></li>
                     <li {% if current[1] == 'about' %}class='current'{% endif %}><a href='/about'>About</a></li>
-                    <li {% if current[1] == 'mission' %}class='current'{% endif %}><a href='/mission'>Mission</a></li>
                     <li {% if current[1] == 'blog' %}class='current'{% endif %}><a href='/blog'>Blog</a></li>
                     <li {% if current[1] == 'contact' %}class='current'{% endif %}><a href='/contact'>Contact</a></li>
                 </ul>
@@ -86,12 +85,12 @@
 <!-- Call to action buttons -->
 <section id="fixed-bottom">
 	<div class="container text-center">
-	 	<a class="btn btn-primary green" href="http://doodle.com/neilwilliams" target="_blank" role="button">BOOK A FREE CONSULTATION</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-primary" href="/signup/mailchimp.html" role="button">STAY INFORMED</a></div>   
+	 	<a class="btn btn-primary green" href="http://doodle.com/neilwilliams" target="_blank" role="button">BOOK A FREE CONSULTATION</a>&nbsp;&nbsp;&nbsp;<a class="btn btn-primary" href="/signup/mailchimp.html" role="button">STAY INFORMED</a></div>
 	</div>
 </section>
-    
-  
-  
+
+
+
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
      <!-- jQuery -->
