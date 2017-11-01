@@ -1,3 +1,3 @@
-# Making Energy Cheap, Clean and Cheerful
+# Smart Energy Solutions
 
-## Innovation & technology for businesses <br /> across the whole energy value chain
+## Tilix is making energy cheap, clean and cheerful by delivering innovation & technology across the whole value chain

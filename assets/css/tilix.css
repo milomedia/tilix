@@ -229,6 +229,7 @@ section#whatwedo .col-md-4 p {
 .blog .boxed.col-md-8 {
 	float: none;
 	margin: 0 auto;
+	width: 67%;
 }
 
 .blog .boxed.col-md-8 img {
@@ -236,11 +237,11 @@ section#whatwedo .col-md-4 p {
 	height: auto;
 }
 
-@media (max-width:768px) { 
+@media (max-width:768px) {
 	body.blog {
 	margin-top: 50px;
 	}
-	
+
 	body header .intro-text h1 {
     font-size: 26px;
     line-height: 40px;
@@ -248,11 +249,11 @@ section#whatwedo .col-md-4 p {
 	section {
     padding: 30px 0;
 	}
-	
+
 	.tilix-icons {
 		padding:50px 0
 	}
-  
+
 }
 
 
@@ -266,6 +267,7 @@ section#whatwedo .col-md-4 p {
 		transition:padding .3s;
 		border:0
 	}
+
 	.blog .navbar-default{
 		background-color:#0b5789;
 	}
@@ -392,20 +394,20 @@ section h5 {
 		padding: 0;
 		width: 100%
 	}
-	
+
 	.index.blog section .container.first {
 		padding: 0;
 		width: 100%
 	}
-	
+
 	.index.blog section {
 		margin-top: 0;
 	}
-	
+
 	.tilix-icons {
 		padding:100px 0
 	}
-	
+
 }
 .service-heading{
 	margin:15px 0;
@@ -924,30 +926,29 @@ section#fixed-bottom {
     padding: 10px 0 0 0;
     position: fixed;
     text-align: center;
-    width: 100%;	
+    width: 100%;
     border: 1px solid #fff;
 }
 
-section#fixed-bottom a.btn { 
+section#fixed-bottom a.btn {
 	margin-bottom: 10px;
 }
 
-section#fixed-bottom a.btn.green { 
+section#fixed-bottom a.btn.green {
 	background: #34d058;
 	border-color: #34d058;
 }
 
-section#fixed-bottom a.btn:hover { 
+section#fixed-bottom a.btn:hover {
 	background: #00a7e1;
 	border: #00a7e1;
 }
 
 @media (max-width: 480px) {
-	section#fixed-bottom a.btn { 
+	section#fixed-bottom a.btn {
 		font-size: 12px;
 		padding: 4px 12px;
 }
 }
 
 /* End of fixed CTA buttons */
-
