@@ -4,6 +4,7 @@ footer: Tilix - Innovation in Energy Supply & Demand
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 theme: jekyll-theme-minimal
+google_analytics: UA-75227167-1
 
 defaults:
   -

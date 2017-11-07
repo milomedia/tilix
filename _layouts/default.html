@@ -2,6 +2,17 @@
 <!doctype html>
 <html>
   <head>
+    {% if site.google_analytics and jekyll.environment == 'production'%}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-75227167-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ page.title }}</title>
@@ -107,18 +118,6 @@
     <!-- Custom Theme JavaScript -->
     <script src="/assets/js/agency.js"></script>
 
-  {% if site.google_analytics %}
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-      try {
-        var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
-      pageTracker._trackPageview();
-      } catch(err) {}
-    </script>
-  {% endif %}
       <!-- Hubspot -->
       <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2779518.js"></script>
   </body>
