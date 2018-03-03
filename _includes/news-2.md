@@ -1,12 +1,14 @@
-![Swedish Flag][3]
+## Impact Investing
+![Uniti EV in Media Markt, Malmo][3]
 
-**Uniti is an electric city car** designed to be agile in urban environments, with a unique and contemporary approach to safety, sustainability and user experience.
+Tilix uses retained earnings to support nascent, potentially game changing ideas in smart energy. Tilix has a small number of strategic investments in clean-tech and smart energy start ups. These entrepreneurs value the cash, advice, knowledge transfer and connections Tilix provides.
 
-As early stage investors and advisors, Tilix are enjoying the [journey from concept to the roads in less than 4 years][4]. We are super excited about the progress of the current crowd funding and the partnership with Siemens for mass production.
+This *angel investing* is proving to be a great way for Tilix to adapt to the emerging smart energy market. It is also a small but important contribution to winning the fossil fuel end game.
 
-We are looking forward to helping Uniti establish their new production facility in Landskrona and launch their new electric car on 7th December 2017.
+One of our key angel investments is with [**Uniti EV**](https://www.uniti.earth) who have designed a *premium electric city car* with a unique approach to safety, sustainability and user experience.
+
+Tilix are enjoying the [journey from concept to the roads in less than 4 years][4]. We are super excited about the progress Uniti has made in forming partnerships with Siemens and Kuka for mass production. We are delighted to support Uniti in securing Series A funding later in 2018.
 
 [1]: https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg
-[2]: http://www.tilix.uk.s3.amazonaws.com/img/blogs/Flag_of_Sweden.svg
-[3]: http://www.tilix.uk.s3.amazonaws.com/img/sweden-summer-17.png
+[3]: http://www.tilix.uk.s3.amazonaws.com/img/uniti-media-markt.jpg
 [4]: /2017/10/26/Uniti

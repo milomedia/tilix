@@ -1,3 +1,3 @@
-# Smart Energy Solutions
+# Smart & Digital Energy
 
-## Tilix is making energy cheap, clean and cheerful by delivering innovation & technology across the whole value chain
+## Tilix is a boutique consultancy delivering energy innovation to start-up, SME and corporate clients.
