@@ -1,13 +1,15 @@
-Tilix is a management consulting business that delivers value through staff augmentation, projects and playbooks. As well as in-depth energy industry knowledge, Tilix clients benefit from a robust and scalable approach based on PRINCE 2, TOGAF, ITIL, COBIT and other best practices.
+Tilix is a management consulting business that delivers value through **staff augmentation**, **projects** and **playbooks**. As well as in-depth energy industry knowledge, Tilix clients benefit from a robust and scalable approach based on PRINCE 2, TOGAF, ITIL, COBIT and other best practices.
 
 For example at [Logicor Energy][1], Tilix are proactively turning innovative ideas into fully functioning business operations by providing a turnkey set up of an electricity supply business.
 
-A good example of a pure staff augmentation engagement is in fulfilling the role of  Technical Lead for the smart meter comms hub at [Telefonica IoT][2].
+A good example of a pure staff augmentation engagement is in fulfilling the role of Technical Lead for the smart meter comms hub at [Telefonica IoT][2].
 
 [National Grid’s Deeside Project][3] also benefited from Tilix staff augmentation services. Our expertise in industrial IoT supported the design, construction, operation, performance and maintenance of a 400kV environment that will help improve electricity transmission networks including HVDC inter-connectors, connections to generators and interfaces with low voltage networks.
 
 ## Tilix Playbooks
-Tilix packages its knowledge and experience into repeatable, preconfigured solution kits tailored to market requirements. Instead of working from scratch to meet uniquely bespoke project specifications, a playbook engagement leverages pre-established processes and technology. Deliverables are customised as opposed to custom. Tilix playbooks are our crown jewels and are outlined below.
+Tilix packages its knowledge and experience into repeatable, preconfigured solution kits tailored to market requirements. Instead of working from scratch to meet uniquely bespoke project specifications, a playbook engagement leverages pre-established processes and technology. Deliverables are customised as opposed to custom. There are eight Tilix Playbooks, where each represents a spoke in a wheel. Tilix is a "wheel-turner" with the ability to cut through all obstacles and challenges on the road to winning the fossil fuel end game.
+
+![Tilix Playbook](http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png)
 
 ### Licensee Consulting
 Tilix regulatory expertise is strongest in energy supply as evidenced by our work for [Ofgem][4] in faster and more reliable switching. However, the firm offers experience from across the whole value chain.
@@ -61,16 +63,16 @@ Take [Logicor][14] for example. The firm is a leader in far-field IR, a novel he
 - Calibration of heat, current and voltage sensors.
 - IoT solutions for enabling far field IR heating systems to be monitored remotely.
 
-### Impact Investing
-Tilix uses retained earnings to support nascent, potentially game changing ideas in smart energy. For example, Tilix has a small number of strategic investments in start ups where entrepreneurial CEOs value the cash, advice, knowledge transfer and connections Tilix provides.
-
-Impact investing is proving to be a great way for Tilix to adapt to the emerging smart energy market. It is also a small but important contribution to winning the fossil fuel end game.
+### Innovation Management
+Incumbents looking for the next wave turn to Tilix to help them generate ideas, find the most promising options and turn these into reality.
 
 ### Coaching & Mentoring
 Chief Executives, entrepreneurs, boards and investors look to Tilix for advice on a number of smart energy topics. Whilst having an informal feel, these engagements are structured as far as practicable in order to maximise impact and knowledge transfer.
 
-### Innovation Management
-Incumbents looking for the next wave turn to Tilix to help them generate ideas, find the most promising options and turn these into reality.
+### Impact Investing
+Tilix uses retained earnings to support nascent, potentially game changing ideas in smart energy. For example, Tilix has a small number of strategic investments in start ups where entrepreneurial CEOs value the cash, advice, knowledge transfer and connections Tilix provides.
+
+Impact investing is proving to be a great way for Tilix to adapt to the emerging smart energy market. It is also a small but important contribution to winning the fossil fuel end game.
 
 [1]: https://www.logicor-energy.co.uk
 [2]: https://iot.telefonica.com
