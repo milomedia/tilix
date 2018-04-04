@@ -9,7 +9,7 @@ A good example of a pure staff augmentation engagement is in fulfilling the role
 ## Tilix Playbooks
 Tilix packages its knowledge and experience into repeatable, preconfigured solution kits tailored to market requirements. Instead of working from scratch to meet uniquely bespoke project specifications, a playbook engagement leverages pre-established processes and technology. Deliverables are customised as opposed to custom. There are eight Tilix Playbooks, where each represents a spoke in a wheel. Tilix is a "wheel-turner" with the ability to cut through all obstacles and challenges on the road to winning the fossil fuel end game.
 
-![Tilix Playbook](http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png)
+<img class="img-responsive" style="margin: auto" alt="Tilix Playbook" src="http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png">
 
 ### Licensee Consulting
 Tilix regulatory expertise is strongest in energy supply as evidenced by our work for [Ofgem][4] in faster and more reliable switching. However, the firm offers experience from across the whole value chain.
@@ -19,16 +19,14 @@ For example [Become Energy][5] recently turned to Tilix for strategic and tactic
 ### Architecting Enterprises
 Tilix has helped new entrants like [Our Power][6], [OneSelect][7], [Orbit Energy][8] and [Logicor Energy][1] architect their enterprises.
 
-From an executive viewpoint, these firms follow an arc of execution involving inventing, deploying and optimising business capabilities. Tilix involvement is particularly intense when new entrants establish their initial operating capabilities and execute a controlled market entry. During the full market entry and BAU, Tilix tends to take an advisory role and works on a call off basis.
+Tilix involvement is particularly intense when new entrants establish their initial operating capabilities and execute a controlled market entry. During the full market entry and BAU, Tilix tends to take an advisory role and works on a call off basis.
 
-In architecting retail businesses Tilix consultants typically work as a team of three. One is focussed on buying energy. Another leads on selling energy. Whilst the third brings expertise on moving & metering energy.
+In architecting retail businesses Tilix consultants often work as a team of three. One is focussed on buying energy. Another leads on selling energy. Whilst the third brings expertise on moving & metering energy.
 
 ### Digital Engineering
 Tilix designs, builds and maintains *systems of engagement* and *systems of intelligence* that deliver value across the whole energy value chain.
 
-The Tilix architecture uses a hub and spoke model to form highly cohesive business systems. We are experts in loosely coupling to *systems of record* from the likes of [Gentrack][7], [Utiligroup][8], [Ferranti][9], [AMT-Sybex][10] and [CGI][11].
-
-Concrete examples of Tilix systems of engagement can be found in retail energy supply:
+ We are experts in loosely coupling to *systems of record* from the likes of [Gentrack][7], [Utiligroup][8], [Ferranti][9], [AMT-Sybex][10] and [CGI][11]. For example, we have integrated with the Junifer Billing & CIS system to form highly cohesive systems of engagement comprising:
 
 1. A **content managed website** acts as a shop window to the world.
 2. The **acquisition portal** hooks into industry data from ECOES and DES as well as a database of tariff information. At the end of the acquisition journey, a customer is created in the billing and CIS system.
@@ -36,9 +34,7 @@ Concrete examples of Tilix systems of engagement can be found in retail energy s
 4. The **CRM** tracks suspects, prospects and leads. It is also used to manage inbound and outbound campaigns.
 
 ### Directing IT
-Building on experience of long term IT leadership assignments with [Ovo][12] and [Good Energy][13], Tilix provides a range of IT management and IT governance services to SMEs in the energy, sustainability and clean-tech markets.
-
-Key areas of focus for Tilix consultants are:
+Building on experience of long term IT leadership assignments with [Ovo][12] and [Good Energy][13], Tilix provides a range of IT management and IT governance services to SMEs in the energy, sustainability and clean-tech markets. Key areas of focus for Tilix consultants are:
 
 - Governance & Management
 - Infrastructure & Service Desk & DevOps

@@ -1,3 +1,3 @@
-# Smart & Digital Energy
+# Smart Energy
 
-## Tilix is a boutique consultancy delivering energy innovation to start-up, SME and corporate clients.
+## Tilix specialises in management consulting, open innovation and impact investing. We serve an number of start-up, SME and corporate clients.
