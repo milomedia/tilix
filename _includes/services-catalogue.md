@@ -11,17 +11,17 @@ Tilix packages its knowledge and experience into repeatable, preconfigured solut
 
 <img class="img-responsive" style="margin: auto" alt="Tilix Playbook" src="http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png">
 
-### Licensee Consulting
-Tilix regulatory expertise is strongest in energy supply as evidenced by our work for [Ofgem][4] in faster and more reliable switching. However, the firm offers experience from across the whole value chain.
-
-For example [Become Energy][5] recently turned to Tilix for strategic and tactical advice on licensing spanning generation, distribution and supply. This has required in-depth technical understanding of electricity storage technologies, market characteristics, operating performance, network constraints and end use applications including sports venues, factories, shopping malls, EV charge points and distributed generation (wind, hydro, solar PV etc).
-
-### Architecting Enterprises
+### Enterprise Architecture
 Tilix has helped new entrants like [Our Power][6], [OneSelect][7], [Orbit Energy][8] and [Logicor Energy][1] architect their enterprises.
 
 Tilix involvement is particularly intense when new entrants establish their initial operating capabilities and execute a controlled market entry. During the full market entry and BAU, Tilix tends to take an advisory role and works on a call off basis.
 
 In architecting retail businesses Tilix consultants often work as a team of three. One is focussed on buying energy. Another leads on selling energy. Whilst the third brings expertise on moving & metering energy.
+
+### Licensee Consulting
+Tilix regulatory expertise is strongest in energy supply as evidenced by our work for [Ofgem][4] in faster and more reliable switching. However, the firm offers experience from across the whole value chain.
+
+For example [Become Energy][5] recently turned to Tilix for strategic and tactical advice on licensing spanning generation, distribution and supply. This has required in-depth technical understanding of electricity storage technologies, market characteristics, operating performance, network constraints and end use applications including sports venues, factories, shopping malls, EV charge points and distributed generation (wind, hydro, solar PV etc).
 
 ### Digital Engineering
 Tilix designs, builds and maintains *systems of engagement* and *systems of intelligence* that deliver value across the whole energy value chain.
@@ -62,13 +62,17 @@ Take [Logicor][14] for example. The firm is a leader in far-field IR, a novel he
 ### Innovation Management
 Incumbents looking for the next wave turn to Tilix to help them generate ideas, find the most promising options and turn these into reality.
 
-### Coaching & Mentoring
+### Business Coaching
 Chief Executives, entrepreneurs, boards and investors look to Tilix for advice on a number of smart energy topics. Whilst having an informal feel, these engagements are structured as far as practicable in order to maximise impact and knowledge transfer.
 
-### Impact Investing
-Tilix uses retained earnings to support nascent, potentially game changing ideas in smart energy. For example, Tilix has a small number of strategic investments in start ups where entrepreneurial CEOs value the cash, advice, knowledge transfer and connections Tilix provides.
+### Energy Management
+Tilix guides our clients to reducing energy costs and carbon. Using a systems thinking approach, we start with an assessment of the efficiency and CO2 footprint of the value chain. We then present options for moving towards clean, cheap and cheerful energy.
 
-Impact investing is proving to be a great way for Tilix to adapt to the emerging smart energy market. It is also a small but important contribution to winning the fossil fuel end game.
+Interventions we have supported include:
+
+- Investment in renewable generation or energy storage.
+- Demand Side Management (DSM).
+- Power Purchase Agreements (PPA).
 
 [1]: https://www.logicor-energy.co.uk
 [2]: https://iot.telefonica.com
