@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2017-10-26
+date: 2017-11-12
 Author: Holly Suttle  
 Primary SEO:  
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/car.jpg    
 title: "Tim Unerman - Uniti's Composites Guru"
+teaser: "Part 2 of a 3 post series highlighting how Uniti are moving from concept to the roads in 4 years. At the time of writing, Uniti are hurtling towards opening their production facility in Landskrona (late October 2017) their first annual product launch (7 Dec 2017)."
 ---
-![Uniti Car](http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/car.jpg)
 
 Part 2 of a 3 post series highlighting how Uniti are moving from concept to the roads in 4 years. At the time of writing, Uniti are hurtling towards opening their production facility in Landskrona (late October 2017) their first annual product launch (7 Dec 2017).
 
