@@ -4,10 +4,12 @@ date: 2018-01-29
 Author: Holly Suttle  
 Primary SEO:  
 Secondary SEO:
-image:    
+image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/enian-pitch-deck.png   
 title: "Enian's Plans for 2018"
-teaser: "Tilix met with Founder and CEO of Enian, Phillip Bruner, to discuss what Enian's plans were for the year ahead and what targets they had set for 2018. From discussing favourite renewable energy sources to the challenges they are prepared to face, Enian have a big year ahead of them, in particular, with their upcoming launch."
+teaser: "Interview with Founder and CEO of Enian, Phillip Bruner. Enian operate at the crossroads of fintech & energy. Their platform empowers all stakeholders in commercial renewable energy deals."
 ---
+
+> This post presents an interview with Founder and CEO of Enian, Phillip Bruner. We discussed Enian's plans for 2018. Key points include renewable energy sources and the challenges ahead.
 
 **What was it that pushed you to create Enian as a company in the first place, and go into the energy sector?**
 
@@ -23,7 +25,7 @@ The main product is a deal tech platform - this is a fancy way of saying a way o
 
 **Now I understand Enian have quite a close working relationship with Tilix, and in particular, Dr. Neil Williams.**
 
-Neil is one of our angel investors, I was introduced to Neil through some of our mutual contacts in the GB energy market. He is also providing some technical advisory on the product which is an area which he has a lot of experience, so we are very happy to be working with him, and we look forward to working with Tilix on getting the product launched.
+Neil is one of our angel investors, I was introduced to Neil through some of our mutual contacts in the GB energy market. He is also providing some technical advisory on the product which is an area which he has a lot of experience. We are very happy to be working with him and we look forward to working with Tilix on getting the product launched.
 
 **What are you plans to launch the product?**
 
@@ -45,4 +47,4 @@ I love tidal energy, even though it’s a long way from being commercially viabl
 
 For smaller companies, don’t be too protective of equity. Equity is your most powerful bargaining tool and you should use it. There are investors out there who will back project teams who are willing to sell equity to a project before its built. And a lot of those investors have preferred EPC partners, who they work with once a project is at construction phase. So project developers have the flexibility to exit a project earlier and benefit financially rather than taking on construction risk, which has potentially negative consequences.  
 
-> Interviewing Phillip Bruner was an absolute delight, and we are very excited to see what Enian has in store for the future. If you would like to take a look at or use Enian’s services, check out the [Enian website](https://enian.co/)
+> Enian is a high value asset manager and transaction enabler for commercial renewable energy deals. Their deal platform accelerates the deal lifecycle, delivering significant time and cost savings for renewable energy investment and development teams around the world.. Find out more at the [Enian website](https://enian.co/)

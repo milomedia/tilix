@@ -2,6 +2,15 @@
 <!doctype html>
 <html>
   <head>
+    {% if page.canonical %}
+    <link rel="canonical" href="{{ page.canonical }}" />
+    {% endif %}
+    {% if jekyll.environment != 'production'%}
+    <script type="application/json" class="js-hypothesis-config">
+      {"showHighlights": false}
+    </script>
+    <script src="https://hypothes.is/embed.js" async></script>
+    {% endif %}
     {% if site.google_analytics and jekyll.environment == 'production'%}
     <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-75227167-1"></script>

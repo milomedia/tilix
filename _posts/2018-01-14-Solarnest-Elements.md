@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2018-01-05
+date: 2018-01-14
 Author: Holly Suttle  
 Primary SEO:  
 Secondary SEO:
-image:    
-title: "Solarnest's Elements of User Experience"
-teaser: "In my second web development project with Tilix, I was given the perfect introduction to Jesse James Garrett's 5 Planes Model of User Experience."
+image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/solar-nest.png   
+title: "Solarnest's UX Elements"
+teaser: "My second web development project with Tilix gave me the perfect opportunity to put Jesse James Garrett's 5 Planes Model of User Experience into practice."
 ---
-
+![Solarnest homepage](http://www.tilix.uk.s3.amazonaws.com/img/blogs/solar-nest.png)
 ## The Brief
 The founders of Solarnest approached Tilix for advice regarding their first website.
 

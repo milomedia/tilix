@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Uniti: An Interview with Lewis Horne, CEO"
-date:   2017-11-29
+date:   2017-12-14
 Author: Holly Suttle  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/car.jpg    
-teaser: "Part 3 of a 3 post series highlighting how Uniti are moving from concept to the roads in 4 years. At the time of writing, Uniti are hurtling towards opening their first annual product launch (7 Dec 2017)."
+image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/lewis-uniti-launch.jpg    
+teaser: "Part 3 of a 3 post series highlighting how Uniti are moving from concept to the roads in 4 years. At the time of writing, Uniti have just had their first annual product launch (7 Dec 2017)."
 ---
+![Lewis Horne, Uniti CEO at vehicle unveiling event](http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/lewis-uniti-launch.jpg)
 
 **What was it that initially pushed you to create Uniti?**
 
