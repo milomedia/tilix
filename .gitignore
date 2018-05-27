@@ -1,3 +1,6 @@
 _site/
 _etc/
-.dropbox
+**/.dropbox
+**/.DS_Store
+_drafts/
+_whitepapers/
