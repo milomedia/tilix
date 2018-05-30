@@ -9,6 +9,7 @@ title: "Systematic Copywriting"
 teaser: "A systematic approach is imperative for the success of any business that relies on publishing content. In this post, I outline how Tilix directs and controls copywriting for our blog and our clients' websites."
 ---
 ![ACME Energy Editorial Calendar](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello-600px.png)
+
 This post provides a summary of what I've learned about managing the creative writing process whilst writing for the Tilix Blog and working on the development of several digital properties in the GB energy supply market. The topics covered are:
 
 - The Publishing Workflow
@@ -47,7 +48,7 @@ Tilix has worked with a number of challenger suppliers in the GB Market advising
     - Cookies Policy
     - Privacy Policy
 
-Tilix maintains a library of templates and style guidelines for the above content. The firm also tracks how a number of different suppliers treat each piece. It is interesting to see the repeating patterns and diversity within the market.
+Tilix maintains a library of templates and style guidelines for the above content. The firm also tracks how a number of different suppliers treat each piece. I find it interesting to see the repeating patterns and diversity within the market.
 
 Each item has its own particular facets. For example, complaints is a regulated process and will require much more rigour to produce than say the content for the careers page. The content creation process must provide a level of flexibility. We have found that the Tilix approach can consistently produce the right result, on time and to budget.
 
@@ -55,7 +56,7 @@ Each item has its own particular facets. For example, complaints is a regulated 
 It's normally the case that content is produced in batches or series. Here the editorial calendar plays a vital role in managing the creative process.
 
 ### Hello Trello
-Tilix uses Trello to manage content creation for our own blog and client projects. Thereby each member of the team has access to notes, documents and the schedule as well as a powerful communication channel with colleagues. This tool is particularly valuable in controlling progress of each piece on the editorial calendar and provides a convenient way maintaining a holistic perspective.
+Tilix uses Trello to manage content creation for our own blog and client projects. Thereby each member of the team has access to notes, documents and the schedule as well as a powerful communication channel with colleagues. This tool is particularly valuable in controlling progress of each piece on the editorial calendar and provides a convenient way of maintaining a holistic perspective.
 
 Tilix chose Trello due to its cards and lists where information can be both stored and shared in a way that is accessible and informative to other members of a publication team. A Trello board has many different functions, including checklists, labels to colour coordinate each piece of information, due dates, attachments for documents linked to each  card, and a members list, where each member of the team can see who is responsible for each card. Within Tilix, we use the Trello Example Board to queue potential article pieces and process their development to completion from the initial conception of the idea for an article or piece of content to its  publication. Tilix separate their lists on Trello into five different categories:
 
@@ -72,11 +73,7 @@ Tilix chose Trello due to its cards and lists where information can be both stor
 ### ACME Energy
 The screen shot above shows a shot of the editorial calendar for the fictional supply business ACME Energy. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png).
 
-Each of the content pieces given in the map above are clearly identified and scheduled for production.
-
-Work in Progress includes ......
-
-The final column shows that only the Careers page has been published to date.
+Pieces from the content map above are clearly identified and scheduled for production. The final column shows that the Editorial calendar has been recently done. Although it is true to say that this is a living document which is never done! Work in Progress is focussed on the Careers page.
 
 ## More Analysis & Reflection
 In the coming weeks and months I look forward to publishing a series of blog posts which describe what Tilix and I have learnt from tracking the web content in the GB energy market.
