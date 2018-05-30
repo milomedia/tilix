@@ -12,9 +12,16 @@ teaser: "My second web development project with Tilix gave me the perfect opport
 ## The Brief
 The founders of Solarnest approached Tilix for advice regarding their first website.
 
-As an early stage start-up business, it was not surprising that Solarnest's business model was still crystallising. In turn this was impacting decision making about the look and feel of the website. To be blunt, the website comprised a mish-mash of words and cute graphics. It felt like a skeleton with no meat on the bones.
+As an early stage start-up business, it was not surprising that Solarnest's business model was still crystallising. In turn this was impacting decision making about the look and feel of the website. To be blunt, the website comprised a mish-mash of words and cute graphics. It felt like a skeleton with no meat on the bones. We could see issues in all the following areas:
 
-Breaking it down, it was agreed that two things would change:
+- Copywriting
+- Informtion Layout
+- Site Structure
+- Basic Functions
+- Solarnest Visual Identity
+- Clarity of Solarnest's mission
+
+Distilling these points down, it was agreed that two things would change:
 
 1. The website would communicate the Solarnest mission.
 2. The writing would serve to define the product-market fit.
