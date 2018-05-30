@@ -28,7 +28,7 @@ Regardless of the type of content, Tilix uses a four stage workflow. This seems 
 
 For larger teams each stage may follow a strict step by step process because input from a broader range of stakeholders (e.g. legal, PR, graphics) is required. However, for a small team the approach can be more fluid.
 
-Regardless of whether the process is lightweight or heavyweight, content always moves forwards in an iterative and incremental manner. An agile, adaptive approach is is necessary because there are invariably a number of obstacles and challenges to overcome before the content is ready to be published.
+Regardless of whether the process is lightweight or heavyweight, content always moves forwards in an iterative and incremental manner. An agile, adaptive approach is necessary because there are invariably a number of obstacles and challenges to overcome before the content is ready to be published.
 
 ## The Content Map
 Content mapping is a visual technique that will helps organise the content of a website. It is a valuable part of a site’s overall content strategy. The most basic content map is a bullet list. More sophisticated examples are highly stylised mind maps or grid layouts. Content maps help in the exploration and visualisation of the content of a whole site.
@@ -75,6 +75,6 @@ Tilix chose Trello due to its cards and lists where information can be both stor
 5. **Recently Done**: Here, all of the content is complete and has either been published or is ready to be published. Having this list on the Trello Board allows us to assess our progress, and get a general understanding of how often we have published and hit our due dates.
 
 ### ACME Energy
-The screen shot above shows a shot of the editorial calendar for the fictional supply business ACME Energy. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png). Pieces from the content map above are clearly identified and scheduled for production. The final column shows that the Editorial calendar has been recently done. Although it is true to say that this is a living document which is never done! Work in Progress is focussed on the Careers page.
+The screen shot above shows a shot of the editorial calendar for the fictional supply business ACME Energy. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png). Here you can see how which content is in the backlog, what is queued and what is work in progress. The final column shows that the Editorial calendar has been recently done.
 
 I look forward to publishing a series of blog posts which deep dive into several of the content items listed above. I'll look at what's common and what's different across the market. In many cases I will present examples of original content for ACME Energy to highlight the impact of tone of voice and writing style.
