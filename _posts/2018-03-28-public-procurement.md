@@ -8,9 +8,9 @@ image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/Contracts-Hunter.png
 title: "Successful Bids & Tenders"
 teaser: "An important goal for Tilix in 2018 is to be systematic and successful in responding to contract notices posted in various e-tendering portals."
 ---
-In the UK the value of public sector procurement of goods and services is around £300B (circa 10% of nominal GDP). Many firms in the gas and electric utilities sector are required to comply with procurement rules somewhat akin to those found in the public sector.
+The value of public sector procurement of goods and services in the UK is around £300B. This is circa 10% of nominal GDP. Additionally, many firms in the gas and electric utilities sector must also comply with procurement rules somewhat akin to those found in the public sector.
 
-To win business through this important channel to market, Tilix are building on experience gained from dipping our toes in the tendering pool in 2017. The lessons learnt and positive encouragement from our early expeditions are proving to be invaluable. In summary, the general axioms we have developed are:
+Therefore public ITTs are an important channel to market for Tilix and we successfully dipped our toes in the tendering pool in 2017. The lessons learnt and positive encouragement from our early expeditions are proving to be invaluable. In summary, the general axioms we have developed are:
 
 - **Bidding in partnership** is powerful. However, it takes time, effort and humility to create a winning team.
 - **Build experience and confidence** in lower priced contracts first.
