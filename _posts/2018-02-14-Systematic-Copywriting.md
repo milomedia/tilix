@@ -31,9 +31,10 @@ For larger teams each stage may follow a strict step by step process because inp
 Regardless of whether the process is lightweight or heavyweight, content always moves forwards in an iterative and incremental manner. An agile, adaptive approach is is necessary because there are invariably a number of obstacles and challenges to overcome before the content is ready to be published.
 
 ## The Content Map
+Content mapping is a visual technique that will helps organise the content of a website. It is a valuable part of a site’s overall content strategy. The most basic content map is a bullet list. More sophisticated examples are highly stylised mind maps or grid layouts. Content maps help in the exploration and visualisation of the content of a whole site.
 
 ### An Energy Suppliers Foundational Content
-Tilix has worked with a number of challenger suppliers in the GB Market advising them on their licence obligations and digital engineering imperatives. From this experience, we can see that the foundational content for most suppliers is:
+Tilix has worked with a number of challenger suppliers in the GB Market advising them on their licence obligations and digital engineering imperatives. From this experience, we can see that the foundational content for most suppliers fits into the following basic map:
 
 - FAQs
 - Meters
@@ -44,7 +45,6 @@ Tilix has worked with a number of challenger suppliers in the GB Market advising
 - Consumer Advice
 - T&Cs
     - Your Contract
-    - Terms and Conditions
     - Cookies Policy
     - Privacy Policy
 
@@ -54,6 +54,10 @@ Each item has its own particular facets. For example, complaints is a regulated 
 
 ## The Editorial Calendar
 It's normally the case that content is produced in batches or series. Here the editorial calendar plays a vital role in managing the creative process.
+
+Editorial calendars have been used within the print industry for centuries to manage the publication of books, magazines, and newspapers. Internet publishers use them to organise content and ensure it is published at regular intervals.
+
+It is possible to use a paper calendar, a spreadsheet, or software integrated with desktop publishing software. Whatever approach, it usually tracks story ideas and the production calendar as well as recording the history of published content.
 
 ### Hello Trello
 Tilix uses Trello to manage content creation for our own blog and client projects. Thereby each member of the team has access to notes, documents and the schedule as well as a powerful communication channel with colleagues. This tool is particularly valuable in controlling progress of each piece on the editorial calendar and provides a convenient way of maintaining a holistic perspective.
@@ -71,11 +75,6 @@ Tilix chose Trello due to its cards and lists where information can be both stor
 5. **Recently Done**: Here, all of the content is complete and has either been published or is ready to be published. Having this list on the Trello Board allows us to assess our progress, and get a general understanding of how often we have published and hit our due dates.
 
 ### ACME Energy
-The screen shot above shows a shot of the editorial calendar for the fictional supply business ACME Energy. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png).
+The screen shot above shows a shot of the editorial calendar for the fictional supply business ACME Energy. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png). Pieces from the content map above are clearly identified and scheduled for production. The final column shows that the Editorial calendar has been recently done. Although it is true to say that this is a living document which is never done! Work in Progress is focussed on the Careers page.
 
-Pieces from the content map above are clearly identified and scheduled for production. The final column shows that the Editorial calendar has been recently done. Although it is true to say that this is a living document which is never done! Work in Progress is focussed on the Careers page.
-
-## More Analysis & Reflection
-In the coming weeks and months I look forward to publishing a series of blog posts which describe what Tilix and I have learnt from tracking the web content in the GB energy market.
-
-In this series, I will deep dive into several of the content items listed above. I'll look at what's common and what's different across the market. In many cases I will present examples of original content for ACME Energy to highlight how tone of voice and writing style can be applied to spice up even the driest of content.
+I look forward to publishing a series of blog posts which deep dive into several of the content items listed above. I'll look at what's common and what's different across the market. In many cases I will present examples of original content for ACME Energy to highlight the impact of tone of voice and writing style.

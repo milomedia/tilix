@@ -26,7 +26,9 @@ Tilix has invested significant time and effort in building a roster of trusted a
 
 Of vital importance in 2018 is the formation of an alliance between NovAzure, Sustainable Direction and Tilix. The three firms share very similar vision, mission and operating models. Together we are gelling as a formidable prospecting and bidding group. Whilst Tilix has a background in electrical engineering and the utility sector, NovAzure specialise in oil and gas industry. Sustainable Direction bring a third dimension: that of environmental engineering.
 
-## Assessing Opportunties
+> “We are delighted that being agile and building trust through collaboration has created a fruitful partnership with Tilix and Sustainable Direction” - **Christopher Gruen, MD NovAzure**
+
+## Assessing Opportunities
 Time is of the essence and it pays to start working opportunities as soon as they are published. Despite the need for responding quickly to the starting gun, pacing for a long game is essential. Whilst individual opportunities sometimes require haste, the overall race is a marathon not a sprint.
 
 A quick look at a contract notice should only take 5 or 10 minutes. From this an outline of the possibilities should emerge. To aid this process, we have standardised the format and tools we use to communicate within the prospecting group.
