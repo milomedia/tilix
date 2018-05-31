@@ -16,7 +16,7 @@ This post provides a summary of what I've learned about managing the creative wr
 - Content Maps
 - The Editorial Calendar
 
-The key lesson I have found is that process and procedure does not stifle the creative process. In fact being organised helps produce quality content. This is somewhat like how the brakes on a car can help make driving at fast speed safe and comfortable.
+The key lesson I have found is that process and procedure does not stifle the creativity. In fact being organised helps produce quality content. This is somewhat like how the brakes on a car can help make driving at fast speed safe and comfortable.
 
 ## Publishing Workflow
 Regardless of the type of content, Tilix uses a four stage workflow. This seems to work well for project managing most content creation jobs.
