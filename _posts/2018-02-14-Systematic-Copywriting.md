@@ -31,7 +31,9 @@ For larger teams each stage may follow a strict step by step process because inp
 Regardless of whether the process is lightweight or heavyweight, content always moves forwards in an iterative and incremental manner. An agile, adaptive approach is necessary because there are invariably a number of obstacles and challenges to overcome before the content is ready to be published.
 
 ## The Content Map
-Content mapping is a visual technique that will helps organise the content of a website. It is a valuable part of a site’s overall content strategy. The most basic content map is a bullet list. More sophisticated examples are highly stylised mind maps or grid layouts. Content maps help in the exploration and visualisation of the content of a whole site.
+Content mapping is a visual technique that helps organise the content of a website. Content maps help in the exploration and visualisation of the content of a whole site. The process of mapping and the map itself are essential elements of professional content management. 
+
+The most basic content map is a bullet list. More sophisticated approaches include highly stylised mind maps or grid layouts. 
 
 ### An Energy Suppliers Foundational Content
 Tilix has worked with a number of challenger suppliers in the GB Market advising them on their licence obligations and digital engineering imperatives. From this experience, we can see that the foundational content for most suppliers fits into the following basic map:
@@ -62,19 +64,24 @@ It is possible to use a paper calendar, a spreadsheet, or software integrated wi
 ### Hello Trello
 Tilix uses Trello to manage content creation for our own blog and client projects. Thereby each member of the team has access to notes, documents and the schedule as well as a powerful communication channel with colleagues. This tool is particularly valuable in controlling progress of each piece on the editorial calendar and provides a convenient way of maintaining a holistic perspective.
 
-Tilix chose Trello due to its cards and lists where information can be both stored and shared in a way that is accessible and informative to other members of a publication team. A Trello board has many different functions, including checklists, labels to colour coordinate each piece of information, due dates, attachments for documents linked to each  card, and a members list, where each member of the team can see who is responsible for each card. Within Tilix, we use the Trello Example Board to queue potential article pieces and process their development to completion from the initial conception of the idea for an article or piece of content to its  publication. Tilix separate their lists on Trello into five different categories:
+Tilix chose Trello due to its cards and lists where information can be both stored and shared in a way that is accessible and informative to other members of a publication team. A Trello board has many different functions, including checklists, labels to colour coordinate each piece of information, due dates, attachments for documents linked to each  card, and a members list, where each member of the team can see who is responsible for each card. Tilix uses Trello to queue work and track progress to completion through five lists on the board:
 
-1. **Info & Reference**: Within this list, our cards all feature a description of the process of our inception of each content piece.
+1. **Info & Reference**: The cards here help describe the process and provide stylistic guidance.
 
-2. **Backlog**: This list features cards that represent each piece of content that need to be written in the future, hence why it is in our backlog to be discussed at a later point and to continue a stream of continuous, regular publications.
+2. **Backlog**: This list captures future content ideas. For the Tilix blog, the backlog includes 3-4 months worth of content.
 
-3. **Queued**: These are the pieces of content that are up next, ones that have been assigned to a member of the team and are waiting to be started, with a due date already set.
+3. **Queued**: Content listed here has been assigned to an author. The brief and due date is agreed between the author and the editor (aka product owner).
 
-4. **Work In Progress**: Naturally, this list features all of the content pieces on individual cards that have been started and are currently being written. Tilix also include a five-step workflow tick-box section within each card so it is clear to see how far each content piece is until completion.
+4. **Work In Progress**: This list identifies all of the content currently being written. These pieces are shared via Dropbox and go through a peer review process before being prepared for publication. For the Tilix blog, the team strikes a careful balance between publishing too early and publishing too late. The general mantra on the Tilix blog is: if in doubt publish and be damned! For client websites, it is prudent to take a more careful approach.
 
-5. **Recently Done**: Here, all of the content is complete and has either been published or is ready to be published. Having this list on the Trello Board allows us to assess our progress, and get a general understanding of how often we have published and hit our due dates.
+5. **Recently Done**: Content listed here is published on the Tilix website. The Tilix team share comments on newly posted blogs through [hypothes.is](https://web.hypothes.is). 
 
 ### ACME Energy
-The screen shot above shows a shot of the editorial calendar for the fictional supply business ACME Energy. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png). Here you can see how which content is in the backlog, what is queued and what is work in progress. The final column shows that the Editorial calendar has been recently done.
+Tilix uses the fictional business ACME Energy as a narrative device to demonstrate the businesses processes, technology and content that are necessary for a licensed supply business to operate.
 
-I look forward to publishing a series of blog posts which deep dive into several of the content items listed above. I'll look at what's common and what's different across the market. In many cases I will present examples of original content for ACME Energy to highlight the impact of tone of voice and writing style.
+The screen shot above shows the editorial calendar for  ACME Energy when it was just starting out. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png). 
+
+The Trello board shows how the content is primed for production and work in progress is focussed on the Careers page. I look forward to publishing a series of blog posts which deep dive into these ACME Energy content items. This will include:
+
+- Highlighting the impact of tone of voice and writing style.
+- Reflecting on some samples from other suppliers in the market.
