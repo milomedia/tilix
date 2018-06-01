@@ -14,7 +14,7 @@ teaser: "On 19 July 2018, NovAzure and Tilix are hosting an engaging energy indu
 ## Outline Agenda
 This event will deep dive into blockchain’s role in the electrification of everything and showcase a number of interesting startups. As well as technology, we also consider the human elements of inventing, deploying and optimising innovation.
 
-The day will be the master of ceremonies. He will harness the energy in the room and provide a golden thread that stitches the event together so that we can all make magic, derive value and take home fond memories.
+Christopher Gruen will be the master of ceremonies. He will harness the energy in the room and provide a golden thread that stitches the event together.
 
 ### Key Topics
 - Energy 4.0, Smart Grid, Smart Home, Blockchain
