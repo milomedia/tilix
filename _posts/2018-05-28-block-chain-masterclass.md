@@ -37,20 +37,20 @@ Dr Neil Williams will lead a discussion on the investor's view of innovation. Th
 Hope or hype? The reality is not black or white. Jean-Jacques Jouanna will take a thorough look at the facts, opportunities and myths. There will be an executive briefing on the current state of the art plus lively discussion and debate.
 
 ### Human Factors
-Andrew Hancock knows that people are the vital spark who drive innovation and then provide flexibility to make it work in practice. He will discuss why he thinks that technology is unlikely to make us all redundant. However, he will explore how it is changing changes which skills and cultures are most valuable in customer service and back office operations.
+Andrew Hancock knows that people are the vital spark who drive innovation and then provide flexibility to make it work in practice. He will discuss why he thinks that technology is unlikely to make us all redundant. However, he will explore how the skills and cultures which are most valuable in customer service and back office operations are changing at a rapid pace.
 
 ### Timetable
 
 |  | *Subject to change* |
 |:--|:--|
-| **10:30 ** | - Coffee & Registration |
-| **11:00 ** | - Leading from the Emerging Future |
-| **11:45 ** | - Executive Briefing on Blockchain |
-| **12:15 ** | - Lunch |
-| **13:30 ** | - Blockchain Discussion & Debate |
-| **14:15 ** | - The Vital Sparks |
-| **14:45 ** | - Summary & Conclusion |
-| **15:00 ** | - Refreshments & Networking |
+| **10:30**  | - Coffee & Registration |
+| **11:00**  | - Leading from the Emerging Future |
+| **11:45**  | - Executive Briefing on Blockchain |
+| **12:15**  | - Lunch |
+| **13:30**  | - Blockchain Discussion & Debate |
+| **14:15**  | - The Vital Sparks |
+| **14:45**  | - Summary & Conclusion |
+| **15:00**  | - Refreshments & Networking |
 
 ## Past event success
 - “The speakers were articulate and clear and for what could have been a very dry event, it was timed to perfection and my objectives for the day were met.”

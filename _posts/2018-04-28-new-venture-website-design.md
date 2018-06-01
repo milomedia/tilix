@@ -57,7 +57,7 @@ Investing time and effort in understanding the strategy and scope for the websit
 > When required, Tilix works with our clients to eliciting website purpose and goals using a consultative approach that is lightweight, fun and can be accomplished in a few hours.
 
 ## Digital Roadmap
-For a new business a typical digital roadmap will cover a journey from a web host 404 page to the creation of a digital growth stack.
+For a new business, a typical digital roadmap will cover a journey from a web host 404 page to the creation of a digital growth stack.
 
 1. **Logo, Business Card & Letterhead**: Business communications are predominantly digital, so it is important design for both print and the screen.
 2. **Holding Page**: A simple, single page website is far more credible and valuable than a web host 404 page like the one shown above. Doing more than a cliched "Under Construction" or "Coming Soon" page is not difficult. Choose an evocative photograph, include a compelling call to action, invite contact from your website visitors and offer a mailing list. Don't forget to embed analytics and to support mobile devices from day one.
