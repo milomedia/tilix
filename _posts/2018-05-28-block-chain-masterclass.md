@@ -5,19 +5,19 @@ Author: Neil Williams
 Primary SEO:  
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/novAzure-tilix.png
-title: "Masterclass: Blockchain, Smart Energy, Energy 4.0 …"
+title: "Masterclass: Blockchain, Smart Grid, Energy 4.0 …"
 teaser: "On 19 July 2018, NovAzure and Tilix are hosting an engaging energy industry event from 10:30 to 15:00 at IdeaLondon."
 ---
 
-> {{ page.teaser }}
+> {{ page.teaser }} [Buy early bird tickets](https://blockchain-energy.eventbrite.co.uk) for £100 + fees & VAT. This 50% discount on the ticket price is available until midnight on 22nd June. Standard price tickets are £200 + fees & VAT.
 
 ## Outline Agenda
 This event will deep dive into blockchain’s role in the electrification of everything and showcase a number of interesting startups. As well as technology, we also consider the human elements of inventing, deploying and optimising innovation.
 
-Christopher Gruen will be the master of ceremonies. He will harness the energy in the room and provide a golden thread that stitches the event together.
+[Christopher Gruen](https://www.linkedin.com/in/chrisgruen/) will be the master of ceremonies. He will harness the energy in the room and provide a golden thread that stitches the event together.
 
 ### Key Topics
-- Energy 4.0, Smart Grid, Smart Home, Blockchain
+- Energy 4.0, Smart Grid, Blockchain
 - Success factors for innovation in energy
 - Key drivers for leveraging social value & business transformation
 - Best practices for enhancing business performance and employee engagement
@@ -31,13 +31,13 @@ Christopher Gruen will be the master of ceremonies. He will harness the energy i
 - Partnership Management
 
 ### Innovation Management
-Dr Neil Williams will lead a discussion on the investor's view of innovation. The ever changing smart and digital energy is creating a myriad of opportunities around storage, demand side response, AI and blockchain. Investors (both corporate and private) will learn how to methodically and effectively surf these waves.
+[Dr Neil Williams](https://www.linkedin.com/in/drneilwilliams/) will lead a discussion on the investor’s view of innovation. The ever changing smart and digital energy is creating a myriad of opportunities around storage, demand side response, AI and blockchain. Entrepreneurs and investors will share ideas on how to methodically and effectively surf these waves.
 
 ### Blockchain
-Hope or hype? The reality is not black or white. Jean-Jacques Jouanna will take a thorough look at the facts, opportunities and myths. There will be an executive briefing on the current state of the art plus lively discussion and debate.
+Hope or hype? The reality is not black or white. There will be an executive briefing from [Jean-Jacques Jouanna](https://www.linkedin.com/in/jjouanna/) where he will take a thorough look at the facts, opportunities and myths. This will followed by lively discussion and debate.
 
 ### Human Factors
-Andrew Hancock knows that people are the vital spark who drive innovation and then provide flexibility to make it work in practice. He will discuss why he thinks that technology is unlikely to make us all redundant. However, he will explore how the skills and cultures which are most valuable in customer service and back office operations are changing at a rapid pace.
+[Andrew Hancock](https://www.linkedin.com/in/andrewjhancock/) will discuss why he thinks that technology is unlikely to lead to mass redundancy. This is because people are the vital spark who drive innovation and then provide flexibility to make it work in practice. He will also shares his views on why the skills needed in customer service and back office operations are increasing at a rapid pace.
 
 ### Timetable
 
