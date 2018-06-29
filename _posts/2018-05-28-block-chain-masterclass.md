@@ -9,7 +9,7 @@ title: "Masterclass: Blockchain, Smart Grid, Energy 4.0 …"
 teaser: "On 19 July 2018, NovAzure and Tilix are hosting an engaging energy industry event from 10:30 to 15:00 at IdeaLondon."
 ---
 
-> {{ page.teaser }} [Buy early bird tickets](https://blockchain-energy.eventbrite.co.uk) for £100 + fees & VAT. This 50% discount on the ticket price is available until midnight on 22nd June. Standard price tickets are £200 + fees & VAT.
+> {{ page.teaser }} [Buy early bird tickets](https://blockchain-energy.eventbrite.co.uk) for £100 + fees & VAT. This 50% discount on the ticket price is available until 23:59 on Friday 22nd June. Standard price tickets are £200 + fees & VAT.
 
 ## Outline Agenda
 This event will deep dive into blockchain’s role in the electrification of everything and showcase a number of interesting startups. As well as technology, we also consider the human elements of inventing, deploying and optimising innovation.
