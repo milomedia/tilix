@@ -11,7 +11,7 @@ teaser: "In this guest post Mark Bunting reflects on the nexus between blockchai
 
 > {{ page.teaser }} [Mark is a fund raiser, mentor & advisor to growth businesses.](https://www.linkedin.com/in/markcbunting/) He will be attending the NovAzure and Tilix Smart Energy Masterclass (19 July 2018, IdeaLondon). [Buy tickets online at Eventbrite](https://blockchain-energy.eventbrite.co.uk) £200 + fees & VAT.
 
-I am an advisor and investor to several technology firms. Therefore I like to keep a close eye on emerging trends. I am acutely aware of the ongoing transformation in energy. In this category, I am actively involved with Logicor, ..... etc.
+As an advisor and investor to several technology firms, I like to keep a close eye on emerging trends. I am acutely aware of the ongoing transformation in energy. In this category, I am actively involved with Logicor, ..... etc.
 
 In this guest post, I share my observations about the blockchain investment landscape and its potential as a competitive weapon in smart energy.
 
@@ -47,7 +47,11 @@ I am particularly intrigued by [Electron](http://www.electron.org.uk) and am del
 
 I am keeping a close eye on [R3](https://www.r3.com), waiting to see when they may be ready to engage properly with the energy sector.
 
-The [Zero Carbon Project](https://www.zerocarbonproject.com) is another with exciting prospects. They recently .....
+The [Zero Carbon Project][ZCP1] is another with exciting prospects. They are tackling climate change using blockchain and recently [won two blockchain awards in London and Amsterdam][ZCP2]. [Zero Carbon Project is currently in the democratic private pre-sale round][ZCP3].
+
+[ZCP1]: https://www.zerocarbonproject.com
+[ZCP2]: https://medium.com/zero-carbon-project/zero-carbon-project-wins-two-blockchain-awards-in-london-and-amsterdam-2be911aeb249
+[ZCP3]: https://medium.com/zero-carbon-project/zero-carbon-project-launches-private-pre-sale-democracy-at-london-blockchain-conference-104f6906dd33
 
 ### Final Thoughts
 I believe blockchain will touch every element of the energy value chain in one way or another. The rationale is simple: the sector is moving from a static, linear structure of large generators -> monopoly networks -> disengaged consumer to a complex web of distributed, smart and clean system including a large number of engaged prosumers.
