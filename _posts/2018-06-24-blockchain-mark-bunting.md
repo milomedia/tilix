@@ -16,7 +16,10 @@ As an advisor and investor to several technology firms, I like to keep a close e
 In this guest post, I share my observations about the blockchain investment landscape and its potential as a competitive weapon in smart energy.
 
 ### Thoughts on Blockchain’s emergence
-From [Blockchain Adoption in Capital Markets - 2018](https://www.greenwich.com/equities/blockchain-adoption-capital-markets-2018) by financial market intelligence firm [Greenwich Associates][48] I see that reduced operating costs is a primary benefit of distributed ledger technology in financial markets.
+From [Blockchain Adoption in Capital Markets - 2018][GA1] by financial market intelligence firm [Greenwich Associates][GA2] I see that reduced operating costs is a primary benefit of distributed ledger technology in financial markets.
+
+[GA1]: https://www.greenwich.com/equities/blockchain-adoption-capital-markets-2018
+[GA2]: https://www.greenwich.com/
 
 The total annual budget for enterprise blockchain initiatives across capital markets and banking are a staggering $1.7B. So it is clear that blockchain is fuelling change in the FinTech sector. Whilst many believe that the advancements taking place are going to be game changing, I have a more guarded perspective.
 
@@ -28,7 +31,7 @@ Blockchain's most important feature is [immutability](https://bitsonblocks.net/2
 This is particularly valuable in applications it’s critical that transactions are part of a permanent record. The example I hear most talked about is peer to peer energy trading.
 
 ### Evaluating investment opportunities in the energy sector
-People is one of the biggest factors. In particular I look at the quality of the leadership team and the partners behind the project. Staying power is important. I need to feel confident that they will survive the lean times on the roller coaster ride towards finding a product-market fit.
+People are a big deal. In particular I look at the quality of the leadership team and the partners behind the project. Staying power is important. I need to feel confident that they will survive the lean times on the roller coaster ride towards finding a product-market fit.
 
 ### Raising the Likelihood of Startup Success
 For me, the key metric is cash and the top priority for a startup CEO is not to run out of cash. Entrepreneurs and inventors often struggle with cash flow management and finding sources of investment. Thats where advisors like me can help.
@@ -50,8 +53,4 @@ The [Zero Carbon Project][ZCP1] is another with exciting prospects. They are tac
 ### Final Thoughts
 I believe blockchain will touch every element of the energy value chain in one way or another. The rationale is simple: the sector is moving from a static, linear structure of large generators -> monopoly networks -> disengaged consumer to a complex web of distributed, smart and clean system including a large number of engaged prosumers.
 
-For many blockchain is a space for prospectors. For example, traditional investors with their rational thinking would not invest in Ethereum a couple of years ago. It now has an eye-watering market cap! I see that blockchain is crossing the chasm from the world of prospectors to that of the investor. I am doing my homework and getting ready to make investments in the next year or two.
-
-[SN]: https://www.linkedin.com/in/nerayoff/
-[47]: https://www.greenwich.com/press-release/wall-street-blockchain-investments-top-1billion-annually-0
-[48]: https://www.greenwich.com/
+For many blockchain is a space for prospectors. For example, traditional investors with their rational thinking would not have invested in Ethereum a couple of years ago. It now has an eye-watering market cap! I think that blockchain is crossing the chasm from the world of prospectors to that of the investor. I am doing my homework and getting ready to make investments within the next year or two.
