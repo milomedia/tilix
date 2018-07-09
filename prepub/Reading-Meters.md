@@ -29,9 +29,9 @@ Ofgem's publishes lots of content on metering (e.g. [Meter reading and installat
 In-depth, technical information about metering can be found at The Office for Product Safety and Standards. One of its goals this government office is to enhance protections for consumers. However, I think its content on metering (e.g. [Gas meter readings and bill calculation - GOV.UK][gov2]) is not targeted at the general consumer audience.
 
 ### Commercial participants in the energy market
-[Orbit Energy](https://orbitenergy.co.uk/meters) have a fantastic page about how to read your meter, how to read different types of meters, an with a selection of imagery to go with it. It was very informative. Really liked the style of this one, it was really written for everyone to understand.
+[Orbit Energy](https://orbitenergy.co.uk/meters) have a fantastic page about how to read your meter, how to read different types of meters, an with a selection of imagery to go with it. It was very informative. I really liked the style of this one and felt it was  written clearly enough for everyone to understand.
 
-[Ovo Energy](https://www.ovoenergy.com/help/meter-readings#how-do-i-read-my-meter) have a page for smart meters, and explained what they were, how many they had installed, why they were better etc. Then it stated how to get one, and the steps through this. At the end it had a few FAQs about meters and how to switch to a smart meter.
+[Ovo Energy](https://www.ovoenergy.com/help/meter-readings#how-do-i-read-my-meter) ....
 
 The advice from [Octopus](https://octopus.energy/help-and-faqs/categories/meters/how-do-i-read-my-meter/) on reading meters was hard to find for a customer who isn’t energy savvy. It was under the ‘Help and FAQs’ section, but would have been easier to access if it was in a category of its own. It only detailed six questions.
 
@@ -69,9 +69,9 @@ Despite the best intentions of smart metering, some domestic consumers may need 
 ## Conclusions
 Having a "how to read your meter" page is vital in all energy suppliers because inaccurate or missing readings are very expensive.
 
-It is necessary to separate gas and electricity.....
+- treat gas and electricity seperately....
 
-meters from smart meters, and use images to clearly illustrate the difference between each meter; for example, a single rate meter and a double rate meter.
+- use images to clearly illustrate the difference between each meter; for example, a single rate meter and a double rate meter.
 
 Visual stimuli to support any statement you make when writing a page like this is vital for any customer to fully understand what reading a meter shows through a visual example.
 
