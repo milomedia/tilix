@@ -18,7 +18,7 @@ With EV charging networks, a large part of the land grab has been about winning 
 
 [Uniti EV](https://www.uniti.earth) have done a fantastic job partnering with MediaMarkt - Europe's largest retailer of consumer electronics. From December 8t​h 2017​, Uniti vehicles have been available to view and pre-order in stores. These partners are [teaming up to disrupt car distribution](https://www.uniti.earth/uniti-mediamarkt-disrupt-car-distribution/)
 
-[Utility Warehouse](https://www.utilitywarehouse.co.uk) have built franchise network to proliferate their business model and grow market share. Through very generous “refer a friend” offers [Bulb Energy](https://bulb.co.uk) have inspired its customers to evangelise its value proposition, share it with their connections, and behave as a very effective distribution channel. [It's recent offer was particularly generous](https://www.moneysavingexpert.com/news/energy/2017/11/energy-supplier-bulb-doubles-its-referral-reward-for-one-week).
+[Utility Warehouse](https://www.utilitywarehouse.co.uk) have built franchise network to proliferate their business model and grow market share. Through [very generous “refer a friend” offers]((https://www.moneysavingexpert.com/news/energy/2017/11/energy-supplier-bulb-doubles-its-referral-reward-for-one-week), fast growing supplier [Bulb Energy](https://bulb.co.uk) have inspired its customers to evangelise its value proposition and behave as a very effective distribution channel partner.
 
 With platforms like [Apple’s HomeKit](https://developer.apple.com/homekit/) or [Google’s Android Things](https://developer.android.com/things/), independent software developers can leverage APIs to transform these innovations’ features into benefits for consumers. It is also clear that smart home technology and energy supply is a fertile ground for partnerships.
 
@@ -66,13 +66,15 @@ In these relationships there are two key protagonists: the Owner and the Provide
 Whitelabel energy supply are classic distribution deals. For example, British Gas offers products and services under the Sainsbury’s Energy brand, while SSE works with Marks & Spencer to provide M&S Energy. Even with Ofgem clarifying its position on the regulatory treatment of these types of deals, it is not all a bed of roses. In 2016 Age UK were criticised roundly after over its relationship with E.ON.
 
 ### Digital Partnerships
-In digital markets partnerships embodied as APIs, microservices, open data and platforms are proving to be critical for the success of many businesses.
+In digital markets partnerships embodied as APIs, microservices, open data and platforms are proving to be critical for the success of many businesses. Within the energy & home services space, many entrepreneurs see a future where customers can access the information they need and interact wherever is most convenient for them. This might mean viewing bills through a digital banking app, or managing council tax bills through a WhatsApp bot. This is a natural way for digital natives to interact. To achieve this, platforms and APIs are needed behind the scenes to glue it all together.
 
 There are many APIs and data sets for energy industry software engineers to leverage. However, developers moving in from other sectors find interfaces within the energy industry are not as modern, useful, findable or as open as in other sectors.
 
-To date the energy industry has no major digital platform offering like we see from Amazon in retail, Apple in music or Uber in transport. But there may well be one just around the corner. Don't forget that the decline of BlackBerry and Nokia was due to competition from Apple and Google who are platform companies. As former Nokia CEO Stephen Elop wrote in 2011:
+> The energy sector's systems are certainly not easy to work with compared to say financial services. However, I actually think that the industry is so far behind that it has a great opportunity to do things really well through applying lessons learnt from elsewhere. It's a huge area to tackle but I do see that there could be comprehensive API access to gas, electricity and water utilities on a par with what we are seeing in open banking. **Hedley Smith, [Homebox](www.homebox.io)**
 
->We’re not even fighting with the right weapons, ... The battle of devices has now become a war of ecosystems.
+To date the energy industry has no major digital platform offering like we see from Amazon in retail, Apple in music or Uber in transport. But there may well be one just around the corner. Don't forget that the decline of BlackBerry and Nokia was due to competition from Apple and Google who are platform companies.
+
+>We’re not even fighting with the right weapons, ... The battle of devices has now become a war of ecosystems. **Stephen Elop, whilst Nokia CEO**
 
 ## Conclusions
 Possibly the most important cultural requirement for strong partnerships is trust, which is readily achieved through having open minds, open hearts & open will.
