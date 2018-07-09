@@ -7,18 +7,18 @@ Secondary SEO:
 image:
 title: "Building Win-Win Partnerships"
 ---
-This article explores some of the ways that partnerships can help with increasing sales, innovation, raising finance, reducing costs etc in the energy and cleantech sectors.
+This article explores some of the ways that partnerships can help with increasing sales, innovation, raising finance and reducing costs in the energy and cleantech sectors.
 
-The first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) is **Key Partnerships** because for businesses large or small, young or old there is no such thing as end to end or we can do it all.
+The first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) is **Key Partnerships** because for businesses large or small, young or old there is no such thing as end-to-end or "we can do it all".
 
-Every partnership has different commercial factors and nuances. Some may be more tactical than strategic. They are often asymmetrical e.g. a small consultancy may consider its relationship with Microsoft as strategic but not vice versa.
+Every partnership has different commercial factors and nuances. Some may be more tactical than strategic. They are often asymmetrical, e.g. a small consultancy may consider its relationship with Microsoft as strategic but not vice versa.
 
 ## Vignettes
-With EV charging networks, a large part of the land grab has been about winning the support of points of traveler interest, along with getting published in popular online maps. Chargemaster executed this at national scale by leveraging a number of strategic partnerships. They have been rewarded by a [£130M acquisition by BP](https://www.bbc.co.uk/news/business-44640647).
+With EV charging networks, a large part of the land grab has been about winning the support of points of traveler interest, along with getting published in popular online maps. Chargemaster executed this at national scale by leveraging a number of strategic partnerships. They have been rewarded with a [£130M acquisition by BP](https://www.bbc.co.uk/news/business-44640647).
 
-[Uniti EV](https://www.uniti.earth) have done a fantastic job partnering with MediaMarkt - Europe's largest retailer of consumer electronics. From December 8t​h 2017​, Uniti vehicles have been available to view and pre-order in stores. These partners are [teaming up to disrupt car distribution](https://www.uniti.earth/uniti-mediamarkt-disrupt-car-distribution/)
+[Uniti EV](https://www.uniti.earth) have done a fantastic job partnering with MediaMarkt - Europe's largest retailer of consumer electronics. From 8 December 2017​, Uniti vehicles have been available to view and pre-order in stores. These partners are [teaming up to disrupt car distribution](https://www.uniti.earth/uniti-mediamarkt-disrupt-car-distribution/)
 
-[Utility Warehouse](https://www.utilitywarehouse.co.uk) have built franchise network to proliferate their business model and grow market share. Through [very generous “refer a friend” offers]((https://www.moneysavingexpert.com/news/energy/2017/11/energy-supplier-bulb-doubles-its-referral-reward-for-one-week), fast growing supplier [Bulb Energy](https://bulb.co.uk) have inspired its customers to evangelise its value proposition and behave as a very effective distribution channel partner.
+[Utility Warehouse](https://www.utilitywarehouse.co.uk) has built a franchise network to proliferate their business model and grow market share. Through [very generous “refer a friend” offers]((https://www.moneysavingexpert.com/news/energy/2017/11/energy-supplier-bulb-doubles-its-referral-reward-for-one-week), fast growing supplier [Bulb Energy](https://bulb.co.uk) has inspired its customers to evangelise its value proposition and behave as a very effective distribution channel partner.
 
 With platforms like [Apple’s HomeKit](https://developer.apple.com/homekit/) or [Google’s Android Things](https://developer.android.com/things/), independent software developers can leverage APIs to transform these innovations’ features into benefits for consumers. It is also clear that smart home technology and energy supply is a fertile ground for partnerships.
 
@@ -34,7 +34,7 @@ Software vendors (e.g. Gentrack, AMT-Sybex, Utiligroup) have partner ecosystems 
 From R&D through sales to customer service, partnerships and collaboration can help small players punch above their weight and help larger organisations operate in markets where speed and agility is key.
 
 ### Outsourcing
-Outsourcing can optimise operations and enable a focus on core activity. These are often viewed as partnerships but are more often tactical Buyer-Supplier relationships than strategic alliances. Therefore, they are not considered in this short article.
+Outsourcing can optimise operations and enable a focus on core activity. These are often viewed as partnerships but are more often tactical buyer-supplier relationships than strategic alliances. Therefore, they are not considered in this short article.
 
 ### Investment
 Dealing with investors, as with any partnership, requires patience and mindfulness. Terms like dragons, tigers, sharks, lions and vultures paint a popular misconception of investors as hard-nosed, aggressive capitalists.
@@ -50,7 +50,7 @@ For the past decade or so, almost every other sector has been going through wave
 
 Partnerships can help position firms to catch the next wave of innovation can help in establishing systematic approaches to getting value out of new technology, business models and markets.
 
-Incubators, joint ventures, alliances, consortia etc for developing new products, services and software are becoming more and more prevalent. For example, [IdeaLondon][il], [EIC][eic], [KTN][ktn] and others are doing some great work in the UK.
+Incubators, joint ventures, alliances and consortia for developing new products, services and software are becoming more and more prevalent. For example, [IdeaLondon][il], [EIC][eic], [KTN][ktn] and others are doing some great work in the UK.
 
 [eic]: http://energyinnovationcentre.com
 [il]: https://www.idea-london.co.uk
@@ -63,10 +63,10 @@ In these relationships there are two key protagonists: the Owner and the Provide
 
 > **Distribution Network Operators (DNOs)** offer a delivery mechanism rather than a channel to market. There are mandatory Buyer-Supplier relationship between a licensed energy retailers and DNOs rather than strategic alliances.
 
-Whitelabel energy supply are classic distribution deals. For example, British Gas offers products and services under the Sainsbury’s Energy brand, while SSE works with Marks & Spencer to provide M&S Energy. Even with Ofgem clarifying its position on the regulatory treatment of these types of deals, it is not all a bed of roses. In 2016 Age UK were criticised roundly after over its relationship with E.ON.
+Whitelabel energy supply are classic distribution deals. For example, British Gas offers products and services under the Sainsbury’s Energy brand, while SSE works with Marks & Spencer to provide M&S Energy. Even with Ofgem clarifying its position on the regulatory treatment of these types of deals, it is not all a bed of roses. In 2016 Age UK was criticised roundly after over its relationship with E.ON.
 
 ### Digital Partnerships
-In digital markets partnerships embodied as APIs, microservices, open data and platforms are proving to be critical for the success of many businesses. Within the energy & home services space, many entrepreneurs see a future where customers can access the information they need and interact wherever is most convenient for them. This might mean viewing bills through a digital banking app, or managing council tax bills through a WhatsApp bot. This is a natural way for digital natives to interact. To achieve this, platforms and APIs are needed behind the scenes to glue it all together.
+In digital markets partnerships embodied as APIs, microservices, open data and platforms are proving to be critical for the success of many businesses. Within the energy and home services space, many entrepreneurs see a future where customers can access the information they need and interact wherever is most convenient for them. This might mean viewing bills through a digital banking app, or managing council tax bills through a WhatsApp bot. This is a natural way for digital natives to interact. To achieve this, platforms and APIs are needed behind-the-scenes to glue it all together.
 
 There are many APIs and data sets for energy industry software engineers to leverage. However, developers moving in from other sectors find interfaces within the energy industry are not as modern, useful, findable or as open as in other sectors.
 
@@ -77,7 +77,7 @@ To date the energy industry has no major digital platform offering like we see f
 >We’re not even fighting with the right weapons, ... The battle of devices has now become a war of ecosystems. **Stephen Elop, whilst Nokia CEO**
 
 ## Conclusions
-Possibly the most important cultural requirement for strong partnerships is trust, which is readily achieved through having open minds, open hearts & open will.
+Possibly the most important cultural requirement for strong partnerships is trust, which is readily achieved through having open minds, open hearts and open will.
 
 > Thanks to the Internet, information and knowledge is readily available to almost everyone. Yet many business people are still terrified of revealing too much about themselves. This hampers partnerships and creates mistrust. **Tim Waterlow, [Affinia Partners](https://affiniapartners.com)**
 
