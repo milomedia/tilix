@@ -4,23 +4,109 @@ title: Tilix Services
 permalink: /services/
 fluidity: boxed
 ---
-{% capture services %}{% include services.md %}{% endcapture %}
-{% capture catalogue %}{% include services-catalogue.md %}{% endcapture %}
+{% capture left %}{% include services-left.md %}{% endcapture %}
+{% capture right %}{% include services-right.md %}{% endcapture %}
+{% capture catalogue %}{% include services-catalogue.md%}{% endcapture %}
 
 <div class="container">
-    <div class="row intro">
-        <div class="col-lg-12 text-center">
-            {{ services | markdownify }}
-        </div>
+  <div class="row intro">
+    <div class="col-lg-12 text-center">
+      <h2>Projects, Staff Augmentation & Playbooks</h2>
     </div>
-    <div class="row">
-        <div class="col-md-12">
-            <img class="img-responsive" style="margin: auto" src="http://www.tilix.uk.s3.amazonaws.com/img/services-trifecta.png">
-        </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      {{ left | markdownify }}
     </div>
-    <div class="row">
-      <div class="col-lg-12">
-          {{ catalogue | markdownify }}
-      </div>
+    <div class="col-md-4">
+      <img class="img-responsive" style="margin: auto" alt="Tilix Playbook" src="http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png">
     </div>
+    <div class="col-md-4">
+      {{ right | markdownify }}
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <h3 id="enterprise-architecture">Enterprise Architecture</h3>
+      <p>Tilix has helped new entrants like <a href="https://our-power.co.uk">Our Power</a>, <a href="http://oneselect.co.uk">OneSelect</a>, <a href="https://orbitenergy.co.uk">Orbit Energy</a> and <a href="https://www.logicor-energy.co.uk">Logicor Energy</a>        architect their enterprises.</p>
+      <p>Tilix involvement is particularly intense when new entrants establish their initial operating capabilities and execute a controlled market entry. During the full market entry and BAU, Tilix tends to take an advisory role and works on a call off
+        basis.</p>
+      <p>In architecting retail businesses Tilix consultants often work as a team of three. One is focussed on buying energy. Another leads on selling energy. Whilst the third brings expertise on moving &amp; metering energy.</p>
+    </div>
+    <div class="col-md-6">
+      <h3 id="brokering-partnerships">Brokering Partnerships</h3>
+      <p>It is not surprising that <strong>Key Partnerships</strong> is the first section of the <a href="https://en.wikipedia.org/wiki/Business_Model_Canvas">Business Model Canvas</a>. There is no such thing as end to end or we can do it all.</p>
+      <p>Tilix works as a partnership broker to help our clients push forwards their commercial success in the transition to smart and digital energy. We find the variety here particularly satisfying: every partnership has different commercial and technical
+        nuances that have to be taken into account.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <h3 id="leading-innovation">Leading Innovation</h3>
+      <p>Entrepreneurs looking for the next wave of energy and clean-tech innovation turn to Tilix to help generate ideas, find the most promising options and create tangible results.</p>
+      <p>The tools and techniques we use include Lean Start-up, pretotyping, prototyping, Business Model Canvas, ideation workshops, natural planning and (good old fashioned) brainstorming.</p>
+    </div>
+    <div class="col-md-6">
+      <h3 id="licensee-consulting">Licensee Consulting</h3>
+      <p>Tilix regulatory expertise is strongest in energy supply as evidenced by our work for <a href="https://www.ofgem.gov.uk/gas/retail-market/market-review-and-reform/smarter-markets-programme/switching-programme">Ofgem</a> in faster and more reliable
+        switching. However, the firm offers experience from across the whole value chain.</p>
+      <p>For example <a href="http://become-energy.com">Become Energy</a> recently turned to Tilix for strategic and tactical advice on licensing spanning generation, distribution and supply.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <h3 id="digital-engineering">Digital Engineering</h3>
+      <p>Tilix designs, builds and maintains <em>systems of engagement</em> and <em>systems of intelligence</em> that deliver value across the whole energy value chain.</p>
+      <p> We are experts in loosely coupling to <em>systems of record</em> from the likes of <a href="https://www.gentrack.com">Gentrack</a>, <a href="https://www.utiligroup.com">Utiligroup</a>, <a href="http://www.ferranti.be">Ferranti</a>, <a href="https://www.amt-sybex.com">AMT-Sybex</a>        and <a href="https://www.cgi.com/en/utilities">CGI</a>. For example, we have integrated with the Junifer Billing &amp; CIS system to form highly cohesive systems of engagement comprising:</p>
+      <ol>
+        <li><strong>Content Managed Websites</strong> that act as shop windows to the world.</li>
+        <li><strong>Acquisition Portals</strong> that hook into industry data from ECOES and DES as well as databases of tariff information. At the end of the acquisition journey, a customer is created in the billing and CIS system.</li>
+        <li><strong>Self-serve Portals</strong> which deliver outgoing bills, letters and other communication. These also provide customers a window on their consumption information and a means to submit meter reads.</li>
+        <li><strong>DRMS</strong> Dynamic Relationship Management Systems that track suspects, prospects and leads. They are used to track inbound and outbound industry communications with integration into platforms like Salesforce.com, Hubspot and SugarCRM.</li>
+      </ol>
+    </div>
+    <div class="col-md-6">
+      <h3 id="directing-it">Directing IT</h3>
+      <p>Building on experience of long term IT leadership assignments with <a href="https://www.ovoenergy.com">Ovo</a> and <a href="https://www.goodenergy.co.uk">Good Energy</a>, Tilix provides a range of IT management and IT governance services to SMEs
+        in the energy, sustainability and clean-tech markets. Key areas of focus for Tilix consultants are:</p>
+      <ul>
+        <li>Governance &amp; Management</li>
+        <li>Infrastructure &amp; Service Desk &amp; DevOps</li>
+        <li>Systems &amp; Applications</li>
+        <li>Buy or build decisions</li>
+        <li>Data Architecture &amp; Retention Policy</li>
+        <li>Unified Communications</li>
+        <li>InfoSec (governance, pen test, GDPR)</li>
+      </ul>
+      <p>For organisations without an IT Director, Tilix offers a fractional CIO service. In these cases, our clients enjoy the benefit of first class IT governance and management without the overhead of employing a full-time member of staff.</p>
+      <p>For SMEs with an in-house IT capability, Tilix provides ad hoc advisory, interim management and project based solutions on an as needed basis.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <h3 id="energy-management">Energy Management</h3>
+      <p>Tilix guides our clients to reducing energy costs and carbon. Using a systems thinking approach, we start with an assessment of the efficiency and CO2 footprint of the value chain. We then present options for moving towards clean, cheap and cheerful
+        energy. Areas where we have expertise include:</p>
+      <ul>
+        <li>Investment in renewable generation or energy storage.</li>
+        <li>Demand Side Management (DSM).</li>
+        <li>Power Purchase Agreements (PPA).</li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <h3 id="sponsored-research">Sponsored Research</h3>
+      <p>Tilix Research brings together a broad range of expertise and experience in computing, electrical engineering and the utility industry to the project. Our PhD qualified consultants work according to lean and agile methods. This is bringing valuable
+        insights to our clients around how smart and digital is disrupting the whole energy system.</p>
+      <p>Take <a href="http://www.logicor.co.uk">Logicor</a> for example. The firm is a leader in far-field IR, a novel heat source technology and commissioned sponsored research from Tilix on topics including:</p>
+      <ul>
+        <li>Accuracy of metering.</li>
+        <li>Metering and data logging technologies.</li>
+        <li>Metering regulatory requirements.</li>
+        <li>Calibration of heat, current and voltage sensors.</li>
+        <li>IoT solutions for enabling far field IR heating systems to be monitored remotely.</li>
+      </ul>
+    </div>
+  </div>
 </div>

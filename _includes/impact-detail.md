@@ -1,10 +1,3 @@
-
-Impact investing is proving to be a great way for Tilix to adapt to the emerging smart energy market. It is also a small but important contribution to winning the fossil fuel end game.
-
-Our impact investing has the potential to scale across a number of dimensions. For example, Tilix is building a syndicate to help share research and pool the resources of other likeminded angels.
-
-Some of the approaches we use to harness the positive power of enterprise in making energy clean, cheap and cheerful are outlined below.
-
 ### Seed Investment
 Tilix provides resources for a business start-outs in the smart energy category, usually in exchange for convertible debt or ownership equity. Opportunities come to us through online platforms like LinkedIn, f6s.com and angel.co.
 
@@ -32,14 +25,6 @@ We are particularly proud of the role Tilix played in helping Uniti EV raise cir
 
 ### Microfinance
 Small scale social enterprises can leverage Tilix knowledge, technology, labour and capital to help deliver their mission. We have a strong preference for helping organisations which address fuel poverty and air quality.
-
-## Vignettes
--	[**Energy Local**](http://www.energylocal.co.uk): As part of a pro bono relationship, Tilix architected an online acquisition and self-service portal for Energy Local.
--	**[Become Energy](http://become-energy.com)**: As well as providing seed capital, Tilix has advised this I&C battery storage start-up on strategic imperatives such as CRM, website platform and content.
--	**[Homebox.io](https://homebox.io)**: As lead investor and energy industry advisor, Tilix is helping this smart home start-up invent the next wave of B2C utility service provision.
--	**[Uniti EV](https://www.uniti.earth)** Tilix was one of the first investors in this innovative and fast moving Swedish unicorn. Tilix has also provided B2B marketing and innovation management advisory services.
-- **[Bristol Energy Coop](http://www.bristolenergy.coop)** Investor in solar bonds and Zero West project partner.
-- **[Enian](https://www.enian.co)** As an angel investor and technical adviser, Tilix has provided strategic advice to the executive team on corporate alignment. Tilix will further provide IT and data security services following product launch.
 
 [1]: https://en.wikipedia.org/wiki/Joint_venture
 [SDL]: http://www.sustainabledirection.com

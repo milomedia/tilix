@@ -1,3 +1,3 @@
 # Tilix Smart Energy
 
-## Engineering digital technology and innovation across the whole energy value chain.
+## Delivering the benefits of technology & innovation to both the supply & demand sides of electricity

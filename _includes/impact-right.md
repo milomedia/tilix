@@ -1,0 +1,7 @@
+- [Bristol Energy Coop](http://www.bristolenergy.coop): Investor in solar bonds and Zero West project partner.
+-	[Uniti EV](https://www.uniti.earth): Tilix was one of the first investors in this Swedish unicorn.
+-	[Become Energy](http://become-energy.com): Seed capital and advice on strategic imperatives such as CRM, website platform and content.
+-	[Energy Local](http://www.energylocal.co.uk): Architected an online acquisition and self-service portal for Energy Local.
+- [Enian](https://www.enian.co): As an angel investor and technical adviser, Tilix has provided strategic and operational advice to the executive team.
+-	[Homebox.io](https://homebox.io): As lead investor, Tilix is helping this smart home start-up be innovative and commercially savvy.
+-	[Low Carbon Gordano](http://lowcarbongordano.co.uk): Investor due diligence around plans for solar on roofs.

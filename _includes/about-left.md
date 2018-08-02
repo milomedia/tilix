@@ -1,4 +1,4 @@
-Tilix was founded by [Dr Neil Williams][1] and [Dr Duncan Tytler][2]. Neil majors in energy supply and digital transformation. Duncan is an authority in the energy services market and demand side management.
+Tilix has oodles of domain expertise from across the whole energy value chain. The firm was founded by [Dr Neil Williams][1] and [Dr Duncan Tytler][2]. Neil majors in energy supply and digital transformation. Duncan is an authority in the energy services market and demand side management.
 
 Our consultants have experience in energy supply, demand side management and clean-tech. Our solution expertise focuses around innovation and technology, in particular software, computers and electronics
 

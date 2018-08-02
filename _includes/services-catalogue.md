@@ -1,14 +1,4 @@
-Tilix is a management consulting business that delivers value through **staff augmentation**, **projects** and **playbooks**. As well as in-depth energy industry knowledge, Tilix clients benefit from a robust and scalable approach based on PRINCE 2, TOGAF, ITIL, COBIT and other best practices.
-
-For instance at [Logicor Energy][1], Tilix are proactively turning innovative ideas into fully functioning business operations by providing a turnkey set up of an electricity supply business. Pure staff augmentation examples are:
-
-- Fulfilling the role of Technical Lead for the smart meter comms hub at [Telefonica IoT][2].
-- Providing [National Grid’s Deeside Project][3] with expertise in industrial IoT to support the design, construction, operation, performance and maintenance of a 400kV environment that will help improve electricity transmission networks including HVDC inter-connectors, connections to generators and interfaces with low voltage networks.
-
-## Tilix Playbooks
-Tilix packages its knowledge and experience into repeatable, preconfigured solution kits tailored to market requirements. Instead of working from scratch to meet uniquely bespoke project specifications, a playbook engagement leverages pre-established processes and technology. Deliverables are customised as opposed to custom. There are eight Tilix Playbooks, where each represents a spoke in a wheel. Tilix is a "wheel-turner" with the ability to cut through all obstacles and challenges on the road to winning the fossil fuel end game.
-
-<img class="img-responsive" style="margin: auto" alt="Tilix Playbook" src="http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png">
+Tilix packages its knowledge and experience into repeatable, preconfigured **playbooks** tailored to market requirements. Instead of working from scratch to meet uniquely bespoke project specifications, a playbook engagement leverages pre-established processes and technology. Deliverables are customised as opposed to custom.
 
 ### Enterprise Architecture
 Tilix has helped new entrants like [Our Power][6], [OneSelect][7], [Orbit Energy][8] and [Logicor Energy][1] architect their enterprises.
@@ -71,9 +61,6 @@ For organisations without an IT Director, Tilix offers a fractional CIO service.
 
 For SMEs with an in-house IT capability, Tilix provides ad hoc advisory, interim management and project based solutions on an as needed basis.
 
-[1]: https://www.logicor-energy.co.uk
-[2]: https://iot.telefonica.com
-[3]: http://deeside.nationalgrid.co.uk
 [4]: https://www.ofgem.gov.uk/gas/retail-market/market-review-and-reform/smarter-markets-programme/switching-programme
 [5]: http://become-energy.com
 [6]: https://our-power.co.uk

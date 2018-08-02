@@ -5,13 +5,8 @@ As well as having expertise in electrical engineering, EVs, battery storage, ren
 
 The dynamics of price and volume in competitive retail markets are complex. Our team has experience of managing CME as well understanding how customers are won, lost and transfer between products in BAU situations.
 
-One of our key clients is [**Logicor**](http://www.logicor.co.uk), the Wakefield based pioneer in energy. Their flag ship products are compelling replacements for existing gas and electric heating.
-
-The [Clear Heater System][2] is an all-electric phased infrared radiant heating system using patented technology. The [InLine Hot Water System][3] is powered by electricity and can replace your existing water boiler and storage tank in your home.
-
-[Entering the electricity supply market][4] will enable Logicor to help customers reduce their energy bills even further. In record time, during spring and summer 2017, Tilix integrated the systems required for Logicor to supply electricity. We are currently supporting Logicor through controlled market entry and beyond.
+One of our key clients is [**Logicor**][2], the Wakefield based pioneer in energy. Their flag ship products are all electric space and water heaters. Tilix led projects are instrumental in setting up [Logicor Energy][3] as a licensed electricity supply business.
 
 [1]: http://www.tilix.uk.s3.amazonaws.com/img/heating-reimagined.jpg
-[2]: http://www.clear-heater.co.uk/clear-heater-system.html
-[3]: http://www.clear-heater.co.uk/inline-hot-water-system.html
-[4]: /2017/10/26/new-entrants
+[2]: http://www.logicor.co.uk
+[3]: http://www.logicor-energy.co.uk

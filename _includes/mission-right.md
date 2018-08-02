@@ -1,3 +1,3 @@
-The stone age ended before we ran out of stones and we are optimistic that we can solve the energy trilemma before fossil fuels run out. 
+Tilix firmly believes in the power of partnerships. We feel we are in a race against time rather than in competition with other firms.
 
 Please [reach out to us](/contact) if you share our passion, sense of urgency and constancy of purpose.
