@@ -1,5 +1,5 @@
 ## Impact Investing
-![Uniti EV in Media Markt, Malmo][3]
+![Uniti Prototypes][5]
 
 Tilix uses retained earnings to support nascent, potentially game changing ideas in smart energy. Tilix has a small number of strategic investments in clean-tech and smart energy start ups. These entrepreneurs value the cash, advice, knowledge transfer and connections Tilix provides.
 
@@ -9,3 +9,4 @@ Tilix are enjoying Uniti's [journey from concept to the roads in less than 4 yea
 
 [3]: http://www.tilix.uk.s3.amazonaws.com/img/uniti-media-markt.jpg
 [4]: /2017/10/26/Uniti
+[5]: http://www.tilix.uk.s3.amazonaws.com/img/uniti-prototypes.jpg

@@ -1,3 +1,3 @@
 # Tilix Smart Energy
 
-## Delivering the benefits of technology & innovation to both the supply & demand sides of electricity
+## Delivering Technology & Innovation in the Supply & Demand Sides of Gas & Electricity
