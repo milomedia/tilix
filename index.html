@@ -4,9 +4,12 @@ title: Tilix - Smart Energy Solutions
 style: index
 ---
 {% capture intro-text %}{% include headline.md %}{% endcapture %}
-{% capture news-1 %}{% include news-1.md %}{% endcapture %}
-{% capture news-2 %}{% include news-2.md %}{% endcapture %}
-{% capture news-3 %}{% include news-3.md %}{% endcapture %}
+{% capture news-1 %}{% include news/energy-supply.md %}{% endcapture %}
+{% capture news-2 %}{% include news/digital-engineering.md %}{% endcapture %}
+{% capture news-3 %}{% include news/sponsored-research.md %}{% endcapture %}
+{% capture news-4 %}{% include news/masterclasses.md %}{% endcapture %}
+{% capture news-5 %}{% include news/open-innovation.md %}{% endcapture %}
+{% capture news-6 %}{% include news/impact-investing.md %}{% endcapture %}
 
 
     <!-- Header -->
@@ -21,9 +24,14 @@ style: index
     <section id="news">
         <div class="container">
             <div class="row text-center">
-                <div class="col-md-4">{{ news-3 | markdownify }}</div>
-                <div class="col-md-4">{{ news-1 | markdownify }}</div>
-                <div class="col-md-4">{{ news-2 | markdownify }}</div>
+                <div class="col-sm-4">{{ news-1 | markdownify }}</div>
+                <div class="col-sm-4">{{ news-2 | markdownify }}</div>
+                <div class="col-sm-4">{{ news-3 | markdownify }}</div>
+            </div>
+            <div class="row text-center">
+                <div class="col-sm-4">{{ news-4 | markdownify }}</div>
+                <div class="col-sm-4">{{ news-5 | markdownify }}</div>
+                <div class="col-sm-4">{{ news-6 | markdownify }}</div>
             </div>
         </div>
     </section>
