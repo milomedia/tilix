@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2018-07-21
+date: 2020-07-21
 Author: Neil Williams
 Primary SEO:
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/ideaLondon.jpg
-title: "Masterclass Series"
-teaser: "Reflections on lessons learnt from a year of hosting events."
+image: http://www.tilix.uk.s3.amazonaws.com/img/heating-reimagined.png
+title: "Open Innovation & Energy Transformation"
+teaser: "Reflections on open innovation and its potential to make a positive impact in transforming the whole energy value chain."
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lobortis bibendum ante a pharetra. Nunc ac pulvinar nunc, vitae lacinia tellus. Aliquam nec orci rutrum, auctor risus at, iaculis lectus. Curabitur molestie tortor in sem gravida, non bibendum tortor aliquet. Aliquam erat volutpat. Etiam enim turpis, semper ac placerat vitae, suscipit vitae metus. Sed euismod tempor enim, at condimentum turpis mollis nec. Aliquam tincidunt sapien et magna pretium, nec suscipit mauris posuere. Donec semper purus ac ligula laoreet, vel laoreet ex pellentesque.
