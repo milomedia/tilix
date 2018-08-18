@@ -5,7 +5,7 @@
     {% if page.canonical %}
     <link rel="canonical" href="{{ page.canonical }}" />
     {% endif %}
-    {% if jekyll.environment != 'production'%}
+    {% if page.status == "draft" and jekyll.environment == 'production' %}
     <script type="application/json" class="js-hypothesis-config">
       {"showHighlights": false}
     </script>
