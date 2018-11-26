@@ -11,10 +11,10 @@ Director: Neil Williams
 Secretary: Christina Williams  
 
 ### Registered Office & Business Address
-101 Rose Street South Lane
-Edinburgh
-Scotland
-EH2 3JG
+101 Rose Street South Lane  
+Edinburgh  
+Scotland  
+EH2 3JG  
 
 Phone: +44 (0) 7976 852 467  
 Website: www.tilix.uk
@@ -25,7 +25,7 @@ Tilix employs less than 5 employees, so are not legally obliged to have written 
 Our HSE considerations are mostly about office and travel safety. Tilix applies the customs and practice it has adopted in recent projects for Telefonica, Capita and National Grid. For example, with National Grid we have recently worked at 400kV substations. It was encouraging to find that Tilix custom and practice aligned naturally with National Grid’s world class safety procedures
 
 ### Privacy and Data Protection
-Tilix value the privacy of our clients and take GDPR very seriously and have a short [GDPR Compliance Statement](gdpr.html). We are registered with the Information Commissioner’s Office (#ZA320654)](https://ico.org.uk/ESDWebPages/Entry/ZA320654). We are going through Cyber Essentials assessment and certification.
+Tilix value the privacy of our clients and take GDPR very seriously and have a short [GDPR Compliance Statement](gdpr.html). We are registered with the [Information Commissioner’s Office (#ZA320654)](https://ico.org.uk/ESDWebPages/Entry/ZA320654). We are going through Cyber Essentials assessment and certification.
 
 **Personal Data Protection** You can browse through this website without giving any information about yourself. This site uses cookies.
 
