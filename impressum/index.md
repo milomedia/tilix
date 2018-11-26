@@ -10,19 +10,12 @@ VAT #: GB 722 3556 50
 Director: Neil Williams  
 Secretary: Christina Williams  
 
-### Registered Office
-Dalgety House  
-Viewfield Terrace  
-Dunfermline  
-Fife  
-KY12 7HY  
-UK  
+### Registered Office & Business Address
+101 Rose Street South Lane
+Edinburgh
+Scotland
+EH2 3JG
 
-### Business Address
-5 Hollybush Close
-Acton Turville
-South Glos
-GL9 1JJ
 Phone: +44 (0) 7976 852 467  
 Website: www.tilix.uk
 
