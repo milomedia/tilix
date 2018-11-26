@@ -4,7 +4,7 @@ title: Impressum
 ---
 
 ### Company Information
-**Tilix** is a trading name of NeilWilliams.biz Ltd
+**Tilix** is a trading name of NeilWilliams.biz Ltd  
 Registered in Scotland #SC181781  
 VAT #: GB 722 3556 50  
 Director: Neil Williams  
