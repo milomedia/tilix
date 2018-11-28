@@ -1,3 +1,3 @@
 # Tilix Smart Energy
 
-## Transforming the Supply & Demand Sides of Gas & Electricity
+## Whole System Transformation of Gas & Electricity
