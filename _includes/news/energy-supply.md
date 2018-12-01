@@ -1,7 +1,7 @@
-## Energy Supply
+## Enterprise Architecture
 ![Client logos][1]
 
-Tilix consultants know the gnarly details of buying, selling, moving & metering energy. We support new entrants, fast growing challengers and industry veterans.
+Tilix consultants know the gnarly details of buying, selling, moving, metering and managing energy. We support our clients through designing, deploying and optimising their enterprise archituectures of people, processes and technology.
 
 [1]: http://www.tilix.uk.s3.amazonaws.com/img/supplier-logo.png
 [more]: /clients/energy-supply
