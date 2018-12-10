@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Sanchez');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body {
 	overflow-x:hidden;
-	font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-	color:#19507a;
+	font-family: Sanchez,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #19507a;
 }
 
 body.blog {
@@ -27,8 +28,9 @@ body.index {
 }
 
 p {
+	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
-	line-height:1.75
+	line-height:1.5
 }
 
 .intro p {
@@ -36,8 +38,6 @@ p {
 	font-size: 16px;
 	margin: 0 auto;
 	text-align: center;
-	color: #aaaaaa;
-	font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p.large {
@@ -55,7 +55,6 @@ a:hover,a:focus,a:active,a.active{
 
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: Sanchez, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:700;
 	margin-bottom: 15px;
 }
@@ -82,7 +81,6 @@ blockquote {
 	color:#fff;
 	background-color:#FF8900;
 	border-color:#FF8900;
-	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700
 }
@@ -126,7 +124,6 @@ fieldset[disabled] .btn-primary.active{
 	color:#fff;
 	background-color:#FF8900;
 	border-color:#FF8900;
-	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
 	border-radius:3px;
@@ -202,7 +199,6 @@ border-color:transparent;
 	background-color:#FF8900
 }
 .navbar-default .navbar-nav li a{
-	font-family: Sanchez, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:400;
 	letter-spacing:1px;
@@ -238,7 +234,7 @@ section#whatwedo .col-md-4 p {
 	height: auto;
 }
 
-@media (max-width:768px) {
+@media (max-width:600px) {
 	body.blog {
 	margin-top: 50px;
 	}
@@ -259,7 +255,7 @@ section#whatwedo .col-md-4 p {
 }
 
 
-@media (min-width:768px){
+@media (min-width:600px){
 	.navbar-default,
 	.index.blog .navbar-default {
 		background-color:transparent;
@@ -315,7 +311,6 @@ header .intro-text{
 	padding-bottom:50px
 }
 header .intro-text h2 {
-	font-family: Sanchez,"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-style: normal;
 	font-size:22px;
 	line-height:32px;
@@ -325,29 +320,24 @@ header .intro-text h2 {
 }
 header .intro-text h1 {
 	text-transform:uppercase;
-	font-family: Sanchez, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:700;
 	font-size:40px;
 	line-height:60px;
 	margin-bottom:25px
 }
 
-
-
-@media (min-width:768px){
+@media (min-width:600px){
 	header .intro-text{
 		padding-top:150px;
 		padding-bottom:200px
 	}
 	header .intro-text .intro-lead-in{
-		font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 		font-style:italic;font-size:32px;
 		line-height:40px;
 		margin-bottom:25px;
 		max-width: 400px;
 	}
 	header .intro-text .intro-heading{
-		font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 		font-weight:700;
 		font-size:75px;
 		line-height:75px;
@@ -384,7 +374,6 @@ section h5 {
 	font-style:italic;
 	font-weight:400;
 	text-transform:none;
-	font-family: Sanchez,"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 @media (min-width:768px){
@@ -413,14 +402,6 @@ section h5 {
 		padding:100px 0
 	}
 
-}
-.service-heading{
-	margin:15px 0;
-	text-transform:none
-}
-
-aside.clients img{
-	margin:50px auto
 }
 
 section#contact{
@@ -452,13 +433,11 @@ section#contact .form-control:focus{
 	box-shadow:none
 }
 section#contact ::-webkit-input-placeholder{
-	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
 	color:#bbb
 }
 section#contact :-moz-placeholder{
-	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform:uppercase;
 	font-weight:700;
 	color:#bbb
@@ -624,6 +603,7 @@ p.meta {
 /* Fixed CTA buttons */
 
 section#fixed-bottom {
+		font-family: 'Open Sans', sans-serif;
     background: #19507a;
     bottom: 0;
     margin: auto;
@@ -648,7 +628,7 @@ section#fixed-bottom a.btn:hover {
 	border: #00a7e1;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 576px) {
 	section#fixed-bottom a.btn {
 		font-size: 12px;
 		padding: 4px 12px;
@@ -659,4 +639,21 @@ section#fixed-bottom a.btn:hover {
 
 .img-thumbnail {
 	width: 137px;
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .row-fluid > :nth-child(2n+1) {
+        clear: both;
+        margin-left: 0;
+    }
+
+    .row-fluid .col-sm-3 {
+        width: 48.61878453038674%;
+    }
+
+		section#news h2 {
+	   font-size: 22px;
+	   line-height: 32px;
+	   margin-bottom: 25px;
+	 }
 }
