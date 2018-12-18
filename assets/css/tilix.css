@@ -3,7 +3,7 @@
 
 body {
 	overflow-x:hidden;
-	font-family: Sanchez,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: 'Open Sans',Arial,sans-serif;
 	color: #19507a;
 }
 
@@ -28,7 +28,6 @@ body.index {
 }
 
 p {
-	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
 	line-height:1.5
 }
@@ -53,8 +52,8 @@ a:hover,a:focus,a:active,a.active{
 	color:#FF8900
 }
 
-
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6,.nav {
+	font-family: 'Sanchez',"Times New Roman", Times, serif;
 	font-weight:700;
 	margin-bottom: 15px;
 }

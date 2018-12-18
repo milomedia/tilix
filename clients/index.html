@@ -4,27 +4,41 @@ title: Tilix Clients
 permalink: /clients/
 fluidity: boxed
 ---
-{% capture clients %}{% include clients.md %}{% endcapture %}
-{% capture startup %}{% include clients-startup.md %}{% endcapture %}
-{% capture SME %}{% include clients-sme.md %}{% endcapture %}
-{% capture corporate %}{% include clients-corporate.md %}{% endcapture %}
-
 
 <div class="container">
     <div class="row intro">
         <div class="col-lg-12 text-center">
-            {{ clients | markdownify }}
+            <h2>Client List</h2>
+
+<p>From micro-businesses to multi-national corporations, the Tilix works with energy managers, retail suppliers, energy networks, IT providers, renewable developers and clean-tech innovators.</p>
+
         </div>
     </div>
     <div class="row text-center">
         <div class="col-sm-4">
-            <span class="fa-stack fa-4x"><img src="http://www.tilix.uk.s3.amazonaws.com/img/acorn.png" class="img-responsive tilix-icon" alt="Start outs are like acorns"></span> {{ startup | markdownify }}
+            <span class="fa-stack fa-4x"><img src="http://www.tilix.uk.s3.amazonaws.com/img/acorn.png" class="img-responsive tilix-icon" alt="Start outs are like acorns"></span> <h3 id="start-up">Start Up</h3>
+<p>Tilix helps smart energy entrepreneurs get their early stage innovation and technology off the ground.</p>
+
+<p>First, we invest in deep conversations with our clients. Then we co-create solutions that are tailored to their specific requirements for technical direction and/or seed capital.</p>
+
         </div>
         <div class="col-sm-4">
-            <span class="fa-stack fa-4x"><img src="http://www.tilix.uk.s3.amazonaws.com/img/sapling.png" class="img-responsive tilix-icon" alt="SMEs are like saplings"></span> {{ SME | markdownify }}
+            <span class="fa-stack fa-4x"><img src="http://www.tilix.uk.s3.amazonaws.com/img/sapling.png" class="img-responsive tilix-icon" alt="SMEs are like saplings"></span> <h3 id="sme">SME</h3>
+
+<p>Our SME clients seek help with growth, optimisation or inventing the next wave.</p>
+
+<p>These clients value the optimism Tilix brings from the start up market and the confidence we bring from the corporate market.</p>
+
+<p>Tilix provides a range of packaged services including consulting, interim management, projects and outsourcing.</p>
+
         </div>
         <div class="col-sm-4">
-            <span class="fa-stack fa-4x"><img src="http://www.tilix.uk.s3.amazonaws.com/img/great-oak-icon-v3.png" class="img-responsive tilix-icon" alt="Corporates are like great oaks"></span> {{ corporate | markdownify }}
+            <span class="fa-stack fa-4x"><img src="http://www.tilix.uk.s3.amazonaws.com/img/great-oak-icon-v3.png" class="img-responsive tilix-icon" alt="Corporates are like great oaks"></span> <h3 id="corporate">Corporate</h3>
+
+<p>For larger organisations, Tilix offers staff augmentation for the short and medium term.</p>
+
+<p>Our briefs have included a mix of tactical and operational missions. Our experience with a broad range of technologies and business processes makes Tilix an ideal outsource partner.</p>
+
         </div>
     </div>
     <div class="row intro">
@@ -32,28 +46,28 @@ fluidity: boxed
     <div id="carousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel" data-slide-to="1"></li>
-    <li data-target="#carousel" data-slide-to="2"></li>
+    <li data-target="#carousel" data-slide-to="0" class=""></li>
+    <li data-target="#carousel" data-slide-to="1" class=""></li>
+    <li data-target="#carousel" data-slide-to="2" class="active"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
+    <div class="item">
       <img src="http://www.tilix.uk.s3.amazonaws.com/img/tilix-clients-startup.png" alt="Slide 1">
       <div class="carousel-caption">
         <!--h3>Start Up</h3-->
         <!--p>Text 1</p-->
       </div>
     </div>
-    <div class="item">
+    <div class="item active left">
       <img src="http://www.tilix.uk.s3.amazonaws.com/img/tilix-clients-sme.png" alt="Slide 2">
       <div class="carousel-caption">
         <!--h3>SME</h3-->
         <!--p>Text 2</p-->
       </div>
     </div>
-    <div class="item">
+    <div class="item next left">
       <img src="http://www.tilix.uk.s3.amazonaws.com/img/tilix-clients-corporate.png" alt="Corporate Clients">
       <div class="carousel-caption">
         <!--h3>Corporate</h3-->
