@@ -656,3 +656,8 @@ section#fixed-bottom a.btn:hover {
 	   margin-bottom: 25px;
 	 }
 }
+
+img.textwrap {
+	float: left;
+	margin: 10px;
+}
