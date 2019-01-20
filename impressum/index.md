@@ -7,8 +7,7 @@ title: Impressum
 **Tilix** is a trading name of NeilWilliams.biz Ltd  
 Registered in Scotland #SC181781  
 VAT #: GB 722 3556 50  
-Director: Neil Williams  
-Secretary: Christina Williams  
+Director: Neil Williams 
 
 ### Registered Office & Business Address
 101 Rose Street South Lane  
