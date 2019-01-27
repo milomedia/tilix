@@ -33,8 +33,8 @@ As well as technology, the impact of inventing, deploying and optimising innovat
 
 ## Conclusions
 ![Networking Space @ IdeaLondon](http://www.tilix.uk.s3.amazonaws.com/img/blogs/blockchain/IdeaLondonNetwork.jpg)
-We are delighted that our host IdeaLondon provided such excellent facilities.  The support in event preparation and on the day from our sponsors was vitally important. They were EDF Energy Blue Labs, UCL, Cisco, BakerBotts, Electron, Mando, DDC, Generis, EnergyPR, Impact4all and Landis+Gyr.
+We are delighted that our host IdeaLondon provided such excellent facilities. The support in event preparation and on the day from our sponsors was vitally important. They were EDF Energy Blue Labs, UCL, Cisco, BakerBotts, Electron, Mando, DDC, Generis, EnergyPR, Impact4all and Landis+Gyr.
 
 Last but not least we are grateful to all the delegates from Shell, National Grid, Ofgem, AMT Sybex, Gemserv et al who made the day fun and interactive.
 
-> NovAzure and Tilix Smart Energy are work in close cooperation on a number of initiatives. NovAzure help Energy & Mobility players leverage digital disruption & innovation to protect their market shares and unlock new business potential across the Autonomous, Connected, Electric and Shared (ACES) market transformation.
+> NovAzure and Tilix Smart Energy work in close cooperation on a number of initiatives. NovAzure help Energy & Mobility players leverage digital disruption & innovation to protect their market shares and unlock new business potential across the Autonomous, Connected, Electric and Shared (ACES) market transformation.
