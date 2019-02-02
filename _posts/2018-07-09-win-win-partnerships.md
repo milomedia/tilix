@@ -5,9 +5,13 @@ Author: Neil Williams
 Primary SEO:
 Secondary SEO:
 image:
+canonical:
+teaser: "This article explores some of the ways that partnerships can help with increasing sales, innovation, raising finance and reducing costs in the energy and cleantech sectors."
 title: "Building Win-Win Partnerships"
 ---
-This article explores some of the ways that partnerships can help with increasing sales, innovation, raising finance and reducing costs in the energy and cleantech sectors.
+Tilix are proud to repost articles (with permission) from my [Impact4All column](https://impact4all.org/author/neil/). This is the first article in my column and was published on 14 Feb, 2018 as [How To Build Win-Win Partnerships In The Energy Sector](https://impact4all.org/how-to-build-win-win-partnerships-in-the-energy-sector/ ).
+
+> [Impact4All](https://impact4all.org) delivers a broad range of news, analysis and connectivity. It allows all stakeholders to become informed and participate in the new energy sector. Its mission is o break down barriers between audiences, activists and investors.
 
 The first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) is **Key Partnerships** because for businesses large or small, young or old there is no such thing as end-to-end or "we can do it all".
 
@@ -91,3 +95,5 @@ Before partnering you should:
 4. Be realistic.
 
 Don’t hesitate to seek the advice of specialist consultants and your peers in other industries. Unsurprisingly people who have been successful in forming strong partnerships are usually open, approachable and happy to share there knowledge and expertise.
+
+> Impact4All.org contains industry-leading coverage provided by world-class journalists and a global network of expert contributors. It is a unique and powerful platform – open to all, driving value for end users, developers, producers, investors and governments alike. It is designed to deliver the full spectrum of news, analysis and connectivity that allows all players and audiences to become informed and participate at any level in the new energy sector.
