@@ -7,7 +7,7 @@ Primary SEO:
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/ideaLondon.jpg
 title: "Event Journal: Blockchain & Smart Grid"
-teaser: "This is a postcard from the engaging energy industry event, organised by Tilix and NovAzure, held at IdeaLondon on 19 July 2018."
+teaser: "This is a journal post from the engaging energy industry event, organised by Tilix and NovAzure, held at IdeaLondon on 19 July 2018."
 ---
 
 This is a remix of an article which first appeared on [Novazure.com](https://novazure.com/event/energy-meets-digital-innovation-masterclass). Please visit the original post to access many more PR photos from the event.
