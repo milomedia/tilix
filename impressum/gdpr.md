@@ -31,7 +31,6 @@ Our reasons for processing your personal data are:
 - for us to comply with statutory obligations (eg GDPR, accounting, taxation).
 
 ## Processes & Purposes
-- If we have collected your data from others and notified you by email of this, we invite you to consent within one calendar month for us to continue to retain your data, by positively registering your interest via email. If you do not do one of these things within one month, we will destroy your data.
 - We store your data with Hubspot, Microsoft, Apple, Google and Dropbox.
 - We store your personal data for a maximum of six years after the expiry of any financial year in which any contract we have arranged for you is discharged; otherwise we may choose to destroy your data at any time. Prior to destroying your data we may choose to invite you to re-consent.
 - The GDPR provides you with rights to access, rectify, and erase your personal data; and to restrict or object to processing, and to supply or transfer your data in portable format.

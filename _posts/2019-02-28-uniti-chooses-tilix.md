@@ -1,0 +1,29 @@
+---
+layout: post
+date: 2019-02-28
+Author: Neil Williams  
+Primary SEO:  
+Secondary SEO:
+image:
+title: "Tilix to Manage Uniti R&D"
+teaser: "Swedish electric car OEM hires Tilix to deliver a range of tactical and strategic services."
+---
+Tilix has provided ad hoc support to Uniti for almost 3 years: Contributing in a variety of areas such as liaising with government grant bodies, supporting crowd funding efforts and coaching the technical team in topics such as managing R&D, vehicle development and prototyping.
+
+Building on this productive relationship, Uniti will now leverage Tilix innovation management expertise to address specific R&D goals from its business plan. The areas of focus will be:
+
+- Managing sources of R&D funding.
+- Leading R&D activity.
+- Nurturing medium-long term partnerships.
+- Identifying and transitioning innovations for scaling up.
+- Extracting value from ideas that do not get backed for scale.
+
+> Tilix innovation management service is an ideal solution for Uniti as we move into our next stage of growth. It will help our R&D function deliver material value to our company and our products. **Lewis Horne, Uniti CEO**.
+
+R&D’s mandate is to **position Uniti to catch the next wave**. With support from Tilix, Uniti's R&D function will undertake precious gold mining activity and will provide a key plank in Uniti’s mission to make a positive impact on the future of mobility.
+
+> Uniti represents a wonderful opportunity for reshaping the city car. It is a blank canvas for creativity and innovation in autonomous, electric, connected and shared mobility. The Tilix team is delighted that Uniti have chosen us to help take their R&D to the next level. **Dr Neil Williams, CEO, Tilix**
+
+This approach to R&D means that Uniti’s core team can stay focussed on its short-medium term goals of building a production line and getting cars onto the roads. Therefore, Uniti can grow revenue whilst in parallel it takes positions on the longer term opportunities offered by emerging innovations in mobility.
+
+> Uniti will have a number of R&D projects cooking in parallel. Tilix will use a variety of innovation management and partnership brokering techniques to ensure that each has some potential to catch the next big wave. **Dr Neil Williams, CEO, Tilix**
