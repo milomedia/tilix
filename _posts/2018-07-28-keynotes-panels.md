@@ -4,12 +4,14 @@ date: 2018-07-28
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image:
+image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/keynotes-panels.png
 title: "Keynotes & Panels"
 teaser: "Tilix experts speak regularly at energy industry events. This post illustrates why we are popular with event organisers and delegates alike."
 permalink: /keynotes-panels
 ---
 Tilix enjoy talking about a wide range of topics across the whole energy value chain. We regularly deliver keynotes and join panels at energy industry events.
+
+![Keynotes & panels]({{ page.image}})
 
 > The eMobility Summit will discuss the key challenges people have with electric vehicle and to present the latest trends in connectivity, autonomy and sharing. We are of course delighted to have Tilix and their client Uniti EV as speakers.  **Adrian Said, Event Director, eMobility Summit.**
 
