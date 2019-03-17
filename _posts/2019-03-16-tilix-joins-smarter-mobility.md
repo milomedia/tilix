@@ -1,12 +1,15 @@
 ---
 layout: post
-date: 2019-03-16
-Author: John Williams  
-Primary SEO:  
-Secondary SEO:
+date: 2019-03-16 00:00:00 +0000
+Author: John Williams
+Primary SEO: 
+Secondary SEO: 
 image: http://media.smartermobility.org/2018/02/smarter-mobility-logo-300.png
-title: "Tilix Joins Smarter Mobility"
-teaser: "Tilix is proud to become a member and strategic partner of Smarter Mobility: A non-profit resource centre driving innovation with focus on digital services and solutions."
+title: Tilix Joins Smarter Mobility
+teaser: 'Tilix is proud to become a member and strategic partner of Smarter Mobility:
+  A non-profit resource centre driving innovation with a focus on digital services
+  and solutions.'
+
 ---
 ![Smarter Mobility]({{ page.image}})
 
