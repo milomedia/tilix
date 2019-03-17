@@ -9,6 +9,7 @@ title: "Tilix to Manage Uniti R&D"
 teaser: "Swedish electric car OEM hires Tilix to deliver a range of tactical and strategic services."
 ---
 ![Uniti on show]({{ page.image}})
+
 Tilix has provided ad hoc support to Uniti for almost 3 years: Contributing in a variety of areas such as liaising with government grant bodies, supporting crowd funding efforts and coaching the technical team in topics such as managing R&D, vehicle development and prototyping.
 
 Building on this productive relationship, Uniti will now leverage Tilix innovation management expertise to address specific R&D goals from its business plan. The areas of focus will be:
