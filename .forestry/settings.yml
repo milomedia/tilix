@@ -11,7 +11,7 @@ sections:
   label: Posts
   create: all
 upload_dir: forestry
-public_path: http://www.tilix.uk.s3.amazonaws.com
+public_path: http://www.tilix.uk.s3.amazonaws.com/forestry
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
