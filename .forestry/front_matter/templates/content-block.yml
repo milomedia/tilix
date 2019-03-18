@@ -6,6 +6,7 @@ fields:
 - type: text
   name: headline
   label: Headline
+  default: Amo amas amat
 - type: textarea
   name: text
   label: text
@@ -13,3 +14,7 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+  default: Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc
+    ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula
+    eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim,
+    accumsan eu, blandit sed, blandit a, eros.
