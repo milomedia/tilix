@@ -16,3 +16,5 @@ fields:
     max: '6'
   template_types:
   - content-block
+pages:
+- services/services/research.md
