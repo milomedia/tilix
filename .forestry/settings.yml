@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: all
   match: "{/*,/impressum/**/*,/clients/**/*,/about/**/*}"
-  exclude: "{/webform.html, *.yml}"
+  exclude: "{/webform.html, /*.yml}"
 - type: directory
   path: services
   label: Services
