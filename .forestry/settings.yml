@@ -9,6 +9,7 @@ sections:
   label: Pages
   create: all
   match: "{/*,/impressum/**/*,/clients/**/*,/about/**/*}"
+  exclude: "{/webform.html}"
 - type: directory
   path: services
   label: Services
