@@ -3,11 +3,20 @@ label: Brochure
 hide_body: true
 fields:
 - type: text
-  name: hero_headline
-  label: Hero Headline
-- type: text
-  name: hero_strapline
-  label: Hero Strapline
+  name: headline
+  label: Headline
+  default: Brochure Page
+- type: blocks
+  name: hero-text
+  label: Hero Text
+  config:
+    min: '2'
+    max: '2'
+  template_types:
+  - content-block
+- type: file
+  name: hero_image
+  label: Hero Image
 - type: blocks
   name: body
   label: Body
