@@ -33,5 +33,7 @@ fields:
   template_types:
   - content-block
 pages:
+- services/directing-it.md
+- services/research.md
 - services/research.md
 - services/directing-it.md
