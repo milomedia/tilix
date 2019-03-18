@@ -1,0 +1,15 @@
+---
+label: Content Block
+hide_body: true
+display_field: headline
+fields:
+- type: text
+  name: headline
+  label: Headline
+- type: textarea
+  name: text
+  label: text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
