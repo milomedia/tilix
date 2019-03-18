@@ -1,6 +1,6 @@
 ---
 label: Content Block
-hide_body: true
+hide_body: false
 display_field: headline
 fields:
 - type: text
