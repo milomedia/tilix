@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "{/*,/impressum/**/*}"
+  match: "{/*,/impressum/**/*,/clients/**/*,/about/**/*}"
 - type: directory
   path: services
   label: Services
