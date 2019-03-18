@@ -5,15 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: Pages
+  create: all
+  match: "**/*"
+  exclude: services
+- type: directory
   path: services
   label: Services
   create: all
   match: "**/*"
   templates:
   - brochure
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: jekyll-posts
   label: Posts
   create: all
