@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  exclude: "{services/**/*, .forestry} "
+  exclude: "{services,.forestry}/**/* "
 - type: directory
   path: services
   label: Services
