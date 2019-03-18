@@ -3,9 +3,16 @@ label: Brochure
 hide_body: true
 fields:
 - type: text
-  name: headline
-  label: Headline
+  name: title
+  label: Title
   default: Brochure Page
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  config:
+    required: true
+  default: brochure
 - type: blocks
   name: hero-text
   label: Hero Text
