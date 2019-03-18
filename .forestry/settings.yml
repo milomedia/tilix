@@ -8,8 +8,8 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "{/*,/impressum/**/*,/clients/**/*,/about/**/*}"
-  exclude: "{/webform.html, /_config.yml}"
+  match: "{/*.html,/impressum/**/*,/clients/**/*,/about/**/*}"
+  exclude: "{/webform.html}"
 - type: directory
   path: services
   label: Services
