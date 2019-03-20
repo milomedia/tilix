@@ -31,5 +31,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/untangling-the-history-of-christmas-tree-lights.md
 - _posts/vernal-equinox-2019.md
 - _posts/senapt-choses-tilix.md
