@@ -33,4 +33,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/vernal-equinox-2019.md
 - _posts/senapt-choses-tilix.md
