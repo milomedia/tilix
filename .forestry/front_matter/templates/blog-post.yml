@@ -6,7 +6,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
@@ -22,11 +22,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: ''
 - name: teaser
   label: Teaser
   type: textarea
