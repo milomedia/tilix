@@ -1,0 +1,52 @@
+---
+layout: default
+style: index
+---
+
+<header>
+  <div class="container">
+    <div class="intro-text">
+      <h1>{{ page.hero-text[0].headline }}</h1>
+      <h2>{{ page.hero-text[1].headline }}</h2>
+    </div>
+  </div>
+</header>
+
+<section id="news">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-sm-4">
+        <h2>{{ page.body[0].headline }}</h2>
+        <p><img src="{{ page.body[0].image }}"></p>
+        {{ page.body[0].text | markdownify }}
+      </div>
+      <div class="col-sm-4">
+        <h2 id="digital-engineering">{{ page.body[1].headline }}</h2>
+        <p><img src="{{ page.body[1].image }}"></p>
+        {{ page.body[1].text | markdownify }}
+      </div>
+      <div class="col-sm-4">
+        <h2>{{ page.body[2].headline }}</h2>
+        <p><img src="{{ page.body[2].image }}"></p>
+        {{ page.body[2].text | markdownify }}
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-sm-4">
+        <h2 id="collaboration-hubs">{{ page.body[3].headline }}</h2>
+        <p><img src="{{ page.body[3].image }}"></p>
+        {{ page.body[3].text | markdownify }}
+      </div>
+      <div class="col-sm-4">
+        <h2 id="impact-investing">{{ page.body[4].headline }}</h2>
+        <p><img src="{{ page.body[0].image }}"></p>
+        {{ page.body[4].text | markdownify }}
+      </div>
+      <div class="col-sm-4">
+        <h2 id="panels--keynotes">{{ page.body[5].headline }}</h2>
+        <p><img src="{{ page.body[5].image }}"></p>
+        {{ page.body[5].text | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
