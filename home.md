@@ -24,10 +24,9 @@ body:
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/digital-montage-2.png
 - template: content-block
   headline: Research & Development
-  text: Tilix clients value our expertise across the whole energy system. Our Sponsored
-    Research service offers a unique viewpoint of the challenges and opportunities
-    in the market, whilst our Innovation Management service helps incubate ideas and
-    nurture the next wave in smart energy.
+  text: Tilix Sponsored Research offers a unique viewpoint of the challenges and opportunities
+    in the market, whilst Tilix Innovation Management helps incubate ideas and nurture
+    the next wave in smart energy.
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/sponsored-research.png
 - template: content-block
   headline: Collaboration Hubs
