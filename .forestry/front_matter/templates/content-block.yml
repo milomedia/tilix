@@ -7,6 +7,9 @@ fields:
   name: headline
   label: Headline
   default: Amo amas amat
+- type: file
+  name: image
+  label: Image
 - type: textarea
   name: text
   label: text
