@@ -7,6 +7,9 @@ fields:
   label: Title
   default: Brochure Page
 - type: text
+  name: intro
+  label: Intro
+- type: text
   name: layout
   label: Layout
   hidden: true
