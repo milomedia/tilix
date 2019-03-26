@@ -1,12 +1,15 @@
 ---
 label: Content Block
 hide_body: true
-display_field: headline
 fields:
 - type: text
   name: headline
   label: Headline
   default: Amo amas amat
+- type: text
+  name: link
+  label: Link
+  description: Enter a relative or absolute URL.
 - type: file
   name: image
   label: Image
