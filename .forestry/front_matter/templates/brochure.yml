@@ -32,7 +32,7 @@ fields:
   label: Body
   config:
     min: '0'
-    max: '6'
+    max: '8'
   template_types:
   - content-block
 pages:
