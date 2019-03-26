@@ -7,14 +7,14 @@ hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/research.png
 hero-text:
 - template: content-block
   text: |-
-    Tilix experts have first class market, organisation, technology, product and project insight and experience within the energy and clean-tech categories.
+    Tilix offers a range of research services that helps stakeholders in the energy and clean-tech categories frame their market, develop their business and better understand product-market fit.
 
-    Tilix offers a range of research services that help our clients frame their market, develop their business and better understand product-market fit.
-  headline: Tilix experts ....
+    Tilix Research is delivered by experts who have whole system insight and experience. Our clients trust us for advice, ideas and opinions around technologies, people, processes, organisations, markets, products and projects.
+  headline: Tilix offers ....
 - template: content-block
-  headline: Outcomes ...
+  headline: Our clients choose...
   text: |-
-    Our clients chose Tilix Research to:
+    Our clients choose Tilix Research to:
 
     * Assess markets across short, medium and long term horizons.
     * Gain insights that help target & convert at every level in the business development funnel.
@@ -23,12 +23,13 @@ body:
 - template: content-block
   headline: Service Catalogue
   text: |-
-    Tilix Research projects involve fact finding, analysis, synthesis and presentations served with dollops of creative thinking. Output are powerful and include:
+    Tilix Research projects involve fact finding, analysis and synthesis. They deliver reports and presentations which are served with dollops of creative thinking. Examples of research projects include:
 
-    * **Due Diligence**: Assessing strengths, weaknesses and value of options available to business management, regulators and investors relating to size, timing and scope.
-    * **Feasibility Study**: To uncover the strengths and weaknesses of an existing business or proposed venture or project
+    * **Due Diligence**: Enhancing the amount and quality of information available to decision makers before entering into an agreement or contract.
+    * **Options Analysis**: Listing and valuing options available to business management, regulators and investors relating to opportunities and threats.
+    * **Feasibility Study**: Uncovering the practicality of a change to an existing business or a proposed new venture.
     * **Market Insight**: Gathering information about target markets or customers to support the business strategy process or business development activities.
-    * **Meta-analysis**: Statistical analyses that combines the results of multiple scientific or market research studies.
+    * **Meta-analysis**: Statistical analyses that combine the results of multiple studies.
 - template: content-block
   headline: Tilix Research FAQ
   text: |-
@@ -36,13 +37,13 @@ body:
     * **How long are research reports?** It depends on the type of report, the subject chosen, as well as other factors. Tilix reports range from 5 page market overviews or appraisals to upwards of 60 pages for in-depth studies.
     * **Can I ask Tilix to validate our claims?** Absolutely. We are happy to act as an independent 3rd party to validate your company's claims about its products or services. However, we don’t guarantee the outcome. If it is unfavourable, you should treat the report as internal lessons learnt rather than marketing collateral.
 - template: content-block
-  headline: Testimonials
+  headline: Vignettes
   text: |-
-    The following short cases show examples of Tilix advisory in practice.
+    Examples of Tilix Research in practice:
 
-    * **Energy Storage**: Tilix has carried out sponsored research for both [Uniti EV](https://www.uniti.earth/) and [Pivot Power](http://pivot-power.co.uk/). Two firms who have lithium-ion battery technology at the heart of their business models.
-    * **Metering & Sensors**: [Logicor Heating](http://www.clear-heater.co.uk/), a leader in far-field IR heating technology, has benefited both tactically and strategically from Tilix Research on a range of technical topics.
-    * **B2B Software:** Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.
+    * **Energy Storage**: Tilix has carried out studies for [Uniti EV](https://www.uniti.earth/) and [Pivot Power](http://pivot-power.co.uk/). in areas including lithium-ion battery technology and vehicle to grid.
+    * **Electric Heating**: [Logicor Heating](http://www.clear-heater.co.uk/), a leader in far-field IR heating technology, has benefited both tactically and strategically from Tilix Research focussed on metering and sensors.
+    * **B2B Software:** [Generis](https://www.generis.co.uk) and [Senapt](http://senapt.co.uk) engaged Tilix to explore trends in pricing, integration, infrastructure and business intelligence affecting the market for their software.
 - template: content-block
   headline: Find Out More
   text: |-
