@@ -43,7 +43,7 @@ body:
 
     * **Energy Storage**: Tilix has carried out studies for [Uniti EV](https://www.uniti.earth/) and [Pivot Power](http://pivot-power.co.uk/). in areas including lithium-ion battery technology and vehicle to grid.
     * **Electric Heating**: [Logicor Heating](http://www.clear-heater.co.uk/), a leader in far-field IR heating technology, has benefited both tactically and strategically from Tilix Research focussed on metering and sensors.
-    * **B2B Software:** [Generis](https://www.generis.co.uk) and [Senapt](http://senapt.co.uk) engaged Tilix to explore trends in pricing, integration, infrastructure and business intelligence affecting the market for their software.
+    * **B2B Software:** [Senapt](http://senapt.co.uk) engaged Tilix to explore trends in pricing, integration, infrastructure and business intelligence affecting the market for their software.
 - template: content-block
   headline: Find Out More
   text: |-
@@ -51,6 +51,6 @@ body:
 
     In the coming weeks and months, the Tilix Blog will include posts about our research projects and methods.
 title: Research
-published: false
+intro: ''
 
 ---
