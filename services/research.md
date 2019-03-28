@@ -47,9 +47,9 @@ body:
 - template: content-block
   headline: Find Out More
   text: |-
-    Don't hesitate to contact us if you want to discuss the Tilix Research value proposition in more detail. We will be delighted share outputs from the research cycle e.g. project proposals, data, methods, workflows, software, project reports and research articles.
+    Don't hesitate to contact us if you want to discuss the Tilix Research value proposition in more detail. We will be delighted to provide sample reports or a paper describing our methods and experience in more detail.
 
-    In the coming weeks and months, the Tilix Blog will include posts about our research projects and methods.
+    In the coming weeks and months, the Tilix Blog will include posts about Tilix Research.
 title: Research
 intro: ''
 
