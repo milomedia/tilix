@@ -1,16 +1,14 @@
 ---
 title: Service Catalogue
 layout: brochure
-intro: Tilix provides a range of packaged services including consulting, interim management,
-  projects and outsourcing. Our whole system value proposition makes Tilix an ideal
-  technology and innovation partner for the energy and clean-tech sectors.
+intro: Tilix provides a range of packaged services including consulting, interim management, projects and outsourcing. Our whole system value proposition makes Tilix an ideal technology and innovation partner for the energy and clean-tech sectors.
 hero-text:
 - template: content-block
   headline: Wheel turner ...
   text: |-
     Tilix is a _wheel-turner_ with the ability to drive through the technology and innovation challenges on the road to winning the fossil fuel end game.
 
-    Tilix delivers value to its [clients](http://localhost:4000/clients) (including National Grid, Ofgem and Smart DCC) through **projects, staff augmentation & playbooks**. The Tilix service catalogue builds on extensive Director’s experience from interim management positions at Ovo Energy and Good Energy.
+    Tilix delivers value to its [clients](/clients) (including National Grid, Ofgem and Smart DCC) through **projects, staff augmentation & playbooks**. The Tilix service catalogue builds on extensive Director’s experience from interim management positions at Ovo Energy and Good Energy.
 
     Change is like oxygen to Tilix. Recognised industry best practices are the tools of Tilix’s trade.
 - template: content-block
@@ -25,12 +23,14 @@ hero_image: http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png
 body:
 - template: content-block
   headline: Business Architecture
+  link: /services/architecture
   text: |-
     Tilix offers a full range of business architecture services to support a broad range of clients in the energy and cleantech sectors.
 
     We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
 - template: content-block
   headline: Digital Engineering
+  link: /services/digital
   text: |-
     Tilix designs, builds and maintains _systems of engagement_ and _systems of intelligence_ that deliver value across the whole energy value chain.
 
