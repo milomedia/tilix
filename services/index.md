@@ -41,6 +41,7 @@ body:
     Research has never been more critical in helping government and industry increase the stock of knowledge on local, regional, national and international problems and opportunities in energy.
 
     Tilix couples authoritative views of the energy industry together with modern market research methods which gives our clients a unique perspective on the smart and digital transformation of energy.
+  link: "/services/research"
 - template: content-block
   headline: Leading Innovation
   text: |-
@@ -74,6 +75,5 @@ body:
     * Demand Side Management (DSM).
     * Power Purchase Agreements (PPA).
 date: 2019-03-18 11:31:12 +0000
-published: false
 
 ---
