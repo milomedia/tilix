@@ -24,9 +24,9 @@ body:
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/digital-montage-2.png
 - template: content-block
   headline: Research & Transformation
-  text: "[Tilix Sponsored Research](/services/research) offers a unique viewpoint
-    of the challenges and opportunities in the market, whilst Tilix Innovation Management
-    helps incubate ideas and nurture the next wave in smart energy."
+  text: "[Tilix Sponsored Research](/services/research) offers our clients a unique
+    viewpoint of the challenges and opportunities in the market. Whilst Tilix Innovation
+    Management helps our clients use novel ideas to improve competitiveness and productivity."
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/sponsored-research.png
 - template: content-block
   headline: Collaboration Hubs
