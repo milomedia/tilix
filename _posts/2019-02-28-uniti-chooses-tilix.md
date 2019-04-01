@@ -30,4 +30,4 @@ R&D’s mandate is to **position Uniti to catch the next wave**. With support fr
 
 This R&D approach means that Uniti’s core team can stay focused on its short to medium-term goals of building a production line and getting cars onto the road. Therefore, Uniti can grow revenue whilst in tandem taking positions on the longer term opportunities offered by emerging innovations in mobility.
 
-> Uniti will have a number of R&D projects cooking in parallel. Tilix will use a variety of innovation management and partnership brokering techniques to ensure that each has some potential to catch the next big wave. **Dr Neil Williams, Tilix CEO**
+> Uniti has a number of R&D projects cooking in parallel. Tilix will use a variety of innovation management and partnership brokering techniques to ensure that each has some potential to catch the next big wave. **Dr Neil Williams, Tilix CEO**
