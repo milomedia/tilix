@@ -26,8 +26,8 @@ Building on this productive relationship, Uniti will now leverage Tilix's innova
 
 R&D’s mandate is to **position Uniti to catch the next wave**. With support from Tilix, Uniti's R&D function will undertake precious gold mining activity and will provide a key plank in Uniti’s mission to make a positive impact on the future of mobility.
 
-> Uniti represents a wonderful opportunity for reshaping the city car. It is a blank canvas for creativity and innovation in autonomous, electric, connected and shared mobility. The Tilix team is delighted that Uniti has chosen us to help take their R&D to the next level. **Dr Neil Williams, Tilix CEO**
+> Uniti represents a wonderful opportunity for reshaping the city car. It is a blank canvas for creativity and innovation in autonomous, electric, connected and shared mobility. The Tilix team is delighted that Uniti has chosen us to help take its R&D to the next level. **Dr Neil Williams, Tilix CEO**
 
-This R&D approach means that Uniti’s core team can stay focused on its short to medium-term goals of building a production line and getting cars onto the roads. Therefore, Uniti can grow revenue whilst in parallel it takes positions on the longer term opportunities offered by emerging innovations in mobility.
+This R&D approach means that Uniti’s core team can stay focused on its short to medium-term goals of building a production line and getting cars onto the road. Therefore, Uniti can grow revenue whilst in tandem taking positions on the longer term opportunities offered by emerging innovations in mobility.
 
-> Uniti will have a number of R&D projects cooking in parallel. Tilix will use a variety of innovation management and partnership brokering techniques to ensure that each has some potential to catch the next big wave. **Dr Neil Williams, CEO, Tilix**
+> Uniti will have a number of R&D projects cooking in parallel. Tilix will use a variety of innovation management and partnership brokering techniques to ensure that each has some potential to catch the next big wave. **Dr Neil Williams, Tilix CEO**
