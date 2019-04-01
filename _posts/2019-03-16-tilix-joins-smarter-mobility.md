@@ -27,12 +27,12 @@ Smarter Mobility offers its members access to industry expertise, skills and res
 
 > It is wonderful to have Tilix join Smarter Mobility. Tilix provides the ACES mobility industry with valuable consulting and systems integration expertise. It is also highly commendable that Tilix provides business angel support to start-ups in this space. **Mats Linblad, CEO, Smarter Mobility**.
 
-Tilix Smart Energy plays an active role in the emerging ACES mobility industry. The firm's expertise in business architecture, digital engineering, research, innovation and collaboration is valued by start-ups, SMEs and large organisations. Tilix is a value added member of [Smarter Mobility](https://www.smartermobility.org) and are working closely with the founders on the following goals:
+Tilix Smart Energy plays an active role in the emerging ACES mobility industry. The firm's expertise in business architecture, digital engineering, research, innovation and collaboration is valued by start-ups, SMEs and large organisations. Tilix is a value-added member of [Smarter Mobility](https://www.smartermobility.org) and is working closely with the founders on the following goals:
 
-* Take [smartermobility.org](https://www.smartermobility.org) to the next level.
-* Preparing a consortium bid for a pan-European autonomous vehicle project.
-* Promoting Smarter Mobility to Tilix clients & associates with an interest in ACES mobility and at events (e.g. expos and summits in Malta, Oslo, Gothenburg, London, etc)
+* taking [smartermobility.org](https://www.smartermobility.org) to the next level;
+* preparing a consortium bid for a pan-European autonomous vehicle project;
+* promoting Smarter Mobility to Tilix's clients and associates with an interest in ACES mobility and at events (e.g. expos and summits in Malta, Oslo, Gothenburg, London, etc).
 
-> This partnership is about creative collaboration and the increased potential for exciting international  opportunities. in the rapidly growing ACES mobility market. **Dr Neil Williams, CEO, Tilix Smart Energy**.
+> This partnership is about creative collaboration and the increased potential for exciting international  opportunities. in the rapidly growing ACES mobility market. **Dr Neil Williams, CEO, Tilix Smart Energy**
 
-Reach out to Conny or Mats at Smarter Mobility to find out more about the features, advantages and benefits of membership.
+Contact Conny or Mats at Smarter Mobility to find out more about the features, advantages and benefits of membership.
