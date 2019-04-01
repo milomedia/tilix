@@ -27,7 +27,7 @@ Smarter Mobility offers its members access to industry expertise, skills and res
 
 > It is wonderful to have Tilix join Smarter Mobility. Tilix provides the ACES mobility industry with valuable consulting and systems integration expertise. It is also highly commendable that Tilix provides business angel support to start-ups in this space. **Mats Linblad, CEO, Smarter Mobility**.
 
-Tilix Smart Energy play an active role in the emerging ACES mobility industry. The firm's expertise in business architecture, digital engineering, research, innovation and collaboration is valued by start-ups, SMEs and large organisations. Tilix are a value add member of [Smarter Mobility](https://www.smartermobility.org) and are working closely with the founders on the following goals:
+Tilix Smart Energy plays an active role in the emerging ACES mobility industry. The firm's expertise in business architecture, digital engineering, research, innovation and collaboration is valued by start-ups, SMEs and large organisations. Tilix are a value add member of [Smarter Mobility](https://www.smartermobility.org) and are working closely with the founders on the following goals:
 
 * Take [smartermobility.org](https://www.smartermobility.org) to the next level.
 * Preparing a consortium bid for a pan-European autonomous vehicle project.
