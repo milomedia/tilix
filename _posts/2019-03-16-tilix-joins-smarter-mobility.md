@@ -23,7 +23,7 @@ Smarter Mobility offers its members access to industry expertise, skills and res
 * providing easy access to leading industry experts, research, resources, and skills;
 * driving the ACES mobility industry forward by identifying new initiatives regionally and internationally;
 * interfacing with other Europe-wide automotive and e-mobility clusters; 
-* maintaining Skåne's position as a hot-spot for ACES mobility.
+* maintaining the Skåne regions position as a hot-spot for ACES mobility.
 
 > It is wonderful to have Tilix join Smarter Mobility. Tilix provides the ACES mobility industry with valuable consulting and systems integration expertise. It is also highly commendable that Tilix provides business angel support to start-ups in this space. **Mats Linblad, CEO, Smarter Mobility**.
 
