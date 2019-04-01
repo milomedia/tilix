@@ -15,7 +15,7 @@ teaser: 'Tilix is proud to become a member and strategic partner of Smarter Mobi
 
 [Smarter Mobility](https://www.smartermobility.org), a leading industry hub for accelerating business in autonomous driving, transportation and e-mobility has welcomed Tilix Smart Energy as a new member and strategic partner.
 
-> The overall vision for Smarter Mobility is to enable members to gain from the strength and power of the network. **Conny Hertzberg, Smarter Mobility Co-founder**.
+> The overall vision for Smarter Mobility is to enable members to gain from the strength and power of the network. **Conny Hertzberg, Smarter Mobility Co-founder**
 
 Smarter Mobility offers its members access to industry expertise, skills and resources, both nationally and internationally. Based in Lund, Smarter Mobility is a non-profit knowledge resource hub and expert advisory on transportation, mobility, automotive and e-mobility with a focus on:
 
