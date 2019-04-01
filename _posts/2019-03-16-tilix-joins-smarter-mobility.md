@@ -17,7 +17,7 @@ teaser: 'Tilix is proud to become a member and strategic partner of Smarter Mobi
 
 > The overall vision for Smarter Mobility is to enable members to gain from the strength and power of the network. **Conny Hertzberg, Smarter Mobility Co-founder**
 
-Smarter Mobility offers its members access to industry expertise, skills and resources, both nationally and internationally. Based in Lund, Smarter Mobility is a non-profit knowledge resource hub and expert advisory on transportation, mobility, automotive and e-mobility with a focus on:
+Smarter Mobility offers its members access to industry expertise, skills and resources, both nationally and internationally. Based in Lund, Sweden, Smarter Mobility is a non-profit knowledge resource hub and expert advisory on transportation, mobility, automotive and e-mobility with a focus on:
 
 * Services to help member companies collaborate and grow.
 * Provide easy access to leading industry experts, research, resources, and skills.
