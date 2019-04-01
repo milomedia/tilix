@@ -14,15 +14,15 @@ teaser: Swedish electric car OEM hires Tilix to deliver a range of tactical and 
 
 Tilix has provided ad hoc support to Uniti for almost three years: contributing in a variety of areas such as liaising with government grant bodies, supporting crowdfunding efforts and coaching the technical team in topics such as R&D management, vehicle development and prototyping.
 
-Building on this productive relationship, Uniti will now leverage Tilix's innovation management expertise to address specific R&D goals from its business plan. The areas of focus will be:
+Building on this productive relationship, Uniti will now leverage Tilix's innovation management expertise to address specific R&D goals in its business plan. The areas of focus will be:
 
-* Managing sources of R&D funding.
-* Leading R&D activity.
-* Nurturing medium-long term partnerships.
-* Identifying and transitioning innovations for scaling up.
-* Extracting value from ideas that do not get backed for scale.
+* managing sources of R&D funding;
+* leading R&D activity;
+* nurturing medium to long term partnerships;
+* identifying and transitioning innovations for scaling up;
+* extracting value from ideas that do not get backed for scale.
 
-> Tilix innovation management service is an ideal solution for Uniti as we move into our next stage of growth. It will help our R&D function deliver material value to our company and our products. **Lewis Horne, Uniti CEO**.
+> Tilix innovation management service is an ideal solution for Uniti as we move into our next stage of growth. It will help our R&D function deliver material value to our company and our products. **Lewis Horne, Uniti CEO**
 
 R&D’s mandate is to **position Uniti to catch the next wave**. With support from Tilix, Uniti's R&D function will undertake precious gold mining activity and will provide a key plank in Uniti’s mission to make a positive impact on the future of mobility.
 
