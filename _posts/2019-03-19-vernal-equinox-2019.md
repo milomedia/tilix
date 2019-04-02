@@ -23,7 +23,7 @@ When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemis
 
 ### Solar PV Yield
 
-For the solar industry in the Northern Hemisphere, the Spring Equinox marks the beginning of the season of increased yield. The figure shows a month by month cumulative production for a typical solar PV installation.
+For the solar industry in the Northern Hemisphere, the Spring Equinox marks the beginning of the season of increased yield. The figure shows a month-by-month cumulative production for a typical solar PV installation.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/solar-monthly.png)
 
