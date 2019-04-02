@@ -20,7 +20,7 @@ hero-text:
     * [Energy Local](http://www.energylocal.co.uk/): Architected an online acquisition and self-service portal for Energy Local.
     * [Enian](https://www.enian.co/): As an angel investor and technical adviser, Tilix has provided strategic and operational advice to the executive team.
     * [Homebox.io](https://homebox.io/): As lead investor, Tilix is helping this smart home start-up be innovative and commercially savvy.
-    * [Low Carbon Gordano](http://lowcarbongordano.co.uk/): Investor due diligence around plans for solar on roofs.
+    * [Low Carbon Gordano](http://www.lowcarbongordano.co.uk/): Investor due diligence around plans for solar on roofs.
 hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/impact-investing.png
 body:
 - template: content-block
@@ -39,7 +39,7 @@ body:
 - template: content-block
   headline: Joint venture
   text: Tilix works with various partners (e.g. [Sustainable Direction](http://www.sustainabledirection.com/),
-    [NovAzure](http://novazure.com/)) on joint ventures. Here we share ownership,
+    [NovAzure](http://www.novazure.com/)) on joint ventures. Here we share ownership,
     returns, risks, and governance. This is helping Tilix access new markets; gain
     scale efficiencies by combining assets and operations; or to access skills and
     capabilities that are not a core strength.
