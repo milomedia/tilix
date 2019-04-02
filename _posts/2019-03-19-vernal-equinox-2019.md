@@ -9,13 +9,13 @@ teaser: Do you worship Solar? Tilix Smart Energy certainly does! This short blog
   time of year.
 
 ---
-**Do you worship Solar?** Tilix Smart Energy certainly does! This short blog post celebrates the Vernal Equinox and discusses some reasons to get excited at this time of year.
+**Do you worship Solar?** Tilix Smart Energy certainly does! This short blog post celebrates the Vernal Equinox and discusses some of the reasons to get excited about this time of year.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/sunrise.png)
 
 ## Winter is past and spring is here at last
 
-20th March 2019 marks the Spring Equinox - this is when the northern and southern hemispheres are equally illuminated. The word comes from Latin _Aequus_, meaning "equal", and _Nox_, meaning "night".
+20 March 2019 marks the Spring Equinox - this is when the northern and southern hemispheres are equally illuminated. The word comes from Latin _Aequus_, meaning "equal", and _Nox_, meaning "night".
 
 Is there anything more exciting than the first promise of spring? The days are longer, the earth becomes warmer, plant life is stirring and the fauna are more active.
 
