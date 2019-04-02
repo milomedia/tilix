@@ -71,6 +71,5 @@ body:
     and capital to help deliver their mission. We have a strong preference for helping
     organisations which address fuel poverty and air quality.
 date: 2019-04-02 13:45:12 +0000
-published: false
 
 ---
