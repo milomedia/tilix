@@ -19,11 +19,11 @@ teaser: Do you worship Solar? Tilix Smart Energy certainly does! This short blog
 
 Is there anything more exciting than the first promise of spring? The days are longer, the earth becomes warmer, plant life is stirring and the fauna are more active.
 
-When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemisphere and vice versa. At the spring (or vernal) equinox, days and nights are approximately twelve hours long, with day length increasing and night length decreasing as the season progresses.
+When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemisphere and vice versa. At the Spring (or Vernal) Equinox, days and nights are approximately 12 hours long, with day length increasing and night length decreasing as the season progresses.
 
 ### Solar PV Yield
 
-For the solar industry in the Northern Hemisphere, the spring equinox marks the beginning of the season of increased yield. The figure shows a month by month cumulative production for a typical solar PV installation.
+For the solar industry in the Northern Hemisphere, the Spring Equinox marks the beginning of the season of increased yield. The figure shows a month by month cumulative production for a typical solar PV installation.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/solar-monthly.png)
 
