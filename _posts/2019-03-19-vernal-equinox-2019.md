@@ -43,12 +43,12 @@ The Anglo-Saxon goddess **Eostre** had a festival lasting several days. Eostre h
 
 ### Enjoy a Rare Full Moon
 
-Sky-watchers in the Northern Hemisphere have a chance to see a cosmic triple play on 20 March 2019:
+Skywatchers in the Northern Hemisphere have a chance to see a cosmic triple play on 20 March 2019:
 
 1. Full moon
-2. Vernal equinox
+2. Vernal Equinox
 3. Super moon
 
-A full moon has not landed this close to spring equinox since the year 2000, and the two celestial events won’t happen less than a day apart again until 2030. The cherry on the cake is that this full moon will be a super moon. That is the moon will be at its shortest distance from Earth, a [mere 223,309 miles away](http://astropixels.com/ephemeris/moon/moonperap2001.html), making for an especially good view.
+A full moon has not landed this close to Spring Equinox since the year 2000, and the two celestial events won’t happen less than a day apart again until 2030. The cherry on the cake is that this full moon will be a super moon. That is the moon will be at its shortest distance from Earth, a [mere 223,309 miles away](http://astropixels.com/ephemeris/moon/moonperap2001.html), making for an especially good view.
 
-The full moon that appears in March is known as the Worm Moon - called after the worm trails that would appear in the newly thawed ground. It is also known as the **Crow Moon**, when the cawing of crows signaled the end of winter.
+The full moon that appears in March is known as the **Worm Moon** -  after the worm trails that would appear in the newly thawed ground. It is also known as the **Crow Moon**, when the cawing of crows signalled the end of winter.
