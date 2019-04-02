@@ -27,19 +27,19 @@ For the solar industry in the Northern Hemisphere, the Spring Equinox marks the 
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/solar-monthly.png)
 
-The amount of irradiation is key. Ambient temperature is not a major factor. Therefore solar PV productivity is not affected by the lag between the length of day and the average temperatures in mid and high latitude locations where the warmest part of the summer lags the summer solstice. This lag is due to the time required for ground and water to heat up. That is why August is typically warmer than June even though the hours of daylight are considerably less.
+The amount of irradiation is key. Ambient temperature is not a major factor. Therefore solar PV productivity is not affected by the lag between the length of day and the average temperatures in mid and high latitude locations where the warmest part of the summer lags the Summer Solstice. This lag is due to the time required for ground and water to heat up. That is why August is typically warmer than June even though the hours of daylight are considerably less.
 
 ### Cultural Importance
 
-The March Equinox has cultural significance around the world.
+The Spring Equinox has cultural significance around the world.
 
-The Anglo-Saxon goddess **Eostre** had a festival lasting several days. Eostre has since evolved into "Easter" in English and "Ostern" in German. [Neopagans](https://en.wikipedia.org/wiki/Neopagan "Neopagan") observe the March equinox as a cardinal point on the [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year "Wheel of the Year").
+The Anglo-Saxon goddess **Eostre** had a festival lasting several days. Eostre has since evolved into "Easter" in English and "Ostern" in German. [Neopagans](https://en.wikipedia.org/wiki/Neopagan "Neopagan") observe the Spring Equinox as a cardinal point on the [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year "Wheel of the Year").
 
-**Nowruz** (Persian New Year) is a celebration dating back thousands of years. Nowruz is a Farsi word meaning “new day”. More than 300 million people celebrate Nowruz in places that have felt Persian influence through the ages.
+**Nowruz** (Persian New Year) is a celebration dating back thousands of years. Nowruz is a Farsi word meaning “new day”. More than 300 million people celebrate Nowruz in places that have been influenced by Persian culture through the ages.
 
 **Shunbun no Hi** is a public holiday in Japan which has its roots in the ancient Shintoism religion. Nowadays the Japanese use it to hold family reunions, visit shrines, seek out cherry blossoms etc. The holiday is also special to farmers and agriculturalists as a day to pray for good luck and fortune for the crops they may grow in the upcoming season.
 
-**Holi** is a Hindu spring festival which is also known as the "festival of colours" or the "festival of love". It signifies the arrival of spring. It is an opportunity to meet others, play and laugh, forget and forgive, and repair broken relationships. The [Indian national calendar](https://en.wikipedia.org/wiki/Indian_national_calendar "Indian national calendar") starts the year on the day next to the vernal equinox.
+**Holi** is a Hindu spring festival which is also known as the "festival of colours" or the "festival of love". It signifies the arrival of spring. It is an opportunity to meet others, play and laugh, forget and forgive, and repair broken relationships. The [Indian national calendar](https://en.wikipedia.org/wiki/Indian_national_calendar "Indian national calendar") starts the year on the day after the Vernal Equinox.
 
 ### Enjoy a Rare Full Moon
 
