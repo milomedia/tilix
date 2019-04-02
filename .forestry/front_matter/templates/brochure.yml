@@ -36,7 +36,7 @@ fields:
   template_types:
   - content-block
 pages:
-- making-energy-cheap-clean-cheerful.md
+- impact.md
 - index.md
 - services/innovation.md
 - services/directing-it.md
