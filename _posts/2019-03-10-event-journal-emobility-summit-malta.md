@@ -22,11 +22,11 @@ His inspiring call to action was elaborated further by MEP[ ](https://www.linked
 
 Experts from the industry highlighted the latest technologies and discussed how the e-mobility sector is rapidly becoming more interconnected and autonomous.
 
-BMW Group Vice President of Governmental Affairs Thomas Becker, presented a broad overview of the market for EVs.
+BMW Group Vice President of Governmental Affairs Thomas Becker, presented a broad overview of the EVs market
 
 > 9% of BMWs sold in Malta in 2018 were electric. The EU average was 7.2%. **Thomas Becker**
 
-Other OEMs participating in the event included Porsche, Volkswagen and Nissan and start-ups Uniti EV and Fenris Mororcycles.
+Other OEMs participating in the event included Porsche, Volkswagen and Nissan and start-ups Uniti EV and Fenris Motorcycles.
 
 Christina Bu, Norwegian EV Association Secretary General gave a keynote that outlined how Norway’s mass market adoption of EVs is progressing. More than 40% of new cars sold are fully electric and this number continues to grow.
 
