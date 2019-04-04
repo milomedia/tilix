@@ -10,6 +10,8 @@ teaser: Tilix Smart Energy are proud to have supported Malta’s inaugural E-Mob
 ---
 Tilix Smart Energy is proud to have supported Malta’s inaugural E-Mobility Summit. Malta’s potential to act as a proving ground for ongoing innovation in mobility was a major theme of the summit. There was a good mix of OEMs, mobility service providers, consultants and policymakers in attendance.
 
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/Neil Malta.jpeg)
+
 The opening keynotes were delivered by Malta’s Prime Minister Joseph Muscat.
 
 > Let’s  make the Maltese Islands the first European state running the majority of its cars on electricity. **Joseph Muscat**
@@ -18,7 +20,7 @@ His inspiring call to action was elaborated further by MEP[ ](https://www.linked
 
 > _Gozo is a great place to prove mobility concepts in a real world environment._ **Miriam Dalli**
 
- Malta’s AI and Blockchain tsar, Silvio Schembri, believes the islands are perfectly placed to take advantage of the rapid innovative and regulatory changes that will be needed for these technologies to go mainstream within the mobility sector.
+Malta’s AI and Blockchain tsar, Silvio Schembri, believes the islands are perfectly placed to take advantage of the rapid innovative and regulatory changes that will be needed for these technologies to go mainstream within the mobility sector.
 
 Experts from the industry highlighted the latest technologies and discussed how the e-mobility sector is rapidly becoming more interconnected and autonomous.
 
@@ -33,8 +35,6 @@ Norwegian EV Association Secretary General, Christina Bu, gave a keynote that ou
 Christina also considered China’s position as the world leader in EV production and how the European market is in their sights.
 
 > European manufacturers have to act now and respond to a growing demand for electric cars. Otherwise it could be a Kodak moment for their industry. **Christina Bu**
-
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Neil Malta.jpeg)
 
 Tilix CEO, Dr Neil Williams, participated in two panels. First as a speaker and then as a moderator.
 
