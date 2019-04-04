@@ -52,7 +52,7 @@ In addition to electrification, other themes explored by speakers included auton
 
 1. EVs are going mainstream. An overview of the Norwegian market (where 40% of new cars are electric) gave delegates a glimpse of the future for Malta.
 2. Europe can leverage the emerging ACES mobility market as a major job and wealth creator.
-3. Legislation will play a key role in transforming the mobility sector. Policy makers in Malta want the nation to be leaders not laggards.
-4. The transition to new transport modes will come in wave after wave. In the short term EV ownership will steadily increase. Then shared mobility will grow rapidly in the medium term. Fully autonomous vehicles will hit the roads in the longer term.
+3. Legislation will play a key role in transforming the mobility sector. Policymakers in Malta want the nation to be leaders not laggards.
+4. The transition to new transport modes will come in successive waves. In the short term, EV ownership will steadily increase. Then shared mobility will grow rapidly in the medium term. Fully autonomous vehicles will hit the roads in the longer term.
 5. Mobility-as-a-Service will force OEM business models to change. Consumers can look forward to having much more flexibility and choice. For example, on any given day, drivers will be able to pick and choose which vehicle they want to drive. Yet they will be able to maintain a consistent driving experience because the vehicles will have software defined dashboards which are instantly reconfigurable.
 6. Malta’s doors are wide open for innovative manufacturers and service providers across autonomous, connected, electric and share mobility.
