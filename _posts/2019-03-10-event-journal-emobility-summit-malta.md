@@ -14,15 +14,15 @@ The opening keynotes were delivered by Malta’s Prime Minister Joseph Muscat.
 
 > Let’s  make the Maltese Islands the first European state running the majority of its cars on electricity. **Joseph Muscat**
 
-His inspiring call to action was elaborated further by MEP[ ](https://www.linkedin.com/in/ACoAAALlQPkBl534reZNQgswDqoX-RsvbVrdAFs/)Dr Miriam Dalli and Dr Chris Cardona, Malta’s Minister for the Economy, Investment and Small Business.
+His inspiring call to action was elaborated further by MEP[ ](https://www.linkedin.com/in/ACoAAALlQPkBl534reZNQgswDqoX-RsvbVrdAFs/)Dr Miriam Dalli and  Malta’s Minister for the Economy, Investment and Small Business, Dr Chris Cardona.
 
 > _Gozo is a great place to prove mobility concepts in a real world environment._ **Miriam Dalli**
 
-Silvio Schembri, Malta’s AI and Blockchain tsar, believes the islands are perfectly placed to take advantage of the rapid innovative and regulatory changes that will be needed for these technologies to go mainstream within the mobility sector.
+ Malta’s AI and Blockchain tsar, Silvio Schembri, believes the islands are perfectly placed to take advantage of the rapid innovative and regulatory changes that will be needed for these technologies to go mainstream within the mobility sector.
 
-Experts from the industry, highlighted the latest technologies and discussed how the e-mobility sector is rapidly becoming more interconnected and autonomous.
+Experts from the industry highlighted the latest technologies and discussed how the e-mobility sector is rapidly becoming more interconnected and autonomous.
 
-BMW Group Vice President of Governmental Affairs Thomas Becker presented a broad overview of the market for EVs.
+BMW Group Vice President of Governmental Affairs Thomas Becker, presented a broad overview of the market for EVs.
 
 > 9% of BMWs sold in Malta in 2018 were electric. The EU average was 7.2%. **Thomas Becker**
 
