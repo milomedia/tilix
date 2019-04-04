@@ -8,13 +8,13 @@ teaser: Tilix Smart Energy are proud to have supported Malta’s inaugural E-Mob
   Summit.
 
 ---
-Tilix Smart Energy are proud to have supported Malta’s inaugural E-Mobility Summit. Malta’s potential to act as a proving ground for ongoing innovation in mobility was a major theme of the summit. There was a good mix of OEMs, mobility service providers, consultants and policy makers in attendance.
+Tilix Smart Energy is proud to have supported Malta’s inaugural E-Mobility Summit. Malta’s potential to act as a proving ground for ongoing innovation in mobility was a major theme of the summit. There was a good mix of OEMs, mobility service providers, consultants and policymakers in attendance.
 
-The opening keynotes was delivered by Malta’s Prime Minister Joseph Muscat.
+The opening keynotes were delivered by Malta’s Prime Minister Joseph Muscat.
 
 > Let’s  make the Maltese Islands the first European state running the majority of its cars on electricity. **Joseph Muscat**
 
-His inspiring call to action was elaborated further by MEP[ ](https://www.linkedin.com/in/ACoAAALlQPkBl534reZNQgswDqoX-RsvbVrdAFs/)Dr. Miriam Dalli and Dr Chris Cardona, Malta’s Minister for the Economy, Investment and Small Business.
+His inspiring call to action was elaborated further by MEP[ ](https://www.linkedin.com/in/ACoAAALlQPkBl534reZNQgswDqoX-RsvbVrdAFs/)Dr Miriam Dalli and Dr Chris Cardona, Malta’s Minister for the Economy, Investment and Small Business.
 
 > _Gozo is a great place to prove mobility concepts in a real world environment._ **Miriam Dalli**
 
