@@ -40,9 +40,9 @@ Tilix CEO, Dr Neil Williams, participated in two panels. First as a speaker and 
 
 > _EVs combined with smart, digital control of energy is giving us clean air and energy security. This technology revolution is particularly relevant to small island nations like Malta._ **Neil Williams**
 
-Panelist and Founder of Electric Vehicles Outlook, Roger Atkins, said:
+Panelist and founder of Electric Vehicles Outlook, Roger Atkins, said:
 
-> Given Malta’s finance, gaming and more recently blockchain endeavours, Malta could well look to bring regulatory innovation to this sector and, more broadly, the circular economy. **Roger Atkins**
+> Given Malta’s finance, gaming, and more recently, blockchain endeavours, Malta could well look to bring regulatory innovation to this sector and, more broadly, to the circular economy. **Roger Atkins**
 
 To realise this e-mobility ambition, the Maltese Government has committed an investment of €700M in the country’s road and transport network to lay a foundations of infrastructure that can accommodate the emerging future of eMobility. The private sector is busy too. For example, the GoTo car sharing network launched recently and has put 150 electric cars onto the roads.
 
