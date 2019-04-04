@@ -44,7 +44,7 @@ Panelist and founder of Electric Vehicles Outlook, Roger Atkins, said:
 
 > Given Malta’s finance, gaming, and more recently, blockchain endeavours, Malta could well look to bring regulatory innovation to this sector and, more broadly, to the circular economy. **Roger Atkins**
 
-To realise this e-mobility ambition, the Maltese government has committed an investment of €700m in the country’s road and transport network to lay the foundations for infrastructure that can accommodate the emerging future of eMobility. The private sector is busy too. For example, the GoTo car sharing network launched recently and has put 150 electric cars onto the roads.
+To realise this e-mobility ambition, the Maltese government has committed an investment of €700m in the country’s road and transport network to lay the foundations for infrastructure that can accommodate the emerging future of e-Mobility. The private sector is busy too. For example, the GoTo car sharing network launched recently and has put 150 electric cars on the road.
 
 In addition to electrification, other themes explored by speakers included autonomy, V2X via 5G connectivity, power networks, renewables, energy storage and blockchain
 
