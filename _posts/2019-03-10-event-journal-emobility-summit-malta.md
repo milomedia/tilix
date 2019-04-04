@@ -28,7 +28,7 @@ BMW Group Vice President of Governmental Affairs Thomas Becker, presented a broa
 
 Other OEMs participating in the event included Porsche, Volkswagen and Nissan and start-ups Uniti EV and Fenris Motorcycles.
 
-Christina Bu, Norwegian EV Association Secretary General gave a keynote that outlined how Norway’s mass market adoption of EVs is progressing. More than 40% of new cars sold are fully electric and this number continues to grow.
+Norwegian EV Association Secretary General, Christina Bu, gave a keynote that outlined how Norway’s mass market adoption of EVs is progressing. More than 40% of new cars sold are fully electric and this number continues to grow.
 
 Christina also considered China’s position as the world leader in EV production and how the European market is in their sights.
 
@@ -36,11 +36,11 @@ Christina also considered China’s position as the world leader in EV productio
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/Neil Malta.jpeg)
 
-Dr Neil Williams, Tilix CEO, participated in two panels. First as a speaker and then as a moderator.
+Tilix CEO, Dr Neil Williams, participated in two panels. First as a speaker and then as a moderator.
 
-> _EVs combined with smart, digital control of energy is giving us clean air & energy security. This technology revolution is particularly relevant to small island nations like Malta._ **Neil Williams**
+> _EVs combined with smart, digital control of energy is giving us clean air and energy security. This technology revolution is particularly relevant to small island nations like Malta._ **Neil Williams**
 
-Panelist Roger Atkins, Founder of Electric Vehicles Outlook, said:
+Panelist and Founder of Electric Vehicles Outlook, Roger Atkins, said:
 
 > Given Malta’s finance, gaming and more recently blockchain endeavours, Malta could well look to bring regulatory innovation to this sector and, more broadly, the circular economy. **Roger Atkins**
 
