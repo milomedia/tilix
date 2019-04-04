@@ -46,11 +46,11 @@ Panelist and founder of Electric Vehicles Outlook, Roger Atkins, said:
 
 To realise this e-mobility ambition, the Maltese government has committed an investment of €700m in the country’s road and transport network to lay the foundations for infrastructure that can accommodate the emerging future of e-Mobility. The private sector is busy too. For example, the GoTo car sharing network launched recently and has put 150 electric cars on the road.
 
-In addition to electrification, other themes explored by speakers included autonomy, V2X via 5G connectivity, power networks, renewables, energy storage and blockchain
+In addition to electrification, other themes explored by speakers included autonomy, V2X via 5G connectivity, power networks, renewables, energy storage and blockchain.
 
-### **Takeaways from the eMobility Summit**
+### **Takeaways from the EMobility Summit**
 
-1. EVs are going mainstream. An overview of the market in Norway (where 40% of new cars are electric) gave delegates a glimpse of the future for Malta.
+1. EVs are going mainstream. An overview of the Norwegian market (where 40% of new cars are electric) gave delegates a glimpse of the future for Malta.
 2. Europe can leverage the emerging ACES mobility market as a major job and wealth creator.
 3. Legislation will play a key role in transforming the mobility sector. Policy makers in Malta want the nation to be leaders not laggards.
 4. The transition to new transport modes will come in wave after wave. In the short term EV ownership will steadily increase. Then shared mobility will grow rapidly in the medium term. Fully autonomous vehicles will hit the roads in the longer term.
