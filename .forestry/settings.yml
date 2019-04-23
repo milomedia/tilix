@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Etc
   create: all
-  match: "{/*.html,/impressum/**/*,/clients/**/*,/about/**/*}"
+  match: "{/*.md,/*.html,/impressum/**/*,/clients/**/*,/about/**/*}"
   exclude: "{/webform.html}"
 - type: directory
   path: services
