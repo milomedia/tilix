@@ -4,12 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Jekyll Pages
-  create: all
 - type: directory
   path: ''
-  label: Pages
+  label: Etc
   create: all
   match: "{/*.html,/impressum/**/*,/clients/**/*,/about/**/*}"
   exclude: "{/webform.html}"
