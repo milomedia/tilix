@@ -34,7 +34,7 @@ body:
     such as blockchain, GDPR, AI, mobility and smart grid. These communities leverage
     digital technology to bring together the right people at the right time and in
     the right place. The collective knowledge available for active participants is
-    a force multiplier.
+    a force multiplier. [Read more.](https://www.tilix.uk/2019/02/13/the-power-of-collaboration)
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/supplier-logo.png
 - template: content-block
   headline: Impact Investing
@@ -50,7 +50,7 @@ body:
     energy value chain helps put open innovation at the heart of the transformation
     of gas and electricity. [Read more](http://www.tilix.uk/keynotes-panels)
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/ideaLondon.jpg
-date: 2019-03-18 11:31:12 +0000
+date: 2019-03-18T11:31:12.000+00:00
 intro: ''
 
 ---
