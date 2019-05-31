@@ -36,7 +36,7 @@ body:
     digital technology to bring together the right people at the right time and in
     the right place. The collective knowledge available for active participants is
     a force multiplier. [Read more.](https://www.tilix.uk/2019/02/13/the-power-of-collaboration)
-  image: http://www.tilix.uk.s3.amazonaws.com/forestry/supplier-logo.png
+  image: http://www.tilix.uk.s3.amazonaws.com/forestry/ideaLondon.jpg
 - template: content-block
   headline: Impact Investing
   text: Tilix uses retained earnings to support nascent, potentially game changing
@@ -50,7 +50,7 @@ body:
     industry events. Disseminating our experience and expertise from across the whole
     energy value chain helps put open innovation at the heart of the transformation
     of gas and electricity. [Read more](http://www.tilix.uk/keynotes-panels)
-  image: http://www.tilix.uk.s3.amazonaws.com/forestry/ideaLondon.jpg
+  image: http://www.tilix.uk.s3.amazonaws.com/forestry/keynotes-panels.jpg
 date: 2019-03-18T11:31:12.000+00:00
 intro: ''
 
