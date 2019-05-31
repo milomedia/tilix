@@ -23,10 +23,11 @@ body:
     IoT, big data and AI. [Read more](http://www.tilix.uk/services/digital).
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/digital-montage-2.png
 - template: content-block
-  headline: Research & Transformation
-  text: "[Tilix Sponsored Research](/services/research) offers our clients a unique
-    viewpoint of the challenges and opportunities in the market. Whilst Tilix Innovation
-    Management helps our clients use novel ideas to improve competitiveness and productivity."
+  headline: Research
+  text: "[Tilix Research](/services/research) offers our clients a unique viewpoint
+    of the challenges and opportunities in the market. This helps our clients use
+    novel ideas, digital transformation and cleantech innovation to improve competitiveness
+    and productivity."
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/sponsored-research.png
 - template: content-block
   headline: Collaboration Hubs
