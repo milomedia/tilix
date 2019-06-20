@@ -68,7 +68,7 @@ The first all-day musical celebration on the day of the summer solstice was firs
 
 #### **Stonehenge**
 
-[Geoff Caddick Sunrise Solstice.webp](http://www.tilix.uk.s3.amazonaws.com/forestry/Geoff Caddick Sunrise Solstice.webp "Geoff Caddick Sunrise Solstice.webp")
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/Solstice Sunrise.jpg)
 
 _Summer solstice at Stonehenge in Wiltshire (Photo: Geoff Caddick/AFP/Getty Images)_
 
