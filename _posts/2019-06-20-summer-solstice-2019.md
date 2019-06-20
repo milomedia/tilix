@@ -3,7 +3,7 @@ layout: post
 title: Summer Solstice 2019
 date: 2019-06-20T23:00:00.000+00:00
 Author: John Williams
-image: ''
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/solstice.png
 teaser: In the Northern Hemisphere, the summer solstice, or the longest day of the
   year, takes place on Friday 21 June, marking the return of brighter evenings...
 
@@ -11,6 +11,8 @@ teaser: In the Northern Hemisphere, the summer solstice, or the longest day of t
 ## Do you worship Solar?
 
 Tilix Smart Energy certainly does! This short blog post celebrates the summer solstice and discusses some of the reasons to get excited at this time of year.
+
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/solstice.png)
 
 ### **Here comes the summer!**
 
@@ -50,7 +52,7 @@ In **Sweden,** midsummer is such an important festivity that there have been ser
 
 In **Denmark**, the solstitial celebration is called _sankthans_ ("St John's Eve"), and in accordance with the Danish tradition of celebrating a holiday on the evening before the actual day, it takes place on the evening of 23 June.
 
-In **Portugal**, midsummer festivities are included in what is known today as _Santos Populares_ (Popular Saints celebrations). Saints’ days are full of fun and merriment. 
+In **Portugal**, midsummer festivities are included in what is known today as _Santos Populares_ (Popular Saints celebrations). Saints’ days are full of fun and merriment.
 
 #### **The** **Fête de la Musique**
 
