@@ -70,6 +70,8 @@ The first all-day musical celebration on the day of the summer solstice was firs
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/Solstice Sunrise.jpg)
 
+[script>](<a id='Q57kZ9pOQLtKh5VV2lG-Cg' class='gie-single' href='http://www.gettyimages.co.uk/detail/979986700' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||\[\]).push(c)};gie(function(){gie.widgets.load({id:'Q57kZ9pOQLtKh5VV2lG-Cg',sig:'s_3L9aiF6K9TaKClT8UYz3WNgIFkYomdTJN27EwO9wI=',w:'594px',h:'396px',items:'979986700',caption: true ,tld:'co.uk',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script> "script>")
+
 _Summer solstice at Stonehenge in Wiltshire (Photo: Geoff Caddick/AFP/Getty Images)_
 
 Stonehenge is an ancient prehistoric world heritage site which has been a place of worship and celebration at the time of summer solstice for thousands of years.
