@@ -10,9 +10,9 @@ teaser: In the Northern Hemisphere, the summer solstice, or the longest day of t
 ---
 ## Do you worship Solar?
 
-###### Tilix Smart Energy certainly does! This short blog post celebrates the summer solstice and discusses some of the reasons to get excited at this time of year.
+Tilix Smart Energy certainly does! This short blog post celebrates the summer solstice and discusses some of the reasons to get excited at this time of year.
 
-##### **Here comes the summer!**
+### **Here comes the summer!**
 
 In the Northern Hemisphere, the summer solstice, or the longest day of the year, takes place on Friday 21 June. We enjoy brighter evenings, festivals, picnics and barbecues.
 
@@ -20,25 +20,25 @@ The **summer solstice** occurs when one of the Earth's poles has its maximum til
 
 At the pole, there is continuous daylight around the summer solstice and the Earth's maximum axial tilt towards the Sun is 23.44°.
 
-\[REF: Wikipedia\]([https://en.wikipedia.org/wiki/Summer_solstice](https://en.wikipedia.org/wiki/Summer_solstice "https://en.wikipedia.org/wiki/Summer_solstice"))
+[REF: Wikipedia](https://en.wikipedia.org/wiki/Summer_solstice)
 
-**Solar PV Yield**
+### **Solar PV Yield**
 
 The solar industry is creating jobs at an extraordinary rate. As solar energy keeps getting cheaper and cheaper, it becomes accessible to more and more people.
 
 More energy from the Sun lands on the face of the Earth in just one hour than the entire global population uses in one year. We have all the solar power we could want. Plus, unlike fossil fuels, it’s renewable and will never run out – at least not for a few billion years.
 
-###### **The current record for solar panel efficiency, i.e. 26.6%, was set in March 2017 by Japanese scientists.**
+#### **The current record for solar panel efficiency, i.e. 26.6%, was set in March 2017 by Japanese scientists.**
 
 The panel still uses the same principles in the original silicon cell design pioneered by Bell Labs in the 1950s, with a few significant innovations to allow for the collection of a greater number of photons.
 
-###### **Cooler temperatures actually make solar panels process sunlight more efficiently than at hotter temperatures.**
+#### **Cooler temperatures actually make solar panels process sunlight more efficiently than at hotter temperatures.**
 
 Electrons at rest on the solar panel are excited by photons from the Sun. The difference between the excited and rest energies determines how much electrical is generated. If the solar panel is hot, then the electrons at rest have more energy the difference between the rest energy and excited energy is smaller.
 
-\[REF: Climate Reality Project\]([https://www.climaterealityproject.org/blog/lighten-21-solar-facts-summer-solstice](https://www.climaterealityproject.org/blog/lighten-21-solar-facts-summer-solstice "https://www.climaterealityproject.org/blog/lighten-21-solar-facts-summer-solstice"))
+[REF: Climate Reality Project](https://www.climaterealityproject.org/blog/lighten-21-solar-facts-summer-solstice)
 
-##### **Cultural Importance**
+### **Cultural Importance**
 
 Many cultures recognise the event in some way with holidays, festivals and rituals.
 
@@ -52,19 +52,19 @@ In **Denmark**, the solstitial celebration is called _sankthans_ ("St John's Eve
 
 In **Portugal**, midsummer festivities are included in what is known today as _Santos Populares_ (Popular Saints celebrations). Saints’ days are full of fun and merriment. 
 
-##### **The** **Fête de la Musique**
+#### **The** **Fête de la Musique**
 
 **World Music Day** is an annual music celebration that takes place on 21 June. On this day, the citizens of a city or country are urged to play music outside in their neighbourhoods or in public spaces and parks. Free concerts are also organised, where musicians play for fun and not for payment.
 
 The first all-day musical celebration on the day of the summer solstice was first celebrated in Paris in 1982. Since then, it has become an international phenomenon, celebrated on the same day in more than 700 cities in 120 countries.
 
-##### _Journée nationale des peuples autochtones_
+#### _Journée nationale des peuples autochtones_
 
 **National Indigenous Peoples Day** is a day recognising and celebrating the cultures and contributions of the First Nations, Inuit and Métis Indigenous peoples of **Canada**. It was first celebrated as **National Aboriginal Day** in 1996, on 21 June. This date was chosen as the statutory holiday for its cultural significance as the summer solstice, and the fact that it is a day on which many Indigenous peoples and communities traditionally celebrate their heritage. It was renamed from National Aboriginal Day in 2017.
 
-\[REF: Wikipedia\]( [https://en.wikipedia.org/wiki/National_Ind_genous_Peoples_Day_](https://en.wikipedia.org/wiki/National_Indigenous_Peoples_Day "https://en.wikipedia.org/wiki/National_Indigenous_Peoples_Day")_)_
+[REF: Wikipedia](https://en.wikipedia.org/wiki/National_Indgenous_Peoples_Day)
 
-##### **Stonehenge**
+#### **Stonehenge**
 
 ![](https://lh4.googleusercontent.com/Q7LKWRZXhyUYLmQymahsuSHG8yVZAR2NnTjn1yihEXaXjzw6oY7Q8aI-cnsFbMVuEfsv9-zdzel-j8dUrjPL9LuTCJG4IC4287WQ7BaudA9y33VK67WU36DCsAg-gqDtsagx6F8a =602x401)
 
@@ -74,4 +74,4 @@ Stonehenge is an ancient prehistoric world heritage site which has been a place 
 
 Each year on 21 June visitors from around the world gather at Stonehenge overnight to mark the summer solstice and to see the sunrise above the stones. At dawn the central Altar stone aligns with the Slaughter stone, Heel stone and the rising sun to the northeast.
 
-\[REF Stonehenge Tours\]([https://stonehengetours.com/summer-solstice-tour.htm](https://stonehengetours.com/summer-solstice-tour.htm "https://stonehengetours.com/summer-solstice-tour.htm"))
+[REF Stonehenge Tours](https://stonehengetours.com/summer-solstice-tour.htm)
