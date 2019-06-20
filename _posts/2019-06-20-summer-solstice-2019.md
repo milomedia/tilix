@@ -68,11 +68,9 @@ The first all-day musical celebration on the day of the summer solstice was firs
 
 #### **Stonehenge**
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/stonehenge.jpg)
-
-_Summer solstice at Stonehenge in Wiltshire (Photo: Geoff Caddick/AFP/Getty Images)_
-
 Stonehenge is an ancient prehistoric world heritage site which has been a place of worship and celebration at the time of summer solstice for thousands of years.
+
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/stonehenge.jpg)Photo by [Hello I'm Nik](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stonehenge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Each year on 21 June visitors from around the world gather at Stonehenge overnight to mark the summer solstice and to see the sunrise above the stones. At dawn the central Altar stone aligns with the Slaughter stone, Heel stone and the rising sun to the northeast.
 
