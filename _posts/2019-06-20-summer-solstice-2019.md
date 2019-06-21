@@ -4,7 +4,8 @@ title: Summer Solstice 2019
 date: 2019-06-20
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/solstice.png
-teaser: In the Northern Hemisphere, the summer solstice, or the longest day of the year, takes place on Friday 21 June, marking the return of brighter evenings...
+teaser: In the Northern Hemisphere, the summer solstice, or the longest day of the
+  year, takes place on Friday 21 June, marking the return of brighter evenings...
 
 ---
 Do you worship Solar? Tilix Smart Energy certainly does! This short blog post celebrates the summer solstice and discusses some of the reasons to get excited at this time of year.
@@ -34,6 +35,7 @@ Cooler temperatures actually make solar panels process sunlight more efficiently
 [REF: Climate Reality Project](https://www.climaterealityproject.org/blog/lighten-21-solar-facts-summer-solstice)
 
 ## Cultural Importance
+
 Many cultures recognise the event in some way with holidays, festivals and rituals.
 
 In the **Finnish** midsummer celebration, bonfires (_kokko_) are very common and are lit at lakesides and by the sea. Branches from birch trees (_koivu_) are often placed on both sides of the front door to welcome visitors. Swedish-speaking Finns often celebrate by erecting a maypole.
@@ -46,15 +48,16 @@ In **Denmark**, the solstitial celebration is called _sankthans_ ("St John's Eve
 
 In **Portugal**, midsummer festivities are included in what is known today as _Santos Populares_ (Popular Saints celebrations). Saints’ days are full of fun and merriment.
 
-**World Music Day**(Fête de la Musique) is an annual music celebration that takes place on 21 June. On this day, the citizens of a city or country are urged to play music outside in their neighbourhoods or in public spaces and parks. Free concerts are also organised, where musicians play for fun and not for payment.
+**World Music Day** (Fête de la Musique) is an annual music celebration that takes place on 21 June. On this day, the citizens of a city or country are urged to play music outside in their neighbourhoods or in public spaces and parks. Free concerts are also organised, where musicians play for fun and not for payment.
 
 The first all-day musical celebration on the day of the summer solstice was first celebrated in Paris in 1982. Since then, it has become an international phenomenon, celebrated on the same day in more than 700 cities in 120 countries.
 
-**National Indigenous Peoples Day**(Journée nationale des peuples autochtones) is a day recognising and celebrating the cultures and contributions of the First Nations, Inuit and Métis Indigenous peoples of **Canada**. It was first celebrated as **National Aboriginal Day** in 1996, on 21 June. This date was chosen as the statutory holiday for its cultural significance as the summer solstice, and the fact that it is a day on which many Indigenous peoples and communities traditionally celebrate their heritage. It was renamed from National Aboriginal Day in 2017.
+**National Indigenous Peoples Day** (Journée nationale des peuples autochtones) is a day recognising and celebrating the cultures and contributions of the First Nations, Inuit and Métis Indigenous peoples of **Canada**. It was first celebrated as **National Aboriginal Day** in 1996, on 21 June. This date was chosen as the statutory holiday for its cultural significance as the summer solstice, and the fact that it is a day on which many Indigenous peoples and communities traditionally celebrate their heritage. It was renamed from National Aboriginal Day in 2017.
 
 [REF: Wikipedia](https://en.wikipedia.org/wiki/National_Indgenous_Peoples_Day)
 
 ## Stonehenge
+
 Stonehenge is an ancient prehistoric world heritage site which has been a place of worship and celebration at the time of summer solstice for thousands of years.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/stonehenge.jpg)Photo by [Hello I'm Nik](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stonehenge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
