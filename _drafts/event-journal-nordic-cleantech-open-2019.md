@@ -1,34 +1,54 @@
 ---
 layout: post
-title: 'Event Journal: Nordic Cleantech Open 2019'
-date: 2019-05-27 22:00:00 +0000
+title: 'Event Journal: Future of Mobility'
+date: 2019-06-06 22:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/nordic-clean-tech.jpg
 teaser: Stockholm was host to an excellent showcase of cleantech innovation.
 
 ---
-Ten innovative seed stage cleantech start-ups presented at Nordic Cleantech Open Finals, in Stockholm on May 22nd with the event being moderated by [Andreas Stubelius](https://www.linkedin.com/in/andreas-stubelius-8643b319/) from the [Swedish Energy Agency](http://www.energimyndigheten.se/).
+**The Future of Mobility** day in Lund on May 24th was organised by [**Ideon Science Park**](https://ideon.se/) in co-operation with [**Innovation Skåne**](http://www.innovationskane.com/sv/) and [**Mobile Heights**](https://mobileheights.org/)
 
-After an intense and very tight Final in the spotlight, the final ranking of the 8th Edition of NCO were:
+The hosts - Joakim Nelson, Innovation Skåne AB, Mia Rolf, Ideon Science Park, and Ola Svedin, Mobile Heights, welcomed 200 attendees including OEMs, mobility service providers, consultants and some of the sharpest minds in the business.
 
-1. [SurfCleaner ](https://surfcleaner.com)took first place with its unparalleled solution to eliminate and separate pollutants from water surfaces.
-2. [Moving Floor](http://movingfloor.se), who provide automatic cleaning for livestock through a system of self-cleaning floors.
-3. [Einride](https://www.einride.tech), with their transportation as a service solution based on all-electric, autonomous vehicles, or ”T-pods”.
+Speakers highlighted their vision of future mobility. The key areas of focus were**:**
 
-[Christina Lundbäck](https://www.linkedin.com/in/christina-lundb%C3%A4ck-633010127/), Founder & CMO received the award from Ibrahim Baylan, Swedish Minister for Business, Industry and Innovation.  
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/nordic-cleantech-winner.jpg)  
-This year, Food & Agritech dominated the Top 25, with eight solutions directed towards it. Other areas such as new materials, mobility, waste, energy and water were also present on this year’s list.
+* Global, regional and local urbanisation and mobility trends
+* Connectivity, AI & 5G
+* Infrastructure & electricity for future mobility
+* Sustainability: air quality and climate change
 
-> The solutions never cease to amaze us, and we are excited to see them play their part in the sustainable transition that our societies are currently going through.
->
-> One thing that is clear is that Nordic and Baltic cleantech innovation is here to stay, as every year we find more and more start-ups working in the sector. [**Magnus Agerstörm**](https://www.linkedin.com/in/magnus-agerstr%C3%B6m-98b5985/)**,** [**Cleantech Scandavia **](https://cleantechscandinavia.com/)
+**Future mobility services** was the agenda for Christer Ljungberg [Trivector](https://www.trivector.se/), Maria Schnurr [RISE](https://www.ri.se/sv), Mårten Rignell, Business Developer, [Skånetrafiken](https://www.skanetrafiken.se/), Niklas Joenson [Lime](https://www.li.me/), Thomas Droben [OurGreenCar](https://ourgreencar.se/).
 
-Based on the critical criteria of innovation, market potential and team - the Nordic Cleantech Open helps early-stage clean technology companies develop their businesses. 
+> We have to build our society to reduce the need for transportation no convenience, services like Uber and Lyft are increasing the city traffic instead of previous projections of reducing traffic. - [**Christer Ljungberg**](https://www.linkedin.com/in/christerljungberg/)**, CEO at** [**Trivector**](https://www.trivector.se/)
 
-> It was a pleasure to hear the finalists pitch and to see the interest from investors and industry stakeholders. With my personal interests in mobility and AI, I was rooting for Einride. That said, all the finalists impressed me and made for a very enjoyable afternoon. [**Dr Neil Williams**](https://www.linkedin.com/in/drneilwilliams/)**, tilix.energy**
+**Connectivity, AI and 5G** was the agenda for Kjell Gustafsson [Ericsson](https://www.ericsson.com/en), Lijo George, AI Business Solutions Lead [Sony](https://www.sony.com/), Martin Börjesson [2021.AI](https://2021.ai/) and Marcus Rothoff [Volvo Cars](https://www.volvocars.com/). During this session the speakers explored the benefits and challenges of the next wave of digital technology.
 
-The latest edition had a record number of applicants. All one hundred and sixteen are bringing solutions to a myriad of environmental problems. The finals include those ten which the judging panel think are the most promising.
+> Intelligence is about being able to do complex tasks. Evolution escalated once organisms got eyes. This is where we are today with AI - [**Lijo George**](https://www.linkedin.com/in/georgelijothomas/) **Business Lead, AI Solutions at** [**Sony**](https://www.sony.com/ )
 
-This annual competition has been running for almost ten years. It is open to cleantech entrepreneurs from the Nordic and Baltic regions. The top twenty five applicants are presented to an international jury of investors and industry players. The process puts the start-ups in the spotlight, with the goal of supporting and accelerating their transition into the global market.
+**Urbanisation and mobility trends** was the agenda for Sophie Stigliano [Urban-Standards](https://www.urban-standards.com/) Dr. Louise Eklund ([Region Skåne](https://www.skane.se/en/)), Per Persson ([City of Lund](https://www.lund.se/#/))
 
-Interested? The application process opens again in September, 2019. Visit [https://www.nordiccleantechopen.com/](https://www.nordiccleantechopen.com/ "https://www.nordiccleantechopen.com/") for more information.
+> It is important for Lund to work with the academia and companies collaboratively and use the city as a test platform for good solutions. We want to work with the best people in the world - [**Per Persson**](https://www.linkedin.com/in/per-persson-38a39050/)**,** [**City of Lund**](https://www.lund.se/.)**.**
+
+**Electricity for future mobility** was the area of focus for Britt Karlsson Green ([Region Skåne](https://www.skane.se/en/)), Per Löfberg ([Innovation Skåne](http://www.innovationskane.com/sv/)), Kristian Henningsen ([Vestas](https://www.vestas.com/)) Bo Lincoln ([Iternio](https://iternio.com/)). Are we heading for a meltdown was the hot topic. Thankfully, the bad scenarios can be avoided with good planning and prudent investment in key infrastructure.
+
+> Skåne offers a world-class quality of life. This year 100% of public transportation is now fossil free…Skåne is a border region belonging to the String network, reaching from Oslo to Hamburg. This is an integrated cross border region working together driving change in sustainability…Skåne leads innovation in our 3 focus areas, Smart sustainable cities, personal health and smart materials. - **Louise Eklund,** [**Region Skåne**](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.skane.se%2Fen%2F&event=video_description&v=57kIxMcC4yw&redir_token=-MN4fSnwzdS0_SbPtEPakOTlKTt8MTU2MjQyNDQ5NEAxNTYyMzM4MDk0)
+
+### Exhibitions during the day
+
+* **Volvo Cars**, **XC90 Autonomous Drive** car from the Drive Me project.
+* **Lime scooter race** where attendees were given the opportunity to try out the Lime scooters.
+* **Lund Formula Student Race** let delegates get up close to the race car for the 2019 season.
+* **Eways charging stations**.
+
+### **Key Takeaways**
+
+Experts from the industry highlighted the latest technologies and discussed how the e-mobility sector is rapidly becoming more interconnected and autonomous.
+
+Tilix CEO, Dr Neil Williams, who attended the event said;
+
+Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **_Neil Williams_**
+
+1. X
+2. Y.
+3. Z.
