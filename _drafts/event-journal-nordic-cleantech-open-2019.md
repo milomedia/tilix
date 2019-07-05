@@ -3,8 +3,9 @@ layout: post
 title: 'Event Journal: Future of Mobility'
 date: 2019-06-06 22:00:00 +0000
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/nordic-clean-tech.jpg
-teaser: Stockholm was host to an excellent showcase of cleantech innovation.
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/FutureOfMobility-Lund.jpg
+teaser: Lund was host to one day conference which considered mobility from local,
+  regional and global perspectives.
 
 ---
 **The Future of Mobility** day in Lund on May 24th was organised by [**Ideon Science Park**](https://ideon.se/) in co-operation with [**Innovation Skåne**](http://www.innovationskane.com/sv/) and [**Mobile Heights**](https://mobileheights.org/)
