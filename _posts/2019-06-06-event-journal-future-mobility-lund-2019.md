@@ -8,7 +8,7 @@ teaser: Lund was host to one day conference which considered mobility from local
   regional and global perspectives.
 
 ---
-**The Future of Mobility** day in Lund on May 24th was organised by [**Ideon Science Park**](https://ideon.se/) in co-operation with [**Innovation Skåne**](http://www.innovationskane.com/sv/) and [**Mobile Heights**](https://mobileheights.org/)
+**The Future of Mobility** day in Lund on 24 May was organised by [**Ideon Science Park**](https://ideon.se/) in cooperation with [**Innovation Skåne**](http://www.innovationskane.com/sv/) and [**Mobile Heights**](https://mobileheights.org/).
 
 The hosts - Joakim Nelson, Mia Rolf and Ola Svedin welcomed 200 attendees and speakers including OEMs, mobility service providers and consultants. Speakers highlighted their vision of future mobility. The key areas of focus were:
 
