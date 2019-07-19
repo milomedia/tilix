@@ -8,7 +8,7 @@ hero-text:
 - template: content-block
   headline: Wheel turner ...
   text: |-
-    Tilix is a _wheel-turner_ with the ability to drive through the technology and innovation challenges on the road to winning the fossil fuel end game.
+    Tilix is a _wheel-turner_ with the ability to drive through the marketing and innovation challenges on the road to winning the fossil fuel end game.
 
     Tilix delivers value to its [clients](/clients) (including National Grid, Ofgem and Smart DCC) through **projects, staff augmentation & playbooks**. The Tilix service catalogue builds on extensive Director’s experience from interim management positions at Ovo Energy and Good Energy.
 
@@ -24,13 +24,6 @@ hero-text:
 hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/Dharma_Wheel.png
 body:
 - template: content-block
-  headline: Research
-  text: |-
-    Research has never been more critical in helping government and industry increase the stock of knowledge on local, regional, national and international problems and opportunities in energy.
-
-    Tilix couples authoritative views of the energy industry together with modern market research methods which gives our clients a unique perspective on the smart and digital transformation of energy.
-  link: "/services/research"
-- template: content-block
   headline: Digital Engineering
   link: "/services/digital"
   text: |-
@@ -38,18 +31,24 @@ body:
 
     Tilix are experts in loosely coupling to _systems of record_ from the likes of [Gentrack](https://www.gentrack.com/), [Utiligroup](https://www.utiligroup.com/), [Ferranti](http://www.ferranti.be/), [AMT-Sybex](https://www.amt-sybex.com/) and [CGI](https://www.cgi.com/en/utilities). For example, we have recently integrated with the Junifer Billing & CIS system to form highly cohesive systems of engagement for [Logicor Energy](https://www.logicor-energy.co.uk/).
 - template: content-block
+  headline: Research
+  text: |-
+    Research has never been more critical in helping government and industry increase the stock of knowledge on local, regional, national and international problems and opportunities in energy.
+
+    Tilix couples authoritative views of the energy industry together with modern market research methods which gives our clients a unique perspective on the smart and digital transformation of energy.
+  link: "/services/research"
+- template: content-block
   headline: Data Science
   text: "Tilix extract raw data and transform it into meaningful input before executing
     scientific algorithms and preparing visualisations. \n\nWe do this for clients
     in a variety of energy and cleantech markets. For example, in energy management
     Tilix data science guides our clients to reduce energy costs and carbon."
 - template: content-block
-  headline: Business Architecture
-  link: "/services/architecture"
+  headline: Brokering Partnerships
   text: |-
-    Tilix offers a full range of business architecture services to support a broad range of clients in the energy and cleantech sectors.
+    It is not surprising that **Key Partnerships** is the first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). There is no such thing as end to end or we can do it all.
 
-    We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
+    Tilix works as a partnership broker to help our clients push forwards their commercial success in the transition to smart and digital energy. We find the variety here particularly satisfying: every partnership has different commercial and technical nuances that have to be taken into account.
 - template: content-block
   headline: Leading Innovation
   text: |-
@@ -57,11 +56,12 @@ body:
 
     The tools and techniques we use include Lean Start-up, pretotyping, prototyping, Business Model Canvas, ideation workshops, natural planning and (good old fashioned) brainstorming.
 - template: content-block
-  headline: Brokering Partnerships
+  headline: Business Architecture
+  link: "/services/architecture"
   text: |-
-    It is not surprising that **Key Partnerships** is the first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). There is no such thing as end to end or we can do it all.
+    Tilix offers a full range of business architecture services to support a broad range of clients in the energy and cleantech sectors.
 
-    Tilix works as a partnership broker to help our clients push forwards their commercial success in the transition to smart and digital energy. We find the variety here particularly satisfying: every partnership has different commercial and technical nuances that have to be taken into account.
+    We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
 - template: content-block
   headline: Licensee Consulting
   text: |-
