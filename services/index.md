@@ -2,8 +2,8 @@
 title: Service Catalogue
 layout: brochure
 intro: Tilix provides a range of packaged services including consulting, interim management,
-  projects and outsourcing. Our whole system value proposition makes Tilix an ideal
-  technology and innovation partner for the energy and clean-tech sectors.
+  projects and outsourcing. A digital first value proposition makes Tilix an ideal
+  marketing and innovation partner within the energy and clean-tech sectors.
 hero-text:
 - template: content-block
   headline: Wheel turner ...
@@ -21,15 +21,15 @@ hero-text:
     Tilix have **augmented staff** at [Telefonica IoT](https://iot.telefonica.com/) (as the comms hub Technical Lead for [SMIP]()) and at National Grid (as industrial IoT & Analytics architect for the [Deeside Project](http://deeside.nationalgrid.co.uk/)).
 
     Where practical, Tilix packages its knowledge and experience into **playbooks**: repeatable, preconfigured solution kits tailored to market requirements which leverage pre-established processes and technology. Deliverables are customised as opposed to custom.
-hero_image: http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png
+hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/Dharma_Wheel.png
 body:
 - template: content-block
-  headline: Business Architecture
-  link: "/services/architecture"
+  headline: Research
   text: |-
-    Tilix offers a full range of business architecture services to support a broad range of clients in the energy and cleantech sectors.
+    Research has never been more critical in helping government and industry increase the stock of knowledge on local, regional, national and international problems and opportunities in energy.
 
-    We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
+    Tilix couples authoritative views of the energy industry together with modern market research methods which gives our clients a unique perspective on the smart and digital transformation of energy.
+  link: "/services/research"
 - template: content-block
   headline: Digital Engineering
   link: "/services/digital"
@@ -38,12 +38,18 @@ body:
 
     Tilix are experts in loosely coupling to _systems of record_ from the likes of [Gentrack](https://www.gentrack.com/), [Utiligroup](https://www.utiligroup.com/), [Ferranti](http://www.ferranti.be/), [AMT-Sybex](https://www.amt-sybex.com/) and [CGI](https://www.cgi.com/en/utilities). For example, we have recently integrated with the Junifer Billing & CIS system to form highly cohesive systems of engagement for [Logicor Energy](https://www.logicor-energy.co.uk/).
 - template: content-block
-  headline: Sponsored Research
+  headline: Data Science
+  text: "Tilix extract raw data and transform it into meaningful input before executing
+    scientific algorithms and preparing visualisations. \n\nWe do this for clients
+    in a variety of energy and cleantech markets. For example, in energy management
+    Tilix data science guides our clients to reduce energy costs and carbon."
+- template: content-block
+  headline: Business Architecture
+  link: "/services/architecture"
   text: |-
-    Research has never been more critical in helping government and industry increase the stock of knowledge on local, regional, national and international problems and opportunities in energy.
+    Tilix offers a full range of business architecture services to support a broad range of clients in the energy and cleantech sectors.
 
-    Tilix couples authoritative views of the energy industry together with modern market research methods which gives our clients a unique perspective on the smart and digital transformation of energy.
-  link: "/services/research"
+    We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
 - template: content-block
   headline: Leading Innovation
   text: |-
@@ -68,12 +74,6 @@ body:
     Building on experience of long term IT leadership assignments with [Ovo](https://www.ovoenergy.com/) and [Good Energy](https://www.goodenergy.co.uk/), Tilix provides a range of IT management and IT governance services to SMEs in the energy, sustainability and clean-tech markets.
 
     For organisations without an IT Director, Tilix offers a fractional CIO service. For SMEs with an in-house IT capability, Tilix provides ad hoc advisory, interim management and project based solutions on an as needed basis.
-- template: content-block
-  headline: Data Science
-  text: "Tilix extract raw data and transform it into meaningful input before executing
-    scientific algorithms and preparing visualisations. \n\nWe do this for clients
-    in a variety of energy and cleantech markets. For example, in energy management
-    Tilix data science guides our clients to reduce energy costs and carbon."
 date: '2019-03-18T11:31:12.000+00:00'
 
 ---
