@@ -1,7 +1,9 @@
 ---
 title: Service Catalogue
 layout: brochure
-intro: Tilix provides a range of packaged services including consulting, interim management, projects and outsourcing. Our whole system value proposition makes Tilix an ideal technology and innovation partner for the energy and clean-tech sectors.
+intro: Tilix provides a range of packaged services including consulting, interim management,
+  projects and outsourcing. Our whole system value proposition makes Tilix an ideal
+  technology and innovation partner for the energy and clean-tech sectors.
 hero-text:
 - template: content-block
   headline: Wheel turner ...
@@ -23,14 +25,14 @@ hero_image: http://www.tilix.uk.s3.amazonaws.com/img/Dharma_Wheel.png
 body:
 - template: content-block
   headline: Business Architecture
-  link: /services/architecture
+  link: "/services/architecture"
   text: |-
     Tilix offers a full range of business architecture services to support a broad range of clients in the energy and cleantech sectors.
 
     We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
 - template: content-block
   headline: Digital Engineering
-  link: /services/digital
+  link: "/services/digital"
   text: |-
     Tilix designs, builds and maintains _systems of engagement_ and _systems of intelligence_ that deliver value across the whole energy value chain.
 
@@ -67,13 +69,11 @@ body:
 
     For organisations without an IT Director, Tilix offers a fractional CIO service. For SMEs with an in-house IT capability, Tilix provides ad hoc advisory, interim management and project based solutions on an as needed basis.
 - template: content-block
-  headline: Energy Management
-  text: |-
-    Tilix guides our clients to reducing energy costs and carbon. Using a systems thinking approach, we start with an assessment of the efficiency and CO2 footprint of the value chain. We then present options for moving towards clean, cheap and cheerful energy. Areas where we have expertise include:
-
-    * Investment in renewable generation or energy storage.
-    * Demand Side Management (DSM).
-    * Power Purchase Agreements (PPA).
-date: 2019-03-18 11:31:12 +0000
+  headline: Data Science
+  text: "Tilix extract raw data and transform it into meaningful input before executing
+    scientific algorithms and preparing visualisations. \n\nWe do this for clients
+    in a variety of energy and cleantech markets. For example, in energy management
+    Tilix data science guides our clients to reduce energy costs and carbon."
+date: '2019-03-18T11:31:12.000+00:00'
 
 ---
