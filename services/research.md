@@ -3,7 +3,7 @@ date: '2019-03-18T09:59:42.000+00:00'
 headline: Sponsored Research
 permalink: "/services/research"
 layout: brochure
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/research.png
+hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/whitepaper-open.png
 hero-text:
 - template: content-block
   text: |-
