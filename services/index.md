@@ -39,10 +39,9 @@ body:
   link: "/services/research"
 - template: content-block
   headline: Data Science
-  text: "Tilix extract raw data and transform it into meaningful input before executing
-    scientific algorithms and preparing visualisations. \n\nWe do this for clients
-    in a variety of energy and cleantech markets. For example, in energy management
-    Tilix data science guides our clients to reduce energy costs and carbon."
+  text: |-
+    Tilix extract raw data and transform it into meaningful input before executing scientific algorithms and preparing visualisations. \n\nWe do this for clients in a variety of energy and cleantech markets. For example, in energy management Tilix data science guides our clients to reduce energy costs and carbon.
+  link: /services/data
 - template: content-block
   headline: Brokering Partnerships
   text: |-
