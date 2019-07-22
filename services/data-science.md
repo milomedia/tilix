@@ -65,7 +65,11 @@ body:
 
     ![Digital Montage](http://www.tilix.uk.s3.amazonaws.com/forestry/digital-montage-2.png)
 
-    You can also find a selection of posts in the Tilix Blog that share our ideas, opinions and experiences with data science. For example:
+    You will soon find a selection of posts in the Tilix Blog that share our data science ideas, opinions and experiences. For example:
 
     - What is data science & its use cases?
+    - How much is big data impacting sustainability?
+    - What does data science mean for the energy industry?
+    - Event Journal: Energy in Data Conference 2019
+    - Scraping and analysis of online news
 ---
