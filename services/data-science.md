@@ -54,7 +54,7 @@ body:
     ![Data science montage](http://www.tilix.uk.s3.amazonaws.com/forestry/data-science-montage.png)
 
     - **Sustainable Direction**: Statistical analysis and interactive visualisation of meter data as a critical component of energy audits and environmental engineering.
-    - **Logicor Energy**: Analysing large volumes of date to gain insights about customer behaviour and identify opportunities to improve operations.
+    - **Logicor Energy**: Analysing large volumes of data to gain insights about customer behaviour and identify opportunities to improve operations.
     - **Enian**: Provide GIS data sets and insights as part of an industrial-academic partnership in applied artificial intelligence.
     - **National Grid**: Developed analytics built on top of an industrial IoT platform.
 
