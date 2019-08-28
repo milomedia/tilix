@@ -1,12 +1,16 @@
 ---
 layout: post
 date: 2017-10-14
-Author: Holly Suttle  
-Primary SEO:  
-Secondary SEO:
+Author: Holly Suttle
+Primary SEO: 
+Secondary SEO: 
 image: https://cdn-images-1.medium.com/max/800/1*G68ljQ7PBi30eMjV681GjA.png
-teaser: "This Tilix whitepaper describes how to start up a supply business in this continuously growing industry.  Find out everything you need to know about entering the energy market from a professional view based on over several years of experience in the sector."  
-title: "Entering the Energy Supply Market"
+teaser: This Tilix whitepaper describes how to start up a supply business in this
+  continuously growing industry.  Find out everything you need to know about entering
+  the energy market from a professional view based on over several years of experience
+  in the sector.
+title: Entering the Energy Supply Market
+
 ---
 Tilix are pleased to publish their whitepaper **Entering the Energy Supply Market**.
 
