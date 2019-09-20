@@ -27,6 +27,8 @@ During the equinox, the Sun crosses what we call the “celestial equator.” Im
 
 After the Autumn Equinox the days shorten and nights lengthen. To astrologers this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
 
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)_Pixabay_
+
 ## Effects on satellites
 
 One effect of equinoctial periods is the temporary disruption of communications satellites. For all geostationary satellites, there are a few days around the equinox when the Sun goes directly behind the satellite relative to Earth (i.e. within the beam-width of the ground-station antenna) for a short period each day.
