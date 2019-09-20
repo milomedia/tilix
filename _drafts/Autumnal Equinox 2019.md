@@ -13,29 +13,29 @@ teaser: It's time to enjoy the Autumn. Our short seasonal post Autumnal Equinox
   trivia about the equinox that you can share with your friends and family...
 
 ---
-# Autumnal Equinox - Monday September 23rd
+# Autumnal Equinox - Monday 23 September
 
 _Autumn has caught us in our summer wear_.
 
-–Philip Larkin, British poet (1922_–_86)
+–Philip Larkin, British poet (1922-86)
 
-Autumnal/Fall Equinox north of the equator is mirrored south of the equator by the Spring Equinox. The autumnal equinox isn't a day-long event, but rather occurs at the exact moment the sun crosses the celestial equator.
+The Autumnal/Fall Equinox north of the equator is mirrored south of the equator by the Spring Equinox. The Autumnal Equinox isn't a day-long event, but rather occurs at the exact moment the sun crosses the celestial equator.
 
 **Why is it called an equinox**? The word comes from the Latin _aequus_, meaning “equal” and _nox_, meaning “night.”
 
-During the equinox, the Sun crosses what we call the “celestial equator.” Imagine a line that marks the equator on Earth extending up into the sky above the equator from north to south. Earth’s two hemispheres receive the Sun’s rays equally. The Sun is overhead at noon as seen from the equator, so at this point, the amount of nighttime and daytime (sunlight) are roughly equal to each other. To be precise, daylight lasts about 8 minutes longer than nighttime on the day of the equinox.
+During the equinox, the sun crosses what we call the “celestial equator”. Imagine a line that marks the equator on Earth extending up into the sky above the equator from north to south. Earth’s two hemispheres receive the sun’s rays equally. The sun is overhead at noon as seen from the equator, so at this point, the amount of nighttime and daytime (sunlight) are roughly equal to each other. To be precise, daylight lasts about eight minutes longer than nighttime on the day of the equinox.
 
-After the Autumn Equinox the days shorten and nights lengthen. To astrologers this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
+After the Autumnal Equinox the days shorten and nights lengthen. To astrologers this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)_Pixabay_
 
 ## Effects on satellites
 
-One effect of equinoctial periods is the temporary disruption of communications satellites. For all geostationary satellites, there are a few days around the equinox when the Sun goes directly behind the satellite relative to Earth (i.e. within the beam-width of the ground-station antenna) for a short period each day.
+One effect of equinoctial periods is the temporary disruption of communications satellites. For all geostationary satellites, there are a few days around the equinox when the sun goes directly behind the satellite relative to Earth (i.e. within the beam-width of the ground-station antenna) for a short period each day.
 
-The Sun's immense power and broad radiation spectrum overload the Earth station's reception circuits with noise and, depending on antenna size and other factors, temporarily disrupt or degrade the circuit.
+The sun's immense power and broad radiation spectrum overload the Earth station's reception circuits with noise and, depending on antenna size and other factors, temporarily disrupt or degrade the circuit.
 
-The duration of those effects varies but can range from a few minutes to an hour. (For a given frequency band, a larger antenna has a narrower beam-width and hence experiences shorter duration "Sun outage" windows.)
+The duration of those effects varies but can range from a few minutes to an hour. (For a given frequency band, a larger antenna has a narrower beam-width and hence experiences shorter duration "sun outage" windows.)
 
 Satellites in geostationary orbit also experience difficulties maintaining power during the equinox, due to the fact that they now have to travel through Earth's shadow and rely only on battery power.
 
@@ -43,7 +43,7 @@ Usually, a satellite will travel either above or below the Earth's shadow due to
 
 ## Aurora Borealis
 
-According to NASA the chances of seeing [aurora borealis displays](https://www.nasa.gov/watchtheskies/aurora-chat.html) increase after the Autumnal equinox. Primarily because autumn produces a surplus of geomagnetic storms — almost twice the annual average.
+According to NASA the chances of seeing [aurora borealis displays](https://www.nasa.gov/watchtheskies/aurora-chat.html) increase after the Autumnal Equinox. Primarily because autumn produces a surplus of geomagnetic storms – almost twice the annual average.
 
 ## The Two Poles
 
