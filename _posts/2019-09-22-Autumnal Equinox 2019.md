@@ -29,6 +29,18 @@ After the Autumnal Equinox the days shorten and nights lengthen. To astrologers 
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)_Pixabay_
 
+## Wind Power
+
+Wind generation follows strong seasonal patterns. These patterns differ depending on the world region/location.
+
+Summer heatwaves with subsequent high pressure suppress windy conditions and can spin a country’s clean energy into reverse. However there's no need for alarm because it is windier (higher wind speeds) in autumn and winter.
+
+Indeed the more wind becomes a mainstream power source, the more the situation will arise where regions will have excess power and therefore need to develop long-term energy storage able to take weeks of surplus electricity.
+
+## BTW
+
+The first electricity-generating wind turbine was a battery charging machine installed in July 1887 by Scottish academic [James Blyth](https://en.wikipedia.org/wiki/James_Blyth_(engineer)) to light his holiday home in Marykirk, Scotland.
+
 ## Effects on satellites
 
 One effect of equinoctial periods is the temporary disruption of communications satellites. For all geostationary satellites, there are a few days around the equinox when the sun goes directly behind the satellite relative to Earth (i.e. within the beam-width of the ground-station antenna) for a short period each day.
