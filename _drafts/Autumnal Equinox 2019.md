@@ -9,7 +9,8 @@ layout: post
 Author: John Williams
 date: 2019-09-22 23:00:00 +0000
 title: Autumnal Equinox 2019
-teaser: ''
+teaser: It's time to enjoy the Autumn. Our short seasonal post Autumnal Equinox 2019 contains curated
+  trivia about the equinox that you can share with your friends and family...
 
 ---
 # Autumnal Equinox - Monday September 23rd
@@ -45,3 +46,11 @@ According to NASA the chances of seeing [aurora borealis displays](https://www.n
 ## The Two Poles
 
 At the South Pole they will be celebrating the first appearance of the sun in six months. However, at the North Pole they will be preparing for six months of darkness.
+
+Sources:
+
+[https://en.wikipedia.org/wiki/Main_Page](https://en.wikipedia.org/wiki/Main_Page "https://en.wikipedia.org/wiki/Main_Page")
+
+[https://www.nasa.gov/watchtheskies/aurora-chat.html](https://www.nasa.gov/watchtheskies/aurora-chat.html "https://www.nasa.gov/watchtheskies/aurora-chat.html")
+
+[https://www.almanac.com/content/first-day-fall-autumnal-equinox](https://www.almanac.com/content/first-day-fall-autumnal-equinox "https://www.almanac.com/content/first-day-fall-autumnal-equinox")
