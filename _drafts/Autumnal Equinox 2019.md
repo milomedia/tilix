@@ -9,7 +9,7 @@ layout: post
 Author: John Williams
 date: 2019-09-22 23:00:00 +0000
 title: Autumnal Equinox 2019
-teaser: It's time to enjoy the Autumn. Our short seasonal post Autumnal Equinox 2019 contains curated
+teaser: It's time to enjoy the autumn. Our short seasonal post Autumnal Equinox 2019 contains curated
   trivia about the equinox that you can share with your friends and family...
 
 ---
