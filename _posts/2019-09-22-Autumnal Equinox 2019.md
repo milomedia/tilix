@@ -9,23 +9,21 @@ layout: post
 Author: John Williams
 date: 2019-09-22 23:00:00 +0000
 title: Autumnal Equinox 2019
-teaser: It's time to enjoy the autumn. Our short seasonal post Autumnal Equinox 2019 contains curated
-  trivia about the equinox that you can share with your friends and family...
+teaser: Our short seasonal post contains curated trivia about the autumnal equinox that
+  you can share with your friends and family.
 
 ---
-# Autumnal Equinox - Monday 23 September
+> _Autumn has caught us in our summer wear_.
+>
+> – **Philip Larkin**, British poet (1922-86)
 
-_Autumn has caught us in our summer wear_.
-
-–Philip Larkin, British poet (1922-86)
-
-The Autumnal/Fall Equinox north of the equator is mirrored south of the equator by the Spring Equinox. The Autumnal Equinox isn't a day-long event, but rather occurs at the exact moment the sun crosses the celestial equator.
+The Autumnal/Fall Equinox (23 September 2019) north of the equator is mirrored south of the equator by the Spring Equinox. The Autumnal Equinox isn't a day-long event, but rather occurs at the exact moment the sun crosses the celestial equator.
 
 **Why is it called an equinox**? The word comes from the Latin _aequus_, meaning “equal” and _nox_, meaning “night.”
 
 During the equinox, the sun crosses what we call the “celestial equator”. Imagine a line that marks the equator on Earth extending up into the sky above the equator from north to south. Earth’s two hemispheres receive the sun’s rays equally. The sun is overhead at noon as seen from the equator, so at this point, the amount of nighttime and daytime (sunlight) are roughly equal to each other. To be precise, daylight lasts about eight minutes longer than nighttime on the day of the equinox.
 
-After the Autumnal Equinox the days shorten and nights lengthen. To astrologers this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
+After the Autumnal Equinox the days shorten and nights lengthen. In astrology this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)
 
