@@ -27,17 +27,15 @@ During the equinox, the sun crosses what we call the “celestial equator”. Im
 
 After the Autumnal Equinox the days shorten and nights lengthen. To astrologers this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)_Pixabay_
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)
 
 ## Wind Power
 
 Wind generation follows strong seasonal patterns. These patterns differ depending on the world region/location.
 
-Summer heatwaves with subsequent high pressure suppress windy conditions and can spin a country’s clean energy into reverse. However there's no need for alarm because it is windier (higher wind speeds) in autumn and winter.
+Summer heatwaves with subsequent high pressure suppress windy conditions and significantly reduces wind energy production. However, it becomes much windier in the autumn and higher wind speeds last through the winter and spring.
 
-Indeed the more wind becomes a mainstream power source, the more the situation will arise where regions will have excess power and therefore need to develop long-term energy storage able to take weeks of surplus electricity.
-
-## BTW
+There is more and more wind generation being built. Therefore, it will become more common that excess power will be created from time to time. Therefore there is great interest in developing long-term energy storage which can hold this surplus electricity for weeks or months.
 
 The first electricity-generating wind turbine was a battery charging machine installed in July 1887 by Scottish academic [James Blyth](https://en.wikipedia.org/wiki/James_Blyth_(engineer)) to light his holiday home in Marykirk, Scotland.
 
@@ -53,18 +51,8 @@ Satellites in geostationary orbit also experience difficulties maintaining power
 
 Usually, a satellite will travel either above or below the Earth's shadow due to its shifted axis throughout the year; during the equinox, since geostationary satellites are situated above the equator, they will be put into the shadow of the Earth for the longest period of time all year.
 
-## Aurora Borealis
+## Etcetera
 
 According to NASA the chances of seeing [aurora borealis displays](https://www.nasa.gov/watchtheskies/aurora-chat.html) increase after the Autumnal Equinox. Primarily because autumn produces a surplus of geomagnetic storms – almost twice the annual average.
 
-## The Two Poles
-
-At the South Pole they will be celebrating the first appearance of the sun in six months. However, at the North Pole they will be preparing for six months of darkness.
-
-Sources:
-
-[https://en.wikipedia.org/wiki/Main_Page](https://en.wikipedia.org/wiki/Main_Page "https://en.wikipedia.org/wiki/Main_Page")
-
-[https://www.nasa.gov/watchtheskies/aurora-chat.html](https://www.nasa.gov/watchtheskies/aurora-chat.html "https://www.nasa.gov/watchtheskies/aurora-chat.html")
-
-[https://www.almanac.com/content/first-day-fall-autumnal-equinox](https://www.almanac.com/content/first-day-fall-autumnal-equinox "https://www.almanac.com/content/first-day-fall-autumnal-equinox")
+At the **South Pole** the sun will make its first appearance for six months. However, at the **North Pole** it is the beginning of six months of darkness.
