@@ -11,11 +11,11 @@ On 22 May, 10 innovative seed-stage cleantech start-ups presented at the Nordic 
 
 After an intense and very tight final in the spotlight, the final ranking of the 8th Edition of NCO was:
 
-1. [SurfCleaner ](https://surfcleaner.com), which took first place with its unparalleled solution to eliminate and separate pollutants from water surfaces.
+1. [SurfCleaner](https://surfcleaner.com), which took first place with its unparalleled solution to eliminate and separate pollutants from water surfaces.
 2. [Moving Floor](http://movingfloor.se), which provides automatic cleaning for livestock through a system of self-cleaning floors.
 3. [Einride](https://www.einride.tech), with its transportation as a service solution based on all-electric, autonomous vehicles, or ”T-pods”.
 
-[Christina Lundbäck](https://www.linkedin.com/in/christina-lundb%C3%A4ck-633010127/), founder & CMO, received the award from the Swedish Minister for Business, Industry and Innovation, Ibrahim Baylan.  
+[Christina Lundbäck](https://www.linkedin.com/in/christina-lundb%C3%A4ck-633010127/), founder & CMO, received the award from Ibrahim Baylan, the Swedish Minister for Business, Industry and Innovation.  
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/nordic-cleantech-winner.jpg)  
 This year Food & Agritech dominated the top 25, with eight solutions in this field. Other areas such as new materials, mobility, waste, energy and water were also present on this year’s list.
 
