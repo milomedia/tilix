@@ -28,7 +28,7 @@ body:
   text: |-
     Tilix provides resources for a business start-outs in the smart energy category, usually in exchange for convertible debt or ownership equity. Opportunities come to us through online platforms like LinkedIn, f6s.com and angel.co.
 
-    We are actively advising and investing in Uniti, Become Energy, Open Utility, Homebox.io and Enian. The CEOs of these firms value the cash, advice, knowledge transfer and connections Tilix provides.
+    We are advising and investing in Uniti, Enian, Homebox, Enian, Piclo and others. The CEOs of these firms value the cash, advice, knowledge transfer and connections Tilix provides.
 - template: content-block
   headline: Pro bono
   text: Tilix undertakes assignments for the public good. This is professional work
@@ -50,21 +50,21 @@ body:
     labour and capital can help build teams, increase velocity and give direction.
 - template: content-block
   headline: Incubator
-  text: Tilix has close relationships with incubators in London and the South West
-    of England. As catalysts for both regional and national economic development,
-    these organisations play a key role in helping to solve the energy trilemma.
+  text: Tilix has close relationships with incubators in Sweden and the UK. As catalysts
+    for both regional and national economic development, these organisations play
+    a key role in helping to solve the energy trilemma.
 - template: content-block
   headline: Traditional instruments
   text: Mature organisations in the smart & clean energy category regularly offer
     bonds and shares. For example Ecotricity, Good Energy and Bristol Energy Coop.
-    Tilix has a rigorous fund management process for managing this asset class and
-    is helping organisations in this space develop new propositions.
+    Tilix and associates have a rigorous process for managing this asset class and
+    are helping organisations in this space develop new propositions.
 - template: content-block
   headline: Crowd funding
   text: |-
     Early stage businesses are raising finance on platforms like Kickstarter, Crowdcube and Seedrs. Tilix watches these platforms like a hawk and is continually evaluating opportunities.
 
-    We are particularly proud of the role Tilix played in helping Uniti EV raise circa €4M through two rounds. Campaigns that have perked our interest include Den Automation, Solar for Schools and PowerVault.
+    We are particularly proud of the role Tilix played in helping Uniti EV raise circa €5M through three rounds.
 - template: content-block
   headline: Microfinance
   text: Small scale social enterprises can leverage Tilix knowledge, technology, labour
