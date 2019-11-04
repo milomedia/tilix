@@ -14,12 +14,12 @@ hero-text:
 - template: content-block
   headline: Cases ....
   text: |-
-    * [Bristol Energy Coop](http://www.bristolenergy.coop/): Investor in solar bonds and Zero West project partner.
-    * [Uniti EV](https://www.uniti.earth/): Tilix was one of the first investors in this Swedish unicorn.
-    * [Become Energy](http://become-energy.com/): Seed capital and advice on strategic imperatives such as CRM, website platform and content.
-    * [Energy Local](http://www.energylocal.co.uk/): Architected an online acquisition and self-service portal for Energy Local.
+    * [Uniti EV](https://www.uniti.earth/): Tilix was one of the first investors in this Swedish unicorn and continues to be instrumental as the firm moves from invent to deploying cars on the road in 2020.
+    * [Pivot Power](https://www.pivot-power.co.uk): Seed capital and advice on strategic imperatives such as CRM, website platform and content.
     * [Enian](https://www.enian.co/): As an angel investor and technical adviser, Tilix has provided strategic and operational advice to the executive team.
-    * [Homebox.io](https://homebox.io/): As lead investor, Tilix is helping this smart home start-up be innovative and commercially savvy.
+    * [Homebox](https://homebox.co.uk/): As lead investor, Tilix is helping this smart home start-up be innovative and commercially savvy.
+    * [Bristol Energy Coop](http://www.bristolenergy.coop/): Investor in solar bonds and Zero West project partner.
+    * [Energy Local](http://www.energylocal.co.uk/): Architected an online acquisition and self-service portal for Energy Local.
     * [Low Carbon Gordano](http://www.lowcarbongordano.co.uk/): Investor due diligence around plans for solar on roofs.
 hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/impact-investing.png
 body:
@@ -39,9 +39,9 @@ body:
 - template: content-block
   headline: Joint venture
   text: Tilix works with various partners (e.g. [Sustainable Direction](http://www.sustainabledirection.com/),
-    [NovAzure](http://www.novazure.com/)) on joint ventures. Here we share ownership,
-    returns, risks, and governance. This is helping Tilix access new markets; gain
-    scale efficiencies by combining assets and operations; or to access skills and
+    [NovAzure](http://www.novazure.com/)) on impactful joint ventures. Here we share
+    ownership, returns, risks, and governance. This is helping Tilix access new markets;
+    gain scale efficiencies by combining assets and operations; access skills and
     capabilities that are not a core strength.
 - template: content-block
   headline: Accelerator
@@ -70,6 +70,6 @@ body:
   text: Small scale social enterprises can leverage Tilix knowledge, technology, labour
     and capital to help deliver their mission. We have a strong preference for helping
     organisations which address fuel poverty and air quality.
-date: 2019-04-02 13:45:12 +0000
+date: 2019-04-02T13:45:12.000+00:00
 
 ---
