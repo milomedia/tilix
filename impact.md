@@ -28,7 +28,7 @@ body:
   text: |-
     Tilix provides resources for a business start-outs in the smart energy category, usually in exchange for convertible debt or ownership equity. Opportunities come to us through online platforms like LinkedIn, f6s.com and angel.co.
 
-    We are advising and investing in Uniti, Enian, Homebox, Enian, Piclo and others. The CEOs of these firms value the cash, advice, knowledge transfer and connections Tilix provides.
+    We are advising and investing in Uniti, Enian, Homebox and others. The CEOs of these firms value the cash, advice, knowledge transfer and connections Tilix provides.
 - template: content-block
   headline: Pro bono
   text: Tilix undertakes assignments for the public good. This is professional work
