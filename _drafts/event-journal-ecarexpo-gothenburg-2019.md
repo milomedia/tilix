@@ -57,7 +57,7 @@ At the Gothenburg event in 2019, the highlights included:
 
 Social media around eCarExpo Gothenburg 2019 was alight with posts from a number of interesting people. Some highlights include:
 
-Rickard Nord unveiled the world premiere and audience launch of the XXX project.  Rickard has been developing this App since last spring! [More](https://www.linkedin.com/posts/rickardnord_p%C3%A5-fredag-p%C3%A5-ecar-expo-p%C3%A5-svenska-m%C3%A4ssan-activity-6605550968736141313-hOcs)
+Rickard Nord unveiled the world premiere and audience launch of the ChargeNode project.  A smart, slim, and economic App/ system that provides accessible charging. [More](https://www.linkedin.com/posts/rickardnord_p%C3%A5-fredag-p%C3%A5-ecar-expo-p%C3%A5-svenska-m%C3%A4ssan-activity-6605550968736141313-hOcs)
 
 eRally Scandinavia will see ..... from Odense to Trondheim in June 2020. Anyone can participate [Read more](https://www.linkedin.com/posts/groflaaten_elbilmagasinet-erallyskandinavia-activity-6605405653412397056-DD4-)
 
