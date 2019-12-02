@@ -1,21 +1,20 @@
 ---
 layout: post
 title: 'Digest: Q4 2019'
-date: 2019-11-30 23:00:00 +0000
+date: 2019-11-30T23:00:00.000+00:00
 Author: Neil Williams
 image: ''
-teaser: An overview of the news, events and innovations making their way onto the tilix.energy radar.
+teaser: An overview of the news, events and innovations making their way onto the
+  tilix.energy radar.
+
 ---
-Ongoing changes in Ofgem’s regulation of the GB gas and electricity
-markets continues to create headlines and create advisory work for the
-tilix.energy team. District heating, Stirling engines and EV charging
-infrastructure funded by advertising are topics which are showing
-strongly on the tilix.energy radar.
+Ongoing changes in Ofgem’s regulation of the GB gas and electricity markets continues to create headlines and create advisory work for the  tilix.energy team. 
+
+District heating, Stirling engines and EV charging infrastructure funded by advertising are topics which are showing strongly on the tilix.energy radar.
 
 [EDF acquiring Pivot Power](https://www.linkedin.com/feed/update/urn:li:activity:6597072858881626112) was a major milestone. [Matt Allen](https://www.linkedin.com/in/ACoAAAE8d0QB6LGKyFAlYWzEeuTk0NEhG6r0ztA/), [Mikey Clark](https://www.linkedin.com/in/ACoAAAN9og0BCo0c93VzWqibwHPMIJNJlLcSHes/) and [Matthew Boulton](https://www.linkedin.com/in/ACoAAAEHnrUBqYmLqOCH5en2v9CEoL-jbsOA8XU/) now have the backing they need to deliver their ambitious goals. This is wind in the sails for tilix.energy impact investing and an inspiration for other entrepreneurs in the energy, mobility and cleantech space.
 
-Market insights
----------------
+## Market insights
 
 Flexible energy, mobility, decarbonisation and renewable energy are the key themes from the industry media which have been earning attention. The digest below gives a taste of the regular updates you can find on the [tilix.energy LinkedIn page](https://www.linkedin.com/company/tilix).
 
@@ -33,14 +32,13 @@ Demand is soaring for cobalt because of its use in the fast growing EV market. T
 
 ### [Flexible green energy delivered in Cornwall](https://www.linkedin.com/feed/update/urn:li:activity:6599630773807050752)
 
-A fully automated Local Energy Market (LEM) in Cornwall has, for the first time, seen the local Distribution System Operator (DSO) and the National Grid ESO procure flexible green energy from businesses and households simultaneously.
+A fully automated Local Energy Market (LEM) in Cornwall has for the first time, seen the local Distribution System Operator (DSO) and the National Grid ESO procure flexible green energy from businesses and households simultaneously.
 
 ### [Poo and power to decarbonize HGVs](https://www.linkedin.com/feed/update/urn:li:activity:6598565163845120000)
 
 The race to electrify road haulage is heating up globally with a host of companies around the world starting to deploy both plug in hybrid and pure electric trucks. Two competing methods of tackling the climate impact of Heavy Goods Vehicles (HGVs) launched recently in the United Kingdom. One based on electrification and the other on biogas made from manure.
 
-Event calendar
---------------
+## Event calendar
 
 Start-up pitch events, e-mobility expos and network innovation conferences are regular fixtures in the tilix.energy calendar. Some highlights just past and events to look forward to are summarised below.
 
@@ -68,10 +66,10 @@ eCarExpo brings the best of e-mobility to Gothenburg, Oslo, Stockholm and Copenh
 
 23-24 April 2020 in Oslo, Norway. Participants from all over the world will attend the 4th annual Nordic EV Summit and Expo of Electric Vehicles for their biggest event to date:
 
--   1000 participants
--   50 sponsors
--   80 speakers
--   40 different countries represented
+* 1000 participants
+* 50 sponsors
+* 80 speakers
+* 40 different countries represented
 
 ### [Green Tech Challenge](https://gi-london-2020-tickets.eventbrite.dk/?discount%3DTilix2020)
 
@@ -79,8 +77,7 @@ Green Innovation Group bridge corporations, investors, with impact technology in
 
 GI London 2020, will be on May 15 at The Royal Society. [Friends of tilix.energy are eligible for 40% discount on tickets](https://gi-london-2020-tickets.eventbrite.dk/?discount%3DTilix2020). The attendee landscape will consist of 15+ LP's, 30+ VC's, 20+ Private Equity Funds, 8 Impact startups on stage, 100+ service providers, 90+ entrepreneurs and many more.
 
-Innovation to watch
--------------------
+## Innovation to watch
 
 Start-ups and scale-ups which make credible claims to being the next big thing come regularly onto the tilix.energy radar. They are not lab projects or skunk works. Rather they are businesses which could scale and are growing have sales/marketing and are leveraging partnerships to design, build, and operate their disruptive value propositions. The ones listed below are getting attention from early stage business angels and venture capitalists.
 
