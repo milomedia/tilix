@@ -8,19 +8,19 @@ teaser: An overview of the news, events and innovations making their way onto th
   tilix.energy radar.
 
 ---
-Ongoing changes in Ofgem’s regulation of the GB gas and electricity markets continues to create headlines and create advisory work for the  tilix.energy team. 
+Ongoing changes in Ofgem’s regulation of the GB gas and electricity markets continue to create headlines and create advisory work for the tilix.energy team.
 
-District heating, Stirling engines and EV charging infrastructure funded by advertising are topics which are showing strongly on the tilix.energy radar.
+District heating, Stirling engines and electric vehicle (EV) charging infrastructure funded by advertising are topics that are increasingly popping up on the tilix.energy radar.
 
-[EDF acquiring Pivot Power](https://www.linkedin.com/feed/update/urn:li:activity:6597072858881626112) was a major milestone. [Matt Allen](https://www.linkedin.com/in/ACoAAAE8d0QB6LGKyFAlYWzEeuTk0NEhG6r0ztA/), [Mikey Clark](https://www.linkedin.com/in/ACoAAAN9og0BCo0c93VzWqibwHPMIJNJlLcSHes/) and [Matthew Boulton](https://www.linkedin.com/in/ACoAAAEHnrUBqYmLqOCH5en2v9CEoL-jbsOA8XU/) now have the backing they need to deliver their ambitious goals. This is wind in the sails for tilix.energy impact investing and an inspiration for other entrepreneurs in the energy, mobility and cleantech space.
+[EDF's acquisition of Pivot Power](https://www.linkedin.com/feed/update/urn:li:activity:6597072858881626112) was a major milestone. [Matt Allen](https://www.linkedin.com/in/ACoAAAE8d0QB6LGKyFAlYWzEeuTk0NEhG6r0ztA/), [Mikey Clark](https://www.linkedin.com/in/ACoAAAN9og0BCo0c93VzWqibwHPMIJNJlLcSHes/) and [Matthew Boulton](https://www.linkedin.com/in/ACoAAAEHnrUBqYmLqOCH5en2v9CEoL-jbsOA8XU/) now have the backing they need to deliver their ambitious goals. This is wind in the sails for tilix.energy impact investing and an inspiration for other entrepreneurs in the energy, mobility and cleantech space.
 
 ## Market insights
 
-Flexible energy, mobility, decarbonisation and renewable energy are the key themes from the industry media which have been earning attention. The digest below gives a taste of the regular updates you can find on the [tilix.energy LinkedIn page](https://www.linkedin.com/company/tilix).
+Flexible energy, mobility, decarbonisation and renewable energy are the key themes from the industry media which have been drawing attention. The digest below gives a taste of the regular updates you can find on the [tilix.energy LinkedIn page](https://www.linkedin.com/company/tilix).
 
 ### [Ofgem's proposed reforms are divisive](https://www.linkedin.com/feed/update/urn:li:activity:6603629780434776065)
 
-Reforms to the collection of levies and fees from end users of the electric grid is proving to be divisive. Whilst it makes sense to many stakeholders, figures from across the UK's distributed energy sector have heavily criticised Ofgem's proposals. They have been slammed as "damaging" to the business case for renewable generation and flexible assets.
+Reforms to the collection of levies and fees from end-users of the electric grid are proving to be divisive. Whilst it makes sense to many stakeholders, figures from across the UK's distributed energy sector have heavily criticised Ofgem's proposals. They have been slammed as "damaging" to the business case for renewable generation and flexible assets.
 
 ### [Shell supports sustainable aviation fuel plant](https://www.linkedin.com/feed/update/urn:li:activity:6601071966814302208)
 
@@ -32,11 +32,11 @@ Demand is soaring for cobalt because of its use in the fast growing EV market. T
 
 ### [Flexible green energy delivered in Cornwall](https://www.linkedin.com/feed/update/urn:li:activity:6599630773807050752)
 
-A fully automated Local Energy Market (LEM) in Cornwall has for the first time, seen the local Distribution System Operator (DSO) and the National Grid ESO procure flexible green energy from businesses and households simultaneously.
+A fully automated Local Energy Market (LEM) in Cornwall has for the first time seen the local Distribution System Operator (DSO) and the National Grid ESO procure flexible green energy from businesses and households simultaneously.
 
-### [Poo and power to decarbonize HGVs](https://www.linkedin.com/feed/update/urn:li:activity:6598565163845120000)
+### [Poo and power to decarbonise HGVs](https://www.linkedin.com/feed/update/urn:li:activity:6598565163845120000)
 
-The race to electrify road haulage is heating up globally with a host of companies around the world starting to deploy both plug in hybrid and pure electric trucks. Two competing methods of tackling the climate impact of Heavy Goods Vehicles (HGVs) launched recently in the United Kingdom. One based on electrification and the other on biogas made from manure.
+The race to electrify road haulage is heating up globally with a host of companies around the world starting to deploy both plug-in hybrid and pure electric trucks. Two competing methods of tackling the climate impact of Heavy Goods Vehicles (HGVs) launched recently in the UK: one based on electrification and the other on biogas made from manure.
 
 ## Event calendar
 
@@ -44,57 +44,57 @@ Start-up pitch events, e-mobility expos and network innovation conferences are r
 
 ### [Baker Botts Cleantech Pitches](https://www.bakerbotts.com/events/2019/10/cleantech-pitch-event)
 
-Tuesday 15 October 2019 at  [Baker Botts London](https://www.bakerbotts.com/offices/london). The evening featured a number of energy, mobility and cleantech companies present their business for five minutes each, followed by a two minutes of Q&A from the audience and panel. Prizes were awarded by Baker Botts Partner, [Neil Foster](https://www.bakerbotts.com/people/f/foster-neil), to [Iceotope](https://www.iceotope.com) as the most fundable company and ZapGo for the best presentation.
+Tuesday, 15 October 2019 at [Baker Botts London](https://www.bakerbotts.com/offices/london). The evening featured a number of energy, mobility and cleantech companies presenting their business for five minutes each, followed by two minutes of Q&A from the audience and panel. Prizes were awarded by Baker Botts Partner, [Neil Foster](https://www.bakerbotts.com/people/f/foster-neil), to [Iceotope](https://www.iceotope.com) as the most fundable company and ZapGo for the best presentation.
 
 ### [LCNI](http://www.lcniconference.org)
 
 The Low Carbon Networks & Innovation (LCNI) Conference showcases emerging technology, processes and business models in the UK gas and electricity networks. In particular, there are many presentations from projects awarded under the [Network Innovation Allowance](https://www.ofgem.gov.uk/network-regulation-riio-model/network-innovation/electricity-network-innovation-allowance) (NIA) and [Network Innovation Collaboration](http://www.nicollaborationportal.org/) (NIC) funding mechanisms.
 
-The LCNI Conference (30-31 Oct 2019 in Glasgow) lived up to its billing as the go-to event for network innovation in the UK. In 2019 the focus was on electricity and the conference theme was empowering new energy innovators. The next event will take place 3-4 November 2020 at ACC Liverpool.
+The LCNI Conference (30-31 Oct 2019 in Glasgow) lived up to its billing as the go-to event for network innovation in the UK. In 2019 the focus was on electricity and the conference theme was empowering new energy innovators. The next event will take place on 3-4 November 2020 at ACC Liverpool.
 
 ### [Hub2019](http://hub2019.se)
 
-The conference is organized by the [Energy Competence Center](http://www.eccsweden.se/). Keynotes from industry movers and shakers were combined with a Dragon’s Den competition. About twenty startups and scaleups competed for funded project collaborations with ABB and Mälarenergi. Everyone was a winner but only [Eneryield](http://www.eneryield.com) and [Envista](https://www.envista.se) took away $$.
+The conference is organised by the [Energy Competence Center](http://www.eccsweden.se/). Keynotes from industry movers and shakers were combined with a Dragons' Den competition. About 20 start-ups and scale-ups competed for funded project collaborations with ABB and Mälarenergi. Everyone was a winner but only [Eneryield](http://www.eneryield.com) and [Envista](https://www.envista.se) shared the prize money.
 
-Startups from [SynerLeap](https://synerleap.com), the innovation growth hub which connects start-ups and scale-ups with ABB were there in force. Those that caught the tilix.energy eye included [Disruptive Technologies](https://disruptive-technologies.com/), [Ekkono](https://ekkono.ai/), [Greenlytics](https://greenlytics.io/), [Renbloc](https://renbloc.com/) and [Vathos](https://vathos-robotics.com/).
+Start-ups from [SynerLeap](https://synerleap.com), the innovation growth hub which connects start-ups and scale-ups with ABB, were there in force. Those that caught the tilix.energy eye included [Disruptive Technologies](https://disruptive-technologies.com/), [Ekkono](https://ekkono.ai/), [Greenlytics](https://greenlytics.io/), [Renbloc](https://renbloc.com/) and [Vathos](https://vathos-robotics.com/).
 
 ### [eCarExpo](http://ecarexpo.se)
 
-eCarExpo brings the best of e-mobility to Gothenburg, Oslo, Stockholm and Copenhagen. Under a single roof you can find the latest in electric bikes, scooters, cars and vans. There are also exhibits from charging technology vendors and keynotes from industry experts. The icing on the cake is the test drive facilities including an in-situ test track for scooters and a selection of cars to take onto the city streets.
+eCarExpo brings the best of e-mobility to Gothenburg, Oslo, Stockholm and Copenhagen. Under a single roof you can find the latest in electric bikes, scooters, cars and vans. There are also exhibits from charging technology vendors and keynotes from industry experts. The icing on the cake is the test drive facilities including an in situ test track for scooters and a selection of cars to take onto the city streets.
 
 ### [Nordic EV summit](https://nordicevs.no)
 
 23-24 April 2020 in Oslo, Norway. Participants from all over the world will attend the 4th annual Nordic EV Summit and Expo of Electric Vehicles for their biggest event to date:
 
-* 1000 participants
+* 1,000 participants
 * 50 sponsors
 * 80 speakers
 * 40 different countries represented
 
 ### [Green Tech Challenge](https://gi-london-2020-tickets.eventbrite.dk/?discount%3DTilix2020)
 
-Green Innovation Group bridge corporations, investors, with impact technology in sustainability. The firm has a 5-year track record hosting Growth Sprint Programmes together with relevant players in the local markets around the globe.
+Green Innovation Group connects corporations and investors with impact technology in sustainability. The firm has a five-year track record hosting Growth Sprint Programmes together with relevant players in the local markets around the globe.
 
-GI London 2020, will be on May 15 at The Royal Society. [Friends of tilix.energy are eligible for 40% discount on tickets](https://gi-london-2020-tickets.eventbrite.dk/?discount%3DTilix2020). The attendee landscape will consist of 15+ LP's, 30+ VC's, 20+ Private Equity Funds, 8 Impact startups on stage, 100+ service providers, 90+ entrepreneurs and many more.
+GI London 2020 will be held on 15 May at The Royal Society. [Friends of tilix.energy are eligible for 40% discount on tickets](https://gi-london-2020-tickets.eventbrite.dk/?discount%3DTilix2020). The attendee landscape will consist of 15+ LPs, 30+ VCs, 20+ Private Equity Funds, 8 Impact start-ups on stage, 100+ service providers, 90+ entrepreneurs and many more.
 
 ## Innovation to watch
 
-Start-ups and scale-ups which make credible claims to being the next big thing come regularly onto the tilix.energy radar. They are not lab projects or skunk works. Rather they are businesses which could scale and are growing have sales/marketing and are leveraging partnerships to design, build, and operate their disruptive value propositions. The ones listed below are getting attention from early stage business angels and venture capitalists.
+Start-ups and scale-ups which make credible claims to being the next big thing come regularly onto the tilix.energy radar. They are not lab projects or skunk works. Rather they are businesses which could scale and are growing, have sales/marketing and are leveraging partnerships to design, build and operate their disruptive value propositions. The ones listed below are getting attention from early stage business angels and venture capitalists.
 
 ### [Eneryield](http://www.eneryield.com)
 
-Eneryield were winners of the ABB prize at the [Hub2019 Dragon’s Den competition](https://www.hub2019dragonsdens.com). This Gothenburg based startup provides machine learning algorithms for intelligent energy analytics and control of electricity flow. The founders are experts in machine learning algorithms for long and short term predictions of energy, applicable to many different settings. For example: smart grids, intelligent power electronics and predictive maintenance.
+Eneryield won the ABB prize at the [Hub2019 Dragons' Den competition](https://www.hub2019dragonsdens.com). This Gothenburg-based start-up provides machine learning algorithms for intelligent energy analytics and control of electricity flow. The founders are experts in machine learning algorithms for long and short term predictions of energy, applicable to many different settings. For example: smart grids, intelligent power electronics and predictive maintenance.
 
 ### [ENVISTA](https://www.envista.se)
 
-Envista were winners of the Mälarenergi prize at the [Hub2019 Dragon’s Den competition](https://www.hub2019dragonsdens.com). Based in Linköping, Sweden this startup will contribute to reducing energy use for building heating by assisting customers in strategic energy work with a standardized analysis service that shows the stock's potential for savings and development over time.
+Envista won the Mälarenergi prize at the [Hub2019 Dragons' Den competition](https://www.hub2019dragonsdens.com). Based in Linköping, Sweden, this start-up will contribute to reducing energy use for building heating by assisting customers in strategic energy work with a standardised analysis service that shows the stock's potential for savings and development over time.
 
 ### [Iceotope](https://www.iceotope.com)
 
-Iceotope was voted as the most fundable company by the panel and audience at the [Baker Botts Cleantech Pitch Event](https://www.bakerbotts.com/events/2019/10/cleantech-pitch-event). This Sheffield based scale-up offers cutting-edge liquid cooling technology for electronics and the ICT industry. Designed and manufactured in the UK, the patented technology claims to deliver greater efficiency through improved size, noise, cost and energy consumption.
+Iceotope was voted the most fundable company by the panel and audience at the [Baker Botts Cleantech Pitch Event](https://www.bakerbotts.com/events/2019/10/cleantech-pitch-event). This Sheffield-based scale-up offers cutting-edge liquid cooling technology for electronics and the ICT industry. Designed and manufactured in the UK, the patented technology claims to deliver greater efficiency through improved size, noise, cost and energy consumption.
 
 ### [ZapGo](https://zapgo.com)
 
-ZapGo was voted as the best presentation by the panel and audience at the [Baker Botts Cleantech Pitch Event](https://www.bakerbotts.com/events/2019/10/cleantech-pitch-event). ZapGo is based in Oxford, UK  and is developing lithium and cobalt free energy storage for the mass deployment of electric and autonomous vehicles. ZapGo technology offers the potential of electric vehicle chargers working 10x faster than existing Tesla superchargers.
+ZapGo was voted the best presentation by the panel and audience at the [Baker Botts Cleantech Pitch Event](https://www.bakerbotts.com/events/2019/10/cleantech-pitch-event). ZapGo is based in Oxford, UK, and is developing lithium and cobalt free energy storage for the mass deployment of electric and autonomous vehicles. ZapGo technology offers the potential of EV chargers working 10x faster than existing Tesla superchargers.
 
-> Please recommend tilix.energy digital media to your colleagues and encourage them to [subscribe to our newsletter](https://www.tilix.uk/signup/mailchimp) and/or [follow on LinkedIn](https://www.linkedin.com/company/tilix)
+> Please recommend tilix.energy digital media to your colleagues and encourage them to [subscribe to our newsletter](https://www.tilix.uk/signup/mailchimp) and/or [follow on LinkedIn](https://www.linkedin.com/company/tilix).
