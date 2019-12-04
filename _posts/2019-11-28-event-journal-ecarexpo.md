@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event Journal: eCarExpo
+title: 'Event Journal: eCarExpo'
 date: 2019-11-30T23:00:00.000+00:00
 Author: Neil Williams
 image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/eCarExpo.png
