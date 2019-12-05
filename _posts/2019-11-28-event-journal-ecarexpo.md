@@ -30,6 +30,8 @@ At the three-day eCarExpo Gothenburg, the audience was able to test drive about 
 
 In the premium bracket, visitors could test the Jaguar iPace, Range Rover Sport PHEV and the BMW X5 45e charging hybrid (which made its Swedish premiere).
 
+![](http://ecarexpo.se/wp-content/uploads/2019/12/Ecarexpo2019_015-1024x682.jpg)
+
 From the mid-market, visitors were able to check out several of Kia's electric and rechargeable models, the new Hyundai IONIQ Electric and Kona Electric, the new updated Renault Zoe, Nissan Leaf and Mitsubishi Outlander PHEV, as well as several other new models that have not yet been unveiled.
 
 For the particularly environmentally conscious, the Omotion ETR was on show. It provides a low carbon footprint. Although great fun, this lightweight three-wheeled and two-seat motorcycle will not be a practical solution for families or travelling salespeople.
