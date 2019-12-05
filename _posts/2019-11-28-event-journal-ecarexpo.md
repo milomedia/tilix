@@ -8,11 +8,13 @@ teaser: A visit to the Nordic region's leading e-mobility trade show confirms th
   market maturity is not exclusive to Norway.
 
 ---
+![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/eCarExpo.png)
+
 eCarExpo is the Nordic region's leading e-mobility trade show – a flagship event for the industry and consumers where you can test drive many of the electric vans, cars, bikes and scooters on display directly from the exhibition floor.
 
 The fair undoubtedly showed that improving the environment and our sustainability thanks to electric mobility can be fun for car owners and car enthusiasts.
 
-As well as vehicles, visitors got an overview of the products and services that make up the whole market. At the 2019 Gothenburg event, it was interesting to see electric vehicle (EV) charging business model innovation from [Smart City Charger](http://smartcitycharger.com).
+As well as vehicles, visitors to the 2019 Gothenburg event got an overview of the products and services that make up the whole market (including an early look at a cute business model innovation from [Smart City Charger](http://smartcitycharger.com)).
 
 In 2020, eCarExpo will roll out across Sweden, Denmark and Norway:
 
