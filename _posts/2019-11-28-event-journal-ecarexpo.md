@@ -40,6 +40,8 @@ The centrepiece of the eCarExpo is the main stage where delegates can enjoy keyn
 
 As presented in detail by Thomas Ingenlath (CEO) and Nils Rydén (Marketing Manager), the vision is heavenly. The Polestar is expected to become a strong competitor to Tesla's best-selling Model 3. As well as promoting vehicles, the keynote discussed the strategy behind the new car marque and the challenges of starting a car brand from scratch. Polestar is a standalone company, co-owned by Volvo Cars and Zhejiang Geely Holding.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Polestar_2_Genf_2019_1Y7A6000.jpg/800px-Polestar_2_Genf_2019_1Y7A6000.jpg)
+
 **Political debate** centred on traffic planning in Gothenburg. While there are some points of contention between municipal politicians, local transport operators and  parking companies, the general consensus is, however, that e-mobility is vital in improving air quality and maintaining the city’s prosperity. The panel included Lars Backström, CEO Västtrafik; Hanna Björk, Sustainability Manager Västtrafik; Björn Gustafsson, Sustainability Manager Gothenburg Energy; Jonas Eriksson, Strategy Manager Gothenburg Parking Company; Blerta Hoti, Municipal Officer responsible for traffic issues; and Toni Orsulic, Chairman of the Traffic Committee.
 
 Public opinion was framed through sharing the results of a survey of 1,500 Swedish car owners aged 20-65, evenly distributed between men and women, who were quizzed about their attitude to electric cars and charging hybrids. An English translation will be published soon on the tilix.energy blog.
