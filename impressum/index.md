@@ -7,7 +7,7 @@ title: Impressum
 **Tilix** is a trading name of NeilWilliams.biz Ltd  
 Registered in Scotland #SC181781  
 VAT #: GB 722 3556 50  
-Director: Neil Williams 
+Director: Neil Williams
 
 ### Registered Office & Business Address
 101 Rose Street South Lane  
@@ -19,9 +19,14 @@ Phone: +44 (0) 7976 852 467
 Website: www.tilix.uk
 
 ### Health, Safety and Environment Management
-Tilix employs less than 5 employees, so are not legally obliged to have written health, safety and environment policies. However, we deem health and safety for our employees and contractors to be of highest priority and importance and have a [short HSE policy statement](hse.html).
+Tilix employs less than 5 employees, so are not legally obliged to have written health, safety and environment policies. However, we deem health and safety for our employees and contractors to be of highest priority and importance and have a [short HSE policy statement](hse).
 
 Our HSE considerations are mostly about office and travel safety. Tilix applies the customs and practice it has adopted in recent projects for Telefonica, Capita and National Grid. For example, with National Grid we have recently worked at 400kV substations. It was encouraging to find that Tilix custom and practice aligned naturally with National Grid’s world class safety procedures
+
+### Equality and Diversity
+Tilix champions equality, diversity and human rights through promoting opportunity for all. The firm has published a [short Equality and Diversity policy](equality).
+
+Tilix aims to exceed legal duties in the nine protected characteristics of Equality & Diversity: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity,race, religion or belief, sex, sexual orientation.
 
 ### Privacy and Data Protection
 Tilix value the privacy of our clients and take GDPR very seriously and have a short [GDPR Compliance Statement](gdpr.html). We are registered with the [Information Commissioner’s Office (#ZA320654)](https://ico.org.uk/ESDWebPages/Entry/ZA320654). We are going through Cyber Essentials assessment and certification.
