@@ -40,20 +40,17 @@ body:
 - template: content-block
   headline: Data Science
   text: |-
-    Tilix extract raw data and transform it into meaningful input before executing scientific algorithms and preparing visualisations. \n\nWe do this for clients in a variety of energy and cleantech markets. For example, in energy management Tilix data science guides our clients to reduce energy costs and carbon.
-  link: /services/data
-- template: content-block
-  headline: Brokering Partnerships
-  text: |-
-    It is not surprising that **Key Partnerships** is the first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). There is no such thing as end to end or we can do it all.
+    Tilix extract raw data and transform it into meaningful input before executing scientific algorithms and preparing visualisations.
 
-    Tilix works as a partnership broker to help our clients push forwards their commercial success in the transition to smart and digital energy. We find the variety here particularly satisfying: every partnership has different commercial and technical nuances that have to be taken into account.
+    We do this for clients in a variety of energy and cleantech markets. For example, in energy management Tilix data science guides our clients to reduce energy costs and carbon.
+  link: /services/data
 - template: content-block
   headline: Leading Innovation
   text: |-
     Entrepreneurs looking for the next wave of energy and clean-tech innovation turn to Tilix to help generate ideas, find the most promising options and create tangible results.
 
     The tools and techniques we use include Lean Start-up, pretotyping, prototyping, Business Model Canvas, ideation workshops, natural planning and (good old fashioned) brainstorming.
+  link: "/services/innovation"
 - template: content-block
   headline: Business Architecture
   link: "/services/architecture"
@@ -73,6 +70,12 @@ body:
     Building on experience of long term IT leadership assignments with [Ovo](https://www.ovoenergy.com/) and [Good Energy](https://www.goodenergy.co.uk/), Tilix provides a range of IT management and IT governance services to SMEs in the energy, sustainability and clean-tech markets.
 
     For organisations without an IT Director, Tilix offers a fractional CIO service. For SMEs with an in-house IT capability, Tilix provides ad hoc advisory, interim management and project based solutions on an as needed basis.
+- template: content-block
+  headline: Brokering Partnerships
+  text: |-
+    It is not surprising that **Key Partnerships** is the first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). There is no such thing as end to end or we can do it all.
+
+    Tilix works as a partnership broker to help our clients push forwards their commercial success in the transition to smart and digital energy.
 date: '2019-03-18T11:31:12.000+00:00'
 
 ---
