@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SEASONAL GREETING: Winter Solstice 2019'
+title: Winter Solstice 2019
 date: 2019-12-20 23:00:00 +0000
 Author: John Williams
 image: ''
@@ -9,8 +9,6 @@ teaser: Our short seasonal post contains curated trivia about the Winter Equinox
 
 ---
 The 2019 Winter Solstice is on Sunday December 22, at 04:19 GMT in the Northern Hemisphere. This is the day with the least hours of sunlight. It occurs when the North Pole has its maximum tilt away from the Sun. Read more from the [Royal Museums Greenwich](http://www.rmg.co.uk/discover/explore/equinoxes-and-solstices) about this annual astronomical event.
-
-![Winter solstice sunset](https://lh3.googleusercontent.com/CpbbpBMi8B3tQ6IvFNMtIta-IysdqD9SrDXb799IrKWrmcx8CSKlMwoSXAz3P9Q2I3J-79OHn64ygbnafTF_vr3dR-URMlv2serkvbpFeT-dwdDXhsLkYJbOHDqQFNZh6Dwq3Svu "Winter solstice sunset" =602x317)
 
 [https://pixabay.com/images/id-3922006/](https://pixabay.com/images/id-3922006/ "https://pixabay.com/images/id-3922006/")
 
