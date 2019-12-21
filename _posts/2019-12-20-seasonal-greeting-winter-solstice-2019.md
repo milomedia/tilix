@@ -32,12 +32,12 @@ Snow can also reflect light and help improve PV performance. This is known as th
 
 There are upsides of course, but wood is a relatively inefficient fuel and can create air quality issues. There is also great debate about the carbon footprint.
 
-Science writer [Fred Pearce](https://en.wikipedia.org/wiki/Fred_Pearce) reported in [Yale Environment 360](https://e360.yale.edu/features/carbon-loophole-why-is-wood-burning-counted-as-green-energy) using wood pellets in electricity generation is a “loophole”. He worries that this tactic could cause an unseen surge in carbon emissions and fatally undermine the Paris Climate Agreement.
+Science writer [Fred Pearce](https://en.wikipedia.org/wiki/Fred_Pearce) reported in [Yale Environment 360](https://e360.yale.edu/features/carbon-loophole-why-is-wood-burning-counted-as-green-energy) that using wood pellets in electricity generation is a “loophole”. He worries that this could cause an unseen surge in carbon emissions and fatally undermine the Paris Climate Agreement.
 
-Burning wood may be close to carbon neutral if cut trees are replaced sustainably. However, in many cases it can emit even more carbon than coal. Burning wood immediately releases carbon. However, it can take up to a century for a replacement tree to absorb the same amount of carbon. In the meantime, the carbon released from burning continues to drive climate change.
+Burning wood may be close to carbon neutral if cut trees are replaced sustainably. However, burning wood immediately releases carbon and it can take up to a century for a replacement tree to absorb the same amount of carbon whilst the original carbon emission continues to drive climate change.
 
-“Unless forests are guaranteed to regrow to carbon parity, production of wood pellets for fuel is likely to result in more CO2 in the atmosphere and fewer species than there are today,” wrote William Schlesinger, eminent [biogeochemist](https://en.wikipedia.org/wiki/Biogeochemistry).
+> “Unless forests are guaranteed to regrow to carbon parity, production of wood pellets for fuel is likely to result in more CO2 in the atmosphere and fewer species than today.” [**William Schlesinger**](https://en.wikipedia.org/wiki/William_H._Schlesinger) (the eminent [biogeochemist](https://en.wikipedia.org/wiki/Biogeochemistry)).
 
-Schlesinger points out that timber plantations do not store as much carbon as natural forests. It could take 40 to 100 years for a managed forest to capture the same amount of carbon as a natural forest. Unfortunately most plantation forests are harvested at 20 year intervals and never make it to the carbon-neutral point.
+Schlesinger points out that timber plantations do not store as much carbon as natural forests and that it could take 40 to 100 years for a managed forest to capture the same amount of carbon as a natural forest. Unfortunately most plantation forests are harvested at 20 year intervals and never make it to the carbon-neutral point.
 
-In conclusion, biomass can be sustainable when acting long term and forests need proper management to remain carbon neutral
+In conclusion, to be sustainable biomass requires a long term approach and proper management of the replanted forests.
