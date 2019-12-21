@@ -26,7 +26,7 @@ In Brighton, England people gather together during the Winter Solstice to take p
 
 The days are shorter and the temperature is lower so it is reasonable to expect that solar PV will not be as productive as in the summer. However, solar PV needs light, not heat. They can actually perform better when kept cool. [Read some of the science from UC Santa Barbera](http://scienceline.ucsb.edu/getkey.php?key=2668).
 
-Snow can also reflect light and help improve PV performance. This is known as the [albedo effect](https://en.wikipedia.org/wiki/Albedo)). However, if the panels are covered with snow there is a modest reduction in performance rather than a blackout. See this study from [the Northern Alberta Institute of Technology](https://www.nait.ca/industry/about-us/news/solar-panels-shine-despite-winters-blast-nait-st) for more information.
+Snow can also reflect light and help improve PV performance. This is known as the [albedo effect](https://en.wikipedia.org/wiki/Albedo). However, if the panels are covered with snow there is a modest reduction in performance rather than a blackout. See this study from [the Northern Alberta Institute of Technology](https://www.nait.ca/industry/about-us/news/solar-panels-shine-despite-winters-blast-nait-st) for more information.
 
 ## Burning wood: not so cool
 
