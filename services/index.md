@@ -60,10 +60,9 @@ body:
     We help deliver business value more quickly and make change efforts around people, process and technology more effective. Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff.
 - template: content-block
   headline: Licensee Consulting
+  link: "/services/licensee-consulting"
   text: |-
-    Tilix regulatory expertise is strongest in energy supply as evidenced by our work for [Ofgem](https://www.ofgem.gov.uk/gas/retail-market/market-review-and-reform/smarter-markets-programme/switching-programme) in faster and more reliable switching. However, the firm offers experience from across the whole value chain.
-
-    For example [Pivot Power](https://www.pivot-power.co.uk/) recently turned to Tilix for strategic and tactical advice on licensing spanning generation, distribution and supply.
+    Tilix offers experience from across the whole value chain. For example in retail energy, we worked for Ofgem in faster and more reliable switching. In generation and distribution, [Pivot Power](https://www.pivot-power.co.uk/) turned to Tilix for insights.
 - template: content-block
   headline: Directing IT
   text: |-
