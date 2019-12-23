@@ -34,13 +34,13 @@ body:
 - template: content-block
   headline: Success stories
   text: |-
-    Tilix is proud to be a member of Ofgem’s Consulting Framework and UVDB approved by Achilles. The following vignettes give a flavour of the depth and breadth of experience available from Tilix.
+    Tilix is a member of Ofgem’s Consulting Framework and UVDB approved by Achilles. The following give a flavour of the depth and breadth of experience available from Tilix. More case studies are available on request.
 
-    Ofgem: Created architectural descriptions of the as is model of switching in gas and electricity to support the start up of the Faster & More Reliable Switching Programme.
+    **Ofgem**: Created architectural descriptions of the as is model of switching in gas and electricity to support the start up of the Faster & More Reliable Switching Programme.
 
-    Pivot Power: Licensing and codes advisory spanning generation, distribution and supply of electricity.
+    **Pivot Power**: Licensing and codes advisory spanning generation, distribution and supply of electricity.
 
-    Logicor Energy: Turnkey market entry including supplier hub, call centre, digital channels, wholesale, networks and innovation.
+    **Logicor Energy**: Turnkey market entry including supplier hub, call centre, digital channels, wholesale, networks and innovation.
 - template: content-block
   headline: Recipes for every situation
   text: |-
@@ -56,17 +56,17 @@ body:
   text: |-
     Tilix uses scores of the most useful, versatile and value-adding tools used by management consultants the world-over. Three favourites consistently deliver a huge impact and long-lasting business value:
 
-    Maturity models: Tilix has adopted and developed frameworks for continuous improvement. These qualitatively assess people/culture, processes, organisational structures and technology across a number of business disciplines.
+    **Maturity models**: Tilix has adopted and developed frameworks for continuous improvement. These qualitatively assess people/culture, processes, organisational structures and technology across a number of business disciplines.
 
-    Digital collaboration: Tilix is expert at using online meetings, team chat-rooms, co-authoring documents and shared spreadsheets to connect networks of participants and to get stuff done.
+    **Digital collaboration**: Tilix is expert at using online meetings, team chat-rooms, co-authoring documents and shared spreadsheets to connect networks of participants and to get stuff done.
 
-    Partnerships: There is no such thing as “end to end” or “we can do it all”. Tilix works as a partnership broker to help our clients meet their licensable obligations and grow.
+    **Partnerships**: There is no such thing as “end to end” or “we can do it all”. Tilix works as a partnership broker to help our clients meet their licensable obligations and grow.
 - template: content-block
   headline: Practice directors
   text: |-
-    Dr Neil Williams has been at the cutting edge of computing and electrical engineering for over 30 years. He has recently worked on assignments with Ovo Energy, Good Energy, National Grid, Smart DCC, Shell etc. His technical expertise and commercial nous are much sought after within the smart energy sector.
+    **Dr Neil Williams** has been at the cutting edge of computing and electrical engineering for over 30 years. He has recently worked on assignments with Ovo Energy, Good Energy, National Grid, Smart DCC, Shell etc. His technical expertise and commercial nous are much sought after within the smart energy sector.
 
-    Andrew Hancock has three decades of experience working in the energy sector, right across the spectrum from big six to challenger suppliers. His resume includes roles with British Energy, EDF, Axpo and Logicor Energy.
+    **Andrew Hancock** has extensive experience working in the energy sector. This spans three decades and the spectrum from big six to challenger suppliers. His resume includes roles with British Energy, EDF, Axpo and Logicor Energy.
 - template: content-block
   headline: Find out more
   text: |-
