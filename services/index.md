@@ -43,7 +43,7 @@ body:
     Tilix extract raw data and transform it into meaningful input before executing scientific algorithms and preparing visualisations.
 
     We do this for clients in a variety of energy and cleantech markets. For example, in energy management Tilix data science guides our clients to reduce energy costs and carbon.
-  link: /services/data
+  link: "/services/data"
 - template: content-block
   headline: Leading Innovation
   text: |-
@@ -63,6 +63,8 @@ body:
   link: "/services/licensee-consulting"
   text: |-
     Tilix offers experience from across the whole value chain. For example in retail energy, we worked for Ofgem in faster and more reliable switching. In generation and distribution, [Pivot Power](https://www.pivot-power.co.uk/) turned to Tilix for insights.
+
+    Tilix understands that there is no one size fits all solution. We know when to use different tools and how to adapt to different business cycles from startup to turnaround.
 - template: content-block
   headline: Directing IT
   text: |-
