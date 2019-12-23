@@ -8,7 +8,6 @@ hero-text:
     Tilix helps suppliers, networks and generators meet their mission critical regulatory requirements. Here our knowledge and experience in the energy industry licenses, codes, processes, customs and practices are in high demand.
 
     The services build on the team’s experience from work with policy makers, regulators, “Big Six” and challengers
-
 - template: content-block
   headline: Clients ...
   text: |-
@@ -21,7 +20,6 @@ hero-text:
     | - Smart DCC | | - Maxen Power  |
     | - Ovo Energy | | - Our Power |
     | - Good Energy | &nbsp;&nbsp; | - Farringdon Energy |
-
 hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/licensee-consulting.svg
 body:
 - template: content-block
@@ -33,7 +31,6 @@ body:
     2. A more intense Diagnostic Assessment looks at the current strategic and tactical state.
     3. Business Architecture Advice and a Recommendations Report provides options to decide on.
     4. Follow up support frames how to act on the road to change.
-
 - template: content-block
   headline: Success stories
   text: |-
@@ -44,7 +41,6 @@ body:
     Pivot Power: Licensing and codes advisory spanning generation, distribution and supply of electricity.
 
     Logicor Energy: Turnkey market entry including supplier hub, call centre, digital channels, wholesale, networks and innovation.
-
 - template: content-block
   headline: Recipes for every situation
   text: |-
@@ -55,7 +51,6 @@ body:
     Sustaining success is about finding new ways to take a business to the next level and ensuring complacency does not take root.
 
     Realignment and Turnaround are cycles where the focus is returning a business to a sustainable state. Sometimes it is not obvious change is necessary. Sometimes there is an obvious crisis.
-
 - template: content-block
   headline: Power tools
   text: |-
@@ -66,26 +61,22 @@ body:
     Digital collaboration: Tilix is expert at using online meetings, team chat-rooms, co-authoring documents and shared spreadsheets to connect networks of participants and to get stuff done.
 
     Partnerships: There is no such thing as “end to end” or “we can do it all”. Tilix works as a partnership broker to help our clients meet their licensable obligations and grow.
-
 - template: content-block
   headline: Practice directors
   text: |-
     Dr Neil Williams has been at the cutting edge of computing and electrical engineering for over 30 years. He has recently worked on assignments with Ovo Energy, Good Energy, National Grid, Smart DCC, Shell etc. His technical expertise and commercial nous are much sought after within the smart energy sector.
 
     Andrew Hancock has three decades of experience working in the energy sector, right across the spectrum from big six to challenger suppliers. His resume includes roles with British Energy, EDF, Axpo and Logicor Energy.
-
 - template: content-block
   headline: Find out more
   text: |-
     Our [blog](/blog) and [LinkedIn Company Page](https://www.linkedin.com/company/tilix) covers success stories, ideas, opinions and industry news relevant to licensable activities. For example:
 
-    - Next Day Switching; the Perfect Storm?
-    - Switch Your Supplier - ET or OTT?
-    - Ofgem clamps down on shell companies
+    * [Next Day Switching; the Perfect Storm?](https://www.tilix.uk/2019/07/04/next-day-switching)
+    * [Switch Your Supplier - ET or OTT?](https://www.tilix.uk/2019/05/14/gsop)
+    * [Ofgem clamps down on shell companies](https://www.tilix.uk/2019/11/15/ofgem-shell-company-clampdown)
 
-    Don’t hesitate to [contact us](/contact) if you want to discuss the Licensee Consulting value proposition in more detail. We will be delighted to help you build and maintain licensable activities in your organisation.
-
-date: 2019-12-21
-published: true
+    Don’t hesitate to [contact us](/contact) if you want to discuss the Tilix Licensee Consulting value proposition in more detail. We will be delighted to help you build and maintain licensable activities in your organisation.
+date: '2019-12-21'
 
 ---
