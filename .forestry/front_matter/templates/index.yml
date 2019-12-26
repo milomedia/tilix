@@ -21,6 +21,8 @@ fields:
   - type: text
     name: text
     label: text
+  config:
+    labelField: headline
 - type: text
   name: hero_image
   label: hero_image
@@ -40,6 +42,8 @@ fields:
   - type: file
     name: image
     label: image
+  config:
+    labelField: headline
 - type: datetime
   name: date
   label: date
