@@ -50,3 +50,5 @@ fields:
 - type: text
   name: intro
   label: intro
+pages:
+- index.md
