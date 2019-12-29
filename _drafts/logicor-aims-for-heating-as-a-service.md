@@ -3,7 +3,7 @@ layout: post
 title: Logicor aims for Heating as a Service
 date: 2019-04-03 22:00:00 +0000
 Author: Neil Williams
-image: ''
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/Logicor-400x400.png
 teaser: Smart heating innovation supported by Tilix expertise in administering a licensed
   electricity supply business
 
@@ -18,7 +18,7 @@ teaser: Smart heating innovation supported by Tilix expertise in administering a
   * Digital engineering
   * Licensee consulting
 
-Logicor has developed an all-electric infrared heating system that delivers comfort more efficiently than conventional radiators. Whereas standard radiators heat the air to warm a room, the Clear Heating System (CHS) uses infrared panels to directly warm the objects contained within a room. With this radiant heating you feel the warmth much quicker and it minimises heat lost from opened doors or windows. The CHS requires no plumbing, boiler or complex wiring and it can be easily installed.
+![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/logicor/BEDROOM-005-RT-1024x683.jpg)Logicor has developed an all-electric infrared heating system that delivers comfort more efficiently than conventional radiators. Whereas standard radiators heat the air to warm a room, the Clear Heating System (CHS) uses infrared panels to directly warm the objects contained within a room. With this radiant heating you feel the warmth much quicker and it minimises heat lost from opened doors or windows. The CHS requires no plumbing, boiler or complex wiring and it can be easily installed.
 
 The CHS uses intelligent controls to use only the amount of energy necessary to keep spaces at the temperatures specified by the user – ensuring maximum comfort and efficiency with minimal effort.
 
@@ -40,7 +40,7 @@ Logicor technology and innovative business models can help households change the
 
 Infrared heating is well known in commercial and hospitality sectors but relatively unknown as an alternative for domestic heating. Feedback from early adopter residential customers suggested that bundling electricity supply with a smart home system is a compelling offer for most households.
 
-Currently energy suppliers in the UK can only sell energy to customers in strict units known as kilowatt hours (kWh). However, Ofgem and BEIS are open to the idea of households buying heat plans which are tailored to their specific needs.
+Currently energy suppliers in the UK can only sell energy to customers in strict kilowatt hours (kWh) units. However, Ofgem and BEIS are open to the idea of households buying heat plans which are tailored to their specific needs.
 
 Having discovered that forming partnerships with incumbent energy suppliers was hard work, Logicor decided to go it alone and set up its own licensed electricity supply business.
 
@@ -52,11 +52,13 @@ From the outset, tilix.energy organised its team to couple depth of knowledge in
 
 The latter is pretty hard to do. The key contribution was around careful positioning Logicor Energy in the market. This involved, on an ongoing basis, refining. the value proposition based on the trends, threats and opportunities found from studies of the electricity supply market. This covered tariff types, use of technology, market size, segmentation, competitors and voice of the customer.
 
-The process and information technology requirements at Logicor Energy are vastly different than in most other supply businesses. On the one hand the target size of the customer base is relatively small and does not provide the scale required to make a business case for the same information technology as used in standard utility businesses. On the other hand, Logicor’s novel customer value proposition calls for agility. Therefore, tilix.energy devised a business architecture that is flexible enough to support frequent hypotheses, experiments and insights. Furthermore, the business systems chosen by Logicor on tilix.energy recommendation were picked less for their features and functions than they were for their ability to go with the firm’s state of “flow”. The key requirement was to create a business environment where ideas and discoveries are natural and profuse.
+The process and information technology requirements at Logicor Energy are vastly different than in most other supply businesses. The target size of the customer base is relatively small,  so making a business case for the IT used in standard utility businesses is difficult.
 
-Given such a novel business architecture, tilix.energy provided frequent regulatory insight to Logicor leadership and fostered an open and collaborative relationship with Ofgem et al.
+Furthermore, Logicor’s novel customer value proposition calls for extreme agility from its IT vendors. Therefore, tilix.energy devised a business architecture that is flexible enough to support frequent hypotheses, experiments and insights. Therefore, the technology used by Logicor, based on tilix.energy recommendations, was chosen because it supports the firm’s "state of flow” and helps create a business environment where ideas and discoveries are natural and profuse.
 
-Tilix involvement was particularly intense whilst Logicor established its initial operating capabilities and will continue as it completes a controlled market entry.
+Given such a novel business architecture, tilix.energy provided frequent regulatory insight to Logicor leadership and have fostered an open and collaborative relationship with Ofgem et al.
+
+Tilix involvement will continue as Logicor Energy completes its controlled market entry.
 
 ## Benefits
 
@@ -74,7 +76,7 @@ Moving forwards an important focus for Logicor will be in making low carbon ener
 
 ## About Tilix
 
-Tilix understands that there is no one size fits all solution. We know when to use different tools and how to adapt to different business cycles from startup to turnaround.
+Tilix understands that there is no one size fits all solution. The firm knows when to use different tools and how to adapt to different business cycles from startup to turnaround.
 
 Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff. Entrepreneurs trust Tilix to help generate ideas, find the most promising options and create tangible results.
 
