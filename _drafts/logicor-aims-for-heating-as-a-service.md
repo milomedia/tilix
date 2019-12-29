@@ -11,7 +11,7 @@ teaser: Smart heating innovation supported by Tilix expertise in administering a
 * **Client:** Logicor
 * **Sector:** Heating
 * **Persona:** Low carbon innovator
-* **Size: SME (50-100 employees)**
+* **Size:** SME (50-100 employees)
 * **Situation**: Accelerated growth
 * **Hired Tilix for**:
   * Business architecture
@@ -54,8 +54,8 @@ The latter is pretty hard to do. The key contribution was around careful positio
 
 The process and information technology requirements at Logicor Energy are vastly different than in most other supply businesses. On the one hand the target size of the customer base is relatively small and does not provide the scale required to make a business case for the same information technology as used in standard utility businesses. On the other hand, Logicor’s novel customer value proposition calls for agility. Therefore, tilix.energy devised a business architecture that is flexible enough to support frequent hypotheses, experiments and insights. Furthermore, the business systems chosen by Logicor on tilix.energy recommendation were picked less for their features and functions than they were for their ability to go with the firm’s state of “flow”. The key requirement was to create a business environment where ideas and discoveries are natural and profuse.
 
-Given such a novel business architecture, tilix.energy provided frequent regulatory insight to Logicor leadership and fostered an open and collaborative relationship with Ofgem et al.  
-  
+Given such a novel business architecture, tilix.energy provided frequent regulatory insight to Logicor leadership and fostered an open and collaborative relationship with Ofgem et al.
+
 Tilix involvement was particularly intense whilst Logicor established its initial operating capabilities and will continue as it completes a controlled market entry.
 
 ## Benefits
@@ -74,8 +74,8 @@ Moving forwards an important focus for Logicor will be in making low carbon ener
 
 ## About Tilix
 
-Tilix understands that there is no one size fits all solution. We know when to use different tools and how to adapt to different business cycles from startup to turnaround.  
-  
+Tilix understands that there is no one size fits all solution. We know when to use different tools and how to adapt to different business cycles from startup to turnaround.
+
 Start-up and SME clients leverage Tilix playbooks to develop their capabilities and deliver a more effective business. Larger enterprises use Tilix to augment their own staff. Entrepreneurs trust Tilix to help generate ideas, find the most promising options and create tangible results.
 
 Tilix particularly enjoys applying their commercial and technical expertise around buying, selling, moving, metering and managing energy in setting up new energy supply businesses.
