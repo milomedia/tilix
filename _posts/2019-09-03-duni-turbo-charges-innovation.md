@@ -4,9 +4,7 @@ title: Duni turbo charges innovation
 date: 2019-09-03 22:00:00 +0000
 Author: Neil Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/duni.svg
-teaser: Boosting innovation in the Swedish "GoodFoodMood Company" using tools from
-  Silicon Valley. Delivering insight on the next waves of change in energy and the
-  environment.
+teaser: Boosting innovation in the Swedish "GoodFoodMood Company" using tools from Silicon Valley. Delivering insight on the next waves of change in energy and the environment.
 
 ---
 * **Client:** Duni AB
