@@ -5,8 +5,8 @@ Author: Neil Williams
 Primary SEO:  
 Secondary SEO:
 image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/battlecards/battlecard.jpg
-title: "Industry Messaging Battlecards"
-teaser: "Tilix contrasts and compares industry messaging products. They are important tools for vendors and buyers alike."
+title: "GB Energy Industry Battlecards"
+teaser: "Tilix contrasts and compares the software and services of a number of technology vendors in the GB energy industry."
 ---
 As a result of a number of factors including the growth ambitions of Gentrack and Utiligroup, sales pressure around core IT systems for the UK gas and electricity market is likely to increase in 2019.
 
@@ -14,15 +14,13 @@ As well as adding feature enhancements and introducing new products, the key ven
 
 Product brochures, webinars, demonstrations etc will be plentiful. Therefore customers will be armed with more information about their alternative choices than ever before.
 
-Critical capabilities for the business development channels at AMT Sybex, Dyball Associates, Ensek, Gentrack, Utiligroup et al include:
+The importance of the human factor in successfully closing deals cannot be overstated. Vendors that are aware of this will provide a flow of valuable information about products/services to their frontline. They will work hard to enhance the capabilities of their people on an ongoing basis. Critical capabilities for the business development channels at AMT Sybex, Dyball Associates, Ensek, Gentrack, Utiligroup et al include:
 
 - Understanding customers' pains and gains.
 - Being competent about rival products.
 - Developing a value proposition.
 
-The importance of the human factor in successfully closing deals cannot be overstated. Vendors that are aware of this will provide a flow of valuable information about products/services to their frontline. They will work hard to enhance the capabilities of their people on an ongoing basis.
-
-**Sales Battle Cards** are an important tool for vendors and buyers alike. These contrast and compare two or more offers. They include information along the following lines:
+Through its work as a systems integrator, tilix.energy has built up a library of **battlecards**. This is an important information asset for vendors and buyers alike which covers topics including: shell company, billing, CIS, market messaging, forecasting and digital marketing. Each battlecard details two or more offers and follows the template outlined below.
 
 ### At a Glance
 This is an executive summary comprising:
