@@ -54,8 +54,8 @@ In response, Tilix created a short due-diligence report which helped inform Low 
 * **Positioning:** distilled the basic ideas envisioned by David Saunders into the standard style positioning statements.
 * **Real options:** An analysis of the options available and their key features.
 * **Resource requirements:** A look at the readiness of the some of the resources required to fulfil the vision.
-* **Strategy:** An assessment of how energy sharing relative to the “Hierarchy of Powers” model devised by Geoffrey Moore, the Silicon Valley thought leader.
-* **Tactics:** An appraisal of the risks, issues, assumptions and dependencies coming out of the feasibility study.
+* **Strategy:** An assessment energy sharing relative to the “Hierarchy of Powers” model devised by Geoffrey Moore, the Silicon Valley thought leader.
+* **Tactics:** An appraisal of the risks, issues, assumptions and dependencies coming out of the feasibility study. Introduced “cost of delay” as a metric to manage timescales and priorities.
 * **Conclusions:** Constructive criticism with actionable insights.
 
 ## Benefits
@@ -64,7 +64,11 @@ Energy sharing has generated a lot of hype and there is some anecdotal informati
 
 A feasibility study by a local activist combined with the due diligence from tilix.energy provided Low Carbon Gordano the information they required to decide whether to progress with a project or investigate other opportunities. The local impact of energy sharing could be significant, but there is also considerable fear, uncertainty and doubt around the level of innovation required to make it all work.
 
-Overall this was a useful capacity building, awareness raising and collaborative working exercise.
+Overall this was a useful capacity building, awareness raising and collaborative working exercise. 
+
+> We found that tilix.energy had a good understanding of community groups and delivered high quality communication, both written and verbal. We're very appreciative of the work done by tilix.energy and would not have been able to take such a detailed look at energy sharing without this pro bono support. **Bob Langton, LCG Director.**
+
+> The work has left LCG with more information on the potential of energy sharing schemes as well as information on how to progress. **LCG Director, Chris Stuart-Bennett.**
 
 ## About Tilix
 
