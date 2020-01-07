@@ -1,38 +1,34 @@
 ---
 layout: post
-date: 2019-03-16T00:00:00.000+00:00
+date: 2020-01-06 23:00:00 +0000
 Author: John Williams
 Primary SEO: 
 Secondary SEO: 
-image: http://media.smartermobility.org/2018/02/smarter-mobility-logo-300.png
-title: Tilix Joins Smarter Mobility
-teaser: 'Tilix is proud to become a member and strategic partner of Smarter Mobility:
-  A non-profit resource centre driving innovation with a focus on digital services
-  and solutions.'
+image: ''
+title: Tilix Joins Iasa Global
+teaser: 'Tilix is proud to become a member and strategic partner of Iasa Global: A
+  non-profit resource centre driving a new generation of digital leaders.'
 
 ---
-![Smarter Mobility]({{ page.image}})
+Iasa is committed to enhancing networking and learning opportunities for all of its members. The association offers career guidance in combination with vendor and technology agnostic training and certification opportunities for over 60,000 architects, business analysts, and IT executives around the world.
 
-[Smarter Mobility](https://www.smartermobility.org), a leading industry hub for accelerating business in autonomous driving, transportation and e-mobility has welcomed Tilix Smart Energy as a new member and strategic partner.
+> The overall vision for IASA is to enable members to gain from the strength and power of the network. **Paul Preiss, IASA Global Founder**
 
-> The overall vision for Smarter Mobility is to enable members to gain from the strength and power of the network. **Conny Hertzberg, Smarter Mobility Co-founder**
+As a member of Iasa Global, tilix.energy can tap into resources that will help its clients address day-to-day challenges and keep them at the forefront of digital transformation. 
 
-Smarter Mobility offers its members access to industry expertise, skills and resources, both nationally and internationally. Based in Lund, Sweden, Smarter Mobility is a non-profit knowledge resource hub and expert advisory on transportation, mobility, automotive and e-mobility with a focus on:
+The Iasa Global association works to that promote knowledge sharing and contribute to the success of the worldwide architect community with a focus on:
 
-* offering services to help member companies collaborate and grow;
-* providing easy access to leading industry experts, research, resources, and skills;
-* driving the ACES mobility industry forward by identifying new initiatives regionally and internationally;
-* interfacing with other Europe-wide automotive and e-mobility clusters; 
-* maintaining the Skåne regions position as a hotspot for ACES mobility.
+* **Local Chapters**: communities of architects who meet and discuss the latest thinking. Iasa has active chapters around the world which support local forums, by architects and for architects that encourages professional development and enables architects to perform at the highest levels.
+* **ITABoK:** The Information Technology Architecture Body of Knowledge (ITABoK) is a free (forever) public archive of IT architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa Global. 
+* **Events**: At Iasa Global events, architects gain insights that help them lead digital transformation. These include spotting trends, getting a future view of innovation and getting up to speed on rapidly evolving technologies. 
 
-> It is wonderful to have Tilix join Smarter Mobility. Tilix provides the ACES mobility industry with valuable consulting and systems integration expertise. It is also highly commendable that Tilix provides business angel support to start-ups in this space. **Mats Linblad, CEO, Smarter Mobility**.
+> It is wonderful to have tilix.energy join Iasa Global. Tilix provides the community with valuable insights into energy, cleantech and ACES mobility. **Paul Preiss, IASA Global Founder**
 
-Tilix Smart Energy plays an active role in the emerging ACES mobility industry. The firm's expertise in business architecture, digital engineering, research, innovation and collaboration is valued by start-ups, SMEs and large organisations. Tilix is a value-added member of [Smarter Mobility](https://www.smartermobility.org) and is working closely with the founders on the following goals:
+tilix.energy plays an active role in the cleantech, ACES mobility and energy revolutions. The firm's expertise in business architecture, digital engineering, research, innovation and collaboration is valued by start-ups, SMEs and large organisations. tilix.energy is a value-added member of Iasa Global and is working closely with other members on the following goals:
 
-* taking [smartermobility.org](https://www.smartermobility.org) to the next level;
-* preparing a consortium bid for a pan-European autonomous vehicle project;
-* promoting Smarter Mobility to Tilix's clients and associates with an interest in ACES mobility and at events (e.g. expos and summits in Malta, Oslo, Gothenburg, London, etc).
+* Preparing energy, cleantech and ACES mobility specific content for Iasa Global.
+* Promoting Iasa Global to tilix.energy's clients and associates.
 
-> This partnership is about creative collaboration and the increased potential for exciting international  opportunities. in the rapidly growing ACES mobility market. **Dr Neil Williams, CEO, Tilix Smart Energy**
+> This partnership is about creative collaboration and the increased potential for exciting international opportunities in digital transformation. **Dr Neil Williams, CEO, tilix.energy**
 
-Contact Conny or Mats at Smarter Mobility to find out more about the features, advantages and benefits of membership.
+Contact Paul Preiss at Iasa Global to find out more about the features, advantages and benefits of membership.
