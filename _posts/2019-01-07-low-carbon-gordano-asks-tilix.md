@@ -51,7 +51,7 @@ The primary aim was to verify and validate the products of the energy sharing fe
 
 In response, Tilix created a short due-diligence report which helped inform Low Carbon Gordano’s investment decision making process. The report included:
 
-* **Positioning:** distilled the basic ideas envisioned by David Saunders into the standard style positioning statements.
+* **Positioning:** distilled the basic ideas from the feasibility study into the standard style positioning statements.
 * **Real options:** An analysis of the options available and their key features.
 * **Resource requirements:** A look at the readiness of the some of the resources required to fulfil the vision.
 * **Strategy:** An assessment of energy sharing relative to the “Hierarchy of Powers” model devised by Geoffrey Moore, the Silicon Valley thought leader.
