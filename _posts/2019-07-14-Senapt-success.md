@@ -17,18 +17,18 @@ teaser: Senapt has levered tilix.energy expertise to get its product from the la
   * Digital engineering
   * Business architecture
 
-Senapt is a software as a service startup which is delivering a paradigm shift in energy. It mission is twofold:
+Senapt is a software as a service startup which is delivering a paradigm shift in energy IT and is helping to facilitate an energy revolution. It mission is twofold:
 
-* **For suppliers:** Senapt is facilitating the energy revolution by building platforms that make it easy to sell advanced energy services and to deliver the benefits of the revolution into the hands of their customers.
+* **For suppliers:** Senapt is building platforms that make it easy to sell advanced energy services and to deliver the benefits to their customers.
 * **For consumers**: Senapt helps households understand their consumption, save money and make informed choices on the benefits of the energy revolution.
 
 ## Challenge
 
-Senapt had built a minimal viable product, raised some money, hired a team and incorporated a business. However, the product assumptions had not been validated in the market needs. The risk, as with any startup, was having made a start based on bad assumptions.
+Senapt had built a minimal viable product, raised some money, hired a team and incorporated a business. However, the product assumptions had not been validated in the market. The risk, as with any startup, was having made a start based on bad assumptions.
 
-The top priority for Senapt is figuring out how to get the product in the hands of the right people. Really figuring out who the early adopters could be and how to reach them was a huge obstacle that Senapt were determined to overcome.
+The top priority for Senapt is to get their service into the hands of the right people. Identifying early adopters and how to reach them is a huge obstacle that Senapt is determined to overcome.
 
-The firm's success hinged on finding the right product-market fit before running out of cash. Senapt leadership knew that the keys to success were:
+The firm's success hinges on finding the right product-market fit before running out of cash. Senapt leadership knows that the keys to success are:
 
 * Forget about vanity metrics
 * Think small and resist overselling
@@ -37,7 +37,7 @@ The firm's success hinged on finding the right product-market fit before running
 
 ## Solution
 
-With the challenge clear, the starting point for tilix.energy was to lead the development of the value proposition. The approach was to leverage a library of tools, case studies and templates to help Senapt clearly understand its target customers, create better products and grow a client base.
+With the challenge clear, the starting point for tilix.energy was to lead the development of the value proposition. The approach was to leverage a library of tools, case studies and templates to help Senapt clearly understand its target customers, design better features and grow a client base.
 
 With a value proposition in hand, the next steps were to architect a range of digital properties including a website, CRM and pitch deck.
 
