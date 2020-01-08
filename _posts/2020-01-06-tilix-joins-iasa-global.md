@@ -4,7 +4,7 @@ date: 2020-01-06 23:00:00 +0000
 Author: John Williams
 Primary SEO: 
 Secondary SEO: 
-image: ''
+image: c
 title: Tilix Joins Iasa Global
 teaser: 'Tilix is proud to become a member and strategic partner of Iasa Global: A
   non-profit resource centre driving a new generation of digital leaders.'
