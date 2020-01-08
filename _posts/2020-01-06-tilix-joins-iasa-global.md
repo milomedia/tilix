@@ -10,6 +10,8 @@ teaser: 'Tilix is proud to become a member and strategic partner of Iasa Global:
   non-profit resource centre driving a new generation of digital leaders.'
 
 ---
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/Iasa - adaptation 600x300.png)
+
 Iasa Global is committed to enhancing networking and learning opportunities for all of its members. The association offers career guidance in combination with vendor and technology agnostic training and certification opportunities for over 60,000 architects, business analysts, and IT executives around the world.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/iasa Blog Header.png)
