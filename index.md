@@ -13,11 +13,7 @@ body:
 - template: content-block
   headline: Business Architecture
   text: Tilix offers a full range of business architecture services to support a broad
-    range of clients in the energy, cleantech and ACES mobility sectors. We help deliver
-    business value more quickly and make change efforts around people, process and
-    technology more effective. Start-up and SME clients leverage Tilix playbooks to
-    develop their capabilities and deliver a more effective business. Larger enterprises
-    use Tilix to augment their own staff. [Read more.](/services/architecture)
+    range of clients in the energy, cleantech and ACES mobility sectors. [Read more.](/services/architecture)
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/business_architecture_160.png
 - template: content-block
   headline: Digital Engineering
