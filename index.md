@@ -27,22 +27,17 @@ body:
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/research-whitepapers.png
 - template: content-block
   headline: Data Science
-  text: Tilix takes (often messy) data and transforms this into meaningful information
-    by executing scientific algorithms and preparing interactive visualisations. [Read
-    more](/services/data)
+  text: Tilix takes (often messy) data and transforms this into meaningful information.
+    [Read more](/services/data)
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/data-science-montage.png
 - template: content-block
   headline: Impact Investing
-  text: Tilix uses retained earnings to support nascent, potentially game changing
-    ideas in smart energy. We support startups and community energy groups who are
-    innovating in generation, energy efficiency, battery storage, fintech and mobility.
-    [Read more](/impact).
+  text: Tilix uses retained earnings to invest in nascent, potentially game changing
+    ideas in smart energy. [Read more](/impact).
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/uniti-prototypes.jpg
 - template: content-block
   headline: Panels & Keynotes
   text: Tilix people regularly deliver keynotes and join panels at industry events.
-    Disseminating our experience and expertise from across the whole energy value
-    chain helps put open innovation at the heart of the transformation of energy.
     [Read more](/keynotes-panels)
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/keynotes-panels.jpg
 date: 2019-03-18T11:31:12.000+00:00
