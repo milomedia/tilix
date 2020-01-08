@@ -11,6 +11,15 @@ hero-text:
 hero_image: ''
 body:
 - template: content-block
+  headline: Business Architecture
+  text: Tilix offers a full range of business architecture services to support a broad
+    range of clients in the energy, cleantech and ACES mobility sectors. We help deliver
+    business value more quickly and make change efforts around people, process and
+    technology more effective. Start-up and SME clients leverage Tilix playbooks to
+    develop their capabilities and deliver a more effective business. Larger enterprises
+    use Tilix to augment their own staff. [Read more.](/services/architecture)
+  image: http://www.tilix.uk.s3.amazonaws.com/forestry/business_architecture_160.png
+- template: content-block
   headline: Digital Engineering
   text: Tilix designs, builds and maintains software intensive systems including websites,
     social media, mobile apps, CRM, IoT, big data and AI. [Read more](/services/digital).
@@ -40,14 +49,6 @@ body:
     chain helps put open innovation at the heart of the transformation of energy.
     [Read more](/keynotes-panels)
   image: http://www.tilix.uk.s3.amazonaws.com/forestry/keynotes-panels.jpg
-- template: content-block
-  headline: Collaboration Hubs
-  text: Tilix organises seminars, workshops and online communities on topics such
-    as blockchain, GDPR, AI, mobility and smart grid. These communities leverage digital
-    technology to bring together the right people at the right time and in the right
-    place. The collective knowledge available for active participants is a force multiplier.
-    [Read more.](/2019/02/13/the-power-of-collaboration)
-  image: http://www.tilix.uk.s3.amazonaws.com/forestry/ideaLondon.jpg
 date: 2019-03-18T11:31:12.000+00:00
 intro: ''
 
