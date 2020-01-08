@@ -3,7 +3,8 @@ layout: post
 title: Ofgem clamps down on shell companies
 date: 2019-11-15
 Author: Neil Williams
-image: 
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/ofgem-signing-licence-outofFocus
+  600x263.png
 teaser: On 15 November Ofgem issued revocation notices for licensed companies owned
   by “off-the-shelf” providers
 
