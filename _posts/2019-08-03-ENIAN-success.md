@@ -8,6 +8,8 @@ teaser: ENIAN has partnered with tilix.energy and Edinburgh University to add co
   features to its software as a service platform.
 
 ---
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/enian 600x168.jpg)
+
 * **Client**: ENIAN
 * **Sector**: Renewable generation
 * **Persona**: Software as a Service (SaaS)
