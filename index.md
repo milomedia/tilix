@@ -6,7 +6,7 @@ hero-text:
   headline: Marketing & Innovation
   text: ''
 - template: content-block
-  headline: That's Making Energy Cheap, Clean & Cheerful.
+  headline: for energy, cleantech and ACES mobility
   text: ''
 hero_image: ''
 body:
