@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Event Journal: Planet Electric 2019'
-date: 2019-03-31 22:00:00 +0000
+date: 2019-04-01
 Author: Neil Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/Nordic-EV-Summit.png
 teaser: A pilgrimage to Europe's leading EV market did not disappoint.
