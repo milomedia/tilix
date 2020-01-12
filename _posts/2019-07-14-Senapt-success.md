@@ -8,7 +8,6 @@ teaser: Senapt has levered tilix.energy expertise to get its product from the la
   into the hands of its first customer.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Senapt logo 600x100 inkscape.svg)
 
 * **Client**: Senapt
 * **Sector**: GB Electricity & Gas Supply
