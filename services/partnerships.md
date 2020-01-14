@@ -1,26 +1,26 @@
 ---
 title: Tilix Partnership Brokering
-permalink: /services/partnerships
-published: true
+permalink: "/services/partnerships"
 layout: brochure
-intro:
+intro: ''
 hero-text:
 - template: content-block
-  headline: Intro I
+  headline: Hero I
   text: |-
     Tilix brokers partnerships to increase the effectiveness of the products, services and business processes of organisations across the energy, cleantech and ACES mobility value chains.
 
     Tilix takes a holistic viewpoint and adopts a systematic approach to collaboration. It has helped to create successful partnerships between many different stakeholders.
-
+  link: ''
+  image: ''
 - template: content-block
-  headline: Intro II
+  headline: Hero II
   text: |-
     Tilix can support organisations soar with their strengths regardless of their culture, maturity, sector or size.
 
     We facilitate efficient and effective partnerships by empowering and connecting clients, associates, manufacturers and services providers.
-
-
-hero_image: http://www.tilix.uk.s3.amazonaws.com/img/business_architecture.png
+  link: ''
+  image: ''
+hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/partnering.png
 body:
 - template: content-block
   headline: Key Challenges
@@ -36,7 +36,8 @@ body:
     - Drain on resources
     - Implementation challenges
     - Negative reputation impact
-
+  link: ''
+  image: ''
 - template: content-block
   headline: Benefits
   text: |-
@@ -51,7 +52,8 @@ body:
     - Innovate and problem solve faster
 
     In complex scenarios, working in collaboration with different players from different societal sectors is often the only route.
-
+  link: ''
+  image: ''
 - template: content-block
   headline: Toolkit
   text: |-
@@ -62,7 +64,8 @@ body:
     - **Equity**: Every partner has equal right to be at the table but and provide a fair and reasonable share of the input resources.
     - **Transparency**: Only with openness and trust can a partnership be truly successful.
     - **Mutual benefit**: Just as important as delivering a common good, each partner should enjoy specific benefits.
-
+  link: ''
+  image: ''
 - template: content-block
   headline: Areas of focus
   text: |-
@@ -74,7 +77,8 @@ body:
     - **Value offer**: What is given in exchange? Is there a quid pro quo?
     - **Activities**: How will partners be connected and exchange value?
     - **Goals**: What is the end result? What is the value delivered by the partnership?
-
+  link: ''
+  image: ''
 - template: content-block
   headline: Success Stories
   text: |-
@@ -82,17 +86,20 @@ body:
 
     - **Frugal Energy Supply**: Bringing together energy industry innovators Logicor, Senapt and Homebox to deliver an electricity supply business that has low operating costs and the flexibility to scale when conditions are right.
     - **Faster Switching**: tilix.energy created a whole system map of the customer journey to help build concurrence with stakeholders across the GB gas and electricity industries.
-
-
+  link: ''
+  image: ''
 - template: content-block
   headline: Find Out More
   text: |-
     The Tilix Blog includes posts about partnership brokering cases and best practice. For example:
 
-    - The power of collaboration
-    - Building win-win partnerships
+    * [The power of collaboration]( Brokering Partnerships Brokering Partnerships 100% 10 Comment resolved Text The power of collaboration Link https://www.tilix.uk/2019/02/13/the-power-of-collaboration Toggle screen reader support Named in version history)
+    * [Building win-win partnerships](https://www.tilix.uk/2018/07/09/win-win-partnerships)
 
-    Tilix is proud to stand on the shoulders of giants including tpi, Partnership Brokers Association and The Partnerships Resource Centre.
+    Tilix is proud to stand on the shoulders of giants including [tpi](https://thepartneringinitiative.org), [The Partnership Brokers Association](https://partnershipbrokers.org) and [The Partnerships Resource Centre](https://www.rsm.nl/research/centres/prc/).
 
-    Don’t hesitate to contact us if you want to discuss the  Tilix Brokering Partnerships value proposition in more detail. We will be delighted to support internal and external collaboration in your organisation.
+    Don’t hesitate to [contact us](/contact) if you want to discuss the  Tilix Brokering Partnerships value proposition in more detail. We will be delighted to support internal and external collaboration in your organisation.
+  link: ''
+  image: ''
+
 ---
