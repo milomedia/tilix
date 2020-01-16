@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duni turbo charges innovation
+title: Duni turbocharges innovation
 date: 2019-09-03T22:00:00.000+00:00
 Author: Neil Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/duni.svg
