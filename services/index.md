@@ -29,7 +29,7 @@ body:
   text: |-
     Tilix designs, builds and maintains _systems of engagement_ and _systems of intelligence_ that deliver value across the whole energy value chain.
 
-    Tilix are experts in loosely coupling to _systems of record_ from the likes of [Gentrack](https://www.gentrack.com/), [Utiligroup](https://www.utiligroup.com/), [Ferranti](http://www.ferranti.be/), [AMT-Sybex](https://www.amt-sybex.com/) and [CGI](https://www.cgi.com/en/utilities). For example, we have recently integrated with the Junifer Billing & CIS system to form highly cohesive systems of engagement for [Logicor Energy](https://www.logicor-energy.co.uk/).
+    Tilix are experts in loosely coupling the latest digital technology with _systems of record_ from Independent Software Vendors (ISVs) including [Generis](https://www.generis.co.uk), [Gentrack](https://www.gentrack.com/), [Utiligroup](https://www.utiligroup.com/), [Ferranti](http://www.ferranti.be/), [AMT-Sybex](https://www.amt-sybex.com/), [CGI](https://www.cgi.com/en/utilities) and [Senapt](https://senapt.co.uk).
 - template: content-block
   headline: Research
   text: |-
