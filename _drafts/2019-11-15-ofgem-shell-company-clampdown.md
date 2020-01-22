@@ -5,8 +5,8 @@ date: 2019-11-15
 Author: Neil Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/ofgem-signing-licence-outofFocus
   600x263.png
-teaser: On 15 November Ofgem issued revocation notices for licensed companies owned
-  by “off-the-shelf” providers
+teaser: On 15 November 2019 Ofgem issued revocation notices for licensed companies
+  owned by “off-the-shelf” providers
 
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/ofgem-signing-licence-outofFocus 600x263.png)
@@ -23,6 +23,6 @@ Some recent and relevant publications from Ofgem are:
 * Applying for a gas or electricity licence
 * Ofgem stress tests for existing suppliers
 
-Under Ofgem's new application process, they expect to engage directly with the company who will be operating the licence. They have been engaging with “off-the-shelf” licensed company providers about their approach to any unsold licensed companies. On 15 November 2019 they issued revocation notices for licensed companies owned by “off-the-shelf” providers. From the revocations section of the Ofgem website, it is clear that more than 25 gas and electricity licences were withdrawn.
+Under Ofgem's new application process, they expect to engage directly with the company that will be operating the licence. They have been engaging with “off-the-shelf” licensed company providers about their approach to any unsold licensed companies. On 15 November 2019 they issued revocation notices for licensed companies owned by “off-the-shelf” providers. From the revocations section of the Ofgem website, it is clear that more than 25 gas and electricity licences were withdrawn.
 
 Retracting a previous licence for non-use should not prevent a new licence being granted to that entity. In these cases Ofgem’s application assessment would focus on that entity’s current readiness and preparation to enter the supply market, as explained in their guidance.
