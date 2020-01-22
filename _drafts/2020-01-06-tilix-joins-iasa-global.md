@@ -6,7 +6,7 @@ Primary SEO:
 Secondary SEO: 
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/iasa Blog Header.png
 title: Tilix joins IASA Global
-teaser: 'Tilix is proud to become a member and strategic partner of Iasa Global: A
+teaser: 'Tilix is proud to become a member and strategic partner of IASA Global: a
   non-profit resource centre driving a new generation of digital leaders.'
 
 ---
