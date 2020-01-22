@@ -10,8 +10,6 @@ teaser: Tilix contrasts and compares the shell company options available to new 
   into the GB energy industry.
 
 ---
-# GB Energy Shell Co Battlecard
-
 The **tilix.energy Shell Co Battlecard** details offers from a number of service providers and is summarised in this blog post.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/ShellCo-Battlecard.png)
@@ -79,11 +77,28 @@ The simplest comparison comes from considering maturity and the cross-sell. The 
 
 In a more detailed analysis, the key differentiators can be mapped to a decision matrix as per the table.
 
-| Feasibility | Opportunity |
-| :--- | :--- |
-| Compliance issues | Affordability |
-| Technical challenges | Strategic alignment |
-| Timing | Innovation |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th style="text-align: left">Feasibility</th>
+      <th style="text-align: left">Opportunity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Compliance issues</td>
+      <td style="text-align: left">Affordability</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Technical challenges</td>
+      <td style="text-align: left">Strategic alignment</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Timing</td>
+      <td style="text-align: left">Innovation</td>
+    </tr>
+  </tbody>
+</table>
 
 Topics included in the full battlecard are:
 
@@ -96,11 +111,32 @@ Topics included in the full battlecard are:
 
 Primary and secondary research reveals a number of success stories.
 
-| Vendor | Case | Notes |
-| :--- | :--- | :--- |
-| Dyball | green.energy | Dyball's consultancy offer guidance before, during and after creating an energy supply business. As well as green.energy other notable clients include United Gas & Power, Avro, Utilipoint |
-| Utiligroup | Octopus | A search through Companies House data verifies Utiligroup's claim to have "delivered optimised market entry for >50 licensed energy suppliers". As well as Octopus, other notable alumni include Robin Hood, PFP, Brook Green, Pure Planet |
-| Utiliteam | Peoples Energy | As well as this case study, the quality of references available from Bulb, Ovo etc validate Utiliteam's claim to be "the leading Accreditation Service Provider" |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th style="text-align: left">Vendor</th>
+      <th style="text-align: left">Case</th>
+      <th style="text-align: left">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Dyball</td>
+      <td style="text-align: left">green.energy</td>
+      <td style="text-align: left">Dyball’s consultancy offer guidance before, during and after creating an energy supply business. As well as green.energy other notable clients include United Gas &amp; Power, Avro, Utilipoint</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Utiligroup</td>
+      <td style="text-align: left">Octopus</td>
+      <td style="text-align: left">A search through Companies House data verifies Utiligroup’s claim to have “delivered optimised market entry for &gt;50 licensed energy suppliers”. As well as Octopus, other notable alumni include Robin Hood, PFP, Brook Green, Pure Planet</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Utiliteam</td>
+      <td style="text-align: left">Peoples Energy</td>
+      <td style="text-align: left">As well as this case study, the quality of references available from Bulb, Ovo etc validate Utiliteam’s claim to be “the leading Accreditation Service Provider”</td>
+    </tr>
+  </tbody>
+</table>
 
 The full battlecard contains these and more in what is a comprehensive case study resource.
 
