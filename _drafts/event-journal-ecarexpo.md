@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Event Journal: Sustaintech Sweden'
-date: 2019-11-28
+date: 2020-02-09 11:06:53 +0000
 Author: John Williams
 image: ''
 teaser: A visit to Stockholm for a vibrant capital market day focusing on sustainable
