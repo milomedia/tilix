@@ -73,6 +73,7 @@ body:
     For organisations without an IT Director, Tilix offers a fractional CIO service. For SMEs with an in-house IT capability, Tilix provides ad hoc advisory, interim management and project based solutions on an as needed basis.
 - template: content-block
   headline: Brokering Partnerships
+  link: "/services/partnerships"
   text: |-
     It is not surprising that **Key Partnerships** is the first section of the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). There is no such thing as end to end or we can do it all.
 
