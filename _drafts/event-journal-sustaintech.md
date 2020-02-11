@@ -14,7 +14,7 @@ teaser: A visit to Stockholm for a vibrant capital market day focusing on sustai
 
 **Venue:** Clarion Sign, Stockholm, Sweden
 
-Sweden Sustaintech Venture Day (SSVD) is a capital market day focusing on sustainable solutions. SSVD is a vibrant forum for investors who want to get involved in Swedish companies who are accelerating the energy transition and helping the world get to where it needs to be.
+[Sweden Sustaintech Venture Day (SSVD)](https://www.swedensustaintech.com) is a capital market day focusing on sustainable solutions. SSVD is a vibrant forum for investors who want to get involved in Swedish companies who are accelerating the energy transition and helping the world get to where it needs to be.
 
 In 2020 SSVD gave investors, business angels, venture capitalists and mutual funds and industry companies a valuable opportunity to listen to presentations and meet over thirty of the most interesting companies in the fast growing sustaintech sector.
 
