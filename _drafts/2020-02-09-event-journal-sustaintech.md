@@ -77,7 +77,7 @@ Its open, secure connectivity platform and marketplace for property services, ca
 
 ### [Enjay](https://enjaysystems.com/sv/)
 
-**Enjay specialises in energy recovery restaurant ventilation.** The company´s first solution, Lepido, is the first in the world to offer profitable energy recovery from restaurant ventilation. The innovation will make it possible to reduce annual CO2 emissions by 500 million tonnes, one entire per cent of the projected worldwide CO2 emissions by 2050.
+**Enjay specialises in energy recovery restaurant ventilation.** The company's first solution, Lepido, is the first in the world to offer profitable energy recovery from restaurant ventilation. The innovation will make it possible to reduce annual CO2 emissions by 500 million tonnes, one entire per cent of the projected worldwide CO2 emissions by 2050.
 
 ### [Ngenic](https://ngenic.se/)
 
