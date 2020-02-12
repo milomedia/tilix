@@ -22,11 +22,11 @@ In 2020 SSVD gave investors, business angels, venture capitalists and mutual fun
 
 The event attracted over 400 participants, mostly investors. It was inaugurated by HRH Prince Daniel. During his opening speech, Prince Daniel said:
 
-_“No matter what business you are in, no matter how brilliant your ideas are: if you want to grow – if you want to reach those first 50 million users fast – you will probably need capital and you will definitely need people who believe in you.”_
+> _No matter what business you are in, no matter how brilliant your ideas are: if you want to grow – if you want to reach those first 50 million users fast – you will probably need capital and you will definitely need people who believe in you. **HRH Prince Daniel**_
 
 The Prince spoke with a number of companies, including smart materials, recycling and renewable energy. His insights were appreciated by attendees and organisers alike.
 
-_It is a great asset for Sweden to have a prince with real life experience as an entrepreneur. It was a fantastic speech by HRH Prince Daniel at SSVD._ **Boel Rydenå-Swartling, Organiser/Investor**
+> _It is a great asset for Sweden to have a prince with real life experience as an entrepreneur. It was a fantastic speech by HRH Prince Daniel at SSVD._ **Boel Rydenå-Swartling, Organiser/Investor**
 
 [Prince Daniel’s Fellowship](https://prinsdanielsfellowship.se/) is an initiative run by the [Royal Swedish Academy of Engineering Sciences (IVA)](https://www.iva.se/) in collaboration with Prince Daniel, who is committed to inspiring young people to become entrepreneurs and supporting ambitious young entrepreneurs in growing their businesses.
 
@@ -53,13 +53,13 @@ The strong sector growth and matured markets for sustainable business solutions,
 
 At SSVD more than 30 companies presented their investment cases. **Some of the ones to watch are introduced below.**
 
-### BL!XT
+### [BL!XT](https://blixt.tech)
 
-**BL!XT** **has developed the first residential solid state circuit breaker.** Its patent portfolio also includes solid state technologies for current limiters and power inverters.
+**BL!XT has developed the first residential solid state circuit breaker.** Its patent portfolio also includes solid state technologies for current limiters and power inverters.
 
 Backed by the Swedish Energy Agency and lead investor Baywa r.e. Energy Ventures Gmbh, the company has raised more than €2m since startup.
 
-“Our mission is to Empower the Electric Evolution. Our technology provides behind the meter control. It will increase the efficiency of DERs and storage solutions.” **Charlotta Holmquist, Co-founder and Executive Chairwoman of Bl!xt**
+> Our mission is to Empower the Electric Evolution. Our technology provides behind the meter control. It will increase the efficiency of DERs and storage solutions. **Charlotta Holmquist, Co-founder and Executive Chairwoman of BL!XT**
 
 ### [Bright](https://www.getbright.se/)
 
