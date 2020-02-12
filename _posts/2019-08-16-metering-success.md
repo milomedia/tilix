@@ -3,7 +3,7 @@ layout: post
 title: Metering expertise for new energy supply business
 date: 2019-08-16
 Author: Neil Williams
-image: 
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/Energy_System 275x600.png
 teaser: tilix.energy has helped a new supplier enter the GB energy market.
 
 ---
