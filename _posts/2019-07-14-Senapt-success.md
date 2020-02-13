@@ -3,7 +3,7 @@ layout: post
 title: Senapt passes a tipping point with Tilix
 date: 2019-07-14
 Author: Neil Williams
-image: 
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/Senapt Banner 600x118 (inkscape).png
 teaser: Senapt has levered tilix.energy expertise to get its product from the lab
   into the hands of its first customer.
 
