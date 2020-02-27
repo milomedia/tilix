@@ -4,7 +4,8 @@ title: Resilience Energy chooses Tilix
 date: 2020-02-25 23:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/resilience-traces.png
-teaser: ''
+teaser: Tilix is excited to be giving tactical and strategic advice to Resilience
+  Energy around solar and battery innovation.
 
 ---
 Tilix is excited to be delivering tactical and strategic advice to [Resilience Energy](https://www.resilienceenergy.co.uk).
