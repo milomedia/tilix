@@ -16,6 +16,10 @@ According to the astronomy reference book "[Astronomical Table of the Sun, Moon 
 
 ## Optical Illusion
 
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/equinox.jpg)
+
+Photo by shutterstock
+
 The sun is above the horizon half the day and below for half. However, the Earth's atmosphere bends the rays of sunlight around the Earth's curvature when the sun lies close to the horizon (refraction).
 
 Because of this bending of the sun's rays, the disk of the sun is always seen slightly higher above the horizon than it really is. In fact, when you see the sun appearing to sit on the horizon, what you are looking at is an optical illusion; the sun at that moment is actually _below_ the horizon.
