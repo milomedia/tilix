@@ -8,6 +8,10 @@ teaser: Today will mark the start of spring in the Northern Hemisphere (vernal e
   its the earliest that the equinox has occurred in 124 years.
 
 ---
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/terra-sole.jpg)
+
+Photo: [https://www.goodfreephotos.com/](https://www.goodfreephotos.com/ "https://www.goodfreephotos.com/")
+
 Spring is nature’s way of saying_; “Let’s party!”_ - Robin Williams (1951–2014)
 
 Today (Fri March 20) will mark the start of spring in the Northern Hemisphere ([vernal equinox](https://www.livescience.com/24728-spring.html)) and autumn in the Southern Hemisphere. The earliest that the equinox has occurred in 124 years.
