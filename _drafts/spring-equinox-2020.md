@@ -40,12 +40,12 @@ The amount of irradiation is key. Ambient temperature is not a major factor.
 
 ## Raw Egg Folklore
 
-According to folklore, on the equinox you can stand a raw egg on its end. This egg folklore became popular in 1945 following a LIFE article about the spring adage.
+According to folklore, on the equinox you can stand a raw egg on its end. This egg folklore became popular in 1945 following a LIFE article about this spring myth.
 
-“The origins of this myth are attributed to stories that the ancient Chinese would create displays of eggs standing on end during the first day of spring,” John Millis, Assistant Professor of Physics and Astronomy, Anderson University (Indiana, US).
+According to John Millis, Assistant Professor of Physics and Astronomy, Anderson University (Indiana, US), "The origins of this myth are attributed to stories that the ancient Chinese would create displays of eggs standing on end during the first day of spring."
 
-“The ancient Chinese celebrated the first day of spring about six weeks earlier than the equinox” so it’s not just on the equinox itself.
+"The ancient Chinese celebrated the first day of spring about six weeks earlier than the equinox." So it’s not just on the equinox itself.
 
 As with most folklore, it may only be partly true. Perhaps the equinox has nothing to do with it. But folklore or not, this egg trick sounds like fun to us. Try this yourself and let us know what happens.
 
-Tip: You’ll probably have better luck balancing a dragon's egg on a rough surface or an egg that has a bumpy end.
+Tip: you’ll probably have better luck balancing a dragon's egg on a rough surface or an egg that has a bumpy end.
