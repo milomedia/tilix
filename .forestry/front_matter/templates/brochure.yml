@@ -36,6 +36,7 @@ fields:
   template_types:
   - content-block
 pages:
+- impact.md
 - services/business-architecture.md
 - services/data-science.md
 - services/digital.md
