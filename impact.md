@@ -14,13 +14,10 @@ hero-text:
 - template: content-block
   headline: Cases ....
   text: |-
+    * [Pivot Power](https://www.pivot-power.co.uk): Seed capital and advice on strategic imperatives such as CRM, website platform and content. **Exited in 2019, when the firm was acquired by EDF**
     * [Uniti EV](https://www.uniti.earth/): Tilix was one of the first investors in this Swedish unicorn and continues to be instrumental as the firm moves from invent mode to deploy mode.
-    * [Pivot Power](https://www.pivot-power.co.uk): Seed capital and advice on strategic imperatives such as CRM, website platform and content.
     * [Enian](https://www.enian.co/): As an angel investor and technical adviser, Tilix has provided strategic and operational advice to the executive team.
     * [Homebox](https://homebox.co.uk/): As lead investor, Tilix is helping this smart home start-up be innovative and commercially savvy.
-    * [Bristol Energy Coop](http://www.bristolenergy.coop/): Investor in solar bonds and Zero West project partner.
-    * [Energy Local](http://www.energylocal.co.uk/): Architected an online acquisition and self-service portal for Energy Local.
-    * [Low Carbon Gordano](http://www.lowcarbongordano.co.uk/): Investor due diligence around plans for solar on roofs.
 hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/impact-investing.png
 body:
 - template: content-block
