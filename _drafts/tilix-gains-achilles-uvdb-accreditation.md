@@ -14,7 +14,7 @@ Tilix is proud to become Utilities Vendor Database (**UVDB**) certified after ha
 
 This UVDB certification allows Tilix to pre-qualify as an approved supplier to the utilities sector. The UVDB business system makes it easier for companies in the utilities sector to manage their supply chain risks and to comply with procurement regulations.
 
-The certification validates Tilix’s commitment to continually provide the highest quality of service to clients. It indicates the firm’s compliance with key legislation, particularly in terms of SHEQ and corporate social responsibility.
+The certification validates Tilix’s commitment to continually provide the highest quality of service to clients and indicates the firm’s compliance with key legislation, particularly in terms of SHEQ and corporate social responsibility.
 
 ## **About UVDB**
 
@@ -34,12 +34,12 @@ Achilles enables communities of buyers and suppliers to build better business re
 ### Key features
 
 * **Enhanced profiling:** Allow buyers to apply their internal benchmarking standards to the Tilix profile, giving them an easier way to gauge suitability.
-* **Insights report:** Regular updates that allows Tilix to benchmark performance against peers and identify business improvements.
-* **Relevant audit protocols:** Industry specific protocols backed by comprehensive reporting and expert advice on improvement plans.
+* **Insights report:** Regular updates that allow Tilix to benchmark performance against peers and identify business improvements.
+* **Relevant audit protocols:** Industry-specific protocols backed by comprehensive reporting and expert advice on improvement plans.
 
-### Technical bits
+### Technical info
 
-A detailed coding system has been developed by Achilles which works alongside the European CPV codes allowing suppliers to register to be considered for certain types of contracts. 
+Achilles has developed a detailed coding system that works alongside the European CPV codes and allows suppliers to register in order to be considered for certain types of contracts.
 
 Where a utility is covered by the EU Utilities Directive 2014/25/EU, UVDB can be used to ensure compliance with the process of compiling a tender list from a list of pre-qualified suppliers. Selecting suppliers from a qualification system is permitted under the Directive for the restricted, negotiated, competitive dialogue and innovation partnerships procedures.
 
@@ -52,4 +52,4 @@ This certification demonstrates Tilix’s SHEQ capabilities and highlights our c
 * Helps us to win new and existing business through a fair, open and transparent selection process.
 * Generates competitive presence and awareness.
 
-Being UVDB qualified puts Tilix on a par with leading companies in the UK and shows that our capability to provide services to the utilities sector is proven. All our clients can rest assured that we comply with all legislation, thereby safeguarding their businesses.
+Being UVDB qualified puts Tilix on a par with leading companies in the UK and indicates our proven capability to provide services to the utilities sector. All our clients can rest assured that we comply with all legislation, thereby safeguarding their businesses.
