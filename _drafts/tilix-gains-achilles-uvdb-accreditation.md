@@ -10,6 +10,8 @@ teaser: Tilix is proud to join the Utilities Vendor Database (UVDB) after having
 ---
 Tilix is proud to become Utilities Vendor Database (**UVDB**) certified after having its Safety, Health, Environment and Quality (**SHEQ**) capabilities accredited by Achilles.
 
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/UVDB-stamp.png)
+
 This UVDB certification allows Tilix to pre-qualify as an approved supplier to the utilities sector. The UVDB business system makes it easier for companies in the utilities sector to manage their supply chain risks and to comply with procurement regulations.
 
 The certification validates Tilix’s commitment to continually provide the highest quality of service to clients. It indicates the firm’s compliance with key legislation, particularly in terms of SHEQ and corporate social responsibility.
