@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tilix gains Achilles UVDB accreditation
+title: Tilix becomes Achilles UVDB member
 date: 2020-03-05 23:00:00 +0000
 Author: Michael Maynard
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/UVDB-stamp.jpg
