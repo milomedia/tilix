@@ -3,28 +3,27 @@ layout: post
 title: Tilix gains Achilles UVDB accreditation
 date: 2020-03-05 23:00:00 +0000
 Author: Michael Maynard
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/UVDB-stamp.png
-teaser: Tilix is proud to join the Utilities Vendor Database (UVDB) after having its
-  Safety, Health, Environment and Quality (SHEQ) capabilities accredited by Achilles.
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/UVDB-stamp.jpg
+teaser: Tilix is proud to become a member of the Utilities Vendor Database (UVDB)
+  after having its Safety, Health, Environment and Quality (SHEQ) capabilities accredited
+  by Achilles.
 
 ---
-Tilix is proud to become Utilities Vendor Database (**UVDB**) certified after having its Safety, Health, Environment and Quality (**SHEQ**) capabilities accredited by Achilles.
+Tilix is proud to become Achilles UVDB certified after having its Safety, Health, Environment and Quality (**SHEQ**) capabilities accredited by Achilles.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/UVDB-stamp.png)
 
-This UVDB certification allows Tilix to pre-qualify as an approved supplier to the utilities sector. The UVDB business system makes it easier for companies in the utilities sector to manage their supply chain risks and to comply with procurement regulations.
+This UVDB certification allows Tilix to pre-qualify as an approved supplier to the utilities sector. The Achilles UVDB pre-qualification system makes it easier for companies in the utilities sector to manage their supply chain risks and to comply with procurement regulations.
 
 The certification validates Tilix’s commitment to continually provide the highest quality of service to clients and indicates the firm’s compliance with key legislation, particularly in terms of SHEQ and corporate social responsibility.
 
 ## **About UVDB**
 
-The utilities market is fast moving, subject to ever more stringent regulation and new technologies. UVDB is a rigorous pre-qualification scheme used across the UK that is designed to allow utilities to seek expressions of interest in advance for certain categories of contracts. Working closely with key buying organisations in the sector, this community helps them achieve the highest standards of supply chain assurance.
-
-Achilles UVDB acts as a central repository for tenders and supplier selection for some of the biggest players in the UK utilities industry including National Grid, Scottish Power, SSE and Thames Water.
+Achilles UVDB is a systematic supplier prequalification network that helps Utility companies in the UK to manage risk and comply with EU regulations. It is operated as “Qualification System” under Article 77 of the EU Utility Directive. Moreover, it allows suppliers to promote their product and service offering to 65 buyers including National Grid, SSE, UK Power Networks, Thames Water and United Utilities.
 
 * Industry: Utilities
 * Buyers: 65
-* Region: Northern Europe
+* Region: UK
 * Qualified Suppliers: 7,100
 
 Tilix has been granted UVDB Qualified status. This demonstrates our compliance to SHEQ requirements based on industry-specific assessments and also reflects our ongoing commitment to both robust management systems and the highest operational standards.
@@ -39,7 +38,7 @@ Achilles enables communities of buyers and suppliers to build better business re
 
 ### Technical info
 
-Achilles has developed a detailed coding system that works alongside the European CPV codes and allows suppliers to register in order to be considered for certain types of contracts.
+Achilles have developed a detailed product and code system coding system that works alongside the European CPV codes and allows suppliers to register in order to be considered for certain types of contracts.
 
 Where a utility is covered by the EU Utilities Directive 2014/25/EU, UVDB can be used to ensure compliance with the process of compiling a tender list from a list of pre-qualified suppliers. Selecting suppliers from a qualification system is permitted under the Directive for the restricted, negotiated, competitive dialogue and innovation partnerships procedures.
 
