@@ -9,17 +9,17 @@ teaser: Tilix is proud to become a member of the Utilities Vendor Database (UVDB
   by Achilles.
 
 ---
-Tilix is proud to become a Achilles UVDB Member after having its Safety, Health, Environment and Quality (**SHEQ**) capabilities accredited by Achilles.
+Tilix is proud to become an Achilles UVDB Member following accreditation of its Safety, Health, Environment and Quality (**SHEQ**) capabilities.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/UVDB-stamp.jpg)
 
-The membership allows Tilix to pre-qualify as an approved supplier to the utilities sector. The Achilles UVDB pre-qualification system makes it easier for companies in the utilities sector to manage their supply chain risks and to comply with procurement regulations.
+Membership allows Tilix to pre-qualify as an approved supplier to the utilities sector. The Achilles UVDB pre-qualification system makes it easier for companies in the utilities sector to manage their supply chain risks and to comply with procurement regulations.
 
 The certification validates Tilix’s commitment to continually provide the highest quality of service to clients and indicates the firm’s compliance with key legislation, particularly in terms of SHEQ and corporate social responsibility.
 
 ## **About UVDB**
 
-Achilles UVDB is a systematic supplier prequalification network that helps Utility companies in the UK to manage risk and comply with EU regulations. It is operated as “Qualification System” under Article 77 of the EU Utility Directive. Moreover, it allows suppliers to promote their product and service offering to 65 buyers including National Grid, SSE, UK Power Networks, Thames Water and United Utilities.
+Achilles UVDB is a systematic supplier pre-qualification network that helps utility companies in the UK to manage risk and comply with EU regulations. It is operated as a “Qualification System” under Article 77 of EU Utilities Directive 2014/25/EU. Moreover, it allows suppliers to promote their product and service offering to 65 buyers including National Grid, SSE, UK Power Networks, Thames Water and United Utilities.
 
 * Industry: Utilities
 * Buyers: 65
@@ -38,9 +38,9 @@ Achilles enables communities of buyers and suppliers to build better business re
 
 ### Technical info
 
-Achilles have developed a detailed product and code system coding system that works alongside the European CPV codes and allows suppliers to register in order to be considered for certain types of contracts.
+Achilles has developed a detailed product and coding system that works alongside the European CPV codes and allows suppliers to register in order to be considered for certain types of contracts.
 
-Where a utility is covered by the EU Utilities Directive 2014/25/EU, UVDB can be used to ensure compliance with the process of compiling a tender list from a list of pre-qualified suppliers. Selecting suppliers from a qualification system is permitted under the Directive for the restricted, negotiated, competitive dialogue and innovation partnerships procedures.
+Where a utility is covered by the EU Utilities Directive, UVDB can be used to ensure compliance with the process of compiling a tender list from a list of pre-qualified suppliers. Selecting suppliers from a qualification system is permitted under the Directive for the restricted, negotiated, competitive dialogue and innovation partnerships procedures.
 
 ## The bottom line
 
