@@ -1,12 +1,12 @@
 ---
-title: Tilix Partnership Brokering
+title: Partnership Brokering
 permalink: "/services/partnerships"
 layout: brochure
 intro: ''
 hero-text:
 - template: content-block
   headline: Hero I
-  text: |-
+  text: |
     Tilix brokers partnerships to increase the effectiveness of the products, services and business processes of organisations across the energy, cleantech and ACES mobility value chains.
 
     Tilix takes a holistic viewpoint and adopts a systematic approach to collaboration. It has helped to create successful partnerships between many different stakeholders.
@@ -14,7 +14,7 @@ hero-text:
   image: ''
 - template: content-block
   headline: Hero II
-  text: |-
+  text: |
     Tilix can support organisations soar with their strengths regardless of their culture, maturity, sector or size.
 
     We facilitate efficient and effective partnerships by empowering and connecting clients, associates, manufacturers and services providers.
@@ -24,7 +24,7 @@ hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/partnering.png
 body:
 - template: content-block
   headline: Key Challenges
-  text: |-
+  text: |
     Partnering is not low-cost nor a quick fix - particularly when dealing with wicked problems. Economic, environmental and societal challenges are so complex that collaboration is necessary but not sufficient.
 
     > Few companies in our experience take the time to articulate their own business model. Fewer have any clear idea about the business models of their external relationships. **Henry Chesbrough**
@@ -40,7 +40,7 @@ body:
   image: ''
 - template: content-block
   headline: Benefits
-  text: |-
+  text: |
     Partnerships and collaborations are initiated and formed for many different reasons, for example:
 
     - Drawing on a wider pool of talent.
@@ -56,7 +56,7 @@ body:
   image: ''
 - template: content-block
   headline: Toolkit
-  text: |-
+  text: |
     Partnerships can be pretty hard to do. Commitment, leadership, a collaborative mind-set, and strong relationship management are necessary but not sufficient.
 
     Underlying all this is the necessity to adhere to the core principles of partnership:
@@ -68,7 +68,7 @@ body:
   image: ''
 - template: content-block
   headline: Areas of focus
-  text: |-
+  text: |
     Creating concurrence between stakeholders on the strategic importance of collaboration is a key area of focus for Tilix in its role as a partnership broker.
 
     When parties are clear about each other’s strategic objectives it is easier to spot partnership opportunities and define:
@@ -81,7 +81,7 @@ body:
   image: ''
 - template: content-block
   headline: Success Stories
-  text: |-
+  text: |
     Tilix has broad experience of bringing together different stakeholders to join their resources and competencies. These have involved businesses, academia, regulators, development agencies and policy makers. For example:
 
     - **Frugal Energy Supply**: Bringing together energy industry innovators Logicor, Senapt and Homebox to deliver an electricity supply business that has low operating costs and the flexibility to scale when conditions are right.
@@ -90,7 +90,7 @@ body:
   image: ''
 - template: content-block
   headline: Find Out More
-  text: |-
+  text: |
     The Tilix Blog includes posts about partnership brokering cases and best practice. For example:
 
     * [The power of collaboration]( Brokering Partnerships Brokering Partnerships 100% 10 Comment resolved Text The power of collaboration Link https://www.tilix.uk/2019/02/13/the-power-of-collaboration Toggle screen reader support Named in version history)

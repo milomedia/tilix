@@ -6,7 +6,7 @@ hero-text:
   headline: Marketing & Innovation
   text: ''
 - template: content-block
-  headline: for energy, cleantech and ACES mobility
+  headline: for energy, cleantech and mobility
   text: ''
 hero_image: ''
 body:

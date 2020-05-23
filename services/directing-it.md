@@ -17,7 +17,7 @@ hero-text:
     based solutions on an as needed basis.'
 - template: content-block
   headline: Clients ...
-  text: |-
+  text: |
     Some of our clients include:
 
     * EVEC
@@ -33,32 +33,32 @@ hero_image: ''
 body:
 - template: content-block
   headline: Key Challenges
-  text: |-
+  text: |
     * **Time** Complex eco-systems which don't appear overnight and inefficient marketing processes that take too much effort.
     * **Cost** High software costs and complex integrations with hidden technical debt.
     * **Quality** Increasing customer trust & loyalty whilst optimising engagement rates.
     * **Scope** Leveraging customer insights to direct & control campaigns which strengthen customer relationships.
 - template: content-block
   headline: Possible Solutions
-  text: |-
+  text: |
     * **Modern Marketing Tools** Next generation CMS and CRM applications enabling a fully digital experience with all relevant management information easily accessible.
     * **Omni-channel customer engagement** Modern, user-friendly & device independent digital customer interfaces that handle multiple customer touch points.
     * **Data-driven marketing & communications** A data-centric platform that uses customer insights to target compelling communication and offers.
 - template: content-block
   headline: Outcomes
-  text: |-
+  text: |
     * **Customer Engagement** This at the heart of modern business. Digital is changing the game with new rules and possibilities that were unimaginable a few years ago.
     * **Efficiency** Operations powered by digital technology create a competitive advantage through superior productivity, innovation and agility.
     * **Innovation** The fossil fuel end game will be a more radical upheaval than we have seen in retail, music, newspapers, and finance. Digital enterprises are in pole position to challenge current business models in the global energy system.
 - template: content-block
   headline: 'Case Study: EVEC Automotive'
-  text: |-
+  text: |
     > Swedish electric car engineer partners with Tilix for new digital business systems.
 
     EVEC, a Swedish automotive engineer specialising in electric vehicles chose Tilix to transform its digital business systems. The solution includes a new mobile friendly website coupled with Forestry CMS, Hubspot CRM and MailChimp campaign management. [Read more.](http://www.tilix.uk/2018/09/28/evec-chooses-tilix)
 - template: content-block
   headline: Shaping the Future of Energy
-  text: |-
+  text: |
     Tilix builds enterprise solutions that support the energy industry address challenges and opportunities in customer engagement and running the back office.
 
     Tilix helps our clients stay competitive by making it easier for them to understand, control and access digital ways of marketing and innovating. By doing so, we accelerate the transition into an energy system that is cheap, clean and cheerful.
@@ -68,7 +68,7 @@ body:
     Tilix is passionate about how web, mobile, IoT, cloud and platforms can be leveraged to transform customer experiences, back office processes and business models in the energy sector.
 - template: content-block
   headline: Find Out More
-  text: |-
+  text: |
     The Tilix Blog contains posts about our User Centred, Lean, Agile, Partnership Focussed and Open Source approach to Digital Engineering. For example:
 
     * [Web 101](http://www.tilix.uk/2017/12/28/Web-Dev-101)

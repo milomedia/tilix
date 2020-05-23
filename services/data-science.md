@@ -8,7 +8,7 @@ intro: Almost every part of the energy value chain can be optimised by data and/
 hero-text:
 - template: content-block
   headline: Data Science
-  text: |-
+  text: |
     Tilix applies data science in its different forms ranging from statistics to machine learning in search of precious insights.
 
     Tilix is expert the in tools and algorithms that help unlock data and make data-driven decisions.
@@ -17,7 +17,7 @@ hero-text:
 
 - template: content-block
   headline: Clients ...
-  text: |-
+  text: |
     Our clients include  energy companies (renewables, gas and oil), cleantech innovators and major users of energy.
 
     The holistic mix of technical and domain expertise that Tilix brings to the table is critical for putting data science to work within the challenging markets in which our clients operate.
@@ -26,7 +26,7 @@ hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/data-science-cartoon.p
 body:
 - template: content-block
   headline: Challenges & Benefits
-  text: |-
+  text: |
     The challenges faced by the energy and cleantech industry are dirty and noisy data coupled with lack of access to technical wizards who also have valuable domain expertise. The benefits Tilix data science has delivered include:
 
     - Improved B2B sales effectiveness
@@ -37,7 +37,7 @@ body:
     - Consumer behaviour prediction
 - template: content-block
   headline: Service Catalogue
-  text: |-
+  text: |
     Tilix data science services can be used in a variety of contexts from semantic analysis of text in emails or social media to fraud detection for energy retailers. Assignments are always unique but typically encompass one or more options from the following list:
 
     1. Data cleansing, wrangling and munging
@@ -48,7 +48,7 @@ body:
     6. Interactive visualisations
 - template: content-block
   headline: Vignettes
-  text: |-
+  text: |
     One of the most effective ways of demonstrating the value of Tilix data science expertise is to see it in action.
 
     ![Data science montage](http://www.tilix.uk.s3.amazonaws.com/forestry/data-science-montage.png)
@@ -60,7 +60,7 @@ body:
 
 - template: content-block
   headline: Find Out More
-  text: |-
+  text: |
     Don’t hesitate to contact us if you want to discuss Tilix's Innovation Management value proposition in more detail. We will be delighted to share details of our methods and experience with you.
 
     ![Digital Montage](http://www.tilix.uk.s3.amazonaws.com/forestry/digital-montage-2.png)

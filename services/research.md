@@ -6,7 +6,7 @@ layout: brochure
 hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/whitepaper-open.png
 hero-text:
 - template: content-block
-  text: |-
+  text: |
     Tilix offers a range of research services that helps stakeholders in the energy and cleantech categories frame their market, develop their business and better understand product-market fit.
 
     Tilix Research is delivered by experts who have whole system insight and experience. Our clients trust us for advice, ideas and opinions around technologies, people, processes, organisations, markets, products and projects.
@@ -15,7 +15,7 @@ hero-text:
   image: ''
 - template: content-block
   headline: Our clients choose...
-  text: |-
+  text: |
     Our clients choose Tilix Research to:
 
     * assess markets across short, medium and long term horizons;
@@ -26,7 +26,7 @@ hero-text:
 body:
 - template: content-block
   headline: Service Catalogue
-  text: |-
+  text: |
     Tilix Research projects involve fact finding, analysis and synthesis. They deliver reports and presentations which are served with dollops of creative thinking. Examples of research projects include:
 
     * **Due Diligence**: enhancing the amount and quality of information available to decision makers before entering into an agreement or contract;
@@ -38,7 +38,7 @@ body:
   image: ''
 - template: content-block
   headline: Tilix Research FAQ
-  text: |-
+  text: |
     * **How long does it take to execute a research project?** Two months is the average duration but shorter or longer projects are quite common.
     * **How long are research reports?** It depends on the type of report, the subject chosen, as well as other factors. Tilix reports range from five-page market overviews or appraisals to upwards of 60 pages for in-depth studies.
     * **Can I ask Tilix to validate our claims?** Absolutely. We are happy to act as an independent third party to validate your company’s claims about its products and/or services. However, we don’t guarantee the outcome. If it is unfavourable, you should treat the report as internal lessons learnt rather than marketing collateral.
@@ -46,7 +46,7 @@ body:
   image: ''
 - template: content-block
   headline: Vignettes
-  text: |-
+  text: |
     Examples of Tilix Research in practice:
 
     * **Energy Storage**: Tilix has expertise in lithium-ion battery technology, vehicle to grid and other areas. We have advised several startups in this space including [Uniti EV](https://www.uniti.earth/) and [Pivot Power](http://pivot-power.co.uk/).
