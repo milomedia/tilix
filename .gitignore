@@ -3,3 +3,4 @@ _etc/
 **/.dropbox
 **/.DS_Store
 _whitepapers/
+Gemfile.lock
