@@ -7,13 +7,9 @@ image: http://www.tilix.uk.s3.amazonaws.com/forestry/F308F113-4186-41B8-8D85-925
 teaser: Do you worship Solar? Tilix Smart Energy certainly does! This short blog...
 
 ---
-Summer Solstice 2020
-
 ![](https://lh5.googleusercontent.com/Mm5ywUrQsdNQu3udlr04NF-EttJbHkvkdn6B8UJMh3kqmQxWfu92ID3sRRDhA5E3NMNXTByaAmFw8M162AhoCHqIp9t-J_4Q1xxs8Dm9IZdo6dFcDIDWT9VEYGk1dqjSZ3i60Cly =377x251)
 
 [https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink "https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink")
-
-## Do you worship Solar? Tilix Smart Energy certainly does! This short blog post celebrates the summer solstice and solar energy.
 
 ## Here comes the summer!
 
@@ -33,13 +29,11 @@ When most people hear the words ‘solar power’ they think of panels on roofto
 
 ### Solar Cars
 
-Could be closer than you think.
-
-Startups, researchers and carmakers are working on a new way of powering Cars that drive on self-generated energy straight from the sun.
+Could be closer than you think. Startups, researchers and carmakers are working on a new way of powering Cars that drive on self-generated energy straight from the sun.
 
 There are already a number of prototypes and concepts of solar-powered vehicles, from the eponymous and aerodynamic Lightyear One, designed and developed by Dutch startup Lightyear, and the planned Sion by German solar car startup Sono that smashed crowdfunding targets recently to the tune of €53 million.
 
-### organic photovoltaics
+### Organic Photovoltaics
 
 **Heliatek** develops, produces and distributes industrial-grade organic PV solar solutions for virtually any building surface (horizontal, vertical, curved, rigid, and flexible). Their energy solutions are designed for various traditional and never been possible before applications.
 
@@ -69,6 +63,6 @@ Researchers are developing **solar fabrics** with a vision of including solar po
 
 ### **Intensifying Solar Panel**
 
-### Intensifying solar panel is a low concentrating solar device that includes its own internal tracker.
+Intensifying solar panel is a low concentrating solar device that includes its own internal tracker.
 
 While concentrating solar is an old concept, ISP Solar has cleverly added a tracker function by linking the mirrored aluminum cone waves with a wire that is driven by a small motor that serves only that panel. The entire panel is encapsulated to avoid soiling, and includes an aluminum base sheet that serves as a heat sink, ensuring that the cells will not overheat and lose light conversion efficiency.
