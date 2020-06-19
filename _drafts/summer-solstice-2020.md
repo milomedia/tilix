@@ -13,31 +13,31 @@ Credit: [Photo from Unsplash](https://unsplash.com/photos/Y9utglm0VpQ?utm_source
 
 ## Here comes the summer!
 
-In the Northern Hemisphere, this years summer solstice takes place on Saturday 20 June. During the solstice the Earth sees the longest day, with more daylight than nighttime.
+In the Northern Hemisphere, this year's summer solstice takes place on Saturday, 20 June. During the solstice the Earth sees the longest day, with more daylight than nighttime.
 
-## Solar Yield
+## Solar yield
 
 More energy from the Sun lands on the face of the Earth in just one hour than the entire global population uses in one year. We have all the solar power we could want. Plus, unlike fossil fuels, it’s renewable and will never run out – at least not for a few billion years.
 
-NASA estimates that you’d have to explode 100 billion tons of dynamite every second of every day to match the energy produced by the sun.
+NASA estimates that you’d have to explode 100 billion tons of dynamite every second of every day to match the energy produced by the Sun.
 
-And as solar energy keeps getting cheaper it becomes accessible to more people. Solar energy is the future, plain and simple.
+And as solar energy keeps getting cheaper, it becomes accessible to more people. Solar energy is the future, plain and simple.
 
-## Latest Innovation
+## Latest innovation
 
-When most people hear the words ‘solar power’ they think of panels on rooftops or a solar farm in the desert. But there are now several exciting new solar technologies either in the pipeline or already on the market. These promising technologies will change the way we think about solar energy production. Here are some newly innovative solar products being worked on today:
+When most people hear the words ‘solar power’, they think of panels on rooftops or a solar farm in the desert. But there are now several exciting new solar technologies either in the pipeline or already on the market. These promising technologies will change the way we think about solar energy production. Here are some newly innovative solar products being worked on today:
 
-### Solar Cars
+### Solar cars
 
-Could be closer than you think. Startups, researchers and carmakers are working on a new way of powering Cars that drive on self-generated energy straight from the sun.
+Could be closer than you think. Startups, researchers and carmakers are working on a new way of powering cars that run on self-generated energy straight from the Sun.
 
 There are already a number of prototypes and concepts of solar-powered vehicles, from the eponymous and aerodynamic Lightyear One, designed and developed by Dutch startup Lightyear, and the planned Sion by German solar car startup Sono that smashed crowdfunding targets recently to the tune of €53 million.
 
-### Organic Photovoltaics
+### Organic photovoltaics
 
-**Heliatek** develops, produces and distributes industrial-grade organic PV solar solutions for virtually any building surface (horizontal, vertical, curved, rigid, and flexible). Their energy solutions are designed for various traditional and never been possible before applications.
+**Heliatek** develops, produces and distributes industrial-grade organic PV solar solutions for virtually any building surface (horizontal, vertical, curved, rigid and flexible). Their energy solutions are designed for various traditional – and hitherto impossible – applications.
 
-Based on its unique features – it is ultra-light, flexible and truly green HeliaSol® is a ready-to-use solution, ideal for retrofitting on existing building structures. HeliaFilm® is tailor-made solar film for companies in the building and construction material industry, to integrate into their façade or roof system products.
+Based on its unique features – it is ultra-light, flexible and truly green – HeliaSol® is a ready-to-use solution, ideal for retrofitting on existing building structures. HeliaFilm® is tailor-made solar film for companies in the building and construction material industry, to integrate into their façade or roof system products.
 
 ### Solar Powered Flight
 
