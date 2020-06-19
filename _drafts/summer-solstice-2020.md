@@ -9,7 +9,7 @@ teaser: Do you worship Solar? Tilix Smart Energy certainly does! This short blog
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/F308F113-4186-41B8-8D85-925108D15E7B.jpeg)
 
-[https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink "https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink")
+Credit: [Photo from Unsplash](https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 ## Here comes the summer!
 
