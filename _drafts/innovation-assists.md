@@ -4,11 +4,11 @@ title: Innovation Assists
 date: 2020-05-14 22:00:00 +0000
 Author: Michael Maynard
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/assist-ooda.png
-teaser: Tilix offers up to 12 hours of free, no strings attached advisory to help
+teaser: Tilix offers up to 12 hours of free advice with no strings attached to help
   enterprises develop and adopt sustainable products and processes.
 
 ---
-Tilix's pro-bono service helps enterprises develop and adopt sustainable products and processes.
+Tilix's pro bono service helps enterprises develop and adopt sustainable products and processes.
 
 The aim is to help businesses implement ideas, commercialise products and address the challenges faced in terms of funding, research, IP protection, market analysis, brokering partners and business architecture.
 
@@ -50,7 +50,7 @@ Capturing opportunities is a brain-storming exercise that will produce a range o
 
 The most important stage of an Assist is orientation as it shapes our observations and helps establish a framework for decision-making and action.
 
-In this stage, Tilix uses [five perspectives (inspired by Strategyzer)](https://www.strategyzer.com/blog/5-tools-for-new-business-success) to help navigate towards success. This typically means going from business idea (new market, improving a business unit, new technology, etc.) to an ROI with the minimum amount of time and money wasted. This requires a value proposition with unique selling points, which is embedded in a business model that can scale and generate profits. The right timing and environment are key, with an aligned team for sound execution.
+In this stage, Tilix uses [five perspectives (inspired by Strategyzer)](https://www.strategyzer.com/blog/5-tools-for-new-business-success) to help navigate towards success. This typically means going from a business idea (new market, improving a business unit, new technology, etc.) to an ROI without spending too much time and money. This requires a value proposition with unique selling points, which is embedded in a business model that can scale and generate profits. The right timing and environment are key, with an aligned team for sound execution.
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/success.jpg)
 
@@ -79,4 +79,4 @@ In the final stage Tilix provides follow-up support to help implement suggested 
 
 # Contact Tilix to discover more
 
-If you would like to find our more, please [book a discovery call](/meet/neil)  or [send Tilix a short message](/contact)
+If you would like to find out more, please [book a discovery call](/meet/neil) or [send Tilix a short message](/contact).
