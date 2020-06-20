@@ -25,7 +25,7 @@ And as solar energy keeps getting cheaper, it becomes accessible to more people.
 
 ## Latest innovation
 
-When most people hear the words ‘solar power’, they think of panels on rooftops or a solar farm in the desert. But there are now several exciting new solar technologies either in the pipeline or already on the market. These promising technologies will change the way we think about solar energy production. Here are some newly innovative solar products being worked on today:
+When most people hear the words ‘solar power’, they think of panels on rooftops or a solar farm in the desert. But there are now several exciting new solar technologies either in the pipeline or already on the market. These promising technologies will change the way we think about solar energy production. Here are some newly innovative solar products being worked on today.
 
 ### Solar cars
 
@@ -37,17 +37,17 @@ There are already a number of prototypes and concepts of solar-powered vehicles,
 
 **Heliatek** develops, produces and distributes industrial-grade organic PV solar solutions for virtually any building surface (horizontal, vertical, curved, rigid and flexible). Their energy solutions are designed for various traditional – and hitherto impossible – applications.
 
-Based on its unique features – it is ultra-light, flexible and truly green – HeliaSol® is a ready-to-use solution, ideal for retrofitting on existing building structures. HeliaFilm® is tailor-made solar film for companies in the building and construction material industry, to integrate into their façade or roof system products.
+Based on its unique features – it is ultra-light, flexible and truly green – HeliaSol® is a ready-to-use solution, ideal for retrofitting on existing building structures. HeliaFilm® is tailor-made solar film for companies in the building and construction materials industry, which can be integrated into their facade or roof system products.
 
-### Solar Powered Flight
+### Solar powered flight
 
-PHASA-35 is an unmanned aircraft that s entirely solar-powered and could fly for up to a year at a time.
+PHASA-35 is an unmanned aircraft that is entirely solar-powered and could fly for up to a year at a time.
 
-Developed by BAE Systems and Prismatic, the plane has a 35-metre wingspan, covered entirely in lightweight solar panels. These power the aircraft during the day, and it is kept in the sky at night using energy from inbuilt batteries.
+Developed by BAE Systems and Prismatic, the plane has a 35-metre wingspan, covered entirely in lightweight solar panels. These power the aircraft during the day, and it is kept in the sky at night using energy from built-in batteries.
 
-The Royal Australian Air Force recently began testing the innovative aircraft. The aircraft flew at an altitude of 7,000ft but it is thought that with further adjustments, it could be used to replace satellites that usually track at 66,000ft. The plane in its current form is expected to become commercially available within 12 months.
+The Royal Australian Air Force recently began testing the innovative aircraft, which flew at an altitude of 7,000ft (2,134m). However, it is thought that with further adjustments, it could be used to replace satellites that usually track at 66,000ft (20,117m). The plane in its current form is expected to become commercially available within 12 months.
 
-### Solar Film
+### Solar film
 
 Engineers from the University of Queensland have piloted ‘quantum dots’ solar film with a 16.6% efficiency rate – surpassing the previous 13.4% efficiency rate record.
 
@@ -57,12 +57,12 @@ The research team will now work to produce a film with a 20% efficiency rate bef
 
 ### Solar fabric
 
-Imagine that besides producing solar power at a fixed location, you could also do it while on the move through your own clothing.
+Imagine that, besides producing solar power at a fixed location, you could also do it while on the move through your own clothing.
 
-Researchers are developing **solar fabrics** with a vision of including solar power in each fiber. These solar filaments can be embedded into your t-shirts, winter coats, or any other clothing to help you keep warmer, power your phone, and provide energy for other needs while you’re on the go.
+Researchers are developing **solar fabrics** with a vision of including solar power in each fibre. These solar filaments can be embedded into your t-shirts, winter coats, or any other clothing to help you keep warmer, power your phone, and provide energy for other needs while you’re on the go.
 
-### **Intensifying Solar Panel**
+### **Intensifying solar panel**
 
 Intensifying solar panel is a low concentrating solar device that includes its own internal tracker.
 
-While concentrating solar is an old concept, ISP Solar has cleverly added a tracker function by linking the mirrored aluminum cone waves with a wire that is driven by a small motor that serves only that panel. The entire panel is encapsulated to avoid soiling, and includes an aluminum base sheet that serves as a heat sink, ensuring that the cells will not overheat and lose light conversion efficiency.
+While concentrating solar is an old concept, ISP Solar has cleverly added a tracker function by linking the mirrored aluminium cone waves with a wire that is driven by a small motor that serves only that panel. The entire panel is encapsulated to avoid soiling, and includes an aluminium base sheet that serves as a heat sink, ensuring that the cells will not overheat and lose light conversion efficiency.
