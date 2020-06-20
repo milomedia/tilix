@@ -22,3 +22,5 @@ Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamc
 Building on experience of long term IT leadership assignments with Ovo and Good Energy, Tilix provides a range of IT management and IT governance services to SMEs in the energy, mobility and cleantech markets.
 
 Tilix values the privacy of our clients and takes GDPR very seriously and has a short [GDPR Compliance Statement](https://www.tilix.uk/impressum/gdpr). We are registered with the [Information Commissioner’s Office (#ZA320654)](https://ico.org.uk/ESDWebPages/Entry/ZA320654) and are Cyber Essentials certified (#IASME-CE-000239).
+
+> **Contact Tilix to discover more**: If you would like to find our more, please [book a discovery call](/meet/neil)  or [send Tilix a short message](/contact)
