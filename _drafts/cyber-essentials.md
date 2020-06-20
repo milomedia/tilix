@@ -13,6 +13,14 @@ Tilix is pleased to offer support to start-up and SMEs who would like to obtain 
 
 ## About Cyber Essentials
 
+Certification provides reassurance that your defences will protect against the vast majority of common cyber attacks. The scope of Cyber Essentials includes:
+
+* **Boundary firewalls and internet gateways** - all networks should have a properly configured firewall.
+* **Secure configuration** - default configurations are often vulnerable, these need to be made secure.
+* **User access controls** - only the correct, authorised people can access systems.
+* **Malware protection** - protection against malware and other viruses.
+* **Patch management** - all software and systems should have the latest security patches installed.
+
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien.
 
 Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.
