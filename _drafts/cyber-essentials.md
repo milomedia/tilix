@@ -7,8 +7,6 @@ image: http://www.tilix.uk.s3.amazonaws.com/forestry/cyber-essentials.png
 teaser: Tilix offers support to start-up and SMEs who would like to obtain Cyber Essentials.
 
 ---
-# CyberEssentials
-
 Tilix is pleased to offer support to start-up and SMEs who would like to obtain Cyber Essentials. This can be in the form of ad hoc advisory or as a turnkey solution.
 
 ## About Cyber Essentials
