@@ -23,8 +23,8 @@ Tilix’s support can progress the commerciality of sustainable products or serv
 
 The goal is to facilitate greater innovation, research and development leading to the adoption of sustainable products, processes and services. Innovation Assist can also provide routes to partners, for example:
 
-* grant funding, equity investment or debt finance;
-* links to supply chain, distributors, channel partners and research institutions.
+* grant funding, equity investment or debt finance
+* links to supply chain, distributors, channel partners and research institutions
 
 An **Assist** takes 3-6 weeks and passes through several stages. The initial goal is to **observe**. A _Diagnostic Assessment_ looks at the current strategic and tactical state in order to **orientate**. _Business Architecture Advice_ and a _Recommendations Report_ provide options to **decide** on. Follow-up planning support frames how to **act** inside the tornado of change.
 
@@ -34,17 +34,17 @@ An **Assist** takes 3-6 weeks and passes through several stages. The initial goa
 
 Observations are made through a Diagnostic Assessment which involves appraising the business and capturing opportunities. The first step is to create a rough environment map which outlines the following:
 
-* current and future market sectors;
-* overall business plan;
-* innovation strategy;
-* position in the low carbon economy.
+* current and future market sectors
+* overall business plan
+* innovation strategy
+* position in the low carbon economy
 
 Capturing opportunities is a brain-storming exercise that will produce a range of options around:
 
-* diversifying or developing the value proposition;
-* introducing new capabilities or partners;
-* creating collaboration links to funders or research institutions;
-* addressing new markets.
+* diversifying or developing the value proposition
+* introducing new capabilities or partners
+* creating collaboration links to funders or research institutions
+* addressing new markets
 
 # Orientate
 
@@ -62,7 +62,7 @@ The third stage of an Assist is to detail the real options and decide on a cours
 * IP (patents, copyright, etc.)
 * market research
 * engaging with partners
-* obtaining investment & investors to be approached
+* obtaining investment and investors to be approached
 * supply chain, distributors, channel partners, etc.
 * bringing a product to market
 * trying out new capabilities
