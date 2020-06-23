@@ -43,7 +43,7 @@ Based on its unique features – it is ultra-light, flexible and truly green –
 
 PHASA-35 is an unmanned aircraft that is entirely solar-powered and could fly for up to a year at a time.
 
-Developed by BAE Systems and Prismatic, the plane has a 35-metre wingspan, covered entirely in lightweight solar panels. These power the aircraft during the day, and it is kept in the sky at night using energy from built-in batteries.
+Developed by BAE Systems and Prismatic, the plane has a 115ft (35m) wingspan, covered entirely in lightweight solar panels. These power the aircraft during the day, and it is kept in the sky at night using energy from built-in batteries.
 
 The Royal Australian Air Force recently began testing the innovative aircraft, which flew at an altitude of 7,000ft (2,134m). However, it is thought that with further adjustments, it could be used to replace satellites that usually track at 66,000ft (20,117m). The plane in its current form is expected to become commercially available within 12 months.
 
