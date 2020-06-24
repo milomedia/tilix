@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tilix mobilises Champion Energy™
+title: Tilix facilitates Champion Energy™ entry into GB energy market
 date: 2020-04-23 22:00:00 +0000
 Author: Michael Maynard
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/champion-greyscale.png
@@ -16,7 +16,7 @@ Tilix has helped Champion Energy™ mobilise into the GB electricity supply mark
 * **Hired Tilix for**:
   * Enterprise architecture
   * Back-office operations
-  * Integration with Universal Supplier Service (USS) from Morrison Data Services and Utiliteam
+  * Integration with the Universal Supplier Service (USS) provided by Morrison Data Services and Utiliteam
 
 ## About Champion Energy™
 
@@ -51,7 +51,7 @@ Tilix worked as an enterprise architect and partnership broker to help Champion 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien.
 
-USS from Utiliteam and Morrison Data Services is a perfect fit for Champion Energy™. Speaking of these partners, Shahrukh Ali said:
+The USS provided by Utiliteam and Morrison Data Services is a perfect fit for Champion Energy™. Speaking of these partners, Shahrukh Ali said:
 
 > _"It was clear from the start that USS had the right people and processes to support the mobilisation of Champion Energy™ into the SME electricity supply market. As expected, their depth of industry knowledge and skills were first class. More importantly, their ability to flex to Champion's unique requirements and the challenging market conditions around COVID-19 highlights their professionalism."_
 
