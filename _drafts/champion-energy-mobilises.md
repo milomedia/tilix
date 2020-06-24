@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Champion Energy™ Mobilises
+title: Tilix mobilises Champion Energy™
 date: 2020-04-23 22:00:00 +0000
 Author: Michael Maynard
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/champion-greyscale.png
@@ -16,7 +16,7 @@ Tilix has helped Champion Energy™ mobilise into the GB electricity supply mark
 * **Hired Tilix for**:
   * Enterprise architecture
   * Back-office operations
-  * Integration with USS from Morrison Data Services and Utiliteam
+  * Integration with Universal Supplier Service (USS) from Morrison Data Services and Utiliteam
 
 ## About Champion Energy™
 
@@ -28,11 +28,11 @@ A key ingredient in its business model is to work closely with trusted partners 
 
 ## The challenge
 
-2020 is a difficult time to be entering the GB electricity supply market. COVID-19 has added to the increasing demands placed on new entrants by the regulator. However, fortune favours the brave and those with a good strategy. Founder and Managing Director, Shahrukh Ali, knows there is no such thing as “we can do it all”. From the outset he sought out supply chain partners that could help his team soar based on its strengths. As well as electricity industry expertise, he looks for partners that:
+2020 is a difficult time to be entering the GB electricity supply market, not least because COVID-19 has added to the increasing demands placed on new entrants by the regulator. However, fortune favours the brave and those with a good strategy. Champion Energy™ founder and Managing Director, Shahrukh Ali, knows there is no such thing as “we can do it all”. From the outset he sought out supply chain partners that could help his team soar based on its strengths. As well as electricity industry expertise, he looks for partners that:
 
 * develop a strategic viewpoint including advisory on marketing and innovation, particularly around changes in the economic, commercial and regulatory environment;
 * make architectural contributions to the building of an effective organisation that is fit for purpose in the present and geared for success in the future;
-* have effective governance to ensure that the firm operates in a legal and ethical manner while meeting the business objectives;
+* have effective governance to ensure that the firm operates in a legal and ethical manner while meeting business objectives;
 * maintain strong relationships with Ofgem and other industry bodies on compliance and policy development;
 * foster constructive challenge and have the gravitas to call on advisers who will say “no” when necessary.
 
@@ -43,17 +43,17 @@ Tilix was up for this challenge and is proud to have delivered a robust and scal
 Tilix worked as an enterprise architect and partnership broker to help Champion Energy™ push forward with its plans. In summary, the solution mobilised covers the following:
 
 * The core Champion Energy™ team provides the “front-office” operations.
-* Tilix provides the “back-office” operations, digital engineering and the CRM platform.
+* Tilix provides the “back-office” operations, digital engineering and the customer relationship management (CRM) platform.
 * USS provides the messaging conduit to the electricity industry coupled with advisory services around regulation and industry codes.
-* Tilix provides TUG software to integrate systems of record across electricity industry operations, customer relationship management and accounting.
+* Tilix provides TUG software to integrate systems of record across electricity industry operations, CRM and accounting.
 
 ## Benefits
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien.
 
-USS from Utiliteam and Morrison Data Services fits Champion Energy™ like a hand in a glove. Speaking of these partners, Shahrukh Ali said:
+USS from Utiliteam and Morrison Data Services is a perfect fit for Champion Energy™. Speaking of these partners, Shahrukh Ali said:
 
-> _It was clear from the start that USS had the right people and processes to support the mobilisation of Champion Energy™ into the SME electricity supply market. As expected, their depth of industry knowledge and skills were first class. More importantly, their ability to flex to Champion's unique requirements and the challenging market conditions around COVID-19 highlights their professionalism."_
+> _"It was clear from the start that USS had the right people and processes to support the mobilisation of Champion Energy™ into the SME electricity supply market. As expected, their depth of industry knowledge and skills were first class. More importantly, their ability to flex to Champion's unique requirements and the challenging market conditions around COVID-19 highlights their professionalism."_
 
 Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.
 
