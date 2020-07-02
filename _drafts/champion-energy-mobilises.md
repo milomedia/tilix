@@ -45,17 +45,19 @@ Tilix worked as an enterprise architect and partnership broker to help Champion 
 * The core Champion Energy™ team provides the “front-office” operations.
 * Tilix provides the “back-office” operations, digital engineering and the customer relationship management (CRM) platform.
 * USS provides the messaging conduit to the electricity industry coupled with advisory services around regulation and industry codes.
-* Tilix provides TUG software to integrate systems of record across electricity industry operations, CRM and accounting.
+* Tilix provides bespoke software to integrate systems of record across electricity industry operations, CRM and accounting.
 
 ## Benefits
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien.
 
 The USS provided by Utiliteam and Morrison Data Services is a perfect fit for Champion Energy™. Speaking of these partners, Shahrukh Ali said:
 
 > _"It was clear from the start that USS had the right people and processes to support the mobilisation of Champion Energy™ into the SME electricity supply market. As expected, their depth of industry knowledge and skills were first class. More importantly, their ability to flex to Champion's unique requirements and the challenging market conditions around COVID-19 highlights their professionalism."_
 
-Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.
+Gaining market entry into GB utility markets is Utiliteam's speciality and is an area where the firm is the UK market leader.  Utiliteam have worked in close collaboration with Morrison Data Services over several years to develop the Universal Supplier Service (USS). This provided the foundation which helped Champion Energy achieve a low cost and high quality entry into the competitive GB electricity supply market. In particular, Utiliteam provided an MRA/BSC pre-qualified “off-the-shelf” company which is now operating via the USS and other elements of the Champion Energy™ enterprise architecture.
+
+Speaking of the Tilix enterprise architecture, Shahrukh Ali said:
+
+> Tilix has helped Champion Energy move quickly and is supporting us to deliver value to our customers. They systematically make change efforts around people, process and technology more effective. We are delighted to be using Tilix innovations to develop our capabilities and deliver a more effective business.
 
 ## About Tilix
 
