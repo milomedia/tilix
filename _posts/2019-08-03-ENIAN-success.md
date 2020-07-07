@@ -4,13 +4,13 @@ title: ENIAN delivers digital innovation to renewable energy professionals
 date: 2019-08-03
 Author: Neil Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/enian 600x168.jpg
-teaser: ENIAN has partnered with tilix.energy and Edinburgh University to add compelling
+teaser: ENIAN has partnered with Tilix and Edinburgh University to add compelling
   features to its software as a service platform.
 
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/enian 600x168.jpg)
 
-* **Client**: ENIAN
+* **Client**: [ENIAN](https://enian.co)
 * **Sector**: Renewable generation
 * **Persona**: Software as a Service (SaaS)
 * **Size**: SME (<10 employees)
@@ -22,7 +22,7 @@ teaser: ENIAN has partnered with tilix.energy and Edinburgh University to add co
 
 ENIAN's mission is to provide insights and market intelligence for renewable energy professionals worldwide by delivering the data and workflow tools they need.
 
-To achieve its aims, ENIAN applies the latest tools and techniques from data science and digital engineering packaged as robust, scalable and cost-effective software as a service which:
+To achieve its aims, ENIAN applies the latest tools and techniques from data science and digital engineering packaged as [robust, scalable and cost-effective software as a service](https://enian.co/#features) which:
 
 * accelerates decision time for investors and lenders;
 * helps developers find opportunities faster;
@@ -42,9 +42,9 @@ By bringing together teams from academia and commerce, key challenges for the pr
 
 ## Solution
 
-The overall approach taken by tilix.energy was informed by its experience of working in both pure research and commercial software engineering. This holistic view helped the extended team deliver a scalable architecture and a minimal viable product.
+The overall approach taken by Tilix was informed by its experience of working in both pure research and commercial software engineering. This holistic view helped the extended team deliver a scalable architecture and a minimal viable product.
 
-The first role for tilix.energy was in overcoming some of the final hurdles needed to win the Innovate UK funding. Once the funds were approved the project moved into the elaboration phase, where the development team agreed sub-system boundaries and interfaces. Coming out of this process, tilix.energy constructed the infrastructure map data layer.
+The first role for Tilix was in overcoming some of the final hurdles needed to win the Innovate UK funding. Once the funds were approved the project moved into the elaboration phase, where the development team agreed sub-system boundaries and interfaces. Coming out of this process, tilix.energy constructed the infrastructure map data layer.
 
 The Extraction, Transform and Load (ETL) system developed by tilix.energy extracts data from the source systems, enforces data quality and consistency standards, conforms data so that separate sources can be used together, and finally delivers data in a format so that application developers can build applications, data scientists can glean insights and decision making is supported.
 
@@ -59,11 +59,11 @@ To wrap up the project, tilix.energy participated in a joint review of whole arc
 
 ## Benefits
 
-In supporting ENIAN, tilix.energy has reiterated that the data upon which algorithm is trained and operated is just as important. The idea that garbage in leads to garbage out is common sense. However, fully appreciating the role of data in both training and operating AI systems is pretty hard.
+In supporting ENIAN, tilix.energy has reiterated that the data upon which algorithm is trained and operated is just as important. The idea that garbage in leads to garbage out is common sense. However, fully appreciating the role of data in both training and operating AI systems is pretty hard to do.
 
-> The support from tilix.energy was instrumental in getting ENIAN V1.0 to market. With the automated data collection and analysis of infrastructure data built into the ENIAN platform, renewable energy professionals are empowered to focus on getting quality deals done fast at low cost. **Phil Bruner, CEO ENIAN**
+> The support from Tilix was instrumental in getting ENIAN V1.0 to market. With the automated data collection and analysis of infrastructure data built into the ENIAN platform, renewable energy professionals are empowered to focus on getting quality deals done fast at low cost. [**Phil Bruner, CEO ENIAN**](https://enian.co/team/phillip-bruner/)
 
-> ENIAN's passion for making energy data usable and affordable for every professional in the value chain has been stoked by the professional support from tilix.energy. They are helping us harness the power of big data and machine learning to generate serious time and cost savings for our customers. **Varun Sharma, COO ENIAN**
+> ENIAN's passion for making energy data usable and affordable for every professional in the value chain has been stoked by the professional support from Tilix. They are helping us harness the power of big data and machine learning to generate serious time and cost savings for our customers. [**Varun Sharma, COO ENIAN**](https://enian.co/team/varun-sharma/)
 
 ## About Tilix
 
