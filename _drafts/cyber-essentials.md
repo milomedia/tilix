@@ -11,7 +11,7 @@ Tilix is pleased to offer support to start-up and SMEs who would like to obtain 
 
 ## About Cyber Essentials
 
-Certification provides reassurance that your defences will protect against the vast majority of common cyber attacks. The scope of Cyber Essentials includes:
+Certification provides reassurances that your defences will protect against the vast majority of common cyber attacks. The scope of Cyber Essentials includes:
 
 * **Boundary firewalls and internet gateways** - all networks should have a properly configured firewall.
 * **Secure configuration** - default configurations are often vulnerable, these need to be made secure.
