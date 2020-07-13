@@ -12,7 +12,7 @@ image: https://miro.medium.com/max/400/1*3n-cgB8wmK1gnF0ac-icmg.png
 canonical: https://medium.com/@p_bruner/announcing-enians-1-5m-funding-round-19019a538399
 
 ---
-> Tilix are delighted to have Phillip Bruner, CEO, [Enian](https://enian.co/) as a guest blogger and to repost [his Medium article](https://medium.com/@p_bruner/announcing-enians-1-5m-funding-round-19019a538399).
+> Tilix is delighted to have [Enian](https://enian.co/) CEO, Phillip Bruner, as a guest blogger and to repost [his Medium article](https://medium.com/@p_bruner/announcing-enians-1-5m-funding-round-19019a538399).
 
 Today [Enian](https://enian.co/) are thrilled to announce a $1.5M pre-seed funding led by notable angel investors and energy sector experts, formerly of Goldman Sachs and Vitol.
 
@@ -87,4 +87,4 @@ While every renewable energy pipeline is different and complex, a lack of effici
 
 ## Summary
 
-Backed by senior execs at leading global firms in energy and banking, ENIAN is on a mission to decentralize access to energy data and intelligence worldwide. **Our flagship platform is the first B2B SaaS solution that provides all the data, intelligence and workflow tools professionals need to deliver C&I renewables at scale**. To learn more visit [https://enian.co/](https://enian.co/) and/or [connect with Phillip Bruner on LinkedIn](https://www.linkedin.com/in/pbruner/)
+Backed by senior execs at leading global firms in energy and banking, ENIAN is on a mission to decentralize access to energy data and intelligence worldwide. **Our flagship platform is the first B2B SaaS solution that provides all the data, intelligence and workflow tools professionals need to deliver C&I renewables at scale**. To learn more visit [https://enian.co/](https://enian.co/) and/or [connect with Phillip Bruner on LinkedIn](https://www.linkedin.com/in/pbruner/).
