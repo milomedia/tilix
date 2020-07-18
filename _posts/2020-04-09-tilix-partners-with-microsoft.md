@@ -10,7 +10,7 @@ teaser: Tilix joins the Microsoft Partner Network and looks forward to leveragin
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/microsoft-logo.png)
 
-Tilix regularly helps its clients leverage the same Microsoft services, such as Github, Azure, Office 365 and LinkedIn, that are at the heart of its own business architecture.
+Tilix regularly helps its clients leverage Microsoft services, such as Github, Azure, Office 365 and LinkedIn to help them achieve their goals.
 
 Therefore, it was a natural next step in Tilix's evolution to formally become a member of the Microsoft Partner Network (MPN). Tilix is pleased to announce that it has now joined this network of companies of all sizes and across all industries that work with Microsoft to drive transformation, build pivotal relationships and scale their businesses. This is the most powerful community of its kind – larger than Amazon Web Services (AWS) and Salesforce combined.
 
@@ -32,9 +32,9 @@ The MPN provides us with the widest range of products in the industry as well  o
 
 The Tilix/Microsoft partnership roadmap is as simple as ABC:
 
-A. **Partner with Microsoft:** Access training, practice-building guidance, and sales and marketing resources.
+A. **Partner with Microsoft:** Access training, practice-building guidance, and business development resources.
 
-B. **Action pack:** To accelerate business development and grow competency.
+B. **Action pack:** To provide focus and intensity as well as growing competency.
 
 C. **Bottom line growth:** Leverage the tools, resources, support and guidance to reach new customers and achieve more.
 
@@ -48,12 +48,22 @@ Grey Matter focuses on building long-term partnerships with its customers by und
 
 Regarding Tilix, Grey Matter Account Manager, [Lisa Flemming](https://www.linkedin.com/in/lisa-flemming-2ba79517/), said:
 
-_Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien._
+> We can help Tilix accelerate the delivery of its ambitious vision for energy, cleantech and mobility. Grey Matter understand the business demands that enterprise architects like Tilix face as well as their technical and go-to-market requirements.
 
 ## Action Pack
 
-Tilix's next step is to execute a Microsoft Action Pack. This framework offers software, support and other benefits to help us build and grow our Microsoft powered solutions in a cloud-first, mobile-first world.
+Tilix's next step is to execute a Microsoft Action Pack. This framework offers software, support and other benefits to help us build and grow our Microsoft powered solutions in a cloud and mobile first world.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien.
+> The Microsoft Action Pack provides a strong foundation for helping Tilix grow its business and build new solutions for our clients. It empowers our team to achieve our cloud-centric vision and helps customers address their business challenges with ease. **Dr Neil Williams, CxO, Tilix.**
 
-Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.
+In particular, Tilix are focussing on being a value add reseller and training partner around Microsoft solutions that support modern workplace and security. For example supporting our clients to have a more engaged, flexible, and productive workforce through:
+
+* **Collaboration and Content**: Leveraging Sharepoint etc for document management, Intranet, social network, groupware and file hosting.
+* **Communications**: Leveraging Microsoft Teams solutions that provide efficient and effective collaboration and communication in an enterprise environment including chat, apps, channels, meetings, audio conferences, live events, and calls.
+* **Cloud Productivity**: Getting the most from Office 365, the market leader in commercial-grade solutions for word processing, spreadsheets, presentations and more.
+* **Enterprise Mobility Management**: Help customers address important compliance issues and emerging security threats.
+* **Messaging**: Using Exchange to bring Tilix clients the collaborative tools they need.
+* **Security**: Leveraging solutions on the Microsoft platform to help customers guard against threats, protect data, and maintain compliance.
+* **Windows and Devices**: Helping customers unleash the power of Windows, from deployment to delivering state-of-the-art devices.
+
+With a Microsoft partnership, Tilix can empower its small and midsize business clients to work from anywhere with best-in-class productivity and security. The next five years are going to be great!
