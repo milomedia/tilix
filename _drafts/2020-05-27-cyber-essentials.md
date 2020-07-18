@@ -12,7 +12,7 @@ Tilix is pleased to offer support to startups and small-to-medium-sized enterpri
 
 ## About Cyber Essentials
 
-Cyber Essentials is a UK Government-backed security assurance scheme that was developed to support its National Cyber Security Strategy in improving the overall online security of UK businesses and organisations.
+Cyber Essentials is a UK Government-backed security assurance scheme that was developed to support its National Cyber Security Strategy in improving the overall online security posture of UK businesses and organisations.
 
 It is of particular relevance to SMEs for which IT is not a core competency. The IT systems in these firms are primarily comprised of common-off-the-shelf (COTS) products, rather than heavily customised, complex solutions.
 
