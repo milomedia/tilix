@@ -3,7 +3,7 @@ layout: post
 title: 'Event Journal: Nordic Cleantech Open 2019'
 date: 2019-05-27T22:00:00.000+00:00
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/nordic-clean-tech.jpg
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/01447B5A-3364-4A5E-8CE1-9F40E0D140B8.jpeg
 teaser: Stockholm was host to an excellent showcase of cleantech innovation.
 
 ---
