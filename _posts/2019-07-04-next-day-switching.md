@@ -12,7 +12,7 @@ teaser: OFGEM (the UK's energy regulator) and energy suppliers are working towar
 ---
 > Tilix are delighted to repost articles (with permission) from our associates.  This is a remix of [Next Day Switching; the Perfect Storm?](https://www.linkedin.com/pulse/next-day-switching-perfect-storm-andrew-j-hancock/) from [Andrew Hancock](https://www.linkedin.com/in/andrewjhancock/).
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Perfect_Storm_300x600.png)![](http://www.tilix.uk.s3.amazonaws.com/forestry/Perfect_Storm_300x600.png)![](http://www.tilix.uk.s3.amazonaws.com/forestry/Perfect_Storm_300x600.png)
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/Perfect_Storm_300x600.png)
 
 The business case for the multi-million pound Switching Programme is that it will benefit for consumers who can switch the next day, rather than the current 21 days, thus “saving” 20 days of what is assumed to be a higher price for their energy. In recent times, energy prices have been increasing, making the only potential winners those consumers who switch from a Standard Variable Tariff (SVT); who have historically been resistant to switching.
 
