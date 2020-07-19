@@ -3,7 +3,7 @@ layout: post
 title: Logicor aims for Heating as a Service
 date: 2019-04-14T22:00:00.000+00:00
 Author: Neil Williams
-image: ''
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/D5BC18DC-10E2-425B-9E33-57027F8DF065.jpeg
 teaser: Smart heating innovation supported by Tilix expertise in administering a licensed
   electricity supply business
 
