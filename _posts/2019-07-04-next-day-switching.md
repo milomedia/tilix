@@ -3,7 +3,7 @@ layout: post
 title: Next Day Switching; the Perfect Storm?
 date: 2019-07-04
 Author: Andrew Hancock
-image: 
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/08228235-AFBE-4675-8112-FBA7DB4B86DB.jpeg
 canonical: https://www.linkedin.com/pulse/next-day-switching-perfect-storm-andrew-j-hancock/
 teaser: OFGEM (the UK's energy regulator) and energy suppliers are working towards
   the faster and more reliable switching programme for consumers. It is due to be
