@@ -8,7 +8,7 @@ teaser: Tilix offers support to startups and SMEs that would like to obtain Cybe
   Essentials.
 
 ---
-Tilix is pleased to offer support to startups and small-to-medium-sized enterprises (SMEs) that would like to obtain Cyber Essentials. This can be in the form of ad hoc advisory or as a turnkey solution.
+Tilix is pleased to offer support to startups and small and medium-sized enterprises (SMEs) that would like to obtain Cyber Essentials. This can be in the form of ad hoc advisory or as a turnkey solution.
 
 ## About Cyber Essentials
 
@@ -44,7 +44,7 @@ Cyber Essentials covers five main technical controls which will protect companie
 
 Tilix can support clients in performing a preliminary cyber audit covering the five key Cyber Essentials controls outlined above.
 
-> _"Cyber Essentials provides SMEs with a foundation on which they can build a security posture that can evolve to meet the increasing variety and complexity of cyber threats."_ **Dr Neil Williams, CxO, Tilix**
+> _"Cyber Essentials provides SMEs with a foundation on which they can build a security posture that can evolve to meet the increasing variety and complexity of cyber threats."_ **_Dr Neil Williams, CxO, Tilix_**
 
 The starting point is an initial conversation. This is followed by a quick look at the current situation and an assessment of the available options. In many cases, the support from Tilix is light-touch advisory and is free of charge. In some cases, where a more meticulous approach is required or client resources are simply not available to do the necessary self-certification work, additional support can be purchased from Tilix.
 
