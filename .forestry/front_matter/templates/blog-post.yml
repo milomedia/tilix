@@ -31,6 +31,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2017-12-14-Uniti-Lewis-Horne.md
 - _posts/2017-12-28-Web-Dev-101.md
 - _posts/2018-01-29-Enian-Phil-Bruner.md
 - _posts/2018-02-28-Impact4All.md
