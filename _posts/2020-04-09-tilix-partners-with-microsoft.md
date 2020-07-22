@@ -3,7 +3,7 @@ layout: post
 title: Tilix partners with Microsoft
 date: 2020-04-09 22:00:00 +0000
 Author: Michael Maynard
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/microsoft-symbol.png
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/A4A1BD78-A585-4C56-8D66-11A79C24263E.jpeg
 teaser: Tilix joins the Microsoft Partner Network and looks forward to leveraging
   membership to deliver increasing value to our clients.
 
