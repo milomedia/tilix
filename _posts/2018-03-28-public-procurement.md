@@ -1,12 +1,14 @@
 ---
 layout: post
 date: 2018-03-28
-Author: Neil Williams  
-Primary SEO:  
-Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/Contracts-Hunter.png
-title: "Successful Bids & Tenders"
-teaser: "An important goal for Tilix in 2018 is to be systematic and successful in responding to contract notices posted in various e-tendering portals."
+Author: Neil Williams
+Primary SEO: 
+Secondary SEO: 
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/13DDFEFB-4833-44B0-8016-E9E0F736BADF.jpeg
+title: Successful Bids & Tenders
+teaser: An important goal for Tilix in 2018 is to be systematic and successful in
+  responding to contract notices posted in various e-tendering portals.
+
 ---
 The value of public sector procurement of goods and services in the UK is around £300B. This is circa 10% of nominal GDP. Additionally, many firms in the gas and electric utilities sector must also comply with procurement rules somewhat akin to those found in the public sector.
 
