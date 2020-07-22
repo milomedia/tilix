@@ -1,14 +1,16 @@
 ---
 layout: post
 date: 2018-01-29
-Author: Holly Suttle  
-Primary SEO:  
-Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/enian-pitch-deck.png   
-title: "Enian's Plans for 2018"
-teaser: "Interview with Founder and CEO of Enian, Phillip Bruner. Enian operate at the crossroads of fintech & energy. Their platform empowers all stakeholders in commercial renewable energy deals."
----
+Author: Holly Suttle
+Primary SEO: 
+Secondary SEO: 
+image: http://www.tilix.uk.s3.amazonaws.com/forestry/9A865F95-6D71-463C-913D-123F2C4B42D6.jpeg
+title: Enian's Plans for 2018
+teaser: Interview with Founder and CEO of Enian, Phillip Bruner. Enian operate at
+  the crossroads of fintech & energy. Their platform empowers all stakeholders in
+  commercial renewable energy deals.
 
+---
 > This post presents an interview with Founder and CEO of Enian, Phillip Bruner. We discussed Enian's plans for 2018. Key points include renewable energy sources and the challenges ahead.
 
 **What was it that pushed you to create Enian as a company in the first place, and go into the energy sector?**
