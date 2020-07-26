@@ -7,7 +7,10 @@ image: http://www.tilix.uk.s3.amazonaws.com/forestry/C8276236-8A7E-413B-BBD1-449
 teaser: Tilix has helped a frugal innovator enter the GB electricity supply market.
 
 ---
+  
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/C8276236-8A7E-413B-BBD1-44959CF11074.jpeg)
+
+_image credit: Pixabay_ 
 
 Tilix has helped a frugal innovator enter the GB electricity supply market.
 
