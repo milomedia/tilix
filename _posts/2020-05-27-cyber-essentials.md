@@ -18,7 +18,7 @@ It is of particular relevance to SMEs for which IT is not a core competency. The
 
 The Cyber Essentials scheme adopts a two-tiered approach: standard Cyber Essentials accreditation and Cyber Essentials Plus.
 
-The Cyber Essentials certification process includes a self-assessment questionnaire (SAQ) and an external vulnerability scan. It also defends against common attack vectors that target enterprise-level and corporate IT systems.
+The Cyber Essentials certification process comprises an external vulnerability scan and a self-assessment questionnaire (SAQ). It also defends against common attack vectors that target enterprise-level and corporate IT systems.
 
 Cyber Essentials Plus takes the evaluation process one step further as it requires an audit from a qualified third-party assessor, in addition to the SAQ required for the standard Cyber Essentials certification.
 
