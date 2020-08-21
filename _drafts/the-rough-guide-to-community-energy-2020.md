@@ -20,6 +20,10 @@ The term 'community energy' covers a range of collective actions, from saving or
 
 Community energy is an organisational body made up of members of a community, involved in any combination of the following: energy generation, storage, efficiency or demand reduction. It is largely run by Community Benefit Societies (BenComs), co-operatives, or Community Interest Companies (CICs). (1)
 
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/karsten-wurth-unsplash.jpg)
+
+###### _image credit_: Karsten Wurth, Unsplash
+
 ## How many community energy projects are there in the UK?
 
 Since 2008, there have been over 5,000 community energy groups in the UK that have developed initiatives and projects to produce independent energy. Although this only accounts for 0.3% of the UK’s energy grid, there is tremendous potential for such projects. Germany gives a clear demonstration of this with a 46% contribution to their grid.
