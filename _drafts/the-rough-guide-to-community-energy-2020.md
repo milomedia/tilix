@@ -70,7 +70,7 @@ How these types of renewable energy work
 
 **Geothermal energy** - By harnessing the natural heat below the earth’s surface, geothermal energy can be used to heat homes directly or to generate electricity. Although it harnesses a power directly below our feet, geothermal energy is of negligible importance in the UK compared to countries such as Iceland, where geothermal heat is much more freely available.
 
-**Biomass Energy** - This is the conversion of solid fuel made from plant materials into electricity. Although fundamentally, biomass involves burning organic materials to produce electricity, this is not burning wood, and nowadays this is a much cleaner, more energy-efficient process. By converting agricultural, industrial and domestic waste into solid, liquid and gas fuel, biomass generates power at a much lower economical and environmental cost.(4)
+**Biomass Energy** - This is the conversion of solid fuel made from plant materials into electricity. Although fundamentally, biomass involves burning organic materials to produce electricity, this is not burning wood, and nowadays this is a much cleaner, more energy-efficient process. By converting agricultural, industrial and domestic waste into solid, liquid and gas fuel, biomass generates power at a much lower economic and environmental cost. (4)
 
 ## How do I start a CE project?
 
