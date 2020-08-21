@@ -8,6 +8,8 @@ teaser: Community energy encompasses community-led projects in renewable energy,
   demand reduction, and energy supply...
 
 ---
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
+
 ## Introduction
 
 Communities energy groups throughout the country are developing innovative projects to help meet the UK’s energy challenges. It’s clear that they have a crucial role to play, including supporting a sustainable and secure energy system, reducing UK greenhouse gas emissions. As well as their low carbon credentials, they can provide a host of services and benefits, including flexibility, demand management, avoided grid reinforcement costs, and cheaper consumer bills.
