@@ -5,22 +5,22 @@ date: 2020-08-20 23:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg
 teaser: Community energy encompasses community-led projects in renewable energy, energy
-  demand reduction, and energy supply...
+  demand reduction and energy supply.
 
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
 
 ## Introduction
 
-Communities energy groups throughout the country are developing innovative projects to help meet the UK’s energy challenges. It’s clear that they have a crucial role to play, including supporting a sustainable and secure energy system, reducing UK greenhouse gas emissions. As well as their low carbon credentials, they can provide a host of services and benefits, including flexibility, demand management, avoided grid reinforcement costs, and cheaper consumer bills.
+Nationwide community energy groups are developing innovative projects to help meet the UK’s energy challenges. It’s clear that they have a crucial role to play, including supporting a sustainable and secure energy system, as well as reducing UK greenhouse gas emissions. In addition to their low carbon credentials, they can provide a host of services and benefits, including flexibility, demand management, avoided grid reinforcement costs and cheaper consumer bills.
 
-## What is Community Energy
+## What is community energy?
 
-Community energy refers to the delivery of community-led renewable energy, energy demand reduction, and energy supply projects, whether wholly owned and/or controlled by communities or through partnership with commercial or public sector partners.
+Community energy refers to the delivery of community-led renewable energy, energy demand reduction and energy supply projects, whether wholly owned and/or controlled by communities or through collaboration with commercial or public sector partners.
 
-The term 'community energy' covers a range of collective actions, from saving or reducing usage to purchasing, managing, and generating. It doesn’t include commercially or Government-supported initiatives, nor isolated individual efforts. The emphasis is very much on projects involving local engagement, leadership and control, and where there is a benefit to local communities.
+The term "community energy" covers a range of collective actions, from saving or reducing usage to purchasing, managing and generating energy. It doesn’t include commercial or government-backed initiatives, nor isolated, individual efforts. The emphasis is very much on projects involving local engagement, leadership and control, and where there is a benefit to local communities.
 
-Community energy is an organisational body made up of members of a community, involved in any combination of the following: energy generation, storage, efficiency or demand reduction. It is largely run by Community Benefit Societies (BenComs), co-operatives, or Community Interest Companies (CICs). (1)
+Community energy is an organisational body comprising community members involved in any combination of the following: energy generation, storage, efficiency or demand reduction. It is largely run by Community Benefit Societies (BenComs), cooperatives or Community Interest Companies (CICs). (1)
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/karsten-wurth-unsplash.jpg)
 
@@ -28,30 +28,34 @@ Community energy is an organisational body made up of members of a community, in
 
 ## How many community energy projects are there in the UK?
 
-Since 2008, there have been over 5,000 community energy groups in the UK that have developed initiatives and projects to produce independent energy. Although this only accounts for 0.3% of the UK’s energy grid, there is tremendous potential for such projects. Germany gives a clear demonstration of this with a 46% contribution to their grid.
+Since 2008, there have been over 5,000 community energy groups in the UK that have developed initiatives and projects to produce independent energy. Although this only accounts for 0.3% of the UK’s energy grid, there is tremendous potential for such projects. Germany gives a clear demonstration of this with a 46% contribution to its national grid.
 
 Examples of community energy projects include:
 
-1. Community-owned renewable electricity installations such as solar photovoltaic (PV) panels, wind turbines, or hydroelectric generation.
-2. Members of the community jointly switching to a renewable heat source such as a heat pump or switch electricity or gas suppliers.
-3. A community group supporting energy-saving measures such as the installation of smart technology working in partnership with local Distribution Network Operators (DNO).
+* community-owned renewable electricity installations, such as solar photovoltaic (PV) panels, wind turbines or hydroelectric generation
 
-The Roupell Park Estate in Brixton, South London is an example of a community energy network project which installed 52 kWp of rooftop solar panels in 2012. The panels were financed by the estate’s tenants, each of whom invested £50, raising a total of £60,000, allowing them to part-own the panels. The revenue generated is invested back into the community. (2)
+
+* community members jointly switching to a renewable heat source, such as a heat pump, or changing electricity or gas suppliers
+
+
+* a community group supporting energy-saving measures, such as the installation of smart technology working in partnership with local Distribution Network Operators (DNOs)
+
+The Roupell Park Estate in Brixton, south London, is an example of a community energy network project which installed 52 kWp of rooftop solar panels in 2012. The panels were financed by the estate’s tenants, each of whom invested £50, raising a total of £60,000, allowing them to part-own the panels. The revenue generated is invested back into the community. (2)
 
 ## 10 benefits of community energy
 
-Here are the top ten benefits of community energy:
+Here are the top 10 benefits of community energy:
 
- 1. **Reducing emissions** – community energy is renewable energy. Urban projects tend to be solar, rural ones are wind or hydro, but they all contribute to meeting Britain’s CO2 targets.
- 2. **Network efficiency** – Community energy projects are a great way to both speed up and scale up the rollout of small and medium-scale renewable technologies. These technologies offer a number of advantages, such as keeping transmission losses to a minimum, because generation takes place near the point of consumption.
- 3. **Resilience** – With localised production, greater efficiency and greater control of energy, communities are much less vulnerable to price rises in the future. Also, a National Trust report focused on a community energy case study in Abergwyngregyn, Wales found that “planning, survey and engineering work all provide local employment opportunities, and the income from schemes strengthens the local economy”.
- 4. **Education** Community Energy England’s 2018 [_State of the Sector_](https://communityenergyengland.org/files/document/169/1530262460_CEE_StateoftheSectorReportv.1.51.pdf) report found that 58 percent of community organisations surveyed cited educational initiatives as a core outcome of their projects.
- 5. **Community building** – Community-scale energy projects enable proactive citizens to make the biggest possible difference, they are substantial enough to be noticed and duplicated elsewhere in Britain and the wider world. A long term project involves lots of local people and gets them working together, encourages collective decision making, and builds confidence. It is empowering and raises expectations about what people can do together. Within their [2012 Impact Survey](http://www.communityenergyscotland.org.uk/userfiles/file/impact_survey/Executive-Summary-Report.pdf), Community Energy Scotland discovered that one major social benefit was that it increased community confidence; i.e. after undertaking a challenging task together, a community felt more able to take on similar large tasks in the future.
- 6. **Local economy** – community energy schemes create jobs locally, and income from them strengthens the local economy, especially in places where economic opportunities are scarce.
- 7. **Household efficiency** – one of the proven side-effects of people taking an interest in energy is that they begin using it more wisely. This adds to the carbon savings and lowers bills for people too.
- 8. **Energy security** – as the price of fossil fuels rises with global demand, reducing Britain’s dependency on coal and gas is a priority for our energy systems.
- 9. **Fuel poverty** – Some community energy schemes lower bills (particularly solar) or pay a share of profits to help to make energy more affordable. Other ways that community energy can help reduce fuel poverty, includes making homes more efficient or by providing advice and guidance. The [Carbon Co-op](http://carbon.coop/) in Greater Manchester delivers whole-house retrofitting to maximise insulation and energy efficiency for members. [Plymouth Energy Community](http://www.plymouthenergycommunity.com/about/story) was established in 2013 to help tackle the 13.4 percent of homes in Plymouth that resided in fuel poverty. As well as installing solar PV to 21 schools and offering insulation schemes, the community energy group also launched the Healthy Homes fund which pays advisers to engage with local residents who suffer from illnesses exacerbated by cold or damp homes.
-10. **Autonomy** – creating long term income and giving people greater control over the money they spend on energy while reducing dependence on big and impersonal companies. (3)
+ 1. **Reducing emissions** – Community energy is renewable energy. Urban projects tend to be solar, whereas rural initiatives are wind or hydro-based, but they all contribute to meeting the UK's CO2 targets.
+ 2. **Network efficiency** – Community energy projects are a great way to both speed up and scale up the rollout of small and medium-scale renewable technologies that offer a number of advantages, such as keeping transmission losses to a minimum, because generation takes place near the point of consumption.
+ 3. **Resilience** – With localised production, greater efficiency and greater control of energy, communities are much less vulnerable to price rises in the future. Furthermore, a National Trust report focused on a community energy case study in Abergwyngregyn, Wales, found that “planning, survey and engineering work all provide local employment opportunities, and the income from schemes strengthens the local economy”.
+ 4. **Education** – Community Energy England’s 2018 [_State of the Sector_](https://communityenergyengland.org/files/document/169/1530262460_CEE_StateoftheSectorReportv.1.51.pdf) report found that 58% of community organisations surveyed cited educational initiatives as a core outcome of their projects.
+ 5. **Community building** – Community-scale energy projects enable proactive citizens to make the biggest possible difference. They are substantial enough to be noticed and duplicated elsewhere in the UK and the wider world. A long-term project involves lots of local people and gets them working together, encourages collective decision-making and builds confidence. It is empowering and raises expectations about what people can do together. Within their [2012 Impact Survey](http://www.communityenergyscotland.org.uk/userfiles/file/impact_survey/Executive-Summary-Report.pdf), Community Energy Scotland discovered that one major social benefit was that it increased community confidence, i.e. after undertaking a challenging task together, a community felt more able to take on similar large tasks in the future.
+ 6. **Local economy** – Community energy schemes create jobs locally, and income from them strengthens the local economy, especially in places where economic opportunities are scarce.
+ 7. **Household efficiency** – One of the proven side-effects of people taking an interest in energy is that they begin using it more wisely. This adds to the carbon savings and lowers bills for people too.
+ 8. **Energy security** – As the price of fossil fuels rises with global demand, reducing the UK's dependency on coal and gas is a priority for our energy systems.
+ 9. **Fuel poverty** – Some community energy schemes reduce bills (particularly solar) or pay a share of profits to help make energy more affordable. Other ways that community energy can help reduce fuel poverty include making homes more efficient or providing advice and guidance. The [Carbon Co-op](http://carbon.coop/) in Greater Manchester delivers whole-house retrofitting to maximise insulation and energy efficiency for members. The [Plymouth Energy Community](http://www.plymouthenergycommunity.com/about/story) was established in 2013 to help tackle the 13.4% of local homes in fuel poverty. As well as installing solar PV panels in 21 schools and offering insulation schemes, the community energy group also launched the Healthy Homes Fund which pays advisers to engage with local residents who suffer from illnesses exacerbated by cold or damp homes.
+10. **Autonomy** – Creating long-term income and giving people greater control over the money they spend on energy while at the same time reducing dependency on big and impersonal companies. (3)
 
 ## Types of renewable energy
 
