@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: The Rough Guide to Community Energy 2020
 date: 2020-08-20 23:00:00 +0000
 Author: John Williams
