@@ -14,9 +14,9 @@ text: Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc 
 link: ''
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
+![green fields with black and white cows and a lardge wind turbine](http://www.tilix.uk.s3.amazonaws.com/forestry/annie-spratt-Iarge-unsplash.jpg "community energy large wind turbine")
 
-###### _image credit:_ Annie Spratt, Unsplash
+###### _image credit:_ Annie Spratt, Unsplash 
 
 ## Introduction
 
