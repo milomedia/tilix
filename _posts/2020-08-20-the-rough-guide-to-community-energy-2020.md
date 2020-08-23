@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: The Rough Guide to Community Energy 2020
-date: '2020-08-20 23:00:00 +0000'
+date: 2020-08-20 23:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg
 teaser: Community Energy encompasses community-led projects in renewable energy, energy
@@ -16,7 +16,7 @@ link: ''
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
 
-###### _image credit: Annie Spratt - Unsplash_
+###### _image credit: Annie Spratt, Unsplash_
 
 ## Introduction
 
