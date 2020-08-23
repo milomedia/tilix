@@ -16,7 +16,7 @@ link: ''
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
 
-###### _image credit: Annie Spratt, Unsplash_
+###### _image credit:_ Annie Spratt, Unsplash
 
 ## Introduction
 
