@@ -1,11 +1,16 @@
 ---
-layout: ''
+layout: Post
 title: The Rough Guide to Community Energy 2020
 date: 2020-08-20 23:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg
 teaser: Community Energy encompasses community-led projects in renewable energy, energy
   demand reduction and energy supply.
+headline: Amo amas amat
+text: Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper
+  orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor.
+  Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan
+  eu, blandit sed, blandit a, eros.
 
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
