@@ -15,6 +15,8 @@ text: Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc 
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg)
 
+###### _image credit: Annie Spratt - Unsplash_
+
 ## Introduction
 
 Community Energy (CE) groups nationwide are developing innovative projects to help meet the UK’s energy challenges. It’s clear that they have a crucial role to play, including supporting a sustainable and secure energy system, as well as reducing UK greenhouse gas emissions. In addition to their low carbon credentials, CE groups can provide a host of services and benefits, including flexibility, demand management, avoided grid reinforcement costs and cheaper consumer bills.
