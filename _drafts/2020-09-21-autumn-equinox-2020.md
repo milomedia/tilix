@@ -38,4 +38,4 @@ _photo credit:_ bbc.co.uk
 
 ## Spiritual significance
 
-"The annual Autumn Equinox helps us honour the beauty of the balance between day and night, between activities and restful times, between productivity and contemplation, and it encourages us to give thanks for our life’s bountiful harvest," [Elaine Voci PhD Spirituality & Health](https://spiritualityhealth.com/articles/2016/10/19/rites-autumn-equinox).
+According to [Elaine Voci PhD Spirituality & Health](https://spiritualityhealth.com/articles/2016/10/19/rites-autumn-equinox): "The annual Autumn Equinox helps us honour the beauty of the balance between day and night, between activities and restful times, between productivity and contemplation, and it encourages us to give thanks for our life’s bountiful harvest."
