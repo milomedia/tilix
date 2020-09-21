@@ -24,7 +24,7 @@ In the days before and after an equinox, satellites are vulnerable to “Sun out
 
 During an equinox, the Sun is aligned directly behind satellites in geostationary orbit at the Equator and satellites are flooded with direct solar radiation.
 
-Many communications satellites orbit around the Equator and the solar radiation they experience can interfere with and even stop them transmitting signals. Thus, consumers may experience slow internet connections or frozen television screens during equinoctial sun outages.
+Many communications satellites orbit around the Equator and the solar radiation they experience can interfere with and even stop them transmitting signals. Thus, consumers may experience slow internet connections or frozen television screens during equinoctial Sun outages.
 
 ## Three fun ways to celebrate the Autumnal Equinox
 
