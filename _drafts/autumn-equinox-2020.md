@@ -30,6 +30,8 @@ Many communications satellites orbit around the Equator and the solar radiation 
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/pumpkinpie_bbc1240.jpg)
 
+_photo credit:_ bbc.co.uk
+
 1. Making homemade [fresh pumpkin pie](https://www.bbc.co.uk/food/recipes/pumpkinpie_70659)
 2. Watercolor and Fall Leaf Art Project for Kids - Use[ autumn leaves and watercolor paintings](https://rhythmsofplay.com/watercolor-and-fall-leaves-art/) to create beautiful fall art.
 3. [Starbucks Pumpkin Spice Latté](https://www.starbucks.co.uk/menu/product/418/hot?parent=%2Fdrinks%2Fespresso-drinks%2Flatte) - This epic fall favorite starts with signature espresso and milk. The base ingredients are then highlighted by flavor notes of pumpkin, cinnamon, nutmeg, and clove to create this incredible viral beverage. If you want to go all-in, you can get it topped with whipped cream and real pumpkin pie spices.
