@@ -8,6 +8,7 @@ teaser: Autumn Equinox 2020 in the Northern Hemisphere will be at 14:30 (UK time
   on Tuesday, 22 September...
 
 ---
+![](http://www.tilix.uk.s3.amazonaws.com/forestry/AS solarized 1240.png)
 
 Autumn Equinox 2020 in the Northern Hemisphere will be at 14:30 (UK time) on Tuesday, 22 September.
 
