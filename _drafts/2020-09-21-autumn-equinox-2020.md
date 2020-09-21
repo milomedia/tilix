@@ -4,19 +4,19 @@ title: Autumn Equinox 2020
 date: 2020-09-21 15:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/AE solarized.png
-teaser: Autumn Equinox 2020 in the Northern Hemisphere will be at 14:30 (UK time)
-  on Tuesday, 22 September.
+teaser: The Autumnal Equinox 2020 in the Northern Hemisphere will be at 14:30 (UK
+  time) on Tuesday, 22 September.
 
 ---
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/AS solarized 1240.png)
 
-Autumn Equinox 2020 in the Northern Hemisphere takes place at 14:30 (UK time) on Tuesday, 22 September.
+In 2020, the Autumnal Equinox in the Northern Hemisphere takes place at 14:30 (UK time) on Tuesday, 22 September.
 
-The Autumn Equinox north of the Equator is mirrored south of the Equator by the Spring Equinox. The word comes from the Latin _aequus_, meaning “equal”, and _nox_, meaning “night.”
+The Autumnal Equinox north of the Equator is mirrored south of the Equator by the Spring Equinox. The word comes from the Latin _aequus_, meaning “equal”, and _nox_, meaning “night.”
 
 During the equinox, the Sun crosses what we call the “celestial equator”. Imagine a line that marks the Earth's Equator extending up into the sky above the Equator from north to south.
 
-After the Autumn Equinox the days get shorter and the nights longer. In astrology, this is the date on which the Sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
+After the Autumnal Equinox the days get shorter and the nights longer. In astrology, this is the date on which the Sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
 
 ## Satellite disruptions
 
@@ -26,7 +26,7 @@ During an equinox, the Sun is aligned directly behind satellites in geostationar
 
 Many communications satellites orbit around the Equator and the solar radiation they experience can interfere with and even stop them transmitting signals. Thus, consumers may experience slow internet connections or frozen television screens during equinoctial sun outages.
 
-## Three fun ways to celebrate the Autumn Equinox
+## Three fun ways to celebrate the Autumnal Equinox
 
 ![](http://www.tilix.uk.s3.amazonaws.com/forestry/pumpkinpie_bbc1240.jpg)
 
@@ -38,4 +38,4 @@ _photo credit:_ bbc.co.uk
 
 ## Spiritual significance
 
-According to [Elaine Voci PhD Spirituality & Health](https://spiritualityhealth.com/articles/2016/10/19/rites-autumn-equinox): "The annual Autumn Equinox helps us honour the beauty of the balance between day and night, between activities and restful times, between productivity and contemplation, and it encourages us to give thanks for our life’s bountiful harvest."
+According to [Elaine Voci PhD Spirituality & Health](https://spiritualityhealth.com/articles/2016/10/19/rites-autumn-equinox): "The annual Autumnal Equinox helps us honour the beauty of the balance between day and night, between activities and restful times, between productivity and contemplation, and it encourages us to give thanks for our life’s bountiful harvest."
