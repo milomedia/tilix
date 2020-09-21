@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autumn Equinox 2020
+title: Autumnal Equinox 2020
 date: 2020-09-21 15:00:00 +0000
 Author: John Williams
 image: http://www.tilix.uk.s3.amazonaws.com/forestry/AE solarized.png
