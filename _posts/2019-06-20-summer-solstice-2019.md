@@ -3,14 +3,14 @@ layout: post
 title: Summer Solstice 2019
 date: 2019-06-20
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/solstice.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/solstice.png
 teaser: In the Northern Hemisphere, the summer solstice, or the longest day of the
   year, takes place on Friday 21 June, marking the return of brighter evenings...
 
 ---
 Do you worship Solar? Tilix Smart Energy certainly does! This short blog post celebrates the summer solstice and discusses some of the reasons to get excited at this time of year.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/solstice.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/solstice.png)
 
 ## Here comes the summer!
 
@@ -60,7 +60,7 @@ The first all-day musical celebration on the day of the summer solstice was firs
 
 Stonehenge is an ancient prehistoric world heritage site which has been a place of worship and celebration at the time of summer solstice for thousands of years.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/stonehenge.jpg)Photo by [Hello I'm Nik](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stonehenge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/stonehenge.jpg)Photo by [Hello I'm Nik](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/stonehenge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Each year on 21 June visitors from around the world gather at Stonehenge overnight to mark the summer solstice and to see the sunrise above the stones. At dawn the central Altar stone aligns with the Slaughter stone, Heel stone and the rising sun to the northeast.
 

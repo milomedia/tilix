@@ -5,7 +5,7 @@ Author: Christopher Gruen
 canonical: https://novazure.com/acesmobility/
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/aces/aces-live-scribe.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/aces/aces-live-scribe.jpg
 title: "Event Journal: ACES Seminar & Workshop"
 teaser: "This is a journal post from at the ACES Mobility Accelerator held at IdeaLondon on 23 November 2018. This was a cross-industry event which unpicked the future of mobility."
 ---

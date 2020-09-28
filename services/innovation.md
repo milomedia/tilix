@@ -22,7 +22,7 @@ hero-text:
     | - Chester University | &nbsp;&nbsp; | - Enian |
     | - Duni | | - Generis |
 
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/innovation-management.svg
+hero_image: https://dt8edv2hlaomh.cloudfront.net/forestry/innovation-management.svg
 body:
 - template: content-block
   headline: Challenges

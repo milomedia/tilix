@@ -3,7 +3,7 @@ layout: post
 title: 'Event Journal: Planet Electric 2019'
 date: 2019-04-01
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/Nordic-EV-Summit.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/Nordic-EV-Summit.png
 teaser: A pilgrimage to Europe's leading EV market did not disappoint.
 
 ---
@@ -13,7 +13,7 @@ The journey played out as I anticipated and getting to Norway in the car was str
 
 This journey reiterated my feeling that the map data for charging points in Sweden isn't as good as it could be. In the UK, [Zap-Map](https://www.zap-map.com/) is a handy app that provides information about charging points and is produced by professionals. The equivalent service in Sweden, [https://uppladdning.nu/](https://uppladdning.nu/ "https://uppladdning.nu/"), is very good but lacks the polish of Zap-Map. Maybe because it is run by volunteers?
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/ionity.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/ionity.jpg)
 
 At one of my charging stops I found new 300 kW connectors. However, the installation and commissioning was work in progress. This will be a huge improvement over the 50 kW chargers I am used to. It would reduce charging time from half an hour to about five minutes. This will completely transform long-distance drives for those who have compatible cars.
 

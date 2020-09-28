@@ -4,11 +4,11 @@ date: 2018-02-14
 Author: Holly Suttle  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello-600px.png   
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/Acme-Editorial-Trello-600px.png   
 title: "Systematic Copywriting"
 teaser: "A systematic approach is imperative for the success of any business that relies on publishing content. In this post, I outline how Tilix directs and controls copywriting for our blog and our clients' websites."
 ---
-![ACME Energy Editorial Calendar](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello-600px.png)
+![ACME Energy Editorial Calendar](https://dt8edv2hlaomh.cloudfront.net/img/blogs/Acme-Editorial-Trello-600px.png)
 
 This post provides a summary of what I've learned about managing the creative writing process whilst writing for the Tilix Blog and working on the development of several digital properties in the GB energy supply market. The topics covered are:
 
@@ -79,7 +79,7 @@ Tilix chose Trello due to its cards and lists where information can be both stor
 ### ACME Energy
 Tilix uses the fictional business ACME Energy as a narrative device to demonstrate the businesses processes, technology and content that are necessary for a licensed supply business to operate.
 
-The screen shot above shows the editorial calendar for  ACME Energy when it was just starting out. [Get a hi-res version here](http://www.tilix.uk.s3.amazonaws.com/img/blogs/Acme-Editorial-Trello.png). 
+The screen shot above shows the editorial calendar for  ACME Energy when it was just starting out. [Get a hi-res version here](https://dt8edv2hlaomh.cloudfront.net/img/blogs/Acme-Editorial-Trello.png). 
 
 The Trello board shows how the content is primed for production and work in progress is focussed on the Careers page. I look forward to publishing a series of blog posts which deep dive into these ACME Energy content items. This will include:
 

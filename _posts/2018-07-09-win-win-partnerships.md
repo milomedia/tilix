@@ -4,7 +4,7 @@ date: 2018-07-09
 Author: Neil Williams
 Primary SEO:
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/impact4all/win-win.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/impact4all/win-win.jpg
 canonical:
 teaser: "This article explores some of the ways that partnerships can help with increasing sales, innovation, raising finance and reducing costs in the energy and cleantech sectors."
 title: "Building Win-Win Partnerships"

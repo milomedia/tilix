@@ -28,7 +28,7 @@ hero-text:
     | - Ovo Energy | | - Our Power |
     | - Good Energy | &nbsp;&nbsp; | - Farringdon Energy |
 
-hero_image: http://www.tilix.uk.s3.amazonaws.com/img/business_architecture.png
+hero_image: https://dt8edv2hlaomh.cloudfront.net/img/business_architecture.png
 body:
 - template: content-block
   headline: Key Challenges
@@ -75,7 +75,7 @@ body:
   text: |
     > We chose Tilix not just for expertise in electricity supply but also for visionary leadership in a rapidly changing market. - **David Bowen, CEO Logicor Group**
 
-    ![Clear Heating - Logicor](http://www.tilix.uk.s3.amazonaws.com/img/heating-reimagined.png){:.img.textwrap}
+    ![Clear Heating - Logicor](https://dt8edv2hlaomh.cloudfront.net/img/heating-reimagined.png){:.img.textwrap}
 
     Tilix consultants are applying their commercial and technical expertise around buying, selling, moving, metering and managing energy in setting up new electricity supplier <a href="https://www.logicor-energy.co.uk">Logicor Energy
 

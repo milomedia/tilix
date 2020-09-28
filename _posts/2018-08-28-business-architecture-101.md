@@ -4,7 +4,7 @@ date: 2018-08-28
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/Biz-Arch/biz-arch-thumbnail.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/Biz-Arch/biz-arch-thumbnail.png
 title: "Business Architecture 101"
 teaser: "This post outlines what business architecture means to Tilix Smart Energy. It provides a broad perspective around the role and function of Business Architecture, laying the foundation for further conversation."
 ---
@@ -12,7 +12,7 @@ A Business Architecture is a structured model of the fundamental business strate
 
 This post outlines what business architecture means to Tilix Smart Energy. It provides a broad perspective around the role and function of Business Architecture, laying the foundation for further conversation.
 
-![4+1 View](http://www.tilix.uk.s3.amazonaws.com/img/business_architecture.png)
+![4+1 View](https://dt8edv2hlaomh.cloudfront.net/img/business_architecture.png)
 
 ## Guiding Definitions
 The key business architecture views address several aspects of the enterprise:
@@ -75,7 +75,7 @@ A third value wave (**optimise**) comes into play when Business Architecture sta
 ## Conclusion
 Business Architecture is a critical viewpoint in business, IT, project portfolio and risk governance. It is the bridge between enterprise strategy on one side and business capability on the other.
 
-![Arch U Curve](http://www.tilix.uk.s3.amazonaws.com/img/blogs/arch-U-curve.jpg)
+![Arch U Curve](https://dt8edv2hlaomh.cloudfront.net/img/blogs/arch-U-curve.jpg)
 
 [Opentext]: https://blogs.opentext.com/business-architecture-101-its-results-that-count/
 [BPM Inst]: http://www.bpminstitute.org/training/courses/ba-101

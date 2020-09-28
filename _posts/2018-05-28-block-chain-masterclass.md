@@ -4,7 +4,7 @@ date: 2018-06-01
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/novAzure-tilix.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/novAzure-tilix.png
 title: "Masterclass: Blockchain, Smart Grid, Energy 4.0 …"
 teaser: "On 19 July 2018, NovAzure and Tilix are hosting an engaging energy industry event from 10:30 to 15:00 at IdeaLondon."
 ---

@@ -4,7 +4,7 @@ date: 2019-01-07
 Author: Neil Williams
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/blockchain/gordano.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/blockchain/gordano.png
 title: Low Carbon Gordano asks, Tilix answers
 teaser: Tilix carried out a short due-diligence exercise to help inform LCG’s decision
   making on an energy sharing scheme.

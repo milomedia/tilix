@@ -4,7 +4,7 @@ date: 2019-02-28 00:00:00 +0000
 Author: Neil Williams
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/uniti-2019.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/uniti/uniti-2019.jpg
 title: Tilix to Manage Uniti R&D
 teaser: Swedish electric car OEM hires Tilix to deliver a range of tactical and strategic
   services.

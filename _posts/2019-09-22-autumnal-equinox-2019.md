@@ -4,7 +4,7 @@ text: Do you worship Solar? Tilix Smart Energy certainly does! This short blog p
   celebrates the Autumnal Equinox and shares some curated trivia that you can share
   with your friends and family.
 link: ''
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/Autumnal Equinox 2019 - final.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/Autumnal Equinox 2019 - final.png
 layout: post
 Author: John Williams
 date: 2019-09-22 23:00:00 +0000
@@ -25,7 +25,7 @@ During the equinox, the sun crosses what we call the “celestial equator”. Im
 
 After the Autumnal Equinox the days shorten and nights lengthen. In astrology this is the date on which the sun enters the sign of Libra, the scales, reflecting appropriately the balanced day and night of the equinox.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Autum Trees - Pixabay.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/Autum Trees - Pixabay.jpg)
 
 ## Wind Power
 

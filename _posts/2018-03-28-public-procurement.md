@@ -4,7 +4,7 @@ date: 2018-03-28
 Author: Neil Williams
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/13DDFEFB-4833-44B0-8016-E9E0F736BADF.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/13DDFEFB-4833-44B0-8016-E9E0F736BADF.jpeg
 title: Successful Bids & Tenders
 teaser: An important goal for Tilix in 2018 is to be systematic and successful in
   responding to contract notices posted in various e-tendering portals.

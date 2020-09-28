@@ -3,7 +3,7 @@ layout: post
 title: Innovation Assists
 date: 2020-05-14 22:00:00 +0000
 Author: Michael Maynard
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/assist-ooda.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/assist-ooda.png
 teaser: Tilix offers up to 12 hours of free advice with no strings attached to help
   enterprises develop and adopt sustainable products and processes.
 
@@ -28,7 +28,7 @@ The goal is to facilitate greater innovation, research and development leading t
 
 An **Assist** takes 3-6 weeks and passes through several stages. The initial goal is to **observe**. A _Diagnostic Assessment_ looks at the current strategic and tactical state in order to **orientate**. _Business Architecture Advice_ and a _Recommendations Report_ provide options to **decide** on. Follow-up planning support frames how to **act** inside the tornado of change.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/assist-ooda.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/assist-ooda.png)
 
 # Observe
 
@@ -52,7 +52,7 @@ The most important stage of an Assist is orientation as it shapes our observatio
 
 In this stage, Tilix uses [five perspectives (inspired by Strategyzer)](https://www.strategyzer.com/blog/5-tools-for-new-business-success) to help navigate towards success. This typically means going from a business idea (new market, improving a business unit, new technology, etc.) to an ROI without spending too much time and money. This requires a value proposition with unique selling points, which is embedded in a business model that can scale and generate profits. The right timing and environment are key, with an aligned team for sound execution.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/success.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/success.jpg)
 
 # Decide
 

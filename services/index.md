@@ -21,7 +21,7 @@ hero-text:
     Tilix have **augmented staff** at [Telefonica IoT](https://iot.telefonica.com/) (as the comms hub Technical Lead for [SMIP]()) and at National Grid (as industrial IoT & Analytics architect for the [Deeside Project](http://deeside.nationalgrid.co.uk/)).
 
     Where practical, Tilix packages its knowledge and experience into **playbooks**: repeatable, preconfigured solution kits tailored to market requirements which leverage pre-established processes and technology. Deliverables are customised as opposed to custom.
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/Dharma_Wheel.png
+hero_image: https://dt8edv2hlaomh.cloudfront.net/forestry/Dharma_Wheel.png
 body:
 - template: content-block
   headline: Digital Engineering

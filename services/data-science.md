@@ -22,7 +22,7 @@ hero-text:
 
     The holistic mix of technical and domain expertise that Tilix brings to the table is critical for putting data science to work within the challenging markets in which our clients operate.
 
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/data-science-cartoon.png
+hero_image: https://dt8edv2hlaomh.cloudfront.net/forestry/data-science-cartoon.png
 body:
 - template: content-block
   headline: Challenges & Benefits
@@ -51,7 +51,7 @@ body:
   text: |
     One of the most effective ways of demonstrating the value of Tilix data science expertise is to see it in action.
 
-    ![Data science montage](http://www.tilix.uk.s3.amazonaws.com/forestry/data-science-montage.png)
+    ![Data science montage](https://dt8edv2hlaomh.cloudfront.net/forestry/data-science-montage.png)
 
     - **Sustainable Direction**: Statistical analysis and interactive visualisation of meter data as a critical component of energy audits and environmental engineering.
     - **Logicor Energy**: Analysing large volumes of data to gain insights about customer behaviour and identify opportunities to improve operations.
@@ -63,7 +63,7 @@ body:
   text: |
     Don’t hesitate to contact us if you want to discuss Tilix's Innovation Management value proposition in more detail. We will be delighted to share details of our methods and experience with you.
 
-    ![Digital Montage](http://www.tilix.uk.s3.amazonaws.com/forestry/digital-montage-2.png)
+    ![Digital Montage](https://dt8edv2hlaomh.cloudfront.net/forestry/digital-montage-2.png)
 
     You will soon find a selection of posts in the Tilix Blog that share our data science ideas, opinions and experiences. For example:
 

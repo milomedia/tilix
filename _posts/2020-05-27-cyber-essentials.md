@@ -3,7 +3,7 @@ layout: post
 title: Cyber Essentials
 date: 2020-05-27 22:00:00 +0000
 Author: Michael Maynard
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/cyber-essentials.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/cyber-essentials.png
 teaser: Tilix offers support to startups and SMEs that would like to obtain Cyber
   Essentials.
 

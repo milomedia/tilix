@@ -20,7 +20,7 @@ hero-text:
     | - Smart DCC | | - Maxen Power  |
     | - Ovo Energy | | - Our Power |
     | - Good Energy | &nbsp;&nbsp; | - Farringdon Energy |
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/licensee-consulting.svg
+hero_image: https://dt8edv2hlaomh.cloudfront.net/forestry/licensee-consulting.svg
 body:
 - template: content-block
   headline: First steps

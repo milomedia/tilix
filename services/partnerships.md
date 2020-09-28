@@ -20,7 +20,7 @@ hero-text:
     We facilitate efficient and effective partnerships by empowering and connecting clients, associates, manufacturers and services providers.
   link: ''
   image: ''
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/partnering.png
+hero_image: https://dt8edv2hlaomh.cloudfront.net/forestry/partnering.png
 body:
 - template: content-block
   headline: Key Challenges

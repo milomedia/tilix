@@ -3,12 +3,12 @@ layout: post
 title: 'Event Journal: eCarExpo'
 date: 2019-11-28
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/eCarExpo.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/eCarExpo.png
 teaser: A visit to the Nordic region's leading e-mobility trade show confirms that
   market maturity is not exclusive to Norway.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/eCarExpo.png)
+![](https://dt8edv2hlaomh.cloudfront.net/img/blogs/eCarExpo.png)
 
 eCarExpo is the Nordic region's leading e-mobility trade show – a flagship event for the industry and consumers where you can test drive many of the electric vans, cars, bikes and scooters on display directly from the exhibition floor.
 

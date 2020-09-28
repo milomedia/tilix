@@ -4,7 +4,7 @@ date: 2018-07-28
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/keynotes-panels.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/keynotes-panels.png
 title: "Keynotes & Panels"
 teaser: "Tilix experts speak regularly at energy industry events. This post illustrates why we are popular with event organisers and delegates alike."
 permalink: /keynotes-panels

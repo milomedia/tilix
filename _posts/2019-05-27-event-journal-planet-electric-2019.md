@@ -3,7 +3,7 @@ layout: post
 title: 'Event Journal: Nordic Cleantech Open 2019'
 date: 2019-05-27T22:00:00.000+00:00
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/01447B5A-3364-4A5E-8CE1-9F40E0D140B8.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/01447B5A-3364-4A5E-8CE1-9F40E0D140B8.jpeg
 teaser: Stockholm was host to an excellent showcase of cleantech innovation.
 
 ---
@@ -16,7 +16,7 @@ After an intense and very tight final in the spotlight, the final ranking of the
 3. [Einride](https://www.einride.tech), with its transportation as a service solution based on all-electric, autonomous vehicles, or ”T-pods”.
 
 [Christina Lundbäck](https://www.linkedin.com/in/christina-lundb%C3%A4ck-633010127/), founder & CMO, received the award from Ibrahim Baylan, the Swedish Minister for Business, Industry and Innovation.  
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/nordic-cleantech-winner.jpg)  
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/nordic-cleantech-winner.jpg)  
 This year Food & Agritech dominated the top 25, with eight solutions in this field. Other areas such as new materials, mobility, waste, energy and water were also present on this year’s list.
 
 > The solutions never cease to amaze us, and we are excited to see them play their part in the sustainable transition that our societies are currently going through.

@@ -3,12 +3,12 @@ layout: post
 title: ENIAN delivers digital innovation to renewable energy professionals
 date: 2019-08-03
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/enian 600x168.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/enian 600x168.jpg
 teaser: ENIAN has partnered with Tilix and Edinburgh University to add compelling
   features to its software as a service platform.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/enian 600x168.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/enian 600x168.jpg)
 
 * **Client**: [ENIAN](https://enian.co)
 * **Sector**: Renewable generation

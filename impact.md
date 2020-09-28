@@ -22,7 +22,7 @@ hero-text:
     * [Homebox](https://homebox.co.uk/): As lead investor, Tilix is helping this smart home start-up be innovative and commercially savvy.
   link: ''
   image: ''
-hero_image: http://www.tilix.uk.s3.amazonaws.com/forestry/impact-investing.png
+hero_image: https://dt8edv2hlaomh.cloudfront.net/forestry/impact-investing.png
 body:
 - template: content-block
   headline: Angel investment

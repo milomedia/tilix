@@ -4,7 +4,7 @@ date: 2018-06-24
 Author: Mark Bunting
 Primary SEO:
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/blockchain/blockchain-3326155_640.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/blockchain/blockchain-3326155_640.png
 title: "Investment Landscape: Blockchain & Energy"
 teaser: "In this guest post Mark Bunting reflects on the nexus between blockchain and energy from an investor viewpoint."
 ---

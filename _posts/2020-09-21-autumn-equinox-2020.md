@@ -3,12 +3,12 @@ layout: post
 title: Autumnal Equinox 2020
 date: 2020-09-21 15:00:00 +0000
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/AS solarized Teaser 600.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/AS solarized Teaser 600.png
 teaser: The Autumnal Equinox 2020 in the Northern Hemisphere will be at 14:30 (UK
   time) on Tuesday, 22 September.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/AS solarized 1240.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/AS solarized 1240.png)
 
 In 2020, the Autumnal Equinox in the Northern Hemisphere takes place at 14:30 (UK time) on Tuesday, 22 September.
 
@@ -28,7 +28,7 @@ Many communications satellites orbit around the Equator and the solar radiation 
 
 ## Three fun ways to celebrate the Autumnal Equinox
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/pumpkinpie_bbc1240.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/pumpkinpie_bbc1240.jpg)
 
 _photo credit:_ bbc.co.uk
 

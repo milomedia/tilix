@@ -3,11 +3,11 @@ layout: post
 title: Metering expertise for new energy supply business
 date: 2019-08-16
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/Energy_System 275x600.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/Energy_System 275x600.png
 teaser: tilix.energy has helped a new supplier enter the GB energy market.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Energy_System 275x600.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/Energy_System 275x600.png)
 
 * **Client**: New Entrant
 * **Sector**: GB Electricity & Gas Supply

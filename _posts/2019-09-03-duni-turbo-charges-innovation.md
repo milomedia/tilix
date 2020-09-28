@@ -3,7 +3,7 @@ layout: post
 title: Duni turbocharges innovation
 date: 2019-09-03T22:00:00.000+00:00
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/duni.svg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/duni.svg
 teaser: Boosting innovation in the Swedish "GoodFoodMood Company" using tools from
   Silicon Valley. Delivering insight on the next waves of change in energy and the
   environment.
@@ -18,7 +18,7 @@ teaser: Boosting innovation in the Swedish "GoodFoodMood Company" using tools fr
 
 Duni AB is a multinational paper products company and a major user of energy. The firm is a leading supplier of attractive and convenient products for table setting and take-away.
 
-![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/duni/duni-ecoecho-570x420.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/img/blogs/duni/duni-ecoecho-570x420.jpg)
 
 The Duni brand name is sold in more than 40 markets and is the market leader in Central and Northern Europe. Duni has around 2,300 employees in 23 countries, with headquarters in Malmö and production units in Sweden, Germany, Poland, Thailand and New Zealand. Duni is listed on NASDAQ Stockholm under the ticker name "DUNI".
 
@@ -51,7 +51,7 @@ Specialist advice was delivered in two areas to directly address the challenges 
 
 Initially, Tilix provided outline business cases for deploying environmental innovations in energy storage, carbon trading and water management at Duni's paper mill in Skåpafors, Sweden.
 
-![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/duni/Tissue_Nya-panncentralen_415w.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/img/blogs/duni/Tissue_Nya-panncentralen_415w.jpg)
 
 Finally, to increase synergies between Duni’s two innovation roadmaps Tilix introduced a portfolio management framework that improves optics across all dimensions of Duni’s incubation, transformation, performance and productivity zones.
 
@@ -59,7 +59,7 @@ Finally, to increase synergies between Duni’s two innovation roadmaps Tilix in
 
 In helping to sustain success at Duni, Tilix has introduced novel ideas in both evolutionary and disruptive innovation contexts. Tilix's advice has been a catalyst for turning strategy into action.
 
-![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/duni/magnuscarlsson_570x420-2.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/img/blogs/duni/magnuscarlsson_570x420-2.jpg)
 
 > “Duni uses both boutique and internationally renowned consulting firms. The quality of the work from Tilix was of the highest standard and delivered superb value for money.” **Magnus Carlsson, Director of Corporate Development**
 

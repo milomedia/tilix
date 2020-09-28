@@ -4,7 +4,7 @@ date: 2019-01-24 00:00:00 +0000
 Author: Neil Williams
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/ecoist/tian.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/ecoist/tian.jpg
 title: Ecoist Chooses Tilix
 teaser: Swedish electric car OEM hires Tilix for innovation and marketing support.
 
@@ -49,7 +49,7 @@ Sustaining innovation will be concerned with extending and improving the job of 
 
 Cutting across the two fronts of disruptive and sustaining innovation, Ecoist will separate its revenue generating activities from its enabling investments. As the following figure shows, these divisions result in four zones of management activity. Each area demands a different style of leadership to achieve success.
 
-![Zone to Win](http://www.tilix.uk.s3.amazonaws.com/img/zone-to-win.png)
+![Zone to Win](https://dt8edv2hlaomh.cloudfront.net/img/zone-to-win.png)
 
 ### Process
 

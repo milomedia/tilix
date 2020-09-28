@@ -3,7 +3,7 @@ layout: post
 title: Vernal Equinox 2019
 date: 2019-03-19 23:00:00 +0000
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/sunrise.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/sunrise.png
 teaser: Do you worship Solar? Tilix Smart Energy certainly does! This short blog post
   celebrates the Vernal Equinox and discusses some reasons to get excited at this
   time of year.
@@ -11,7 +11,7 @@ teaser: Do you worship Solar? Tilix Smart Energy certainly does! This short blog
 ---
 **Do you worship Solar?** Tilix Smart Energy certainly does! This short blog post celebrates the Vernal Equinox and discusses some of the reasons to get excited about this time of year.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/sunrise.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/sunrise.png)
 
 ## Winter is past and spring is here at last
 
@@ -25,7 +25,7 @@ When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemis
 
 For the solar industry in the Northern Hemisphere, the Spring Equinox marks the beginning of the season of increased yield. The figure shows a month-by-month cumulative production for a typical solar PV installation.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/solar-monthly.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/solar-monthly.png)
 
 The amount of irradiation is key. Ambient temperature is not a major factor. Therefore solar PV productivity is not affected by the lag between the length of day and the average temperatures in mid and high latitude locations where the warmest part of the summer lags the Summer Solstice. This lag is due to the time required for ground and water to heat up. That is why August is typically warmer than June even though the hours of daylight are considerably less.
 

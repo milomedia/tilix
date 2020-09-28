@@ -5,7 +5,7 @@ date: 2017-12-14
 Author: Holly Suttle
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/9552E087-7336-4FB7-B440-C0EE94DB6E62.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/9552E087-7336-4FB7-B440-C0EE94DB6E62.jpeg
 teaser: Part 3 of a 3 post series highlighting how Uniti are moving from concept to
   the roads in 4 years. At the time of writing, Uniti have just had their first annual
   product launch (7 Dec 2017).
@@ -16,7 +16,7 @@ text: Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc 
   eu, blandit sed, blandit a, eros.
 
 ---
-![Lewis Horne, Uniti CEO at vehicle unveiling event](http://www.tilix.uk.s3.amazonaws.com/img/blogs/uniti/lewis-uniti-launch.jpg)
+![Lewis Horne, Uniti CEO at vehicle unveiling event](https://dt8edv2hlaomh.cloudfront.net/img/blogs/uniti/lewis-uniti-launch.jpg)
 
 **What was it that initially pushed you to create Uniti?**
 

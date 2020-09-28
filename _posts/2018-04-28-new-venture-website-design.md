@@ -4,7 +4,7 @@ date: 2018-04-28
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/go-daddy-acme.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/go-daddy-acme.png
 title: "Websites for Smart Energy Entrepreneurs"
 teaser: "This post shares common sense advice from the blogosphere and some nuggets of digital engineering nous from Tilix."
 ---
@@ -79,4 +79,4 @@ Last, and not least, each product release shows forward momentum to external sta
 [5]: https://www.forbes.com/sites/allbusiness/2013/12/10/key-steps-to-building-your-small-business-website/)
 [6]: https://builtwith.com
 [7]: https://www.linkedin.com/in/catherinecosta
-[8]: http://www.tilix.uk.s3.amazonaws.com/img/blogs/HS_GrowthStack.png
+[8]: https://dt8edv2hlaomh.cloudfront.net/img/blogs/HS_GrowthStack.png

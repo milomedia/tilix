@@ -3,12 +3,12 @@ layout: post
 title: Tilix partners with Microsoft
 date: 2020-04-09 22:00:00 +0000
 Author: Michael Maynard
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/A4A1BD78-A585-4C56-8D66-11A79C24263E.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/A4A1BD78-A585-4C56-8D66-11A79C24263E.jpeg
 teaser: Tilix joins the Microsoft Partner Network and looks forward to leveraging
   membership to deliver increasing value to our clients.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/microsoft-logo.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/microsoft-logo.png)
 
 Tilix regularly helps its clients leverage Microsoft services, such as Github, Azure, Office 365 and LinkedIn, to assist them in achieving their goals.
 

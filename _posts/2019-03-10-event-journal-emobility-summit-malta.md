@@ -3,14 +3,14 @@ layout: post
 title: 'Event Journal: EMobility Summit 2019, Malta'
 date: 2019-03-10 23:00:00 +0000
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/MaltaPannel.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/MaltaPannel.jpeg
 teaser: Tilix Smart Energy are proud to have supported Malta’s inaugural E-Mobility
   Summit.
 
 ---
 Tilix Smart Energy is proud to have supported Malta’s inaugural E-Mobility Summit. Malta’s potential to act as a proving ground for ongoing innovation in mobility was a major theme of the summit. There was a good mix of OEMs, mobility service providers, consultants and policymakers in attendance.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Neil Malta.jpeg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/Neil Malta.jpeg)
 
 The opening keynotes were delivered by Malta’s Prime Minister Joseph Muscat.
 

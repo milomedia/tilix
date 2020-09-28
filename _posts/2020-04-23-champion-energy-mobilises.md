@@ -3,7 +3,7 @@ layout: post
 title: Tilix facilitates Champion Energy's entry into GB energy market
 date: 2020-04-23 22:00:00 +0000
 Author: Michael Maynard
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/champion-greyscale.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/champion-greyscale.png
 teaser: Tilix is proud to have delivered a robust and scalable enterprise architecture
   for Champion Energy.
 
@@ -24,7 +24,7 @@ Tilix has helped Champion Energy mobilise into the GB electricity supply market.
 
 A key ingredient in its business model is to work closely with trusted partners in the UK energy industry including [Tilix](https://www.tilix.uk/), [Utiliteam](http://www.utiliteam.co.uk/) and [Morrison Data Services](https://www.morrisonds.com/).
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/champion-greyscale.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/champion-greyscale.png)
 
 ## The challenge
 

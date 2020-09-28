@@ -4,7 +4,7 @@ date: 2018-01-29
 Author: Holly Suttle
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/9A865F95-6D71-463C-913D-123F2C4B42D6.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/9A865F95-6D71-463C-913D-123F2C4B42D6.jpeg
 title: Enian's Plans for 2018
 teaser: Interview with Founder and CEO of Enian, Phillip Bruner. Enian operate at
   the crossroads of fintech & energy. Their platform empowers all stakeholders in

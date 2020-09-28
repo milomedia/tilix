@@ -3,11 +3,11 @@ layout: post
 title: Summer Solstice 2020
 date: 2020-06-18T22:00:00.000+00:00
 Author: 'John Williams '
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/F308F113-4186-41B8-8D85-925108D15E7B.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/F308F113-4186-41B8-8D85-925108D15E7B.jpeg
 teaser: Do you worship solar? Tilix certainly does! This short blog...
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/F308F113-4186-41B8-8D85-925108D15E7B.jpeg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/F308F113-4186-41B8-8D85-925108D15E7B.jpeg)
 
 Credit: [Photo from Unsplash](https://unsplash.com/photos/Y9utglm0VpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 

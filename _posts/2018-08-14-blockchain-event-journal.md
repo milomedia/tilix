@@ -5,7 +5,7 @@ Author: Christopher Gruen
 canonical: https://novazure.com/event/energy-meets-digital-innovation-masterclass/
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/ideaLondon.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/ideaLondon.jpg
 title: "Event Journal: Blockchain & Smart Grid"
 teaser: "This is a journal post from the engaging energy industry event, organised by Tilix and NovAzure, held at IdeaLondon on 19 July 2018."
 ---
@@ -14,7 +14,7 @@ This is a remix of an article which first appeared on [Novazure.com](https://nov
 
 Tilix Smart Energy & NovAzure Consulting were delighted to gather many industry players at our event on Smart Energy and Digital Innovation with a focus on demystifying blockchain.
 
-![Workshop Room @ IdeaLondon](http://www.tilix.uk.s3.amazonaws.com/img/blogs/blockchain/IdeaLondonWorkshop.jpg)
+![Workshop Room @ IdeaLondon](https://dt8edv2hlaomh.cloudfront.net/img/blogs/blockchain/IdeaLondonWorkshop.jpg)
 
 ## Innovation was in the Air
 Holding the event at IdeaLondon – a magic place where innovation happens – gave the right atmosphere throughout the event for showcase startups, investors, service providers and energy incumbents from the oil & gas as well as electricity sector to share their input and thoughts in several panel discussions and during plenty of networking opportunities throughout the day.
@@ -32,7 +32,7 @@ As well as technology, the impact of inventing, deploying and optimising innovat
 > Useful networking and a chance to speak directly to those who are practically engaged in developing smart energy solutions. Getting their perspective on developments in the energy market was invaluable. **Senior Civil Servant**
 
 ## Conclusions
-![Networking Space @ IdeaLondon](http://www.tilix.uk.s3.amazonaws.com/img/blogs/blockchain/IdeaLondonNetwork.jpg)
+![Networking Space @ IdeaLondon](https://dt8edv2hlaomh.cloudfront.net/img/blogs/blockchain/IdeaLondonNetwork.jpg)
 We are delighted that our host IdeaLondon provided such excellent facilities. The support in event preparation and on the day from our sponsors was vitally important. They were EDF Energy Blue Labs, UCL, Cisco, BakerBotts, Electron, Mando, DDC, Generis, EnergyPR, Impact4all and Landis+Gyr.
 
 Last but not least we are grateful to all the delegates from Shell, National Grid, Ofgem, AMT Sybex, Gemserv et al who made the day fun and interactive.

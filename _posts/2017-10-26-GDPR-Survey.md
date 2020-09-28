@@ -4,7 +4,7 @@ date: 2017-10-26
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/GDPR-Survey.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/GDPR-Survey.jpg
 teaser: "Tilix polled a number of energy industry professionals on the upcoming General Data Protection Regulation (GDPR) and how prepared their energy businesses are for this transition. What was revealed from our survey took us by surprise. Here are the results."
 title: "Tilix GDPR Survey"
 ---

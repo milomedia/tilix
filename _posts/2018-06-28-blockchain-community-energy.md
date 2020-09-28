@@ -4,7 +4,7 @@ date: 2018-06-28
 Author: Chris Stuart-Bennett
 Primary SEO:
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/blockchain/gordano.png
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/blockchain/gordano.png
 title: "Blockchain and the local energy revolution"
 teaser: "In this guest post Chris Stuart-Bennett reflects on blockchain and its potential to make a positive impact at Low Carbon Gordano and the wider local energy community."
 ---

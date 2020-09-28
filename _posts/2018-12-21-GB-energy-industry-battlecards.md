@@ -4,7 +4,7 @@ date: 2018-12-21
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/battlecards/battlecard.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/battlecards/battlecard.jpg
 title: "GB Energy Industry Battlecards"
 teaser: "Tilix contrasts and compares the software and services of a number of technology vendors in the GB energy industry."
 ---
@@ -62,7 +62,7 @@ The highlighted benefit should be tailored to the customer segment in question. 
 ### Additional Information
 Information about how the sales reps can get more market intelligence are provided here. This could range from links to an intranet to contact details for a systems integrator partner.
 
-![Battlecard](http://www.tilix.uk.s3.amazonaws.com/img/blogs/battlecards/battlecard.png)
+![Battlecard](https://dt8edv2hlaomh.cloudfront.net/img/blogs/battlecards/battlecard.png)
 
 ## Conclusions
 Well prepared battlecards can ultimately play an important role in empowering a business development team, better preparing them to succeed. These cards not only help to increase sales. They are also an additional training mechanism which help in on-boarding new employees.

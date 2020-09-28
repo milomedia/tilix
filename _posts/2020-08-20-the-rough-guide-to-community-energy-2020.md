@@ -3,7 +3,7 @@ layout: post
 title: The Rough Guide to Community Energy 2020
 date: 2020-08-19 23:00:00 +0000
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/annie spratt-unsplash.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/annie spratt-unsplash.jpg
 teaser: Community Energy encompasses community-led projects in renewable energy, energy
   demand reduction and energy supply.
 headline: Amo amas amat
@@ -14,7 +14,7 @@ text: Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc 
 link: ''
 
 ---
-![green fields with black and white cows and a lardge wind turbine](http://www.tilix.uk.s3.amazonaws.com/forestry/annie-spratt-Iarge-unsplash.jpg "community energy large wind turbine")
+![green fields with black and white cows and a lardge wind turbine](https://dt8edv2hlaomh.cloudfront.net/forestry/annie-spratt-Iarge-unsplash.jpg "community energy large wind turbine")
 
 ###### _image credit:_ Annie Spratt, Unsplash 
 
@@ -30,7 +30,7 @@ The term "Community Energy" covers a range of collective actions, from saving or
 
 Community Energy is an organisational body comprising community members involved in any combination of the following: energy generation, storage, efficiency or demand reduction. It is largely run by Community Benefit Societies (BenComs), cooperatives or Community Interest Companies (CICs). (1)
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/karsten-wurth-unsplash.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/karsten-wurth-unsplash.jpg)
 
 ###### _image credit_: Karsten Wurth, Unsplash
 

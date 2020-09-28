@@ -3,12 +3,12 @@ layout: post
 title: Frugal Energy Success Story
 date: 2019-10-27T23:00:00.000+00:00
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/C8276236-8A7E-413B-BBD1-44959CF11074.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/C8276236-8A7E-413B-BBD1-44959CF11074.jpeg
 teaser: Tilix has helped a frugal innovator enter the GB electricity supply market.
 
 ---
   
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/C8276236-8A7E-413B-BBD1-44959CF11074.jpeg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/C8276236-8A7E-413B-BBD1-44959CF11074.jpeg)
 
 _image credit: Pixabay_ 
 

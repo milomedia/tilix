@@ -3,7 +3,7 @@ layout: post
 title: 'Event Journal: Future of Mobility'
 date: 2019-06-06T22:00:00.000+00:00
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/FutureOfMobility-Lund.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/FutureOfMobility-Lund.jpg
 teaser: Lund was host to one day conference which considered mobility from local,
   regional and global perspectives.
 

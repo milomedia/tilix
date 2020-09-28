@@ -4,7 +4,7 @@ date: 2018-09-28
 Author: Neil Williams  
 Primary SEO:  
 Secondary SEO:
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/evec/car.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/evec/car.jpg
 title: "EVEC Chooses Tilix"
 teaser: "Swedish electric car engineer partners with Tilix for new digital business systems."
 ---
@@ -68,8 +68,8 @@ By the end of Q1 2019, EVEC will have a mobile optimised website that is easy to
 
 [rich snippets]: https://en.wikipedia.org/wiki/Search_engine_results_page#Rich_snippets
 
-[car photo]: http://www.tilix.uk.s3.amazonaws.com/img/blogs/evec/car.jpg
+[car photo]: https://dt8edv2hlaomh.cloudfront.net/img/blogs/evec/car.jpg
 
-[hubspot]: http://www.tilix.uk.s3.amazonaws.com/img/blogs/evec/business-challenge-sales-walkthrough.jpg
+[hubspot]: https://dt8edv2hlaomh.cloudfront.net/img/blogs/evec/business-challenge-sales-walkthrough.jpg
 
 [Forbes SME Digital Marketing]: https://www.forbes.com/sites/forbesagencycouncil/2017/03/24/digital-marketing-strategies-small-businesses-should-adopt/#20943c913dfb

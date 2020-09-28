@@ -4,7 +4,7 @@ date: 2019-10-04
 Author: Neil Williams
 Primary SEO: 
 Secondary SEO: 
-image: http://www.tilix.uk.s3.amazonaws.com/img/blogs/battlecards/battlecard.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/img/blogs/battlecards/battlecard.jpg
 title: GB Energy Shell Co Battlecard
 teaser: Tilix contrasts and compares the shell company options available to new entrants
   into the GB energy industry.
@@ -12,7 +12,7 @@ teaser: Tilix contrasts and compares the shell company options available to new 
 ---
 The **tilix.energy Shell Co Battlecard** details offers from a number of service providers and is summarised in this blog post.
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/ShellCo-Battlecard.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/ShellCo-Battlecard.png)
 
 ### At a Glance
 

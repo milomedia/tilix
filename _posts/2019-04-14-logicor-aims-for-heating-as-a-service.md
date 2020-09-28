@@ -3,7 +3,7 @@ layout: post
 title: Logicor aims for Heating as a Service
 date: 2019-04-14T22:00:00.000+00:00
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/D5BC18DC-10E2-425B-9E33-57027F8DF065.jpeg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/D5BC18DC-10E2-425B-9E33-57027F8DF065.jpeg
 teaser: Smart heating innovation supported by Tilix expertise in administering a licensed
   electricity supply business
 
@@ -18,7 +18,7 @@ teaser: Smart heating innovation supported by Tilix expertise in administering a
   * Digital engineering
   * Licensee consulting
 
-![](http://www.tilix.uk.s3.amazonaws.com/img/blogs/logicor/BEDROOM-005-RT-1024x683.jpg)Logicor has developed an all-electric infrared heating system that delivers comfort more efficiently than conventional radiators: their Clear Heating System (CHS) uses infrared panels to directly warm the objects contained within a room. With this radiant heating you feel the warmth much quicker and it minimises heat lost from opened doors or windows. The CHS requires no plumbing, boiler or complex wiring and it can be easily installed.
+![](https://dt8edv2hlaomh.cloudfront.net/img/blogs/logicor/BEDROOM-005-RT-1024x683.jpg)Logicor has developed an all-electric infrared heating system that delivers comfort more efficiently than conventional radiators: their Clear Heating System (CHS) uses infrared panels to directly warm the objects contained within a room. With this radiant heating you feel the warmth much quicker and it minimises heat lost from opened doors or windows. The CHS requires no plumbing, boiler or complex wiring and it can be easily installed.
 
 The CHS uses intelligent controls to use only the amount of energy necessary to keep spaces at the temperatures specified by the user – ensuring maximum comfort and efficiency with minimal effort.
 

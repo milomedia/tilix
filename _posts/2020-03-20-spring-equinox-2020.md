@@ -3,12 +3,12 @@ layout: post
 title: Spring Equinox 2020
 date: 2020-03-20 00:00:00 +0000
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/terra-sole.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/terra-sole.jpg
 teaser: Today marks the start of spring in the Northern Hemisphere (vernal equinox)
   – the earliest that the equinox has occurred in 124 years.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/terra-sole.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/terra-sole.jpg)
 
 Photo: [https://www.goodfreephotos.com/](https://www.goodfreephotos.com/ "https://www.goodfreephotos.com/")
 
@@ -20,7 +20,7 @@ According to the astronomy reference book "[Astronomical Table of the Sun, Moon 
 
 ## Optical Illusion
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/equinox.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/equinox.jpg)
 
 Photo by Shutterstock
 

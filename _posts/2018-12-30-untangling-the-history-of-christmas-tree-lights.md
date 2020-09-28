@@ -3,7 +3,7 @@ layout: post
 title: Untangling the History of Christmas Tree Lights
 date: 2018-12-30 23:00:00 +0000
 Author: Kathryn Porter
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/Christmas-lights.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/Christmas-lights.jpg
 teaser: The use of Christmas tree lights took off after the second world war thanks
   to the extension of electrification but how and where did this Christmas light tradition
   begin?
@@ -11,7 +11,7 @@ teaser: The use of Christmas tree lights took off after the second world war tha
 ---
 Tilix are proud to repost articles (with permission) from our associates.  This is a remix of [All spruced up – the history of Christmas lights](http://watt-logic.com/2018/12/31/christmas-tree-lights/) from [Kathryn Porter](https://www.linkedin.com/in/kathrynporter26/) of [Watt Logic](http://watt-logic.com).
 
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/Christmas-lights.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/Christmas-lights.jpg)
 
 The use of Christmas tree lights took off after the second world war thanks to the extension of electrification but how and where did this Christmas light tradition begin?
 

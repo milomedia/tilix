@@ -3,13 +3,13 @@ layout: post
 title: Ofgem clamps down on shell companies
 date: 2019-11-15
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/ofgem-signing-licence-outofFocus
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/ofgem-signing-licence-outofFocus
   600x263.png
 teaser: On 15 November 2019 Ofgem issued revocation notices for licensed companies
   owned by “off-the-shelf” providers
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/ofgem-signing-licence-outofFocus 600x263.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/ofgem-signing-licence-outofFocus 600x263.png)
 
 Typically the first key decision for a new entrant is to decide whether or not to purchase a shell company. Managed service providers typically apply to Ofgem for a licence on behalf of a shell company, taking the entity through the initial market entry testing requirements under the industry codes, and then sell this company on to expedite entry for a new supplier. Ofgem guidance regarding shell companies is not explicit. Some useful points are embodied in the following publications:
 

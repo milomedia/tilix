@@ -25,7 +25,7 @@ hero-text:
     | - Good Energy | | - Energy Local |
 
 
-hero_image: http://www.tilix.uk.s3.amazonaws.com/img/digital-engineering.png
+hero_image: https://dt8edv2hlaomh.cloudfront.net/img/digital-engineering.png
 body:
 - template: content-block
   headline: Key Challenges

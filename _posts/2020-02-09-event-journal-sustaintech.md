@@ -3,12 +3,12 @@ layout: post
 title: 'Event Journal: Sustaintech Sweden'
 date: 2020-02-09 11:06:53 +0000
 Author: John Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/SSD-white.png
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/SSD-white.png
 teaser: A visit to Stockholm for a vibrant capital market day focusing on sustainable
   solutions opened up opportunities with several Swedish companies.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/SSD-white.png)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/SSD-white.png)
 
 **Date:** Thursday 7th February 2020
 

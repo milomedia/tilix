@@ -3,13 +3,13 @@ layout: post
 title: The power of collaboration
 date: 2019-02-13T23:00:00.000+00:00
 Author: Neil Williams
-image: http://www.tilix.uk.s3.amazonaws.com/forestry/ideaLondon.jpg
+image: https://dt8edv2hlaomh.cloudfront.net/forestry/ideaLondon.jpg
 teaser: Building on the success of past events, Tilix is now in the process of establishing
   a handful of Collaboration Hubs with the aim of grow enduring communities of interest
   in making energy cheap, clean and cheerful.
 
 ---
-![](http://www.tilix.uk.s3.amazonaws.com/forestry/ideaLondon.jpg)
+![](https://dt8edv2hlaomh.cloudfront.net/forestry/ideaLondon.jpg)
 
 Tilix has been running workshops around the ideas, innovation and technology that will help solve global energy problems and create opportunities to make life better for everyone. In the past 18 months, we have hosted or co-hosted:
 
