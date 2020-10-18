@@ -1,0 +1,22 @@
+---
+layout: default
+fluidity: "boxed"
+---
+<div class="row">
+	<div class="{{ layout.fluidity }} col-md-8">
+		<h1>{{ page.title }}</h1>
+
+		   <p class="meta">{{ page.Author }}</p>
+			 <p class="meta">{{ page.date | date_to_string }}</p>
+
+
+		{% if page.draft %}
+		<div style="margin-bottom: 1rem; padding: 1rem; color: #717171; background-color: #f9f9f9;">
+		  DRAFT - This blog post is <b>under construction</b>.
+		</div>
+		{% endif %}
+		<div class="{{ layout.fluidity }}">
+		  {{ content }}
+		            </div>
+	</div>
+</div>
