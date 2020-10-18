@@ -1,0 +1,54 @@
+---
+label: Index
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: field_group_list
+  name: hero-text
+  label: hero-text
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: headline
+    label: headline
+  - type: text
+    name: text
+    label: text
+  config:
+    labelField: headline
+- type: text
+  name: hero_image
+  label: hero_image
+- type: field_group_list
+  name: body
+  label: body
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: headline
+    label: headline
+  - type: textarea
+    name: text
+    label: text
+  - type: file
+    name: image
+    label: image
+  config:
+    labelField: headline
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: intro
+  label: intro
+pages:
+- index.md

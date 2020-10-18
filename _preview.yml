@@ -1,0 +1,5 @@
+# jekyll build --drafts --config _config.yml,_preview.yml
+destination: "/Users/neil/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes/Tilix www S3/_PREVIEW"
+baseurl: _PREVIEW
+url: http://www.tilix.uk.s3-website-eu-west-1.amazonaws.com
+incremental: true

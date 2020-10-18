@@ -1,0 +1,69 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: Author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- type: file
+  name: image
+  label: Image
+- name: teaser
+  label: Teaser
+  type: textarea
+  hidden: false
+  default: ''
+pages:
+- _posts/2017-11-24-Uniti-Tim-Unerman.md
+- _posts/2017-12-14-Uniti-Lewis-Horne.md
+- _posts/2017-12-28-Web-Dev-101.md
+- _posts/2018-01-29-Enian-Phil-Bruner.md
+- _posts/2018-02-28-Impact4All.md
+- _posts/2018-03-28-public-procurement.md
+- _posts/2018-12-30-untangling-the-history-of-christmas-tree-lights.md
+- _posts/2019-02-13-the-power-of-collaboration.md
+- _posts/2019-03-10-event-journal-emobility-summit-malta.md
+- _posts/2019-03-19-vernal-equinox-2019.md
+- _posts/2019-04-14-logicor-aims-for-heating-as-a-service.md
+- _posts/2019-05-14-gsop.md
+- _posts/2019-05-27-event-journal-planet-electric-2019.md
+- _posts/2019-06-20-summer-solstice-2019.md
+- _posts/2019-07-04-next-day-switching.md
+- _posts/2019-07-14-Senapt-success.md
+- _posts/2019-08-03-ENIAN-success.md
+- _posts/2019-08-16-metering-success.md
+- _posts/2019-10-27-frugal-energy-success-story.md
+- _posts/2019-11-15-ofgem-shell-company-clampdown.md
+- _posts/2019-12-06-digest-Q4.md
+- _posts/2019-12-20-seasonal-greeting-winter-solstice-2019.md
+- _posts/2020-01-26-battlecard-tpi-digital-switching-domestic.md
+- _posts/2020-02-09-event-journal-sustaintech.md
+- _posts/2020-02-25-resilience-energy-chooses-tilix.md
+- _posts/2020-03-05-tilix-gains-achilles-uvdb-accreditation.md
+- _posts/2020-04-09-tilix-partners-with-microsoft.md
+- _posts/2020-04-23-champion-energy-mobilises.md
+- _posts/2020-05-14-innovation-assists.md
+- _posts/2020-05-27-cyber-essentials.md
+- _posts/2020-06-18-summer-solstice-2020.md
+- _posts/2020-07-05-digest-h1-2020.md
+- _posts/2020-08-20-the-rough-guide-to-community-energy-2020.md
+- _posts/2020-09-21-autumn-equinox-2020.md
+- _posts/2020-09-25-sd-wan.md
+- _posts/microsoft-inspire-2020.md
